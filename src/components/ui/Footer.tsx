@@ -64,7 +64,7 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary-400 flex-shrink-0 mt-0.5" />
                 <span className="text-sm">
-                  Kod Mosta u Bresnici<br />
+                  Slobodana Penezića Krcuna<br />
                   Kragujevac, Srbija
                 </span>
               </li>

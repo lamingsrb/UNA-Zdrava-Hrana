@@ -7,7 +7,7 @@ const info = [
   {
     icon: MapPin,
     title: 'Adresa',
-    details: ['Kod Mosta u Bresnici', 'Kragujevac, Srbija']
+    details: ['Slobodana Penezića Krcuna', 'Kragujevac, Srbija']
   },
   {
     icon: Clock,
@@ -17,7 +17,7 @@ const info = [
   {
     icon: Phone,
     title: 'Telefon',
-    details: ['+381 34 123 456', '+381 64 123 4567']
+    details: ['034 387257', '+381 64 121 32 92']
   },
   {
     icon: Mail,
@@ -55,7 +55,7 @@ export default function Location() {
             <div className="relative h-full min-h-[400px] rounded-2xl overflow-hidden shadow-xl">
               {/* Google Maps Iframe */}
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11588.573916928583!2d20.9148!3d44.0176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4751511e0f0be965%3A0x4e47f5d8f7a9d9f6!2sKragujevac%2C%20Serbia!5e0!3m2!1sen!2s!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.4!2d20.9379514!3d43.9970506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475721e27f812157%3A0x6b96b2b26ee95793!2sHrani%20se%20zdravo!5e0!3m2!1sen!2s!4v1234567890"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -70,7 +70,7 @@ export default function Location() {
                   <div className="w-3 h-3 bg-primary-500 rounded-full animate-pulse" />
                   <span className="font-semibold text-gray-900">UNA Zdrava Hrana</span>
                 </div>
-                <p className="text-sm text-gray-600 mt-1">Kod Mosta u Bresnici</p>
+                <p className="text-sm text-gray-600 mt-1">Slobodana Penezića Krcuna</p>
               </div>
             </div>
           </motion.div>

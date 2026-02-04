@@ -40,12 +40,12 @@ export default function About() {
             className="relative"
           >
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-              <div className="aspect-[4/3] bg-gradient-to-br from-primary-100 to-accent-100 flex items-center justify-center">
-                <div className="text-center p-8">
-                  <div className="text-8xl mb-4">🌿</div>
-                  <p className="text-2xl font-bold text-primary-600">UNA</p>
-                  <p className="text-gray-600">Zdrava Hrana</p>
-                </div>
+              <div className="aspect-[4/3] relative">
+                <img 
+                  src="/images/store/store-front.jpg" 
+                  alt="UNA Zdrava Hrana - Prodavnica" 
+                  className="w-full h-full object-cover"
+                />
               </div>
             </div>
             {/* Decorative element */}
