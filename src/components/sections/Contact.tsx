@@ -157,20 +157,52 @@ export default function Contact() {
             )}
           </motion.div>
 
-          {/* Additional Info */}
+          {/* Contact Info & Map */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.2 }}
-            className="mt-8 text-center"
+            className="mt-12 grid md:grid-cols-2 gap-8"
           >
-            <p className="text-gray-600">
-              Ili nas pozovite direktno na:{' '}
-              <a href="tel:+38134123456" className="text-primary-600 font-semibold hover:underline">
-                +381 34 123 456
-              </a>
-            </p>
+            {/* Contact Information */}
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-bold text-gray-900 mb-4">Kontakt Informacije</h3>
+                <div className="space-y-4">
+                  <div>
+                    <p className="text-sm font-semibold text-gray-700 mb-1">Adresa</p>
+                    <p className="text-gray-600">Slobodana Penezića Krcuna</p>
+                    <p className="text-gray-600">Kragujevac, Srbija</p>
+                  </div>
+                  <div>
+                    <p className="text-sm font-semibold text-gray-700 mb-1">Telefon</p>
+                    <a href="tel:+381641213292" className="text-primary-600 hover:underline">
+                      +381 64 121 32 92
+                    </a>
+                  </div>
+                  <div>
+                    <p className="text-sm font-semibold text-gray-700 mb-1">Radno Vreme</p>
+                    <p className="text-gray-600">Ponedeljak - Subota: 07:30 - 21:00</p>
+                    <p className="text-gray-600">Nedelja: Zatvoreno</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Google Map */}
+            <div className="h-[400px] rounded-lg overflow-hidden shadow-lg">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2891.3396847844284!2d20.9353765!3d43.9970506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475721e27f812157%3A0x6b96b2b26ee95793!2sHrani%20se%20zdravo!5e0!3m2!1sen!2srs!4v1738702000000!5m2!1sen!2srs"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="UNA Zdrava Hrana Location"
+              />
+            </div>
           </motion.div>
         </div>
       </div>
