@@ -172,7 +172,9 @@ export default function Contact() {
                 <div className="space-y-4">
                   <div>
                     <p className="text-sm font-semibold text-gray-700 mb-1">Adresa</p>
-                    <p className="text-gray-600">Slobodana Penezića Krcuna</p>
+                    <p className="text-gray-600">
+                      Slobodana Penezića Krcuna <strong className="font-bold">(Kod Mosta u Bresnici)</strong>
+                    </p>
                     <p className="text-gray-600">Kragujevac, Srbija</p>
                   </div>
                   <div>

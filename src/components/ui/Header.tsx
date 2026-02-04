@@ -11,6 +11,7 @@ export default function Header() {
     { name: 'Početna', href: '#pocetna' },
     { name: 'O Nama', href: '#o-nama' },
     { name: 'Proizvodi', href: '#proizvodi' },
+    { name: 'Galerija', href: '#galerija' },
     { name: 'Lokacija', href: '#lokacija' },
     { name: 'Kontakt', href: '#kontakt' },
   ]

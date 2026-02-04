@@ -45,6 +45,11 @@ export default function Footer() {
                 </a>
               </li>
               <li>
+                <a href="#galerija" className="hover:text-primary-400 transition-colors">
+                  Galerija
+                </a>
+              </li>
+              <li>
                 <a href="#lokacija" className="hover:text-primary-400 transition-colors">
                   Lokacija
                 </a>
@@ -64,7 +69,7 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary-400 flex-shrink-0 mt-0.5" />
                 <span className="text-sm">
-                  Slobodana Penezića Krcuna<br />
+                  Slobodana Penezića Krcuna <strong className="font-bold">(Kod Mosta u Bresnici)</strong><br />
                   Kragujevac, Srbija
                 </span>
               </li>
