@@ -22,7 +22,7 @@ const info = [
   {
     icon: Mail,
     title: 'Email',
-    details: ['info@unazdr avahrana.rs', 'prodaja@unazdravahrana.rs']
+    details: ['una.zdravahrana@gmail.com']
   }
 ]
 

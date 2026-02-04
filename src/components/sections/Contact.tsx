@@ -184,6 +184,12 @@ export default function Contact() {
                     </a>
                   </div>
                   <div>
+                    <p className="text-sm font-semibold text-gray-700 mb-1">Email</p>
+                    <a href="mailto:una.zdravahrana@gmail.com" className="text-primary-600 hover:underline">
+                      una.zdravahrana@gmail.com
+                    </a>
+                  </div>
+                  <div>
                     <p className="text-sm font-semibold text-gray-700 mb-1">Radno Vreme</p>
                     <p className="text-gray-600">Ponedeljak - Subota: 07:30 - 21:00</p>
                     <p className="text-gray-600">Nedelja: Zatvoreno</p>
