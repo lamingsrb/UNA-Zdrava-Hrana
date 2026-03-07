@@ -1,8 +1,9 @@
 'use client'
 
 import { useState } from 'react'
-import { Menu, X, Leaf } from 'lucide-react'
+import { Menu, X } from 'lucide-react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false)
@@ -22,8 +23,14 @@ export default function Header() {
         <div className="flex items-center justify-between h-16 sm:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2 group">
-            <div className="bg-gradient-health p-2 rounded-lg group-hover:scale-110 transition-transform">
-              <Leaf className="w-6 h-6 sm:w-7 sm:h-7 text-white" />
+            <div className="group-hover:scale-110 transition-transform">
+              <Image 
+                src="/una-logo.svg" 
+                alt="UNA Zdrava Hrana Logo" 
+                width={50} 
+                height={50}
+                className="w-12 h-12 sm:w-14 sm:h-14"
+              />
             </div>
             <div className="hidden sm:block">
               <span className="text-2xl font-display font-bold text-primary-600">UNA</span>
