@@ -1,14 +1,28 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background circle -->
-  <circle cx="100" cy="100" r="95" fill="#22C55E" opacity="0.1"/>
+  <!-- Background -->
+  <circle cx="100" cy="100" r="95" fill="#F0FDF4"/>
   
-  <!-- Leaf shape -->
-  <path d="M100 40 Q120 60, 120 90 Q120 110, 100 130 Q80 110, 80 90 Q80 60, 100 40Z" fill="#22C55E"/>
-  <path d="M100 40 Q105 65, 100 90" stroke="#16A34A" stroke-width="2" fill="none"/>
+  <!-- Bowl/Plate shape -->
+  <ellipse cx="100" cy="110" rx="70" ry="15" fill="#22C55E" opacity="0.2"/>
+  <path d="M30 110 Q30 140, 100 145 Q170 140, 170 110" fill="#22C55E" opacity="0.3"/>
+  
+  <!-- Apple -->
+  <circle cx="70" cy="85" r="18" fill="#EF4444"/>
+  <path d="M70 67 Q68 60, 72 58" stroke="#10B981" stroke-width="2" fill="none"/>
+  <ellipse cx="72" cy="80" rx="8" ry="10" fill="#FCA5A5" opacity="0.3"/>
+  
+  <!-- Carrot -->
+  <path d="M110 95 L115 70 L120 95 Z" fill="#F97316"/>
+  <path d="M115 65 L112 58 M115 65 L118 58" stroke="#10B981" stroke-width="1.5"/>
+  <ellipse cx="115" cy="85" rx="3" ry="4" fill="#FED7AA" opacity="0.4"/>
+  
+  <!-- Leaf/Lettuce -->
+  <ellipse cx="135" cy="88" rx="15" ry="12" fill="#10B981" opacity="0.8"/>
+  <path d="M125 88 Q135 78, 145 88" stroke="#059669" stroke-width="1.5" fill="none"/>
   
   <!-- Text UNA -->
-  <text x="100" y="160" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#16A34A" text-anchor="middle">UNA</text>
+  <text x="100" y="165" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="#16A34A" text-anchor="middle">UNA</text>
   
   <!-- Subtitle -->
-  <text x="100" y="180" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">Zdrava Hrana</text>
+  <text x="100" y="185" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#059669" text-anchor="middle">ZDRAVA HRANA</text>
 </svg>
