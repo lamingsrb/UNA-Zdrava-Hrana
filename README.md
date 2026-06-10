@@ -1,57 +1,49 @@
 # 🌿 UNA - Zdrava Hrana
 
-Modern website za prodavnicu zdrave hrane u Kragujevcu
+Sinematik, storytelling website za prodavnicu zdrave hrane u Kragujevcu.
 
 ## 📍 Lokacija
-**Adresa:** Kod Mosta u Bresnici, Kragujevac  
+**Adresa:** Slobodana Penezića Krcuna (Kod Mosta u Bresnici), Kragujevac
+**Radno vreme:** Pon–Sub 07:30–21:00, nedeljom zatvoreno
 **Iskustvo:** 15+ godina poverenja
 
-## 🎯 O Nama
-UNA je renomirana prodavnica zdrave hrane koja već 15 godina nudi najkvalitetnije proizvode iz oblasti zdrave ishrane i zdravog načina života.
-
 ## 🛠️ Tech Stack
-- **Frontend:** Next.js 14 + TypeScript
-- **Styling:** TailwindCSS + Framer Motion
-- **Ikone:** Lucide Icons
-- **SEO:** Next.js Metadata API
-- **Deployment:** Vercel
+- **Frontend:** Next.js 14 (App Router) + TypeScript
+- **Styling:** TailwindCSS (custom dizajn sistem: forest / leaf / honey / cream paleta)
+- **Animacije:** Framer Motion (scroll-driven storytelling, tilt kartice, counteri)
+- **3D:** three.js — sinematik hero scena (organske forme + polje čestica), lazy-loaded
+- **Fontovi:** Fraunces (display serif) + Manrope (sans), latin-ext subset
+- **SEO:** Metadata API, JSON-LD (GroceryStore + WebSite + FAQPage), sitemap, robots, manifest, dinamička OG slika
+- **Deployment:** Vercel (auto-deploy sa GitHub `master` grane)
 
-## 🚀 Features
-- Modern, responsive dizajn
-- Katalog proizvoda po kategorijama
-- O nama sekcija (istorija 15 godina)
-- Kontakt forma
-- Google Maps integracija (lokacija)
-- Galerija proizvoda
-- Blog/saveti o zdravoj ishrani
-- Newsletter subscription
+## 🚀 Struktura sajta
+1. **Hero** — 3D sinematik scena, statistike, marquee kategorija
+2. **Naša priča** — storytelling u 3 poglavlja (Koren → Izbor → Susret)
+3. **Proizvodi** — 6 kategorija sa 3D tilt karticama
+4. **O nama** — 15 godina, fotografija prodavnice, vrednosti
+5. **Galerija/Posetite nas** — full-bleed parallax fotografija
+6. **FAQ** — akordeon + FAQPage schema (rich results)
+7. **Lokacija** — Google mapa + NAP podaci
+8. **Kontakt** — kanali + mailto forma
 
-## 📦 Kategorije Proizvoda
-- Organski proizvodi
-- Suplementi i vitamini
-- Čajevi i napici
-- Zdrave grickalice
-- Superfoods
-- Kozmetika i nega
+## 🔑 Podaci prodavnice
+Svi podaci (adresa, telefoni, radno vreme, koordinate) žive na **jednom mestu**:
+`src/lib/site.ts` — sekcije i schema.org markup čitaju odatle.
+Kada se nešto promeni (npr. radno vreme), menja se samo taj fajl.
 
-## 🎨 Design Koncept
-- **Boje:** Zelena (priroda, zdravlje), Bela (čistoća), Zlatna (kvalitet)
-- **Font:** Modern, čitljiv (Inter/Poppins)
-- **Layout:** Clean, minimalistički, fokus na proizvode
-- **Fotografije:** Visokokvalitetne, svetle, prijateljske
+## 🧞 Komande
+```bash
+npm install     # instalacija
+npm run dev     # dev server (localhost:3000)
+npm run build   # produkcioni build
+```
 
-## 📱 Responsive
-- Mobile-first dizajn
-- Tablet optimizacija
-- Desktop full experience
-
-## 🔍 SEO
-- Meta tags optimizacija
-- Open Graph images
-- Schema.org markup (LocalBusiness)
-- Fast loading (< 2s)
+## 🌐 Domen
+Canonical URL se podešava env varijablom `NEXT_PUBLIC_SITE_URL`
+(fallback: `https://una-zdrava-hrana.vercel.app`). Kada se kupi pravi domen,
+dodati varijablu u Vercel projektu — sve SEO reference se automatski ažuriraju.
 
 ---
 
-**Verzija:** 1.0  
+**Verzija:** 2.0
 **Klijent:** UNA Zdrava Hrana, Kragujevac

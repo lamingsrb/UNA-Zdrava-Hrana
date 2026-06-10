@@ -1,31 +1,81 @@
-import type { Metadata } from 'next'
-import { Inter, Poppins } from 'next/font/google'
+import type { Metadata, Viewport } from 'next'
+import { Fraunces, Manrope } from 'next/font/google'
+import { SITE_URL, site } from '@/lib/site'
 import './globals.css'
 
-const inter = Inter({ 
-  subsets: ['latin'],
-  variable: '--font-inter',
+const fraunces = Fraunces({
+  subsets: ['latin', 'latin-ext'],
+  style: ['normal', 'italic'],
+  weight: ['400', '500', '600', '700'],
+  variable: '--font-fraunces',
+  display: 'swap',
 })
 
-const poppins = Poppins({ 
-  subsets: ['latin'],
-  weight: ['400', '600', '700'],
-  variable: '--font-poppins',
+const manrope = Manrope({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['400', '500', '600', '700', '800'],
+  variable: '--font-manrope',
+  display: 'swap',
 })
 
 export const metadata: Metadata = {
-  title: 'UNA - Zdrava Hrana | Kragujevac',
-  description: 'Prodavnica zdrave hrane sa 15+ godina iskustva. Najkvalitetniji organski proizvodi, suplementi i proizvodi za zdrav način života. Kragujevac, kod Mosta u Bresnici.',
-  keywords: 'zdrava hrana, organski proizvodi, suplementi, Kragujevac, UNA, zdravlje, wellness',
-  authors: [{ name: 'UNA Zdrava Hrana' }],
-  openGraph: {
-    title: 'UNA - Zdrava Hrana | Kragujevac',
-    description: '15+ godina poverenja u zdravoj ishrani',
-    url: 'https://unazdr avahrana.rs',
-    siteName: 'UNA Zdrava Hrana',
-    locale: 'sr_RS',
-    type: 'website',
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: 'UNA Zdrava Hrana — prodavnica zdrave hrane u Kragujevcu',
+    template: '%s | UNA Zdrava Hrana Kragujevac',
   },
+  description:
+    'Prodavnica zdrave hrane u Kragujevcu, kod mosta u Bresnici. Organski proizvodi, ' +
+    'suplementi, superhrana i prirodna kozmetika. 15+ godina poverenja. Pon–sub 07:30–21:00.',
+  keywords: [
+    'zdrava hrana Kragujevac',
+    'prodavnica zdrave hrane Kragujevac',
+    'organski proizvodi Kragujevac',
+    'zdrava hrana Bresnica',
+    'suplementi Kragujevac',
+    'vitamini Kragujevac',
+    'superhrana',
+    'prirodna kozmetika Kragujevac',
+    'UNA zdrava hrana',
+  ],
+  authors: [{ name: site.name }],
+  creator: site.name,
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'sr_RS',
+    url: SITE_URL,
+    siteName: site.name,
+    title: 'UNA Zdrava Hrana — Kragujevac, kod mosta u Bresnici',
+    description:
+      'Organski proizvodi, suplementi, superhrana i prirodna kozmetika. ' +
+      'Više od 15 godina poverenja. Pon–sub 07:30–21:00.',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'UNA Zdrava Hrana — Kragujevac',
+    description:
+      'Prodavnica zdrave hrane kod Mosta u Bresnici. Više od 15 godina poverenja.',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  // favicon/apple ikonice: Next file konvencija — src/app/icon.png i apple-icon.png
+}
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  themeColor: '#061A10',
 }
 
 export default function RootLayout({
@@ -34,10 +84,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="sr" className={`${inter.variable} ${poppins.variable}`}>
-      <body className="font-sans">
-        {children}
-      </body>
+    <html lang="sr-Latn" className={`${fraunces.variable} ${manrope.variable}`}>
+      <body className="font-sans">{children}</body>
     </html>
   )
 }

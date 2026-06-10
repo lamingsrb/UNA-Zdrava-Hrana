@@ -1,113 +1,145 @@
 'use client'
 
-import { motion } from 'framer-motion'
-import { ArrowRight, Sparkles } from 'lucide-react'
+import { ArrowRight, MapPin } from 'lucide-react'
+import dynamic from 'next/dynamic'
+import { useEffect, useState } from 'react'
+import Marquee from '@/components/ui/Marquee'
+import Counter from '@/components/ui/Counter'
+import { site, stats } from '@/lib/site'
+
+// 3D scena: učitava se tek kada je browser besposlen (posle LCP-a),
+// i preskače se uz prefers-reduced-motion ili uključen save-data režim.
+const HeroScene = dynamic(() => import('@/components/three/HeroScene'), {
+  ssr: false,
+})
+
+const marqueeItems = [
+  'Organski proizvodi',
+  'Superhrana',
+  'Suplementi i vitamini',
+  'Čajevi i napici',
+  'Zdrave grickalice',
+  'Prirodna kozmetika',
+]
+
+/** Ulazne animacije su čist CSS (animate-hero-in) — tekst se crta odmah
+ *  iz server HTML-a i LCP ne čeka hidrataciju ni JS chunk-ove. */
+const heroIn = 'motion-safe:animate-hero-in'
+const delay = (ms: number) => ({ animationDelay: `${ms}ms` })
 
 export default function Hero() {
+  const [sceneReady, setSceneReady] = useState(false)
+
+  useEffect(() => {
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+    const saveData = (
+      navigator as Navigator & { connection?: { saveData?: boolean } }
+    ).connection?.saveData
+    if (reduce || saveData) return
+
+    const start = () => setSceneReady(true)
+    if (typeof window.requestIdleCallback === 'function') {
+      const id = window.requestIdleCallback(start, { timeout: 2500 })
+      return () => window.cancelIdleCallback(id)
+    }
+    const id = window.setTimeout(start, 350)
+    return () => window.clearTimeout(id)
+  }, [])
+
   return (
-    <section id="pocetna" className="relative min-h-screen flex items-center justify-center overflow-hidden pt-16">
-      {/* Background Gradient */}
-      <div className="absolute inset-0 bg-gradient-to-br from-primary-50 via-white to-accent-50 opacity-70" />
-      
-      {/* Animated Shapes */}
-      <div className="absolute inset-0 overflow-hidden pointer-events-none">
-        <motion.div
-          className="absolute top-20 left-10 w-72 h-72 bg-primary-200 rounded-full mix-blend-multiply filter blur-xl opacity-30"
-          animate={{
-            scale: [1, 1.2, 1],
-            x: [0, 30, 0],
-            y: [0, -30, 0],
-          }}
-          transition={{
-            duration: 8,
-            repeat: Infinity,
-            ease: "easeInOut"
-          }}
-        />
-        <motion.div
-          className="absolute bottom-20 right-10 w-96 h-96 bg-accent-200 rounded-full mix-blend-multiply filter blur-xl opacity-30"
-          animate={{
-            scale: [1, 1.3, 1],
-            x: [0, -40, 0],
-            y: [0, 40, 0],
-          }}
-          transition={{
-            duration: 10,
-            repeat: Infinity,
-            ease: "easeInOut"
-          }}
-        />
-      </div>
+    <section
+      id="pocetna"
+      className="grain relative flex min-h-screen flex-col overflow-hidden bg-forest-950 text-cream-50"
+    >
+      {/* Pozadina: gradijent + 3D scena */}
+      <div
+        aria-hidden="true"
+        className="absolute inset-0 bg-[radial-gradient(120%_90%_at_70%_10%,#16402A_0%,#0A2316_45%,#061A10_100%)]"
+      />
+      {sceneReady && <HeroScene />}
+      <div
+        aria-hidden="true"
+        className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-forest-950 to-transparent"
+      />
 
-      {/* Content */}
-      <div className="container-custom relative z-10 text-center">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
-        >
-          {/* Badge */}
-          <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm px-4 py-2 rounded-full shadow-md mb-6">
-            <Sparkles className="w-4 h-4 text-accent-500" />
-            <span className="text-sm font-semibold text-gray-700">15+ godina poverenja</span>
-          </div>
-
-          {/* Heading */}
-          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-display font-bold text-gray-900 mb-6 text-balance">
-            Vaše zdravlje je{' '}
-            <span className="text-primary-600">naša misija</span>
-          </h1>
-
-          {/* Subheading */}
-          <p className="text-xl sm:text-2xl text-gray-600 mb-10 max-w-3xl mx-auto text-balance">
-            Najkvalitetniji proizvodi zdrave hrane i suplementi za zdrav način života.
-            Pronađite sve što vam treba na jednom mestu.
-          </p>
-
-          {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <a href="#proizvodi" className="btn-primary group">
-              Pogledaj proizvode
-              <ArrowRight className="inline-block ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </a>
-            <a href="#o-nama" className="btn-secondary">
-              Saznaj više o nama
-            </a>
-          </div>
-
-          {/* Stats */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.3 }}
-            className="mt-16 grid grid-cols-3 gap-8 max-w-2xl mx-auto"
+      <div className="container-custom relative z-10 flex flex-1 flex-col items-center justify-center pb-28 pt-32 text-center sm:pt-36">
+        <h1 className="max-w-4xl">
+          <span
+            className={`eyebrow block text-honey-300 ${heroIn}`}
+            style={delay(50)}
           >
-            <div>
-              <div className="text-4xl font-bold text-primary-600 mb-1">15+</div>
-              <div className="text-sm text-gray-600">Godina iskustva</div>
-            </div>
-            <div>
-              <div className="text-4xl font-bold text-primary-600 mb-1">500+</div>
-              <div className="text-sm text-gray-600">Proizvoda</div>
-            </div>
-            <div>
-              <div className="text-4xl font-bold text-primary-600 mb-1">5000+</div>
-              <div className="text-sm text-gray-600">Zadovoljnih kupaca</div>
-            </div>
-          </motion.div>
-        </motion.div>
+            <span className="eyebrow-dot" aria-hidden="true" />
+            Prodavnica zdrave hrane — Bresnica, Kragujevac
+            <span className="eyebrow-dot" aria-hidden="true" />
+          </span>
+          <span
+            className={`mt-7 block text-balance font-display text-5xl font-semibold leading-[1.05] sm:text-6xl lg:text-7xl ${heroIn}`}
+            style={delay(180)}
+          >
+            Priroda zna recept.{' '}
+            <em className="text-gradient-honey font-medium italic">
+              Mi ga čuvamo za vas.
+            </em>
+          </span>
+        </h1>
+
+        <p
+          className={`mt-7 max-w-2xl text-balance text-lg leading-relaxed text-cream-100/80 sm:text-xl ${heroIn}`}
+          style={delay(320)}
+        >
+          Organska hrana, superhrana, suplementi i prirodna kozmetika — birani
+          s pažnjom već više od {site.yearsInBusiness} godina. Sve za zdrav
+          život, na jednom mestu, {site.address.landmarkInline}.
+        </p>
+
+        <div
+          className={`mt-10 flex flex-col items-center gap-4 sm:flex-row ${heroIn}`}
+          style={delay(460)}
+        >
+          <a href="#proizvodi" className="btn-honey group">
+            Istražite ponudu
+            <ArrowRight
+              className="h-4 w-4 transition-transform group-hover:translate-x-1"
+              aria-hidden="true"
+            />
+          </a>
+          <a href="#lokacija" className="btn-outline-light">
+            <MapPin className="h-4 w-4" aria-hidden="true" />
+            Pronađite nas
+          </a>
+        </div>
+
+        <ul
+          className={`mt-16 grid w-full max-w-2xl grid-cols-3 gap-6 border-t border-cream-50/10 pt-10 ${heroIn}`}
+          style={delay(620)}
+        >
+          {stats.map((stat) => (
+            <li key={stat.label} className="flex flex-col items-center gap-1">
+              <span className="font-display text-3xl font-semibold tabular-nums text-honey-300 sm:text-5xl">
+                <Counter value={stat.value} suffix={stat.suffix} />
+              </span>
+              <span className="text-xs font-semibold uppercase tracking-widest2 text-cream-100/60 sm:text-sm sm:normal-case sm:tracking-normal">
+                {stat.label}
+              </span>
+            </li>
+          ))}
+        </ul>
       </div>
 
-      {/* Scroll Indicator */}
-      <motion.div
-        className="absolute bottom-8 left-1/2 transform -translate-x-1/2"
-        animate={{ y: [0, 10, 0] }}
-        transition={{ duration: 2, repeat: Infinity }}
+      {/* Pokretna traka kategorija */}
+      <div className="relative z-10 border-t border-cream-50/10 bg-forest-950/60 py-5 text-cream-100/70 backdrop-blur-sm">
+        <Marquee items={marqueeItems} />
+      </div>
+
+      {/* Indikator skrola — čist CSS, bez JS animacije */}
+      <div
+        aria-hidden="true"
+        className="absolute bottom-24 left-1/2 z-10 hidden -translate-x-1/2 motion-safe:animate-bob sm:block"
       >
-        <div className="w-6 h-10 border-2 border-primary-400 rounded-full flex items-start justify-center p-2">
-          <div className="w-1 h-2 bg-primary-500 rounded-full" />
+        <div className="flex h-10 w-6 items-start justify-center rounded-full border border-cream-50/30 p-1.5">
+          <div className="h-2 w-1 rounded-full bg-honey-300" />
         </div>
-      </motion.div>
+      </div>
     </section>
   )
 }

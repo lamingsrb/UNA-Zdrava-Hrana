@@ -1,133 +1,132 @@
 'use client'
 
-import { motion } from 'framer-motion'
-import { Leaf, Coffee, Heart, Sparkles, Apple, Droplet } from 'lucide-react'
+import { Apple, Coffee, Droplet, Heart, Leaf, Sparkles } from 'lucide-react'
+import Reveal from '@/components/ui/Reveal'
+import TiltCard from '@/components/ui/TiltCard'
 
 const categories = [
   {
     icon: Leaf,
-    title: 'Organski Proizvodi',
-    description: 'Sertifikovani organski proizvodi bez pesticida i GMO',
-    items: ['Organske žitarice', 'Organske paste', 'Ekološko brašno'],
-    color: 'from-green-400 to-emerald-600'
+    title: 'Organski proizvodi',
+    description: 'Sertifikovano organsko — bez pesticida i bez GMO.',
+    items: ['Organske žitarice', 'Integralne testenine', 'Ekološka brašna'],
+    chip: 'bg-leaf-50 text-leaf-700',
+    glow: 'from-leaf-400/25',
   },
   {
     icon: Heart,
-    title: 'Suplementi i Vitamini',
-    description: 'Visokokvalitetni dodaci ishrani za podršku zdravlju',
+    title: 'Suplementi i vitamini',
+    description: 'Pažljivo birani dodaci ishrani za svakodnevnu podršku.',
     items: ['Multivitamini', 'Omega-3', 'Probiotici'],
-    color: 'from-red-400 to-pink-600'
+    chip: 'bg-rose-50 text-rose-600',
+    glow: 'from-rose-400/25',
   },
   {
     icon: Coffee,
-    title: 'Čajevi i Napici',
-    description: 'Prirodni čajevi i zdravi napici za svaki trenutak',
-    items: ['Zeleni čaj', 'Biljna čajevi', 'Smoothie mixevi'],
-    color: 'from-amber-400 to-orange-600'
+    title: 'Čajevi i napici',
+    description: 'Prirodni čajevi i zdravi napici za svaki deo dana.',
+    items: ['Zeleni čaj', 'Biljne mešavine', 'Prirodni sokovi'],
+    chip: 'bg-amber-50 text-amber-600',
+    glow: 'from-amber-400/25',
   },
   {
     icon: Apple,
-    title: 'Zdrave Grickalice',
-    description: 'Ukusne i nutritivne grickalice bez štetnih dodataka',
-    items: ['Semenke i orašasti plodovi', 'Protein barovi', 'Voćne pločice'],
-    color: 'from-rose-400 to-red-600'
+    title: 'Zdrave grickalice',
+    description: 'Ukusno i nutritivno, bez nepotrebnih dodataka.',
+    items: ['Orašasti plodovi i semenke', 'Proteinske pločice', 'Voćne pločice'],
+    chip: 'bg-orange-50 text-orange-600',
+    glow: 'from-orange-400/25',
   },
   {
     icon: Sparkles,
-    title: 'Superfoods',
-    description: 'Namirnice bogate nutrientima za maksimalnu vitalnost',
+    title: 'Superhrana',
+    description: 'Namirnice bogate nutrijentima za maksimalnu vitalnost.',
     items: ['Chia semenke', 'Spirulina', 'Goji bobice'],
-    color: 'from-purple-400 to-indigo-600'
+    chip: 'bg-violet-50 text-violet-600',
+    glow: 'from-violet-400/25',
   },
   {
     icon: Droplet,
-    title: 'Kozmetika i Nega',
-    description: 'Prirodna kozmetika i proizvodi za negu tela',
-    items: ['Prirodna kozmetika', 'Etarska ulja', 'Proizvodi za negu kože'],
-    color: 'from-blue-400 to-cyan-600'
-  }
+    title: 'Prirodna kozmetika',
+    description: 'Nega kože i tela po receptu prirode.',
+    items: ['Prirodna nega kože', 'Etarska ulja', 'Prirodni sapuni'],
+    chip: 'bg-sky-50 text-sky-600',
+    glow: 'from-sky-400/25',
+  },
 ]
 
 export default function Products() {
   return (
-    <section id="proizvodi" className="section-padding bg-gradient-to-b from-gray-50 to-white">
+    <section
+      id="proizvodi"
+      className="section-padding scroll-mt-20 bg-cream-50"
+      aria-label="Proizvodi"
+    >
       <div className="container-custom">
-        {/* Header */}
-        <div className="text-center mb-16">
-          <div className="inline-block px-4 py-2 bg-primary-50 rounded-full mb-6">
-            <span className="text-sm font-semibold text-primary-600">PROIZVODI</span>
-          </div>
-          <h2 className="text-4xl sm:text-5xl font-display font-bold text-gray-900 mb-6">
-            Širok izbor {' '}
-            <span className="text-primary-600">kvalitetnih proizvoda</span>
-          </h2>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Od organskih namirnica do suplementa - pronađite sve što vam je potrebno 
-            za zdraviji način života
+        <Reveal className="mb-16 max-w-3xl">
+          <p className="eyebrow text-leaf-700">
+            <span className="eyebrow-dot" aria-hidden="true" />
+            Proizvodi
           </p>
-        </div>
+          <h2 className="mt-5 text-balance font-display text-4xl font-semibold text-ink sm:text-5xl lg:text-6xl">
+            Više od 500 proizvoda,{' '}
+            <span className="text-gradient-leaf">jedan standard</span>
+          </h2>
+          <p className="mt-6 text-lg leading-relaxed text-ink/70">
+            Šest kategorija pažljivo složenih na policama — od organskih
+            namirnica do prirodne kozmetike. Ako nešto tražite, a ne vidite na
+            polici — pitajte: vrlo verovatno možemo da ga nabavimo za vas.
+          </p>
+        </Reveal>
 
-        {/* Categories Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid gap-7 md:grid-cols-2 lg:grid-cols-3">
           {categories.map((category, index) => {
             const Icon = category.icon
             return (
-              <motion.div
-                key={category.title}
-                initial={{ opacity: 0, y: 30 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ duration: 0.5, delay: index * 0.1 }}
-                className="card group cursor-pointer"
-              >
-                <div className="p-8">
-                  {/* Icon with gradient */}
-                  <div className={`w-16 h-16 bg-gradient-to-br ${category.color} rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300`}>
-                    <Icon className="w-8 h-8 text-white" />
+              <Reveal key={category.title} delay={index * 0.07}>
+                <TiltCard className="card-surface group h-full">
+                  <div
+                    aria-hidden="true"
+                    className={`pointer-events-none absolute -right-16 -top-16 h-48 w-48 rounded-full bg-gradient-radial ${category.glow} to-transparent opacity-0 transition-opacity duration-700 group-hover:opacity-100`}
+                  />
+                  <div className="relative flex h-full flex-col p-8">
+                    <div
+                      className={`flex h-14 w-14 items-center justify-center rounded-2xl ${category.chip} transition-transform duration-500 group-hover:scale-110`}
+                    >
+                      <Icon className="h-7 w-7" aria-hidden="true" />
+                    </div>
+                    <h3 className="mt-6 font-display text-2xl font-semibold text-ink">
+                      {category.title}
+                    </h3>
+                    <p className="mt-2.5 text-sm leading-relaxed text-ink/65">
+                      {category.description}
+                    </p>
+                    <ul className="mt-5 flex flex-wrap gap-2">
+                      {category.items.map((item) => (
+                        <li
+                          key={item}
+                          className="rounded-full border border-ink/10 px-3.5 py-1.5 text-xs font-semibold text-ink/70"
+                        >
+                          {item}
+                        </li>
+                      ))}
+                    </ul>
                   </div>
-
-                  {/* Title */}
-                  <h3 className="text-2xl font-bold text-gray-900 mb-3">
-                    {category.title}
-                  </h3>
-
-                  {/* Description */}
-                  <p className="text-gray-600 mb-4">
-                    {category.description}
-                  </p>
-
-                  {/* Items List */}
-                  <ul className="space-y-2">
-                    {category.items.map((item) => (
-                      <li key={item} className="flex items-center text-sm text-gray-700">
-                        <div className="w-1.5 h-1.5 bg-primary-500 rounded-full mr-3" />
-                        {item}
-                      </li>
-                    ))}
-                  </ul>
-
-                  {/* Hover Effect Border */}
-                  <div className={`absolute inset-0 border-2 border-transparent group-hover:border-primary-300 rounded-xl transition-colors pointer-events-none`} />
-                </div>
-              </motion.div>
+                </TiltCard>
+              </Reveal>
             )
           })}
         </div>
 
-        {/* CTA */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          className="mt-16 text-center"
-        >
-          <p className="text-lg text-gray-600 mb-6">
-            Imate pitanja o proizvodima? Naš tim je tu da vam pomogne!
+        <Reveal className="mt-16 text-center">
+          <p className="text-lg text-ink/70">
+            Niste sigurni odakle da krenete? Tu smo da vam pomognemo da
+            izaberete.
           </p>
-          <a href="#kontakt" className="btn-primary">
-            Kontaktirajte nas
+          <a href="#kontakt" className="btn-primary mt-6">
+            Slobodno nas pitajte
           </a>
-        </motion.div>
+        </Reveal>
       </div>
     </section>
   )

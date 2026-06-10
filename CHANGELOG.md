@@ -1,5 +1,39 @@
 # 📝 Changelog - UNA Zdrava Hrana Website
 
+## [2.0.0] - 2026-06-11
+
+### 🎬 Kompletni redizajn — "Priroda zna recept"
+
+**Dizajn:**
+- Nova premium paleta: duboka šumska zelena (forest), list (leaf), med (honey), krem (cream)
+- Novi fontovi: Fraunces (display serif, latin-ext) + Manrope (sans, latin-ext)
+- Zrnasta filmska tekstura na tamnim sekcijama, zlatni akcenti
+
+**3D / Animacije:**
+- Sinematik three.js hero scena: organske "dišuće" forme + polje čestica,
+  parallax na miš i skrol, pauza van viewporta, poštuje prefers-reduced-motion
+- Scroll-driven storytelling (Framer Motion): reveal animacije, 3D tilt kartice,
+  animirani brojači, marquee traka, parallax fotografija prodavnice
+
+**Sadržaj / Storytelling:**
+- Nova sekcija "Naša priča" (3 poglavlja: Koren → Izbor → Susret)
+- Nova FAQ sekcija (5 pitanja)
+- Nova "Posetite nas" full-bleed parallax sekcija (zamenila Gallery)
+- Ujednačeno radno vreme na svim mestima: pon–sub 07:30–21:00
+
+**SEO:**
+- JSON-LD: GroceryStore (NAP + geo + radno vreme), WebSite, FAQPage
+- sitemap.xml, robots.txt, web manifest, dinamička OG slika (1200×630)
+- Keyword-optimizovan title/description za "zdrava hrana Kragujevac"
+- `src/lib/site.ts` — single source of truth za sve podatke prodavnice
+- lang="sr-Latn", canonical, metadataBase preko NEXT_PUBLIC_SITE_URL
+
+**Higijena:**
+- SUPPLIERS.md i suppliers_contacts.json dodati u .gitignore (interni podaci)
+- next/image za sve fotografije, lazy Google mapa
+
+---
+
 ## [1.0.0] - 2026-02-03
 
 ### ✨ Initial Release

@@ -1,66 +1,109 @@
 'use client'
 
+import { Mail, Phone, Send } from 'lucide-react'
 import { useState } from 'react'
-import { motion } from 'framer-motion'
-import { Send, CheckCircle } from 'lucide-react'
+import Reveal from '@/components/ui/Reveal'
+import { site } from '@/lib/site'
+
+const inputClasses =
+  'w-full rounded-2xl border border-ink/15 bg-white px-5 py-3.5 text-ink placeholder:text-ink/50 transition-all focus:border-leaf-500 focus:ring-2 focus:ring-leaf-200 outline-none'
 
 export default function Contact() {
-  const [formData, setFormData] = useState({
-    name: '',
-    email: '',
-    phone: '',
-    message: ''
-  })
-  const [submitted, setSubmitted] = useState(false)
+  const [name, setName] = useState('')
+  const [phone, setPhone] = useState('')
+  const [message, setMessage] = useState('')
 
+  // Bez backend-a: sastavljamo mailto poruku i otvaramo korisnikov
+  // email program sa već popunjenim sadržajem.
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
-    // Here you would normally send the form data to a backend
-    console.log('Form submitted:', formData)
-    setSubmitted(true)
-    setTimeout(() => {
-      setSubmitted(false)
-      setFormData({ name: '', email: '', phone: '', message: '' })
-    }, 3000)
-  }
-
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    setFormData({
-      ...formData,
-      [e.target.name]: e.target.value
-    })
+    const subject = `Poruka sa sajta — ${name}`
+    const body = `${message}\n\n— ${name}${phone ? `\nTelefon: ${phone}` : ''}`
+    window.location.href = `mailto:${site.email}?subject=${encodeURIComponent(
+      subject
+    )}&body=${encodeURIComponent(body)}`
   }
 
   return (
-    <section id="kontakt" className="section-padding bg-gradient-to-b from-white to-gray-50">
+    <section
+      id="kontakt"
+      className="section-padding scroll-mt-20 bg-white"
+      aria-label="Kontakt"
+    >
       <div className="container-custom">
-        {/* Header */}
-        <div className="text-center mb-16">
-          <div className="inline-block px-4 py-2 bg-primary-50 rounded-full mb-6">
-            <span className="text-sm font-semibold text-primary-600">KONTAKT</span>
-          </div>
-          <h2 className="text-4xl sm:text-5xl font-display font-bold text-gray-900 mb-6">
-            Pošaljite nam{' '}
-            <span className="text-primary-600">poruku</span>
-          </h2>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Imate pitanja ili želite savet o proizvodima? Naš tim je tu za vas!
-          </p>
-        </div>
+        <div className="grid gap-14 lg:grid-cols-2 lg:gap-20">
+          <div>
+            <Reveal>
+              <p className="eyebrow text-leaf-700">
+                <span className="eyebrow-dot" aria-hidden="true" />
+                Kontakt
+              </p>
+              <h2 className="mt-5 text-balance font-display text-4xl font-semibold text-ink sm:text-5xl">
+                Javite nam se —{' '}
+                <span className="text-gradient-leaf">odgovaramo rado</span>
+              </h2>
+              <p className="mt-6 text-lg leading-relaxed text-ink/70">
+                Imate pitanje o proizvodu, treba vam savet oko ishrane ili samo
+                proveravate da li nešto držimo? Pozovite, pišite ili svratite.
+              </p>
+            </Reveal>
 
-        <div className="max-w-2xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-            className="card p-8 lg:p-12"
-          >
-            {!submitted ? (
-              <form onSubmit={handleSubmit} className="space-y-6">
-                {/* Name */}
+            <div className="mt-10 space-y-4">
+              <Reveal delay={0.1}>
+                <a
+                  href={`tel:${site.phones.mobile.e164}`}
+                  className="card-surface group flex items-center gap-5 p-6"
+                >
+                  <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-leaf-50 text-leaf-700 transition-transform duration-300 group-hover:scale-110">
+                    <Phone className="h-6 w-6" aria-hidden="true" />
+                  </div>
+                  <div>
+                    <p className="text-xs font-bold uppercase tracking-widest2 text-ink/60">
+                      Pozovite nas
+                    </p>
+                    <p className="mt-1 font-sans text-lg font-bold text-ink">
+                      {site.phones.mobile.display}
+                    </p>
+                    <p className="text-sm text-ink/70">
+                      ili fiksni: {site.phones.landline.display}
+                    </p>
+                  </div>
+                </a>
+              </Reveal>
+
+              <Reveal delay={0.18}>
+                <a
+                  href={`mailto:${site.email}`}
+                  className="card-surface group flex items-center gap-5 p-6"
+                >
+                  <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-honey-50 text-honey-600 transition-transform duration-300 group-hover:scale-110">
+                    <Mail className="h-6 w-6" aria-hidden="true" />
+                  </div>
+                  <div>
+                    <p className="text-xs font-bold uppercase tracking-widest2 text-ink/60">
+                      Pišite nam
+                    </p>
+                    <p className="mt-1 break-all font-sans text-lg font-bold text-ink">
+                      {site.email}
+                    </p>
+                  </div>
+                </a>
+              </Reveal>
+            </div>
+          </div>
+
+          <Reveal delay={0.15}>
+            <form
+              onSubmit={handleSubmit}
+              className="card-surface p-8 sm:p-10"
+              aria-label="Kontakt forma"
+            >
+              <div className="space-y-6">
                 <div>
-                  <label htmlFor="name" className="block text-sm font-semibold text-gray-700 mb-2">
+                  <label
+                    htmlFor="name"
+                    className="mb-2 block text-sm font-bold text-ink"
+                  >
                     Ime i prezime *
                   </label>
                   <input
@@ -68,150 +111,64 @@ export default function Contact() {
                     id="name"
                     name="name"
                     required
-                    value={formData.name}
-                    onChange={handleChange}
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all outline-none"
+                    value={name}
+                    onChange={(e) => setName(e.target.value)}
+                    className={inputClasses}
                     placeholder="Vaše ime i prezime"
+                    autoComplete="name"
                   />
                 </div>
 
-                {/* Email */}
                 <div>
-                  <label htmlFor="email" className="block text-sm font-semibold text-gray-700 mb-2">
-                    Email adresa *
-                  </label>
-                  <input
-                    type="email"
-                    id="email"
-                    name="email"
-                    required
-                    value={formData.email}
-                    onChange={handleChange}
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all outline-none"
-                    placeholder="vas.email@primer.com"
-                  />
-                </div>
-
-                {/* Phone */}
-                <div>
-                  <label htmlFor="phone" className="block text-sm font-semibold text-gray-700 mb-2">
+                  <label
+                    htmlFor="phone"
+                    className="mb-2 block text-sm font-bold text-ink"
+                  >
                     Telefon
                   </label>
                   <input
                     type="tel"
                     id="phone"
                     name="phone"
-                    value={formData.phone}
-                    onChange={handleChange}
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all outline-none"
-                    placeholder="+381 64 123 4567"
+                    value={phone}
+                    onChange={(e) => setPhone(e.target.value)}
+                    className={inputClasses}
+                    placeholder="+381 6x xxx xx xx"
+                    autoComplete="tel"
                   />
                 </div>
 
-                {/* Message */}
                 <div>
-                  <label htmlFor="message" className="block text-sm font-semibold text-gray-700 mb-2">
+                  <label
+                    htmlFor="message"
+                    className="mb-2 block text-sm font-bold text-ink"
+                  >
                     Poruka *
                   </label>
                   <textarea
                     id="message"
                     name="message"
                     required
-                    value={formData.message}
-                    onChange={handleChange}
+                    value={message}
+                    onChange={(e) => setMessage(e.target.value)}
                     rows={5}
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all outline-none resize-none"
-                    placeholder="Kako vam možemo pomoći?"
+                    className={`${inputClasses} resize-none`}
+                    placeholder="Kako možemo da vam pomognemo?"
                   />
                 </div>
 
-                {/* Submit Button */}
-                <button
-                  type="submit"
-                  className="btn-primary w-full group"
-                >
-                  <Send className="inline-block mr-2 w-5 h-5" />
+                <button type="submit" className="btn-primary w-full">
+                  <Send className="h-4 w-4" aria-hidden="true" />
                   Pošalji poruku
                 </button>
 
-                <p className="text-sm text-gray-500 text-center mt-4">
-                  * Obavezna polja
+                <p className="text-center text-xs leading-relaxed text-ink/60">
+                  Klikom na dugme otvoriće se vaš program za mejl sa već
+                  popunjenom porukom za {site.email}.
                 </p>
-              </form>
-            ) : (
-              <motion.div
-                initial={{ opacity: 0, scale: 0.9 }}
-                animate={{ opacity: 1, scale: 1 }}
-                className="text-center py-12"
-              >
-                <div className="w-20 h-20 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-6">
-                  <CheckCircle className="w-12 h-12 text-primary-600" />
-                </div>
-                <h3 className="text-2xl font-bold text-gray-900 mb-3">
-                  Poruka poslata!
-                </h3>
-                <p className="text-gray-600">
-                  Hvala vam na poruci. Odgovorićemo vam u najkraćem roku.
-                </p>
-              </motion.div>
-            )}
-          </motion.div>
-
-          {/* Contact Info & Map */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.6, delay: 0.2 }}
-            className="mt-12 grid md:grid-cols-2 gap-8"
-          >
-            {/* Contact Information */}
-            <div className="space-y-6">
-              <div>
-                <h3 className="text-xl font-bold text-gray-900 mb-4">Kontakt Informacije</h3>
-                <div className="space-y-4">
-                  <div>
-                    <p className="text-sm font-semibold text-gray-700 mb-1">Adresa</p>
-                    <p className="text-gray-600">
-                      Slobodana Penezića Krcuna <strong className="font-bold">(Kod Mosta u Bresnici)</strong>
-                    </p>
-                    <p className="text-gray-600">Kragujevac, Srbija</p>
-                  </div>
-                  <div>
-                    <p className="text-sm font-semibold text-gray-700 mb-1">Telefon</p>
-                    <a href="tel:+381641213292" className="text-primary-600 hover:underline">
-                      +381 64 121 32 92
-                    </a>
-                  </div>
-                  <div>
-                    <p className="text-sm font-semibold text-gray-700 mb-1">Email</p>
-                    <a href="mailto:una.zdravahrana@gmail.com" className="text-primary-600 hover:underline">
-                      una.zdravahrana@gmail.com
-                    </a>
-                  </div>
-                  <div>
-                    <p className="text-sm font-semibold text-gray-700 mb-1">Radno Vreme</p>
-                    <p className="text-gray-600">Ponedeljak - Subota: 07:30 - 21:00</p>
-                    <p className="text-gray-600">Nedelja: Zatvoreno</p>
-                  </div>
-                </div>
               </div>
-            </div>
-
-            {/* Google Map */}
-            <div className="h-[400px] rounded-lg overflow-hidden shadow-lg">
-              <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2891.3396847844284!2d20.9353765!3d43.9970506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475721e27f812157%3A0x6b96b2b26ee95793!2sHrani%20se%20zdravo!5e0!3m2!1sen!2srs!4v1738702000000!5m2!1sen!2srs"
-                width="100%"
-                height="100%"
-                style={{ border: 0 }}
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                title="UNA Zdrava Hrana Location"
-              />
-            </div>
-          </motion.div>
+            </form>
+          </Reveal>
         </div>
       </div>
     </section>
