@@ -75,6 +75,84 @@
   .glow-blob {
     @apply pointer-events-none absolute rounded-full blur-3xl;
   }
+
+  /* Tipografija blog članka — UNA paleta (nema @tailwindcss/typography
+     plugina, pa prozu stilizujemo ručno preko descendant selektora). */
+  .prose-una {
+    @apply text-base leading-relaxed text-ink/80 sm:text-lg;
+  }
+
+  .prose-una h2 {
+    @apply mt-12 font-display text-2xl font-semibold text-forest-800 sm:text-3xl;
+  }
+
+  .prose-una h3 {
+    @apply mt-9 font-display text-xl font-semibold text-forest-700 sm:text-2xl;
+  }
+
+  .prose-una h4 {
+    @apply mt-7 font-display text-lg font-semibold text-forest-700;
+  }
+
+  .prose-una p {
+    @apply mt-5;
+  }
+
+  .prose-una a {
+    @apply font-semibold text-honey-700 underline decoration-honey-300 decoration-2 underline-offset-4 transition-colors hover:text-honey-600 hover:decoration-honey-400;
+  }
+
+  .prose-una strong {
+    @apply font-bold text-ink;
+  }
+
+  .prose-una ul {
+    @apply mt-5 list-disc space-y-2.5 pl-6 marker:text-leaf-600;
+  }
+
+  .prose-una ol {
+    @apply mt-5 list-decimal space-y-2.5 pl-6 marker:font-bold marker:text-leaf-700;
+  }
+
+  .prose-una blockquote {
+    @apply mt-7 rounded-r-2xl border-l-4 border-honey-400 bg-cream-50 px-6 py-4 font-display text-lg italic text-forest-800;
+  }
+
+  .prose-una hr {
+    @apply my-10 border-ink/10;
+  }
+
+  .prose-una img {
+    @apply my-8 h-auto w-full rounded-3xl shadow-soft ring-1 ring-ink/5;
+  }
+
+  .prose-una table {
+    @apply mt-7 w-full border-collapse overflow-hidden rounded-2xl text-sm shadow-soft ring-1 ring-ink/10 sm:text-base;
+  }
+
+  .prose-una thead {
+    @apply bg-forest-800 text-left text-cream-50;
+  }
+
+  .prose-una th {
+    @apply px-4 py-3 font-sans font-bold;
+  }
+
+  .prose-una td {
+    @apply border-t border-ink/10 bg-paper px-4 py-3 align-top;
+  }
+
+  .prose-una code {
+    @apply rounded-lg bg-leaf-50 px-1.5 py-0.5 font-mono text-[0.9em] text-forest-800;
+  }
+
+  .prose-una pre {
+    @apply mt-6 overflow-x-auto rounded-2xl bg-forest-950 p-5 text-sm text-cream-100;
+  }
+
+  .prose-una pre code {
+    @apply bg-transparent p-0 text-cream-100;
+  }
 }
 
 @layer utilities {

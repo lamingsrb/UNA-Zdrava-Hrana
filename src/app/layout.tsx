@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next'
 import { Fraunces, Manrope } from 'next/font/google'
+import Script from 'next/script'
 import { SITE_URL, site } from '@/lib/site'
 import './globals.css'
 
@@ -85,7 +86,26 @@ export default function RootLayout({
 }) {
   return (
     <html lang="sr-Latn" className={`${fraunces.variable} ${manrope.variable}`}>
-      <body className="font-sans">{children}</body>
+      <body className="font-sans">
+        {children}
+        {/* Umami self-hosted analytics (AEO referral tracking) — isti funnel
+            kao fakturko.io / bizflowai.io; c007aa82-bb16-43b0-94a1-270b5addb7fe je placeholder
+            koji integrator zamenjuje pravim website UUID-om iz Umami-ja.
+            defer + lazyOnload: fail-silent ako je funnel down, ne blokira LCP.
+            recorder.js = session replay. */}
+        <Script
+          defer
+          src="https://pc-pc-1.tail18db6d.ts.net:8443/script.js"
+          data-website-id="c007aa82-bb16-43b0-94a1-270b5addb7fe"
+          strategy="lazyOnload"
+        />
+        <Script
+          defer
+          src="https://pc-pc-1.tail18db6d.ts.net:8443/recorder.js"
+          data-website-id="c007aa82-bb16-43b0-94a1-270b5addb7fe"
+          strategy="lazyOnload"
+        />
+      </body>
     </html>
   )
 }

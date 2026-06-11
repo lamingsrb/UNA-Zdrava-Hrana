@@ -7,16 +7,27 @@ import Link from 'next/link'
 import { useEffect, useState } from 'react'
 import { site } from '@/lib/site'
 
+// Linkovi su sidrišta na početnoj — "/#sekcija" radi i sa /blog stranica
+// (puna navigacija nazad na početnu), a na početnoj se ponaša kao običan skok.
 const navItems = [
-  { name: 'Naša priča', href: '#prica' },
-  { name: 'Proizvodi', href: '#proizvodi' },
-  { name: 'O nama', href: '#o-nama' },
-  { name: 'Posetite nas', href: '#galerija' },
-  { name: 'Lokacija', href: '#lokacija' },
-  { name: 'Kontakt', href: '#kontakt' },
+  { name: 'Naša priča', href: '/#prica' },
+  { name: 'Proizvodi', href: '/#proizvodi' },
+  { name: 'O nama', href: '/#o-nama' },
+  { name: 'Blog', href: '/blog' },
+  { name: 'Recepti', href: '/recepti' },
+  { name: 'Lokacija', href: '/#lokacija' },
+  { name: 'Kontakt', href: '/#kontakt' },
 ]
 
-export default function Header() {
+interface HeaderProps {
+  /**
+   * Blog i druge podstranice nemaju tamni hero, pa header odmah kreće
+   * u svetlom "staklo" stanju umesto prozirnog sa svetlim tekstom.
+   */
+  solid?: boolean
+}
+
+export default function Header({ solid = false }: HeaderProps) {
   const [isOpen, setIsOpen] = useState(false)
   const [scrolled, setScrolled] = useState(false)
 
@@ -39,7 +50,8 @@ export default function Header() {
 
   // Iznad tamnog hero-a header je proziran sa svetlim tekstom;
   // čim krene skrol prelazi u svetlo "staklo" sa tamnim tekstom.
-  const overHero = !scrolled && !isOpen
+  // Na solid stranicama (blog) odmah je u svetlom stanju.
+  const overHero = !solid && !scrolled && !isOpen
   const linkTone = overHero
     ? 'text-cream-50/85 hover:text-cream-50'
     : 'text-ink/75 hover:text-ink'
@@ -55,7 +67,7 @@ export default function Header() {
       <nav className="container-custom" aria-label="Glavna navigacija">
         <div className="flex h-16 items-center justify-between sm:h-[76px]">
           <Link
-            href="#pocetna"
+            href="/#pocetna"
             className="group flex items-center gap-2.5"
             aria-label="UNA Zdrava Hrana — početak stranice"
           >

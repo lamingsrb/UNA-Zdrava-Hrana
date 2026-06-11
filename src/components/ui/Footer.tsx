@@ -2,13 +2,15 @@ import { Clock, Mail, MapPin, Phone } from 'lucide-react'
 import Image from 'next/image'
 import { site } from '@/lib/site'
 
+// "/#sekcija" umesto "#sekcija" — linkovi rade i sa /blog stranica
 const quickLinks = [
-  { name: 'Naša priča', href: '#prica' },
-  { name: 'Proizvodi', href: '#proizvodi' },
-  { name: 'O nama', href: '#o-nama' },
-  { name: 'Posetite nas', href: '#galerija' },
-  { name: 'Lokacija', href: '#lokacija' },
-  { name: 'Kontakt', href: '#kontakt' },
+  { name: 'Naša priča', href: '/#prica' },
+  { name: 'Proizvodi', href: '/#proizvodi' },
+  { name: 'O nama', href: '/#o-nama' },
+  { name: 'Blog', href: '/blog' },
+  { name: 'Recepti', href: '/recepti' },
+  { name: 'Lokacija', href: '/#lokacija' },
+  { name: 'Kontakt', href: '/#kontakt' },
 ]
 
 export default function Footer() {

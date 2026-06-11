@@ -130,6 +130,8 @@ export function buildStoreJsonLd() {
       longitude: site.geo.lng,
     },
     hasMap: site.maps.placeUrl,
+    // entity disambiguation za pretraživače/LLM-ove — Google Maps profil
+    sameAs: [site.maps.placeUrl],
     openingHoursSpecification: [
       {
         '@type': 'OpeningHoursSpecification',
