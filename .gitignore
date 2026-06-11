@@ -35,3 +35,6 @@ next-env.d.ts
 # interni poslovni podaci — ne idu u javni repo
 SUPPLIERS.md
 suppliers_contacts.json
+
+# kredencijali (Google service account i sl.)
+.secrets/
