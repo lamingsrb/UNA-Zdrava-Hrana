@@ -1,5 +1,19 @@
 # 📝 Changelog - UNA Zdrava Hrana Website
 
+## [2.1.0] - 2026-06-11
+
+### 🎨 Toplija paleta + ispravke podataka
+
+- Radno vreme ispravljeno: nedelja je RADNA, 08:00–15:00 (pon–sub 07:30–21:00)
+- Privatni mobilni broj uklonjen sa sajta — svuda samo fiksni 034 387 257
+- Bela pozadina zamenjena toplom parchment paletom: cream gradijenti,
+  sage (leaf-50) prelivi, meki zlatno-zeleni odsjaji (glow-blob)
+- Kartice na toploj "paper" površini (#FFFDF7) sa suptilnim ring-om
+- Kontakt sekcija prerađena u tamnu (forest) sa staklenim panelima —
+  vizuelni ritam: tamno-svetlo-tamno
+
+---
+
 ## [2.0.0] - 2026-06-11
 
 ### 🎬 Kompletni redizajn — "Priroda zna recept"

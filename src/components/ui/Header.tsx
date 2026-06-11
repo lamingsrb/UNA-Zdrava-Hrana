@@ -95,7 +95,7 @@ export default function Header() {
               </a>
             ))}
             <a
-              href={`tel:${site.phones.mobile.e164}`}
+              href={`tel:${site.phones.landline.e164}`}
               className={overHero ? 'btn-honey !px-5 !py-2.5' : 'btn-primary !px-5 !py-2.5'}
             >
               <Phone className="h-4 w-4" aria-hidden="true" />
@@ -142,12 +142,12 @@ export default function Header() {
                   </motion.a>
                 ))}
                 <a
-                  href={`tel:${site.phones.mobile.e164}`}
+                  href={`tel:${site.phones.landline.e164}`}
                   onClick={() => setIsOpen(false)}
                   className="btn-primary mt-3"
                 >
                   <Phone className="h-4 w-4" aria-hidden="true" />
-                  {site.phones.mobile.display}
+                  {site.phones.landline.display}
                 </a>
               </div>
             </motion.div>

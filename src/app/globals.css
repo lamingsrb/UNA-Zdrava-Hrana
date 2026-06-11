@@ -14,7 +14,7 @@
   }
 
   body {
-    @apply bg-cream-50 text-ink antialiased;
+    @apply bg-cream-100 text-ink antialiased;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -26,7 +26,7 @@
   }
 
   :focus-visible {
-    @apply outline-none ring-2 ring-leaf-600 ring-offset-2 ring-offset-cream-50;
+    @apply outline-none ring-2 ring-leaf-600 ring-offset-2 ring-offset-cream-100;
   }
 }
 
@@ -68,7 +68,12 @@
   }
 
   .card-surface {
-    @apply relative overflow-hidden rounded-3xl bg-white shadow-soft transition-shadow duration-500 hover:shadow-lift;
+    @apply relative overflow-hidden rounded-3xl bg-paper shadow-soft ring-1 ring-ink/5 transition-shadow duration-500 hover:shadow-lift;
+  }
+
+  /* dekorativni meki odsjaj u uglu svetlih sekcija */
+  .glow-blob {
+    @apply pointer-events-none absolute rounded-full blur-3xl;
   }
 }
 

@@ -36,17 +36,23 @@ export const site = {
 
   phones: {
     landline: { display: '034 387 257', e164: '+38134387257' },
-    mobile: { display: '+381 64 121 32 92', e164: '+381641213292' },
   },
 
   email: 'una.zdravahrana@gmail.com',
 
   hours: {
-    label: 'Ponedeljak – subota',
-    opens: '07:30',
-    closes: '21:00',
-    closedLabel: 'Nedelja — zatvoreno',
-    schemaDays: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+    weekdays: {
+      label: 'Ponedeljak – subota',
+      opens: '07:30',
+      closes: '21:00',
+      schemaDays: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+    },
+    sunday: {
+      label: 'Nedelja',
+      opens: '08:00',
+      closes: '15:00',
+      schemaDays: ['Sunday'],
+    },
   },
 
   yearsInBusiness: 15,
@@ -72,7 +78,7 @@ export const faq = [
   {
     question: 'Koje je radno vreme prodavnice UNA?',
     answer:
-      'Otvoreni smo od ponedeljka do subote, od 07:30 do 21:00. Nedeljom smo zatvoreni.',
+      'Otvoreni smo svakog dana: od ponedeljka do subote od 07:30 do 21:00, a nedeljom od 08:00 do 15:00.',
   },
   {
     question: 'Gde se tačno nalazite?',
@@ -92,7 +98,7 @@ export const faq = [
   {
     question: 'Kako mogu da vas kontaktiram?',
     answer:
-      'Telefonom na 034 387 257 ili na +381 64 121 32 92, mejlom na una.zdravahrana@gmail.com — ili jednostavno svratite u prodavnicu.',
+      'Telefonom na 034 387 257, mejlom na una.zdravahrana@gmail.com — ili jednostavno svratite u prodavnicu.',
   },
 ] as const
 
@@ -127,16 +133,15 @@ export function buildStoreJsonLd() {
     openingHoursSpecification: [
       {
         '@type': 'OpeningHoursSpecification',
-        dayOfWeek: [...site.hours.schemaDays],
-        opens: site.hours.opens,
-        closes: site.hours.closes,
+        dayOfWeek: [...site.hours.weekdays.schemaDays],
+        opens: site.hours.weekdays.opens,
+        closes: site.hours.weekdays.closes,
       },
       {
-        // nedelja zatvoreno — opens === closes označava neradni dan
         '@type': 'OpeningHoursSpecification',
-        dayOfWeek: ['Sunday'],
-        opens: '00:00',
-        closes: '00:00',
+        dayOfWeek: [...site.hours.sunday.schemaDays],
+        opens: site.hours.sunday.opens,
+        closes: site.hours.sunday.closes,
       },
     ],
     keywords:

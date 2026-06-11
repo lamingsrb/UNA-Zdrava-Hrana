@@ -15,7 +15,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear()
 
   return (
-    <footer className="grain bg-forest-950 text-cream-100/70">
+    <footer className="grain border-t border-cream-50/10 bg-forest-950 text-cream-100/70">
       <div className="container-custom relative z-10">
         <div className="grid gap-12 py-16 sm:py-20 md:grid-cols-2 lg:grid-cols-4">
           <div>
@@ -82,20 +82,12 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="h-4 w-4 shrink-0 text-honey-300" aria-hidden="true" />
-                <span className="flex flex-col gap-1">
-                  <a
-                    href={`tel:${site.phones.landline.e164}`}
-                    className="transition-colors hover:text-honey-300"
-                  >
-                    {site.phones.landline.display}
-                  </a>
-                  <a
-                    href={`tel:${site.phones.mobile.e164}`}
-                    className="transition-colors hover:text-honey-300"
-                  >
-                    {site.phones.mobile.display}
-                  </a>
-                </span>
+                <a
+                  href={`tel:${site.phones.landline.e164}`}
+                  className="transition-colors hover:text-honey-300"
+                >
+                  {site.phones.landline.display}
+                </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="h-4 w-4 shrink-0 text-honey-300" aria-hidden="true" />
@@ -117,14 +109,20 @@ export default function Footer() {
               <li className="flex items-center gap-3">
                 <Clock className="h-4 w-4 shrink-0 text-honey-300" aria-hidden="true" />
                 <span>
-                  {site.hours.label}
+                  {site.hours.weekdays.label}
                   <br />
                   <strong className="font-bold text-cream-100">
-                    {site.hours.opens} – {site.hours.closes}
+                    {site.hours.weekdays.opens} – {site.hours.weekdays.closes}
                   </strong>
                 </span>
               </li>
-              <li className="pl-7 text-cream-100/50">{site.hours.closedLabel}</li>
+              <li className="pl-7">
+                {site.hours.sunday.label}
+                <br />
+                <strong className="font-bold text-cream-100">
+                  {site.hours.sunday.opens} – {site.hours.sunday.closes}
+                </strong>
+              </li>
             </ul>
           </div>
         </div>

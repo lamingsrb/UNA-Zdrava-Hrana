@@ -63,8 +63,8 @@ export default function Visit() {
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-cream-100/80">
               Police pune pažljivo biranih proizvoda, miris čajeva i neko ko će
-              vas saslušati. Čekamo vas {site.address.landmarkInline}, svakog
-              dana osim nedelje.
+              vas saslušati. Čekamo vas {site.address.landmarkInline} — svakog
+              dana u nedelji.
             </p>
           </Reveal>
 
@@ -72,7 +72,9 @@ export default function Visit() {
             <div className="mt-9 flex flex-wrap items-center gap-x-7 gap-y-3 text-sm font-semibold text-cream-100/85">
               <span className="inline-flex items-center gap-2">
                 <Clock className="h-4 w-4 text-honey-300" aria-hidden="true" />
-                {site.hours.label}: {site.hours.opens} – {site.hours.closes}
+                {site.hours.weekdays.label}: {site.hours.weekdays.opens} –{' '}
+                {site.hours.weekdays.closes} · {site.hours.sunday.label}:{' '}
+                {site.hours.sunday.opens} – {site.hours.sunday.closes}
               </span>
               <span className="inline-flex items-center gap-2">
                 <MapPin className="h-4 w-4 text-honey-300" aria-hidden="true" />
@@ -93,11 +95,11 @@ export default function Visit() {
                 Put do prodavnice
               </a>
               <a
-                href={`tel:${site.phones.mobile.e164}`}
+                href={`tel:${site.phones.landline.e164}`}
                 className="btn-outline-light"
               >
                 <Phone className="h-4 w-4" aria-hidden="true" />
-                {site.phones.mobile.display}
+                {site.phones.landline.display}
               </a>
             </div>
           </Reveal>

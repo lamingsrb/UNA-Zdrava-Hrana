@@ -59,10 +59,18 @@ export default function Products() {
   return (
     <section
       id="proizvodi"
-      className="section-padding scroll-mt-20 bg-cream-50"
+      className="section-padding relative scroll-mt-20 overflow-hidden bg-gradient-to-b from-cream-100 via-leaf-50 to-cream-100"
       aria-label="Proizvodi"
     >
-      <div className="container-custom">
+      <div
+        aria-hidden="true"
+        className="glow-blob -left-32 top-24 h-[26rem] w-[26rem] bg-leaf-200/50"
+      />
+      <div
+        aria-hidden="true"
+        className="glow-blob -right-28 bottom-16 h-96 w-96 bg-honey-200/40"
+      />
+      <div className="container-custom relative z-10">
         <Reveal className="mb-16 max-w-3xl">
           <p className="eyebrow text-leaf-700">
             <span className="eyebrow-dot" aria-hidden="true" />

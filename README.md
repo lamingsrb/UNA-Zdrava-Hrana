@@ -3,8 +3,9 @@
 Sinematik, storytelling website za prodavnicu zdrave hrane u Kragujevcu.
 
 ## 📍 Lokacija
-**Adresa:** Slobodana Penezića Krcuna (Kod Mosta u Bresnici), Kragujevac
-**Radno vreme:** Pon–Sub 07:30–21:00, nedeljom zatvoreno
+**Adresa:** Slobodana Penezića Krcuna (Kod mosta u Bresnici), Kragujevac
+**Radno vreme:** Pon–sub 07:30–21:00, nedelja 08:00–15:00
+**Telefon:** 034 387 257
 **Iskustvo:** 15+ godina poverenja
 
 ## 🛠️ Tech Stack

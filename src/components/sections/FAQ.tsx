@@ -14,10 +14,14 @@ export default function FAQ() {
   return (
     <section
       id="faq"
-      className="section-padding scroll-mt-20 bg-white"
+      className="section-padding relative scroll-mt-20 overflow-hidden bg-gradient-to-b from-cream-50 to-cream-100"
       aria-label="Česta pitanja"
     >
-      <div className="container-custom">
+      <div
+        aria-hidden="true"
+        className="glow-blob -left-36 top-20 h-96 w-96 bg-honey-200/40"
+      />
+      <div className="container-custom relative z-10">
         <div className="grid gap-12 lg:grid-cols-12 lg:gap-16">
           <Reveal className="lg:col-span-4">
             <p className="eyebrow text-leaf-700">

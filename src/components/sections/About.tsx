@@ -37,10 +37,14 @@ export default function About() {
   return (
     <section
       id="o-nama"
-      className="section-padding scroll-mt-20 bg-white"
+      className="section-padding relative scroll-mt-20 overflow-hidden bg-gradient-to-b from-cream-100 to-cream-50"
       aria-label="O nama"
     >
-      <div className="container-custom">
+      <div
+        aria-hidden="true"
+        className="glow-blob -right-36 top-1/3 h-[30rem] w-[30rem] bg-leaf-100/70"
+      />
+      <div className="container-custom relative z-10">
         <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-20">
           <Reveal>
             <div className="relative">
@@ -101,7 +105,7 @@ export default function About() {
                 <strong className="font-bold text-leaf-700">
                   {site.address.landmarkInline}
                 </strong>
-                , gde nas možete posetiti svakog dana osim nedelje.
+                , gde nas možete posetiti svakog dana u nedelji.
               </p>
               <p className="mt-4 text-lg leading-relaxed text-ink/70">
                 Naša misija je jednostavna: da vam najkvalitetniji organski

@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
   description:
     'Prodavnica zdrave hrane u Kragujevcu, kod mosta u Bresnici. Organski proizvodi, ' +
-    'suplementi, superhrana i prirodna kozmetika. 15+ godina poverenja. Pon–sub 07:30–21:00.',
+    'suplementi, superhrana i prirodna kozmetika. 15+ godina poverenja. Otvoreni svakog dana.',
   keywords: [
     'zdrava hrana Kragujevac',
     'prodavnica zdrave hrane Kragujevac',
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     title: 'UNA Zdrava Hrana — Kragujevac, kod mosta u Bresnici',
     description:
       'Organski proizvodi, suplementi, superhrana i prirodna kozmetika. ' +
-      'Više od 15 godina poverenja. Pon–sub 07:30–21:00.',
+      'Više od 15 godina poverenja. Otvoreni svakog dana.',
   },
   twitter: {
     card: 'summary_large_image',

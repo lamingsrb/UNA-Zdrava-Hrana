@@ -25,15 +25,15 @@ const infoCards: InfoCard[] = [
     icon: Clock,
     title: 'Radno vreme',
     lines: [
-      `${site.hours.label}: ${site.hours.opens} – ${site.hours.closes}`,
-      site.hours.closedLabel,
+      `${site.hours.weekdays.label}: ${site.hours.weekdays.opens} – ${site.hours.weekdays.closes}`,
+      `${site.hours.sunday.label}: ${site.hours.sunday.opens} – ${site.hours.sunday.closes}`,
     ],
   },
   {
     icon: Phone,
     title: 'Telefon',
     lines: [],
-    phones: [site.phones.landline, site.phones.mobile],
+    phones: [site.phones.landline],
   },
   {
     icon: Mail,
@@ -47,10 +47,14 @@ export default function Location() {
   return (
     <section
       id="lokacija"
-      className="section-padding scroll-mt-20 bg-cream-50"
+      className="section-padding relative scroll-mt-20 overflow-hidden bg-gradient-to-b from-cream-100 via-leaf-50/70 to-cream-100"
       aria-label="Lokacija"
     >
-      <div className="container-custom">
+      <div
+        aria-hidden="true"
+        className="glow-blob -right-32 top-32 h-[26rem] w-[26rem] bg-leaf-200/40"
+      />
+      <div className="container-custom relative z-10">
         <Reveal className="mb-16 max-w-3xl">
           <p className="eyebrow text-leaf-700">
             <span className="eyebrow-dot" aria-hidden="true" />

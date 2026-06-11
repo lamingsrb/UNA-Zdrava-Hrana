@@ -30,6 +30,8 @@ const config: Config = {
           200: '#EDE3CE',
           300: '#E0D2B4',
         },
+        // topla "papirna" površina za kartice — umesto čisto bele
+        paper: '#FFFDF7',
         forest: {
           600: '#1E4D33',
           700: '#16402A',
