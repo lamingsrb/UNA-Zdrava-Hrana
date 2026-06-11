@@ -5,7 +5,7 @@
  */
 
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://una-zdrava-hrana.vercel.app'
+  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://unazdravahrana.com'
 
 export const site = {
   name: 'UNA Zdrava Hrana',

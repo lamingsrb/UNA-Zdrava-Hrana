@@ -40,9 +40,10 @@ npm run build   # produkcioni build
 ```
 
 ## 🌐 Domen
-Canonical URL se podešava env varijablom `NEXT_PUBLIC_SITE_URL`
-(fallback: `https://una-zdrava-hrana.vercel.app`). Kada se kupi pravi domen,
-dodati varijablu u Vercel projektu — sve SEO reference se automatski ažuriraju.
+**Produkcija:** https://unazdravahrana.com (Vercel-registrovan, auto-renew jun 2027)
+Canonical URL: env varijabla `NEXT_PUBLIC_SITE_URL` u Vercel projektu
+(fallback u kodu: `https://unazdravahrana.com`). GitHub repo je povezan sa
+Vercel projektom — svaki push na `master` automatski deployuje produkciju.
 
 ---
 
