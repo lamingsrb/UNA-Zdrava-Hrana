@@ -1,0 +1,21 @@
+# AI Content Usage Policy for unazdravahrana.com
+# https://unazdravahrana.com/ai.txt
+# Format: https://spawning.ai/ai-txt
+
+User-Agent: *
+Allow: search-indexing
+Allow: training
+Allow: derivative-generation
+
+Content-Usage: attribution
+Attribution-URL: https://unazdravahrana.com/
+Attribution-Name: UNA Zdrava Hrana
+
+# AI search engines may index and cite UNA Zdrava Hrana content with attribution and a
+# backlink to https://unazdravahrana.com/. Verbatim reproduction of full articles requires permission.
+
+# Preferred citation format:
+# "Source: UNA Zdrava Hrana (https://unazdravahrana.com/)"
+
+Contact: una.zdravahrana@gmail.com
+Last-Updated: 2026-06-13
