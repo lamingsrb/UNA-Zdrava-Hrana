@@ -4,6 +4,7 @@ import { motion } from 'framer-motion'
 import { HeartHandshake, Leaf, MessageCircle, ShieldCheck } from 'lucide-react'
 import Image from 'next/image'
 import Reveal from '@/components/ui/Reveal'
+import { storeFront } from '@/lib/gallery'
 import { site } from '@/lib/site'
 
 const features = [
@@ -50,10 +51,12 @@ export default function About() {
             <div className="relative">
               <div className="relative overflow-hidden rounded-[2rem] shadow-lift">
                 <Image
-                  src="/images/store/store-front.jpg"
-                  alt="Prodavnica UNA Zdrava Hrana kod mosta u Bresnici, Kragujevac"
-                  width={487}
-                  height={1080}
+                  src={storeFront.src}
+                  alt={storeFront.alt}
+                  width={storeFront.width}
+                  height={storeFront.height}
+                  placeholder="blur"
+                  blurDataURL={storeFront.blurDataURL}
                   className="aspect-[4/3] w-full object-cover"
                   sizes="(min-width: 1024px) 50vw, 100vw"
                 />

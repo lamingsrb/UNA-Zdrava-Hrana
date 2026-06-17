@@ -13,6 +13,7 @@ const navItems = [
   { name: 'Naša priča', href: '/#prica' },
   { name: 'Proizvodi', href: '/#proizvodi' },
   { name: 'O nama', href: '/#o-nama' },
+  { name: 'Galerija', href: '/#galerija' },
   { name: 'Blog', href: '/blog' },
   { name: 'Recepti', href: '/recepti' },
   { name: 'Lokacija', href: '/#lokacija' },

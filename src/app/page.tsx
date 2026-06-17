@@ -4,6 +4,7 @@ import Hero from '@/components/sections/Hero'
 import Story from '@/components/sections/Story'
 import Products from '@/components/sections/Products'
 import About from '@/components/sections/About'
+import Gallery from '@/components/sections/Gallery'
 import Visit from '@/components/sections/Visit'
 import FAQ from '@/components/sections/FAQ'
 import Location from '@/components/sections/Location'
@@ -38,6 +39,7 @@ export default function Home() {
         <Story />
         <Products />
         <About />
+        <Gallery />
         <Visit />
         <FAQ />
         <Location />

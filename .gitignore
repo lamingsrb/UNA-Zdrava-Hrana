@@ -38,3 +38,7 @@ suppliers_contacts.json
 
 # kredencijali (Google service account i sl.)
 .secrets/
+
+# sirovi medij (4K fotke + video) — obrađene web verzije idu u public/images/store/
+/Media/
+/_imgprev/

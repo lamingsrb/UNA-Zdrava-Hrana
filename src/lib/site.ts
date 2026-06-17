@@ -113,7 +113,12 @@ export function buildStoreJsonLd() {
     url: SITE_URL,
     telephone: site.phones.landline.e164,
     email: site.email,
-    image: [`${SITE_URL}/images/store/store-front.jpg`],
+    image: [
+      `${SITE_URL}/images/store/store-front.jpg`,
+      `${SITE_URL}/images/store/store-interior-bulk.jpg`,
+      `${SITE_URL}/images/store/store-interior-wide.jpg`,
+      `${SITE_URL}/images/store/store-entrance.jpg`,
+    ],
     logo: `${SITE_URL}/una-logo-512.png`,
     priceRange: '$$',
     currenciesAccepted: 'RSD',
