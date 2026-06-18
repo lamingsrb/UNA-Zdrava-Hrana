@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Predoziranje melatoninom: simptomi i šta da znate
+
+https://unazdravahrana.com/blog/predoziranje-melatoninom-simptomi-i-sta-da-znate
+
+Melatonin je hormon koji pomaže kod povremenih problema sa spavanjem, ali u prevelikim dozama izaziva pospanost, glavobolju, mučninu i noćne more. Preporučuju se male doze (0,5–1 mg) 30–60 minuta pre spavanja, kratkotrajno i uz konsultaciju lekara kod hroničnih problema.
+
+**Q: Koja je sigurna doza melatonina?**
+
+Za većinu odraslih osoba dovoljna je doza od 0,5 do 1 mg, uzeta 30 do 60 minuta pre spavanja. Veće doze (3–5 mg) koriste se samo izuzetno, na primer kod jet laga, jer više nije nužno bolje i češće izaziva nuspojave.
+
+**Q: Koji su simptomi predoziranja melatoninom?**
+
+Najčešći simptomi su jutarnja pospanost, glavobolja, vrtoglavica, mučnina, razdražljivost i živi snovi ili noćne more. Ređi, ali ozbiljniji simptomi uključuju ubrzano lupanje srca, pad pritiska, drhtanje i jaku konfuziju — tada treba pozvati lekara.
+
+**Q: Da li se melatonin može uzimati svake večeri?**
+
+Melatonin je namenjen kratkotrajnoj upotrebi — par dana ili nekoliko nedelja. Ako problemi sa spavanjem traju mesecima, ne treba povećavati dozu već se obratiti lekaru kako bi se utvrdio pravi uzrok nesanice.
+
+**Q: Da li je melatonin bezbedan za decu?**
+
+Melatonin se ne preporučuje deci bez izričite preporuke pedijatra. Posebno su rizične melatoninske gumice koje deca dožive kao slatkiše, a slučajno gutanje može izazvati ozbiljne simptome i zahteva hitnu medicinsku pomoć.
+
+---
+
 ## Osvežavajući napitak od tikvice, borovnica i mente
 
 https://unazdravahrana.com/recepti/osvezavajuci-napitak-od-tikvice-borovnica-i-mente
