@@ -12,6 +12,17 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Osvežavajući napitak od tikvice, borovnica i mente](https://unazdravahrana.com/recepti/osvezavajuci-napitak-od-tikvice-borovnica-i-mente)
+- [Kokosova voda protiv letnje iscrpljenosti – pomaže li?](https://unazdravahrana.com/blog/kokosova-voda-protiv-letnje-iscrpljenosti-pomaze-li)
+- [5 namirnica bogatih likopenom (a nisu paradajz)](https://unazdravahrana.com/blog/5-namirnica-bogatih-likopenom-a-nisu-paradajz)
+- [Letnji puding od chia semenki sa kajsijama i borovnicama](https://unazdravahrana.com/recepti/letnji-puding-od-chia-semenki-sa-kajsijama-i-borovnicama)
+- [5 sastojaka koji će vašu salatu učiniti zasitnijom](https://unazdravahrana.com/blog/5-sastojaka-koji-ce-vasu-salatu-uciniti-zasitnijom)
+- [Hleb i mršavljenje: zašto izbacivanje nije rešenje](https://unazdravahrana.com/blog/hleb-i-mrsavljenje-zasto-izbacivanje-nije-resenje)
+- [Krem od kajsija i borovnica sa čia semenkama](https://unazdravahrana.com/recepti/krem-od-kajsija-i-borovnica-sa-cia-semenkama)
+- [Magnezijum i varenje: tihi heroj koji često fali](https://unazdravahrana.com/blog/magnezijum-i-varenje-tihi-heroj-koji-cesto-fali)
+- [7 zdravih umaka i dodataka jelima koji ne podižu šećer](https://unazdravahrana.com/blog/7-zdravih-umaka-i-dodataka-jelima-koji-ne-podizu-secer)
+- [Pečene tikvice punjene kinoom i borovnicama](https://unazdravahrana.com/recepti/pecene-tikvice-punjene-kinoom-i-borovnicama)
+- [Savršen letnji doručak koji izgleda kao desert](https://unazdravahrana.com/blog/savrsen-letnji-dorucak-koji-izgleda-kao-desert)
 - [Laneno ulje za srce: kako ga koristiti pravilno](https://unazdravahrana.com/blog/laneno-ulje-za-srce-kako-ga-koristiti-pravilno)
 - [Topla salata od tikvica sa kinoom i kajsijama](https://unazdravahrana.com/recepti/topla-salata-od-tikvica-sa-kinoom-i-kajsijama)
 - [Vitamin D u trudnoći i razvoj mozga bebe](https://unazdravahrana.com/blog/vitamin-d-u-trudnoci-i-razvoj-mozga-bebe)
@@ -21,10 +32,6 @@ _Priroda zna recept_
 - [Hladna ovsena kaša sa kajsijama i čia semenkama](https://unazdravahrana.com/recepti/hladna-ovsena-kasa-sa-kajsijama-i-cia-semenkama)
 - [Veza creva, kože i mozga: zašto je sve povezano?](https://unazdravahrana.com/blog/veza-creva-koze-i-mozga-zasto-je-sve-povezano)
 - [Mafini od tikvica sa borovnicama i ovsom](https://unazdravahrana.com/recepti/mafini-od-tikvica-sa-borovnicama-i-ovsom)
-- [Palačinke od heljde sa kajsijama i borovnicama](https://unazdravahrana.com/recepti/palacinke-od-heljde-sa-kajsijama-i-borovnicama)
-- [Marakuja - tropsko voće koje pokreće creva](https://unazdravahrana.com/blog/marakuja-tropsko-voce-koje-pokrece-creva)
-- [Letnja salata sa tikvicama, kinoom i borovnicama](https://unazdravahrana.com/recepti/letnja-salata-sa-tikvicama-kinoom-i-borovnicama)
-- [Chia semenke i visok pritisak: koliko dnevno?](https://unazdravahrana.com/blog/chia-semenke-i-visok-pritisak-koliko-dnevno)
 
 ## Contact
 
@@ -35,6 +42,6 @@ _Priroda zna recept_
 
 ## Content licensing
 
-This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy.
+This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
 Last updated: 2026-06-13
