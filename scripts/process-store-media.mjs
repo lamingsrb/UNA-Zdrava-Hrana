@@ -12,8 +12,15 @@
  *      koje galerija, Visit i About sekcija + JSON-LD čitaju.
  *
  * Pokretanje:  node scripts/process-store-media.mjs
- * Zahteva:     sharp (već u devDependencies); video se enkodira ffmpeg-om
- *              odvojeno (vidi README / commit poruku).
+ * Zahteva:     sharp (već u devDependencies).
+ *
+ * Video se enkodira ffmpeg-om odvojeno kao PALINDROM („boomerang"): napred +
+ * unazad spojeni u jednom fajlu, pa HTML `loop` daje beskonačni napred-nazad
+ * bez vidljivog skoka (isti trik kao hero na fakturko.io). Recept:
+ *   ffmpeg -i Media/VID_*.mp4 -filter_complex \
+ *     "[0:v]scale=-2:720,fps=30,setpts=PTS-STARTPTS[s];[s]split[a][b];[b]reverse[r];[a][r]concat=n=2:v=1[v]" \
+ *     -map "[v]" -c:v libx264 -crf 32 -preset slow -pix_fmt yuv420p -an -movflags +faststart \
+ *     public/images/store/store-walkthrough.mp4
  */
 
 import sharp from 'sharp'

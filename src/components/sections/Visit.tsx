@@ -75,6 +75,9 @@ export default function Visit() {
         style={reduce ? { scale: 1.25 } : { y, scale: 1.25 }}
         className="absolute inset-0"
       >
+        {/* Snimak je palindrom (napred+nazad spojeni u fajlu, vidi
+            process-store-media.mjs), pa `loop` daje beskonačni napred-nazad
+            bez vidljivog skoka — utisak da se nikad ne završava. */}
         <video
           ref={videoRef}
           poster={walkthroughPoster.src}
@@ -90,11 +93,13 @@ export default function Visit() {
       </motion.div>
       <div
         aria-hidden="true"
-        className="absolute inset-0 bg-gradient-to-r from-forest-950/92 via-forest-950/72 to-forest-950/40"
+        className="absolute inset-0 bg-gradient-to-r from-forest-950/80 via-forest-950/45 to-forest-950/15"
       />
 
       <div className="container-custom relative z-10 py-28 sm:py-36 lg:py-44">
-        <div className="max-w-xl">
+        {/* Frosted-glass panel — tekst ostaje čitljiv preko živog videa
+            (modern blur overlay, kao hero na fakturko.io) */}
+        <div className="max-w-xl rounded-[2rem] bg-forest-950/45 p-7 shadow-lift ring-1 ring-cream-50/12 backdrop-blur-md sm:p-9">
           <Reveal>
             <p className="eyebrow inline-flex items-center gap-2.5 text-honey-300">
               <span
