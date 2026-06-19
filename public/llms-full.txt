@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Šta se dešava s jetrom kad svaki dan jedete šećer
+
+https://unazdravahrana.com/blog/sta-se-desava-s-jetrom-kad-svaki-dan-jedete-secer
+
+Svakodnevni unos šećera, posebno iz zaslađenih napitaka i industrijskih proizvoda, opterećuje jetru i može voditi taloženju masnoće u njenim ćelijama. Tekst objašnjava skrivene izvore šećera, dnevne granice i pametne zamene poput stevije, datulja i kokosovog šećera.
+
+**Q: Koliko šećera dnevno je bezbedno za odraslu osobu?**
+
+Svetske preporuke navode najviše oko 25 grama dodatog šećera dnevno, što je otprilike 6 kašičica. Jedan gazirani sok i jedan voćni jogurt već prelaze tu granicu.
+
+**Q: Koja je najbolja zamena za beli šećer?**
+
+Stevija je odlična jer ne podiže šećer u krvi i nema kalorija, dok datulje, kokosov šećer i sirovi med nose i dodatne hranljive sastojke. Izbor zavisi od namene — za kafu stevija, za kolače datulje ili kokosov šećer.
+
+**Q: Kako prepoznati skriveni šećer u namirnicama?**
+
+Pažljivo čitajte listu sastojaka i tražite nazive poput glukozno-fruktoznog sirupa, dekstroze, saharoze, maltodekstrina i koncentrata voćnog soka. Ako se pojavi više različitih „šećera“, proizvod je verovatno jako zaslađen.
+
+**Q: Koje namirnice pomažu da se jetra odmori?**
+
+Jetru rasterećuju vlakna iz ovsa, mahunarki i povrća, zdrave masti iz orašastih plodova i maslinovog ulja, kvalitetni proteini i gorko zeleno povrće poput rukole, blitve i kelja.
+
+---
+
 ## Predoziranje melatoninom: simptomi i šta da znate
 
 https://unazdravahrana.com/blog/predoziranje-melatoninom-simptomi-i-sta-da-znate
