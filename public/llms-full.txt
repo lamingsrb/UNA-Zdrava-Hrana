@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Hladni jogurt napitak sa kajsijama, borovnicama i čia semenk
+
+https://unazdravahrana.com/recepti/hladni-jogurt-napitak-sa-kajsijama-borovnicama-i-cia-semenk
+
+Hladni jogurt napitak sa kajsijama, borovnicama i čia semenkama — osvežavajući letnji doručak koji podržava hidraciju. Gotov za 10 minuta.
+
+**Q: Mogu li da koristim smrznute borovnice umesto svežih?**
+
+Da, smrznute borovnice odlično funkcionišu — čak daju i lepšu hladnu teksturu napitku. Samo ih dodajte direktno u blender, bez prethodnog odmrzavanja.
+
+**Q: Koliko dugo treba da čia semenke nabubre?**
+
+Oko 5-7 minuta je dovoljno za laganu gustinu. Ako volite gušći, puding-efekat, ostavite napitak 20 minuta u frižideru pre služenja.
+
+**Q: Da li je ovaj napitak dobar za decu?**
+
+Jeste — prirodno je sladak od voća i bez veštačkih dodataka. Za najmlađe možete izostaviti med i smanjiti količinu čia semenki na pola kašike po porciji.
+
+**Q: Pomaže li ovakav napitak kod hidracije tokom leta?**
+
+Napici na bazi jogurta i sočnog voća doprinose unosu tečnosti uz minerale i vitamine. Ipak, voda ostaje osnovna — pratite boju urina kao orijentir, a kod zdravstvenih pitanja konsultujte lekara.
+
+---
+
 ## Šta se dešava s jetrom kad svaki dan jedete šećer
 
 https://unazdravahrana.com/blog/sta-se-desava-s-jetrom-kad-svaki-dan-jedete-secer
