@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## UNA Zdrava Hrana vs Sito i Zdravo: Poređenje 2025
+
+https://unazdravahrana.com/blog/una-zdrava-hrana-vs-sito-i-zdravo-poredjenje-2025
+
+UNA Zdrava Hrana u Kragujevcu nudi preko 500 proizvoda uz lični savet iskusnog prodavca i radi svakog dana, ali bez online prodaje. Sito i Zdravo je lanac sa razvijenom web prodavnicom i dostavom širom Srbije, idealan kada već znate šta poručujete.
+
+**Q: Koja je glavna razlika između UNA Zdrava Hrana i Sito i Zdravo?**
+
+UNA je fizička radnja u Kragujevcu sa ličnim savetom prodavca i bez online prodaje, dok Sito i Zdravo nudi web prodavnicu sa dostavom širom Srbije. Asortimanski se ne razlikuju dramatično — razlika je u načinu kupovine.
+
+**Q: Da li UNA Zdrava Hrana ima online prodaju i dostavu?**
+
+Ne, UNA Zdrava Hrana ne radi online prodaju ni dostavu kurirom. Kupovina se obavlja lično u radnji u Bresnici, gde dobijate savet i možete pročitati deklaraciju pre kupovine.
+
+**Q: Kakvo je radno vreme UNA Zdrave Hrane?**
+
+UNA radi od ponedeljka do subote od 07:30 do 21:00, a nedeljom od 08:00 do 15:00, što omogućava kupovinu posle posla ili vikendom posle pijace.
+
+**Q: Kako uporediti cene zdrave hrane između dve radnje?**
+
+Uvek pitajte za cenu po jedinici — po kilogramu, gramu ili kapsuli — i poredite to umesto cene celog pakovanja. Cene variraju zbog kursa, uvoza i akcija, a pakovanje je važnije od deklarisane cene.
+
+---
+
 ## Hidratantna činija sa tikvicom, kajsijama i borovnicama
 
 https://unazdravahrana.com/recepti/hidratantna-cinija-sa-tikvicom-kajsijama-i-borovnicama
@@ -679,30 +703,6 @@ Odlično pristaju i kajsije isečene na kockice ili sveže maline. U toku zime m
 **Q: Koliko proteina ima jedna porcija?**
 
 Oko 11–13 g biljnih proteina po porciji, zahvaljujući kombinaciji kinoe, badema i semenki. Za veću dozu dodajte kuvani slanutak ili jaje.
-
----
-
-## Chia semenke i visok pritisak: koliko dnevno?
-
-https://unazdravahrana.com/blog/chia-semenke-i-visok-pritisak-koliko-dnevno
-
-Chia semenke su bogate vlaknima, omega-3, magnezijumom i kalijumom, te mogu podržati zdravlje krvnih sudova kao deo uravnotežene ishrane, ali ne zamenjuju terapiju. Preporučena količina je 1–2 supene kašike dnevno, uvek dobro namočene i uz dovoljno vode.
-
-**Q: Koliko chia semenki dnevno treba jesti kod visokog pritiska?**
-
-Odraslim osobama se preporučuje 1 do 2 supene kašike (10–20 g) dnevno, podeljeno u dva obroka. Početnici treba da krenu sa jednom kašičicom (oko 5 g) prve dve nedelje, kako bi se digestija postepeno navikla.
-
-**Q: Da li chia semenke snižavaju krvni pritisak?**
-
-Chia semenke nisu lek i ne zamenjuju terapiju, ali sadrže magnezijum, kalijum, vlakna i omega-3 masne kiseline koji podržavaju zdravlje krvnih sudova. Efekat se vidi tek uz redovno, dugotrajno konzumiranje kao deo uravnotežene ishrane.
-
-**Q: Kako se chia semenke pravilno pripremaju?**
-
-Najbolje je namočiti supenu kašiku chia u vodi ili biljnom napitku preko noći u frižideru, ili 15–20 minuta u toploj vodi. Mogu se posipati i preko jogurta, ovsene kaše ili voća, ali tada jelo treba pojesti u roku od sat vremena.
-
-**Q: Koje su najčešće greške pri konzumiranju chia semenki?**
-
-Najčešće greške su preterivanje na početku, jedenje suvih semenki bez vode, kratkotrajno korišćenje uz očekivanje brzog efekta, loše čuvanje na toplom mestu i upotreba starih semenki kojima su omega-3 kiseline izgubile svežinu.
 
 ---
 
