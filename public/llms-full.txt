@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja salata sa lubenicom, borovnicama i bademima
+
+https://unazdravahrana.com/recepti/letnja-salata-sa-lubenicom-borovnicama-i-bademima
+
+Osvežavajuća letnja salata sa lubenicom, borovnicama, fetom i bademima — gotova za 20 minuta. Lak i zdrav recept za vrele dane.
+
+**Q: Mogu li da pripremim salatu unapred?**
+
+Možete je pripremiti 2-3 sata ranije i držati u frižideru, ali bademe, fetu i mentu dodajte tek pre serviranja da ostanu sveži i hrskavi.
+
+**Q: Čime da zamenim borovnice ako ih nemam?**
+
+Odlično idu i kupine, maline ili isečene kajsije. Bitno je da voće bude sveže i zrelo da dođe do izražaja.
+
+**Q: Da li je ova salata pogodna za decu?**
+
+Jeste, deca obično obožavaju kombinaciju lubenice i borovnica. Za najmlađe možete smanjiti količinu feta sira i izostaviti biber.
+
+**Q: Mogu li da koristim druge orašaste plodove?**
+
+Naravno — indijski orah, lešnik ili bundevine semenke takođe odlično funkcionišu. Lagano ih propržite radi punijeg ukusa.
+
+---
+
 ## Radno vreme UNA Zdrava Hrana u Kragujevcu
 
 https://unazdravahrana.com/blog/radno-vreme-una-zdrava-hrana-u-kragujevcu
@@ -679,30 +703,6 @@ Odlično ide breskva, nektarina ili maline. U rano leto možete kombinovati i tr
 **Q: Koliko palačinki dobijem od jedne mere?**
 
 Iz ovih količina izlazi 8–10 srednjih palačinki, odnosno 4 lepe porcije za doručak. Ako pravite za decu, podelite na manje komade i lakše ćete dozirati.
-
----
-
-## Marakuja - tropsko voće koje pokreće creva
-
-https://unazdravahrana.com/blog/marakuja-tropsko-voce-koje-pokrece-creva
-
-Marakuja je tropsko voće izuzetno bogato vlaknima zahvaljujući jestivim semenkama, što je čini moćnim saveznikom za varenje i zdravlje creva. Konzumira se sveža, sušena ili u semenkama, a najbolje se kombinuje sa jogurtom, ovsenom kašom i drugim namirnicama bogatim vlaknima.
-
-**Q: Kako prepoznati zrelu marakuju?**
-
-Zrela marakuja ima naboranu, smežuranu koru - što je kora više izborana, to je voće slađe i sočnije. Glatka i sjajna marakuja je još nezrela i treba je ostaviti par dana na sobnoj temperaturi.
-
-**Q: Da li se semenke marakuje jedu?**
-
-Da, semenke marakuje se jedu zajedno sa sočnom unutrašnjošću. One su najvažniji deo voća jer sadrže najveći deo netopljivih vlakana koja podržavaju varenje i zdravlje creva.
-
-**Q: Koliko marakuje dnevno je dovoljno?**
-
-Jedna do dve marakuje dnevno su sasvim dovoljne, posebno za one koji nisu navikli na veći unos vlakana. Prevelika količina može izazvati nadutost, zato je najbolje krenuti postepeno.
-
-**Q: Kako se marakuja koristi u svakodnevnoj ishrani?**
-
-Marakuja se najlakše jede kašičicom iz polovine voća, kao kivi. Odlično se kombinuje sa ovsenom kašom, jogurtom, voćnim salatama, smutijima ili kao prirodni preliv za palačinke i vafle.
 
 ---
 
