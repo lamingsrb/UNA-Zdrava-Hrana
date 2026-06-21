@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Najbolji suplementi za imunitet: šta zaista pomaže
+
+https://unazdravahrana.com/blog/najbolji-suplementi-za-imunitet-sta-zaista-pomaze
+
+Vodič kroz najefikasnije suplemente za imunitet: vitamin C, vitamin D3, cink, propolis i beta-glukan. Objašnjeno kako, kada i u kojim oblicima ih koristiti za stvarne rezultate.
+
+**Q: Koji je najvažniji suplement za imunitet zimi?**
+
+Vitamin D3 je ključan od oktobra do marta jer u našem podneblju sunce nije dovoljno jako da koža proizvede potrebne količine. Uzimajte ga uz obrok sa mastima radi bolje apsorpcije.
+
+**Q: Koliko vitamina C treba uzimati dnevno?**
+
+Bolje je svakodnevno uzimati umerenu dozu od 500 do 1000 mg raspoređeno tokom dana, nego povremene megadoze kada već imate simptome prehlade.
+
+**Q: Koji oblik cinka je najbolji za apsorpciju?**
+
+Najbolje se apsorbuju cink-citrat, cink-glicinat i cink-pikolinat. Cink-oksid je jeftiniji ali se slabo iskorišćava, pa nije isplativ izbor.
+
+**Q: Da li su suplementi za imunitet bezbedni za svakoga?**
+
+Ako uzimate terapiju, imate hroničnu bolest, trudni ste ili dojite — obavezno se konsultujte sa lekarom. Suplementi mogu da reaguju sa lekovima i to nije sitnica.
+
+---
+
 ## Letnja salata sa lubenicom, borovnicama i bademima
 
 https://unazdravahrana.com/recepti/letnja-salata-sa-lubenicom-borovnicama-i-bademima
@@ -679,30 +703,6 @@ Jesu, sadrže malo dodatnih šećera i bogati su vlaknima. Za najmlađe možete 
 **Q: Mogu li da napravim verziju bez glutena?**
 
 Možete — spelt zamenite mešavinom bezglutenskog brašna, a obavezno koristite ovsene pahuljice sa oznakom „bez glutena”. Tekstura će biti mrvičastija, ali ukus odličan.
-
----
-
-## Palačinke od heljde sa kajsijama i borovnicama
-
-https://unazdravahrana.com/recepti/palacinke-od-heljde-sa-kajsijama-i-borovnicama
-
-Pahuljaste palačinke od heljdinog brašna sa kajsijama i borovnicama — zdrav letnji doručak bez glutena, gotov za 30 minuta.
-
-**Q: Mogu li da napravim testo veče ranije?**
-
-Možete. Pripremite testo bez praška za pecivo i čuvajte ga u frižideru preko noći. Ujutru dodajte prašak, promešajte i pecite — palačinke će biti jednako pahuljaste.
-
-**Q: Da li je heljdino brašno zaista bez glutena?**
-
-Heljda je prirodno bez glutena. Ako kuvate za nekoga sa celijakijom, birajte brašno sa oznakom da je proizvedeno u pogonu bez glutena. U radnji vam rado pokažemo takve opcije.
-
-**Q: Čime da zamenim kajsije ako ih nema?**
-
-Odlično ide breskva, nektarina ili maline. U rano leto možete kombinovati i trešnje sa borovnicama — boja i ukus budu prelepi.
-
-**Q: Koliko palačinki dobijem od jedne mere?**
-
-Iz ovih količina izlazi 8–10 srednjih palačinki, odnosno 4 lepe porcije za doručak. Ako pravite za decu, podelite na manje komade i lakše ćete dozirati.
 
 ---
 
