@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Suplementi za energiju: kako prirodno povratiti vitalnost
+
+https://unazdravahrana.com/blog/suplementi-za-energiju-kako-prirodno-povratiti-vitalnost
+
+Vodič kroz pet najefikasnijih prirodnih suplemenata za vraćanje vitalnosti i borbu protiv hroničnog umora. Objašnjava ko ima koristi od B kompleksa, magnezijuma, koenzima Q10, ginsenga i maca korena, kao i kako se pravilno uzimaju.
+
+**Q: Koji suplement je najbolji za hronični umor?**
+
+Za hronični umor najčešće pomažu B kompleks i magnezijum malat, jer učestvuju u pretvaranju hrane u ćelijsku energiju. Ako ste stariji od 40 godina, koenzim Q10 može biti dragocen dodatak. Pre uzimanja preporučuje se provera nivoa gvožđa, vitamina D i B12.
+
+**Q: Kada se pije magnezijum, ujutru ili uveče?**
+
+Zavisi od razloga: ako ga pijete zbog grčeva, nemirnog sna ili opuštanja, uzmite ga uveče sat-dva pre spavanja. Ako vam treba za energiju i koncentraciju, podelite dozu na ujutru i popodne. Ne pijte ga istovremeno sa kafom jer tanini smanjuju apsorpciju.
+
+**Q: Koliko traje dok koenzim Q10 počne da deluje?**
+
+Koenzim Q10 traži između 4 i 8 nedelja redovne upotrebe da bi se osetila razlika u nivou energije i izdržljivosti. Obavezno ga uzimajte uz obrok koji sadrži masnoće, jer je rastvorljiv u mastima i bez toga se slabo apsorbuje.
+
+**Q: Da li su prirodni suplementi za energiju bezbedni?**
+
+Kvalitetni suplementi su uglavnom bezbedni kada se uzimaju u preporučenim dozama, ali nisu zamena za san, ishranu i lekarski pregled. Ako uzimate lekove (posebno statine ili lekove za pritisak), trudni ste ili dojite, obavezno se konsultujte sa lekarom pre upotrebe.
+
+---
+
 ## Najbolji suplementi za imunitet: šta zaista pomaže
 
 https://unazdravahrana.com/blog/najbolji-suplementi-za-imunitet-sta-zaista-pomaze
@@ -679,30 +703,6 @@ Najbolji izvori su ovsene pahuljice, integralne testenine i brašna, lan, čia i
 **Q: Da li fermentisani proizvodi zaista pomažu varenju?**
 
 Da, fermentisani proizvodi poput kiselog kupusa, kefira i domaćeg jogurta prirodno sadrže korisne bakterije koje pomažu varenju. Već male svakodnevne količine, kao kašika kiselog kupusa uz ručak, mogu napraviti razliku.
-
----
-
-## Mafini od tikvica sa borovnicama i ovsom
-
-https://unazdravahrana.com/recepti/mafini-od-tikvica-sa-borovnicama-i-ovsom
-
-Mekani integralni mafini sa tikvicama, borovnicama i ovsom — zdrava letnja užina za celu porodicu, gotova za 40 minuta.
-
-**Q: Mogu li da koristim smrznute borovnice?**
-
-Da, ne morate ih odmrzavati — samo ih umešajte u smesu zaleđene da ne puste boju. Vreme pečenja produžite za 2–3 minuta.
-
-**Q: Čime da zamenim med?**
-
-Možete koristiti javorov sirup ili agavin sirup u istoj količini. Za jaču aromu probajte sa pekmezom od kajsije — 4 kašike.
-
-**Q: Da li su mafini pogodni za decu?**
-
-Jesu, sadrže malo dodatnih šećera i bogati su vlaknima. Za najmlađe možete smanjiti med na 2 kašike jer su borovnice već prirodno slatke.
-
-**Q: Mogu li da napravim verziju bez glutena?**
-
-Možete — spelt zamenite mešavinom bezglutenskog brašna, a obavezno koristite ovsene pahuljice sa oznakom „bez glutena”. Tekstura će biti mrvičastija, ali ukus odličan.
 
 ---
 
