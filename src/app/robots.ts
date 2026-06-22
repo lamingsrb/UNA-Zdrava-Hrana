@@ -18,6 +18,12 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: 'cohere-ai', allow: '/' },
       { userAgent: 'Omgilibot', allow: '/' },
       { userAgent: 'YouBot', allow: '/' },
+      { userAgent: 'OAI-SearchBot', allow: '/' },
+      { userAgent: 'ChatGPT-User', allow: '/' },
+      { userAgent: 'Perplexity-User', allow: '/' },
+      { userAgent: 'Claude-SearchBot', allow: '/' },
+      { userAgent: 'Claude-User', allow: '/' },
+      { userAgent: 'Bingbot', allow: '/' },
     ],
     sitemap: `${SITE_URL}/sitemap.xml`,
   }
