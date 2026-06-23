@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Tost od integralnog hleba sa kajsijama i tahinijem
+
+https://unazdravahrana.com/recepti/tost-od-integralnog-hleba-sa-kajsijama-i-tahinijem
+
+Brz i zdrav tost od integralnog hleba sa tahinijem, sočnim kajsijama i borovnicama. Gotov za 13 minuta — idealan letnji doručak ili užina.
+
+**Q: Mogu li da koristim suve kajsije ako nije sezona?**
+
+Možete, ali ih prethodno potopite u toplu vodu 10 minuta da omekšaju. Količinu prepolovite jer su koncentrovanije po slatkoći.
+
+**Q: Da li je ovaj tost pogodan za decu?**
+
+Da, vrlo je pogodan kao školska užina. Ako dete ne voli tahini, zamenite ga kremom od lešnika bez šećera ili tankim slojem domaćeg pekmeza.
+
+**Q: Koliko dugo se može čuvati?**
+
+Najbolji je svež, odmah po pripremi. Komponente (krem, voće) možete pripremiti unapred i sklopiti tost neposredno pre serviranja da hleb ostane hrskav.
+
+**Q: Mogu li da zamenim borovnice nekim drugim voćem?**
+
+Naravno — odlično idu i maline, kupine ili tanko sečene jagode. Birajte sezonsko voće za najbolji ukus i cenu.
+
+---
+
 ## Hladna kremasta zobena kaša sa tikvicom i kajsijama
 
 https://unazdravahrana.com/recepti/hladna-kremasta-zobena-kasa-sa-tikvicom-i-kajsijama
@@ -679,30 +703,6 @@ Najbogatiji prirodni izvori su masna riba (losos, sardine), žumance i pečurke 
 ## Krem juha od boba: recept koji vraća staru ljubav
 
 https://unazdravahrana.com/blog/krem-juha-od-boba-recept-koji-vraca-staru-ljubav
-
----
-
-## Hladna supa od tikvica sa mentom i bademima
-
-https://unazdravahrana.com/recepti/hladna-supa-od-tikvica-sa-mentom-i-bademima
-
-Osvežavajuća hladna supa od mladih tikvica sa mentom i bademima — kremasta, laka i gotova za pola sata. Idealna za vrele letnje dane.
-
-**Q: Mogu li da koristim starije, krupnije tikvice?**
-
-Možete, ali ih prethodno očistite od semenki i kore jer mogu biti gorkaste. Mlade tikvice daju nežniji i slađi ukus.
-
-**Q: Koliko dugo supa može da stoji u frižideru?**
-
-U dobro zatvorenoj posudi izdržaće do 3 dana. Preporučujemo da je napravite ujutru i poslužite za večeru — ukusi se lepo povežu.
-
-**Q: Da li je recept pogodan za vegane?**
-
-Jeste, u potpunosti. Samo se uverite da je povrtna supa bez životinjskih sastojaka.
-
-**Q: Šta da poslužim uz ovu supu?**
-
-Lepo ide uz integralni hleb ili pšenične kreker pločice, a za sitniji obrok dodajte šaku orašastih plodova ili komad sira.
 
 ---
 
