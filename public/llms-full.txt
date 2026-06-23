@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Prirodni suplementi za imunitet: 4 sigurna izbora
+
+https://unazdravahrana.com/blog/prirodni-suplementi-za-imunitet-4-sigurna-izbora
+
+Vodič kroz četiri prirodna saveznika imuniteta: ehinaceju, propolis, beli luk i vitamin C, sa praktičnim uputstvima za upotrebu. Objašnjava doziranje, oblike preparata, najčešće greške i kontraindikacije za svaki suplement.
+
+**Q: Koliko dugo se sme uzimati ehinacea?**
+
+Prema preporuci Evropske agencije za lekove (EMA), preparati ehinaceje ne treba da se koriste duže od 10 dana kontinuirano kod akutnih stanja. Preventivno se može sprovesti kura od 2 do 3 nedelje, pa pauza, a za duže uzimanje konsultujte stručnjaka.
+
+**Q: Da li se propolis sme stavljati u vreo čaj?**
+
+Ne, visoka temperatura razgrađuje deo aktivnih sastojaka propolisa. Sačekajte da se čaj prohladi na oko 40°C pa tek onda dodajte kapi tinkture propolisa.
+
+**Q: Kako pravilno koristiti beli luk za imunitet?**
+
+Zdrobite ili sitno iseckajte češanj i ostavite ga da odstoji oko 10 minuta pre upotrebe, jer tada nastaje najviše alicina. Koristite ga sirovog u prelivima, namazima ili pestu, jer termička obrada smanjuje njegovo delovanje.
+
+**Q: Ko ne sme da koristi ehinaceju?**
+
+Ehinaceju treba da izbegavaju osobe sa autoimunim bolestima (lupus, multipla skleroza, reumatoidni artritis), alergijom na biljke iz porodice glavočika (ambrozija, neven), kao i trudnice bez konsultacije sa lekarom.
+
+---
+
 ## Suplementi za energiju: kako prirodno povratiti vitalnost
 
 https://unazdravahrana.com/blog/suplementi-za-energiju-kako-prirodno-povratiti-vitalnost
@@ -679,30 +703,6 @@ Jeste — lagan je, zasitan i prirodno sladak od voća i meda. Za najmlađe (do 
 **Q: Mogu li da pripremim toplu verziju?**
 
 Naravno. Sve sastojke (osim svežeg voća) skuvaj u šerpici 5-7 minuta uz mešanje, pa dodaj kajsije i bademe na kraju.
-
----
-
-## Veza creva, kože i mozga: zašto je sve povezano?
-
-https://unazdravahrana.com/blog/veza-creva-koze-i-mozga-zasto-je-sve-povezano
-
-Tekst objašnjava osu creva-koža-mozak i kako mikroflora utiče na ten, raspoloženje i energiju. Daje praktične savete o probioticima, vlaknima, fermentisanoj hrani i adaptogenim čajevima, uz najčešće greške koje treba izbeći.
-
-**Q: Šta je osa creva-koža-mozak?**
-
-To je naziv za neprekidnu razmenu signala između creva, kože i mozga preko nerava, hormona i crevnih mikroorganizama. Ravnoteža mikroflore odražava se na izgled kože i raspoloženje, dok stres i loša ishrana mogu da poremete ceo krug.
-
-**Q: Koliko dugo treba uzimati probiotike da bi se videli rezultati?**
-
-Probiotici ne deluju odmah — preporučuje se najmanje 4 do 8 nedelja redovne upotrebe. Crevna mikroflora se menja postepeno, pa rezultate treba računati u mesecima, ne danima.
-
-**Q: Koji su najbolji izvori vlakana u ishrani?**
-
-Najbolji izvori su ovsene pahuljice, integralne testenine i brašna, lan, čia i druge semenke, mahunarke poput sočiva i leblebija, kao i sveže i suvo voće. Vlakna treba uvoditi postepeno uz dovoljno vode.
-
-**Q: Da li fermentisani proizvodi zaista pomažu varenju?**
-
-Da, fermentisani proizvodi poput kiselog kupusa, kefira i domaćeg jogurta prirodno sadrže korisne bakterije koje pomažu varenju. Već male svakodnevne količine, kao kašika kiselog kupusa uz ručak, mogu napraviti razliku.
 
 ---
 
