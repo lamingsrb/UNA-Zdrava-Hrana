@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Hladna kremasta zobena kaša sa tikvicom i kajsijama
+
+https://unazdravahrana.com/recepti/hladna-kremasta-zobena-kasa-sa-tikvicom-i-kajsijama
+
+Kremasta hladna zobena kaša sa tikvicom, kajsijama i borovnicama — lagan letnji doručak koji pripremiš uveče za sledeće jutro.
+
+**Q: Da li deca vole ovaj doručak?**
+
+Najčešće da — tikvica se uopšte ne oseti, a slatkoća kajsija i borovnica čini kašu prijatnom. Ako su deca izbirljiva, prvi put preskoči cimet i dodaj malo više meda.
+
+**Q: Mogu li da koristim smrznute borovnice i kajsije?**
+
+Možeš, samo ih prethodno odmrzni i procedi višak tečnosti da kaša ne postane vodnjikava. Sveže sezonsko voće daje najbolji ukus i teksturu.
+
+**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
+
+Uz biranje sertifikovanih ovsenih pahuljica bez glutena, da. Standardni ovas može sadržati tragove glutena iz prerade — u radnji rado preporučimo proverene varijante.
+
+**Q: Koliko dugo treba da odstoji u frižideru?**
+
+Najmanje 4 sata da chia nabubri i kaša se zgusne. Najpraktičnije je pripremiti uveče, a ujutru samo dodati sveže voće i bademe.
+
+---
+
 ## Detoksikacija jetre: simptomi i prirodna rešenja
 
 https://unazdravahrana.com/blog/detoksikacija-jetre-simptomi-i-prirodna-resenja
@@ -679,30 +703,6 @@ Jeste, u potpunosti. Samo se uverite da je povrtna supa bez životinjskih sastoj
 **Q: Šta da poslužim uz ovu supu?**
 
 Lepo ide uz integralni hleb ili pšenične kreker pločice, a za sitniji obrok dodajte šaku orašastih plodova ili komad sira.
-
----
-
-## 5 razloga zašto ste naduti posle salate (i šta da uradite)
-
-https://unazdravahrana.com/blog/5-razloga-zasto-ste-naduti-posle-salate-i-sta-da-uradite
-
-Tekst objašnjava pet glavnih razloga zašto se javlja nadutost posle salate: sirovo povrće, nagli unos vlakana, neodgovarajući prelivi, loše kombinacije namirnica i osetljivost creva. Donosi praktične savete za blanširanje, postepeno uvođenje vlakana, jednostavne preliv od maslinovog ulja i limuna, kao i korišćenje probiotika.
-
-**Q: Zašto sam naduta posle salate?**
-
-Najčešći razlozi su sirovo povrće koje je teže za probavu, nagli porast unosa vlakana, industrijski prelivi sa aditivima i loše kombinacije sa hlebom ili mahunarkama. Postepeno uvođenje povrća i blanširanje pomažu.
-
-**Q: Kako da smanjim nadutost od povrća?**
-
-Sitnije iseckajte povrće, kombinujte sirovo sa blago kuvanim, žvaćite duže i pijte čašu vode uz obrok. Postepeno povećavajte vlakna nedeljno, ne dnevno, kako bi se creva navikla.
-
-**Q: Koji preliv za salatu je najlakši za varenje?**
-
-Najbolji je klasik: hladno ceđeno maslinovo ulje, limunov sok, prstohvat soli i sušeni origano ili bosiljak. Tahini razređen vodom i limunom je odlična alternativa za one sa intolerancijom na laktozu.
-
-**Q: Da li probiotik pomaže kod nadutosti?**
-
-Kvalitetan probiotik može podržati crevnu floru dok se navikava na više vlakana i pomoći u smanjenju gasova i nadutosti. Izbor oblika zavisi od vaših potreba i rutine.
 
 ---
 
