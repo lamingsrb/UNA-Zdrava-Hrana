@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Detoksikacija jetre: simptomi i prirodna rešenja
+
+https://unazdravahrana.com/blog/detoksikacija-jetre-simptomi-i-prirodna-resenja
+
+Tekst objašnjava kako jetra zaista funkcioniše i koje suptilne signale šalje kada je opterećena, naglašavajući da joj treba rasterećenje i podrška, a ne kratkotrajni detoks čajevi. Predstavlja sikavicu, artičoku, kurkumu i maslačak kao biljne saveznike uz jasne savete o doziranju i merama opreza.
+
+**Q: Koji su simptomi opterećene jetre?**
+
+Najčešći znaci su jutarnji umor koji ne prolazi posle kafe, mučnina i težina nakon masnih obroka, nadutost, tup ten i akne, obložen jezik i loš zadah ujutru, povećana osetljivost na alkohol, glavobolje pri buđenju i buđenje između 1 i 3 ujutru. Ako prepoznajete tri ili više simptoma duže od par nedelja, vredi preispitati ishranu i razmisliti o podršci biljkama.
+
+**Q: Koja biljka je najbolja za detoksikaciju jetre?**
+
+Sikavica (Silybum marianum) je najistraženija biljka za podršku jetri zahvaljujući silimarinu, kompleksu antioksidanata koji pomaže regeneraciji ćelija jetre. Evropska agencija za lekove (EMA) je priznaje kao tradicionalni biljni lek za podršku funkciji jetre. Najčešće se uzima kao standardizovani ekstrakt u kapsulama, u kurama od 6 do 8 nedelja.
+
+**Q: Da li detoks čajevi zaista čiste jetru za sedam dana?**
+
+Ne, takva brza čišćenja ne postoje. Jetra se sama detoksikuje svakodnevno, a njoj je potrebno dugoročno rasterećenje, ne kratka kura. Pravi pristup je smanjiti opterećenje (alkohol, ultraprerađena hrana, nepotrebni lekovi) i dodati podršku kroz gorke biljke, antioksidanse, vlakna i dovoljno vode.
+
+**Q: Kako se pravilno koristi kurkuma za jetru?**
+
+Kurkumin, aktivni sastojak kurkume, slabo se apsorbuje sam, pa ga treba kombinovati sa crnim biberom (piperin višestruko povećava iskoristivost) i sa malo masti poput kokosovog ili maslinovog ulja. Tako kurkuma efikasno deluje kao antioksidans, smanjuje upalu i podržava zaštitnu funkciju jetre.
+
+---
+
 ## Prirodni suplementi za imunitet: 4 sigurna izbora
 
 https://unazdravahrana.com/blog/prirodni-suplementi-za-imunitet-4-sigurna-izbora
@@ -679,30 +703,6 @@ Najbolji je klasik: hladno ceđeno maslinovo ulje, limunov sok, prstohvat soli i
 **Q: Da li probiotik pomaže kod nadutosti?**
 
 Kvalitetan probiotik može podržati crevnu floru dok se navikava na više vlakana i pomoći u smanjenju gasova i nadutosti. Izbor oblika zavisi od vaših potreba i rutine.
-
----
-
-## Hladna ovsena kaša sa kajsijama i čia semenkama
-
-https://unazdravahrana.com/recepti/hladna-ovsena-kasa-sa-kajsijama-i-cia-semenkama
-
-Hladna ovsena kaša sa sočnim kajsijama, čia semenkama i bademima — lagan letnji doručak gotov za 10 minuta uveče. Bez šećera.
-
-**Q: Mogu li da koristim instant ovsene pahuljice?**
-
-Možeš, ali kaša će biti mekša i kašastija. Krupnije, integralne pahuljice daju lepšu teksturu i drže se duže u frižideru.
-
-**Q: Šta ako nemam čia semenke?**
-
-Možeš ih zameniti lanenim semenkama (mlevenim) ili dodati još malo ovsenih pahuljica. Čia ipak daje najlepšu kremastu teksturu jer upija tečnost.
-
-**Q: Da li je ovaj doručak pogodan za decu?**
-
-Jeste — lagan je, zasitan i prirodno sladak od voća i meda. Za najmlađe (do 1 godine) preskoči med.
-
-**Q: Mogu li da pripremim toplu verziju?**
-
-Naravno. Sve sastojke (osim svežeg voća) skuvaj u šerpici 5-7 minuta uz mešanje, pa dodaj kajsije i bademe na kraju.
 
 ---
 
