@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Lagana kremasta supa od tikvica sa borovnicama
+
+https://unazdravahrana.com/recepti/lagana-kremasta-supa-od-tikvica-sa-borovnicama
+
+Lagana kremasta supa od tikvica sa svežim borovnicama i bademima — letnji recept za 40 minuta, bez glutena, oko 210 kcal po porciji.
+
+**Q: Mogu li da koristim smrznute borovnice?**
+
+Možete, ali ih kratko ocedite nakon odmrzavanja. Sveže borovnice ipak daju lepšu teksturu i čvrstoću na vrhu tople supe.
+
+**Q: Da li je recept pogodan za veganski jelovnik?**
+
+Jeste, recept je u potpunosti biljnog porekla. Samo proverite da je supa od povrća koju koristite bez životinjskih sastojaka.
+
+**Q: Kako da supa bude gušća?**
+
+Dodajte jedan manji krompir uz tikvice ili povećajte količinu mlevenih badema na 60 g. Možete i smanjiti količinu supe za oko 100 ml.
+
+**Q: Mogu li deca da jedu ovu supu?**
+
+Naravno, ukus je blag i prijatan. Za najmlađe izostavite biber i smanjite količinu belog luka.
+
+---
+
 ## Detoksikacija organizma: prirodna podrška telu
 
 https://unazdravahrana.com/blog/detoksikacija-organizma-prirodna-podrska-telu
@@ -697,30 +721,6 @@ Slatkoća kajsija i hrskavi bademi je čine privlačnom i mlađim ukusima. Ako d
 **Q: Koliko dugo traje priprema ako sve radim odjednom?**
 
 Oko 35 minuta ukupno — dok se kinoa kuva, stignete da grilujete tikvice i isečete kajsije, pa je sve gotovo paralelno.
-
----
-
-## Vitamin D u trudnoći i razvoj mozga bebe
-
-https://unazdravahrana.com/blog/vitamin-d-u-trudnoci-i-razvoj-mozga-bebe
-
-Dovoljan unos vitamina D tokom trudnoće povezan je sa boljim razvojem mozga i kognitivnim sposobnostima bebe. Tekst objašnjava razliku između D2 i D3, kako se vitamin D pravilno uzima i koje namirnice prirodno doprinose unosu.
-
-**Q: Da li je vitamin D bezbedan u trudnoći?**
-
-Da, vitamin D je preporučen dodatak u trudnoći, ali dozu treba uskladiti sa ginekologom na osnovu nalaza krvi. Najčešće se preporučuje oblik D3 jer ga organizam efikasnije koristi.
-
-**Q: Koja je razlika između vitamina D2 i D3?**
-
-Vitamin D3 (holekalciferol) se bolje apsorbuje i duže zadržava u krvi od D2 (ergokalciferol), zbog čega je u trudnoći najčešći izbor. D2 se dobija iz kvasca i gljiva, dok D3 potiče iz lanolina ili lišajeva.
-
-**Q: Kada je najbolje uzeti vitamin D?**
-
-Vitamin D je rastvorljiv u mastima, pa se najbolje apsorbuje uz obrok koji sadrži masnoću — na primer doručak sa jajima ili ručak sa avokadom i maslinovim uljem. Redovan dnevni unos je važniji od velikih povremenih doza.
-
-**Q: Koje namirnice sadrže vitamin D?**
-
-Najbogatiji prirodni izvori su masna riba (losos, sardine), žumance i pečurke sušene na suncu. Apsorpciju podržavaju i zdrave masti iz avokada, orašastih plodova i semenki.
 
 ---
 
