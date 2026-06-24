@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečena tikvica sa kvinojom, kajsijama i bademima
+
+https://unazdravahrana.com/recepti/pecena-tikvica-sa-kvinojom-kajsijama-i-bademima
+
+Pečena tikvica sa kvinojom, kajsijama i bademima — lagan letnji ručak gotov za 45 minuta. Bez glutena, pun ukusa i zasitan.
+
+**Q: Mogu li recept pripremiti unapred za posao?**
+
+Da, idealan je za meal prep. Pripremite kvinoju i pečene tikvice dan ranije, a preliv, bademe i sveže začinsko bilje dodajte neposredno pre jela da sve ostane sveže i hrskavo.
+
+**Q: Da li je jelo pogodno za one koji žele da smršaju?**
+
+Jeste — kombinuje vlakna, biljne proteine i zdrave masti koje doprinose dužem osećaju sitosti, uz umerenu kalorijsku vrednost. Za individualni plan ishrane uvek se posavetujte sa nutricionistom ili lekarom.
+
+**Q: Mogu li koristiti suve kajsije ako nemam sveže?**
+
+Možete, ali smanjite količinu na 80 g i prethodno ih potopite 10 minuta u toploj vodi da omekšaju. Ukus će biti intenzivniji i slađi.
+
+**Q: Da li je recept bez glutena?**
+
+Da, kvinoja prirodno ne sadrži gluten, pa je jelo pogodno za osobe sa intolerancijom — samo proverite da su semenke i bademi pakovani u pogonu bez kontaminacije glutenom.
+
+---
+
 ## Lagana kremasta supa od tikvica sa borovnicama
 
 https://unazdravahrana.com/recepti/lagana-kremasta-supa-od-tikvica-sa-borovnicama
@@ -697,30 +721,6 @@ Mora biti hladno ceđeno na temperaturi do 40°C, pakovano u tamnu staklenu fla�
 **Q: Kako se čuva laneno ulje posle otvaranja?**
 
 Otvorena flaša lanenog ulja obavezno se drži u frižideru, zatvorena, daleko od svetlosti i toplote. Tako zadržava svežinu i hranljive sastojke i ne gubi svojstva zbog kojih se koristi.
-
----
-
-## Topla salata od tikvica sa kinoom i kajsijama
-
-https://unazdravahrana.com/recepti/topla-salata-od-tikvica-sa-kinoom-i-kajsijama
-
-Topla salata od mladih tikvica, kinoe i sočnih kajsija sa bademima i mentom — lagan letnji ručak gotov za 35 minuta, prirodno bez glutena.
-
-**Q: Da li je ova salata pogodna za osobe sa intolerancijom na gluten?**
-
-Da, recept je prirodno bez glutena jer kinoa ne sadrži gluten. Ipak, ako ste osetljivi, proverite na deklaraciji da je kinoa pakovana u pogonu bez unakrsne kontaminacije — takvu kinou držimo u UNA radnji.
-
-**Q: Mogu li da koristim smrznute kajsije van sezone?**
-
-Možete, ali u rano leto sveže kajsije daju najbolju aromu i teksturu. Van sezone preporučujemo sušene kajsije (oko 80 g, prethodno potopljene 10 minuta u toploj vodi).
-
-**Q: Da li deca vole ovu salatu?**
-
-Slatkoća kajsija i hrskavi bademi je čine privlačnom i mlađim ukusima. Ako deca ne vole mentu, slobodno je izostavite ili zamenite peršunom.
-
-**Q: Koliko dugo traje priprema ako sve radim odjednom?**
-
-Oko 35 minuta ukupno — dok se kinoa kuva, stignete da grilujete tikvice i isečete kajsije, pa je sve gotovo paralelno.
 
 ---
 
