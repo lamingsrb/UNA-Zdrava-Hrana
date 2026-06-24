@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Detoksikacija organizma: prirodna podrška telu
+
+https://unazdravahrana.com/blog/detoksikacija-organizma-prirodna-podrska-telu
+
+Detoksikacija je svakodnevni proces koji jetra, bubrezi i creva obavljaju sami, a vi im pomažete smanjenjem opterećenja i kvalitetnom ishranom. Pet stubova su voda, vlakna, krstasto povrće, san i pokret, uz podršku biljnih čajeva poput maslačka, čička i koprive.
+
+**Q: Šta je detoksikacija organizma?**
+
+Detoksikacija je stalan biohemijski proces u kome jetra prerađuje metaboličke ostatke, a bubrezi, creva, koža i pluća ih izbacuju. Telo to radi samo, a vi možete pomoći smanjenjem alkohola, šećera i prerađene hrane uz više vode, vlakana i povrća.
+
+**Q: Koji čajevi podržavaju jetru i bubrege?**
+
+Za jetru su korisni čičak i maslačak, za bubrege kopriva, a zeleni čaj donosi antioksidanse. Pijte jednu do dve biljke dnevno i rotirajte ih tokom nedelje, ne mešajte više biljaka u istoj šolji.
+
+**Q: Koliko vlakana treba dnevno za zdravo varenje?**
+
+EFSA preporučuje minimum 25 grama vlakana dnevno za odrasle, a optimalno je 25 do 30 grama. Vlakna vežu otpadne materije u crevima i sprečavaju njihovo ponovno upijanje u organizam.
+
+**Q: Da li detoks dijete od nekoliko dana zaista čiste telo?**
+
+Ne. Komercijalni detoks programi i gladovanje na sokovima nemaju uverljive naučne dokaze da uklanjaju toksine. Realni rezultat jedne do dve nedelje pažljivije ishrane je bolje varenje, manje nadutosti i stabilnija energija.
+
+---
+
 ## Tost od integralnog hleba sa kajsijama i tahinijem
 
 https://unazdravahrana.com/recepti/tost-od-integralnog-hleba-sa-kajsijama-i-tahinijem
@@ -697,12 +721,6 @@ Vitamin D je rastvorljiv u mastima, pa se najbolje apsorbuje uz obrok koji sadr�
 **Q: Koje namirnice sadrže vitamin D?**
 
 Najbogatiji prirodni izvori su masna riba (losos, sardine), žumance i pečurke sušene na suncu. Apsorpciju podržavaju i zdrave masti iz avokada, orašastih plodova i semenki.
-
----
-
-## Krem juha od boba: recept koji vraća staru ljubav
-
-https://unazdravahrana.com/blog/krem-juha-od-boba-recept-koji-vraca-staru-ljubav
 
 ---
 
