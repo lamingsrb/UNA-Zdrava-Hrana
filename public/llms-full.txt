@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Galete od tikvica sa borovnicama i ovsom
+
+https://unazdravahrana.com/recepti/galete-od-tikvica-sa-borovnicama-i-ovsom
+
+Pečene galete od mladih tikvica i borovnica sa ovsenim pahuljicama i integralnim brašnom — brz, lagan letnji doručak za celu porodicu.
+
+**Q: Mogu li da koristim smrznute borovnice?**
+
+Možete, ali ih nemojte odmrzavati pre dodavanja — umešajte ih zaleđene u smesu da ne puste previše soka i ne oboje testo.
+
+**Q: Šta ako nemam grčki jogurt?**
+
+Zamenite ga običnim gušćim jogurtom ili kiselom pavlakom. Ako koristite tečniji jogurt, dodajte kašiku brašna više.
+
+**Q: Da li mogu galete da pržim u tiganju umesto da pečem?**
+
+Mogu, na malo maslinovog ulja, po 3 minuta sa svake strane na srednjoj vatri. Pečenje u rerni je laganija varijanta sa manje masnoće.
+
+**Q: Koliko dugo se tikvice ceđene drže pre mešanja?**
+
+Dovoljno je 10 minuta sa soli — so izvlači vodu, a vi ih onda rukama dobro iscedite. To je ključ da galete ne budu vlažne.
+
+---
+
 ## Vitamini i minerali za jak imunitet: C, D, cink i selen
 
 https://unazdravahrana.com/blog/vitamini-i-minerali-za-jak-imunitet-c-d-cink-i-selen
@@ -697,30 +721,6 @@ Najčešći signali su grčevi u listovima, trzanje kapka, plitak san, razdražl
 **Q: U kojoj hrani ima najviše magnezijuma?**
 
 Najbogatiji izvori su bundevine semenke, badem, indijski orah, susam i tahini, sirovi kakao, heljda, ovsene pahuljice, zeleno lisnato povrće, mahunarke i čia semenke. Šaka semenki dnevno, uz porciju lisnatog povrća i mahunarke nekoliko puta nedeljno, pokriva veliki deo dnevne potrebe.
-
----
-
-## 7 zdravih umaka i dodataka jelima koji ne podižu šećer
-
-https://unazdravahrana.com/blog/7-zdravih-umaka-i-dodataka-jelima-koji-ne-podizu-secer
-
-Gotovi umaci poput kečapa i dresinga često sadrže više šećera od slatkiša i podižu glukozu u krvi. Tahini, jabukovo sirće, senf bez šećera, maslinovo ulje sa začinima i limun su jednostavne, prirodne alternative koje obrok čine ukusnijim bez negativnog uticaja na šećer.
-
-**Q: Koliko šećera ima u kupovnom kečapu?**
-
-Prosečan kupovni kečap sadrži oko 20 grama šećera na 100 grama proizvoda, što je više nego u nekim keksima. Pored šećera, sadrži i glukozno-fruktozni sirup, so i zgušnjivače.
-
-**Q: Da li jabukovo sirće pomaže kod šećera u krvi?**
-
-Da, kiselina iz nefiltriranog jabukovog sirćeta uz obrok doprinosi sporijem podizanju glukoze nakon jela, naročito kod obroka bogatih ugljenim hidratima. Ne zamenjuje lekove, ali je korisna svakodnevna navika.
-
-**Q: Čime zameniti majonez u sendviču?**
-
-Najbolje zamene su tahini (pasta od susama), dijon senf bez dodatog šećera ili grčki jogurt sa limunom i začinima. Sve tri opcije imaju kremastu teksturu, manje kalorija i bez rafinisanih industrijskih ulja.
-
-**Q: Kako napraviti zdrav preliv za salatu za 5 minuta?**
-
-Pomešajte 4 kašike maslinovog ulja, 1 kašiku jabukovog sirćeta, 1 kašičicu senfa, so, biber i suvi origano. Promućkajte u tegli sa poklopcem i preliv je gotov za četvoročlanu porodicu.
 
 ---
 
