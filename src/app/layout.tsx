@@ -95,13 +95,7 @@ export default function RootLayout({
             recorder.js = session replay. */}
         <Script
           defer
-          src="https://pc-pc-1.tail18db6d.ts.net:8443/script.js"
-          data-website-id="c007aa82-bb16-43b0-94a1-270b5addb7fe"
-          strategy="lazyOnload"
-        />
-        <Script
-          defer
-          src="https://pc-pc-1.tail18db6d.ts.net:8443/recorder.js"
+          src="/_stats/script.js" data-host-url="https://unazdravahrana.com/_stats"
           data-website-id="c007aa82-bb16-43b0-94a1-270b5addb7fe"
           strategy="lazyOnload"
         />

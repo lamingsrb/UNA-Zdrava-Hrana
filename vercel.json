@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/_stats/:path*",
+      "destination": "https://pc-pc-1.tail18db6d.ts.net:8443/:path*"
+    }
+  ]
+}
