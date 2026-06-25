@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamini i minerali za jak imunitet: C, D, cink i selen
+
+https://unazdravahrana.com/blog/vitamini-i-minerali-za-jak-imunitet-c-d-cink-i-selen
+
+Praktičan vodič kroz četiri ključna nutrijenta za imunitet — vitamin C, vitamin D, cink i selen — sa preporučenim dozama i prirodnim izvorima. Objašnjava kada hrana nije dovoljna i kako pametno birati suplemente bez čestih grešaka.
+
+**Q: Koji vitamini su najvažniji za jak imunitet?**
+
+Četiri ključna nutrijenta su vitamin C, vitamin D, cink i selen. Svaki pokriva drugačiji deo imunog sistema — C podržava bela krvna zrnca i sluzokožu, D reguliše imuni odgovor, cink je neophodan za sazrevanje imunih ćelija, a selen štiti ćelije od oksidativnog stresa.
+
+**Q: Koliko vitamina C treba dnevno uneti?**
+
+Preporučeni dnevni unos za odrasle je 75–90 mg, što se pokriva sa nekoliko porcija voća i povrća. U periodima stresa ili zimi suplement od 200–500 mg dnevno je dovoljan; veće doze telo uglavnom izbaci urinom.
+
+**Q: Zašto je vitamin D najčešći nedostatak u Srbiji?**
+
+Od oktobra do marta ugao sunčevih zraka kod nas je premali da bi koža sintetisala vitamin D. Uz kancelarijski rad i SPF kremu leti, većina ljudi ima nizak nivo, pa se zimi često preporučuje suplement od 800–2000 IU dnevno uz prethodnu analizu krvi.
+
+**Q: Da li vitamin C sprečava prehladu?**
+
+Vitamin C ne sprečava prehladu, ali kod ljudi koji ga redovno unose može skratiti trajanje i ublažiti simptome. Bolje deluje stalan, umeren unos kroz ishranu nego udarne doze tek kad osetite prve simptome.
+
+---
+
 ## Vitamini i minerali za žene u menopauzi: vodič
 
 https://unazdravahrana.com/blog/vitamini-i-minerali-za-zene-u-menopauzi-vodic
@@ -697,30 +721,6 @@ Najbolje zamene su tahini (pasta od susama), dijon senf bez dodatog šećera ili
 **Q: Kako napraviti zdrav preliv za salatu za 5 minuta?**
 
 Pomešajte 4 kašike maslinovog ulja, 1 kašiku jabukovog sirćeta, 1 kašičicu senfa, so, biber i suvi origano. Promućkajte u tegli sa poklopcem i preliv je gotov za četvoročlanu porodicu.
-
----
-
-## Pečene tikvice punjene kinoom i borovnicama
-
-https://unazdravahrana.com/recepti/pecene-tikvice-punjene-kinoom-i-borovnicama
-
-Pečene tikvice punjene kinoom, borovnicama i orasima — lagan letnji obrok bez glutena, gotov za 45 minuta. Recept UNA Zdrave Hrane.
-
-**Q: Mogu li da koristim smrznute borovnice?**
-
-Možete, ali ih nemojte odmrzavati pre nego što ih umešate — dodajte ih direktno smrznute da ne puste previše soka i ne razvodne nadev.
-
-**Q: Da li se ovo jelo može pripremiti unapred?**
-
-Da, kinou i nadev možete pripremiti dan ranije i držati u frižideru. Tikvice napunite i pecite neposredno pre serviranja za najbolji rezultat.
-
-**Q: Kako da recept napravim potpuno biljnim (vegan)?**
-
-Jednostavno izostavite feta sir ili ga zamenite biljnom alternativom na bazi badema ili tofua. Ukus ostaje pun zahvaljujući orasima i začinima.
-
-**Q: Koje tikvice su najbolje za punjenje?**
-
-Birajte mlade, srednje veličine (15-20 cm), čvrste i sjajne kore. Veće tikvice imaju više semenki i mekše meso, pa se teže pune.
 
 ---
 
