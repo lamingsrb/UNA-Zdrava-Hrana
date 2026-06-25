@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 namirnica koje ne treba mešati sa chia semenkama
+
+https://unazdravahrana.com/blog/5-namirnica-koje-ne-treba-mesati-sa-chia-semenkama
+
+Chia semenke upijaju tečnost i formiraju gel, pa loše kombinacije sa drugim vlaknima i teškim obrocima izazivaju nadutost i zatvor. Treba ih izbegavati uz granolu, lanene semenke i psyllium, masno meso, suvo voće i mleko kod osetljivih osoba.
+
+**Q: Sa čim ne treba mešati chia semenke?**
+
+Chia semenke ne treba mešati sa suvom granolom, lanenim semenkama i psylliumom u istom obroku, masnim mesom, velikim količinama suvog voća i mlekom kod osetljivih osoba, jer te kombinacije izazivaju nadutost i težinu u stomaku.
+
+**Q: Koliko chia semenki dnevno je bezbedno?**
+
+Preporučena dnevna količina za odraslu osobu je jedna do dve kašike, odnosno oko 15 do 25 grama, uz obavezno dovoljno tečnosti tokom dana.
+
+**Q: Zašto chia semenke izazivaju nadutost?**
+
+Chia semenke upijaju tečnost do deset puta veću od svoje težine i formiraju gel u stomaku. Ako se kombinuju sa drugim namirnicama bogatim vlaknima ili sa malo vode, dolazi do preopterećenja creva i nadutosti.
+
+**Q: Da li chia semenke i lanene semenke mogu zajedno?**
+
+Mogu, ali samo u maloj količini i uz dosta vode. Bolje je birati jednu vrstu semenki po obroku jer obe bubre i vezuju tečnost, pa zajedno mogu izazvati zatvor i težinu.
+
+---
+
 ## Letnji tabule sa kinoom, kajsijama i borovnicama
 
 https://unazdravahrana.com/recepti/letnji-tabule-sa-kinoom-kajsijama-i-borovnicama
@@ -697,30 +721,6 @@ Prvi sastojak na deklaraciji mora biti integralno (celozrno) brašno, hleb treba
 **Q: Da li je prepečenac manje kaloričan od hleba?**
 
 Ne. Prepečenac ima isti broj kalorija i ugljenih hidrata kao i hleb, samo je voda isparila pa su hranljive materije koncentrisanije u manjoj masi.
-
----
-
-## Krem od kajsija i borovnica sa čia semenkama
-
-https://unazdravahrana.com/recepti/krem-od-kajsija-i-borovnica-sa-cia-semenkama
-
-Kremasti čia puding sa kajsijama i borovnicama — letnji dezert bez pečenja i belog šećera. Gotov za 15 minuta pripreme.
-
-**Q: Mogu li da koristim smrznute borovnice?**
-
-Da, smrznute borovnice odlično funkcionišu — samo ih prethodno odmrznite i ocedite višak tečnosti da krem ne postane previše vodenast.
-
-**Q: Koliko dugo čia semenke treba da stoje u tečnosti?**
-
-Minimum 2 sata, a idealno 4 sata ili preko noći. Tada čia upije tečnost, nabubri i napravi pravu pudingastu teksturu.
-
-**Q: Da li je recept pogodan za dijabetičare?**
-
-Recept je bez dodatog belog šećera i bogat vlaknima, što doprinosi stabilnijem nivou energije. Ipak, za konkretan plan ishrane konsultujte svog lekara ili nutricionistu.
-
-**Q: Mogu li da pripremim krem unapred za goste?**
-
-Naravno — čia krem napravite veče pre, a sveže voće i bademe dodajte tek pred serviranje da ostane hrskavo i lepo izgleda.
 
 ---
 
