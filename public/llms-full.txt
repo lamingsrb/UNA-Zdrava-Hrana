@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamini i minerali za žene u menopauzi: vodič
+
+https://unazdravahrana.com/blog/vitamini-i-minerali-za-zene-u-menopauzi-vodic
+
+Vodič objašnjava kako pad estrogena posle 45. godine utiče na kosti, san i termoregulaciju kod žena. Detaljno se obrađuju kalcijum, magnezijum i vitamin D — preporučene doze, najbolji oblici i česte greške pri suplementaciji.
+
+**Q: Koliko kalcijuma dnevno treba ženi u menopauzi?**
+
+Prema NIH, ženama starijim od 50 godina preporučuje se 1200 mg kalcijuma dnevno, ukupno iz hrane i suplemenata. Telo apsorbuje najviše 500 mg po obroku, pa dozu treba podeliti na dva puta.
+
+**Q: Koji oblik magnezijuma je najbolji za nesanicu u menopauzi?**
+
+Magnezijum-glicinat je najnežniji za stomak i najefikasniji za san i opuštanje. Uzima se otprilike sat vremena pre spavanja, a rezultati se obično primete nakon dve nedelje.
+
+**Q: Zašto je vitamin D važan u menopauzi?**
+
+Bez vitamina D telo ne može efikasno da apsorbuje kalcijum, pa suplementacija kalcijumom gubi smisao. Vitamin D je ključan za očuvanje gustine kostiju nakon pada estrogena.
+
+**Q: Da li suplementi mogu da zamene lekarsku terapiju u menopauzi?**
+
+Ne. Suplementi podržavaju organizam i ublažavaju simptome, ali ne zamenjuju lekarsku procenu. Pre uzimanja, posebno uz terapiju za pritisak, štitnu žlezdu ili razređivače krvi, obavezno se konsultujte sa lekarom.
+
+---
+
 ## Prirodni suplementi za insulinsku rezistenciju
 
 https://unazdravahrana.com/blog/prirodni-suplementi-za-insulinsku-rezistenciju
@@ -697,30 +721,6 @@ Jednostavno izostavite feta sir ili ga zamenite biljnom alternativom na bazi bad
 **Q: Koje tikvice su najbolje za punjenje?**
 
 Birajte mlade, srednje veličine (15-20 cm), čvrste i sjajne kore. Veće tikvice imaju više semenki i mekše meso, pa se teže pune.
-
----
-
-## Savršen letnji doručak koji izgleda kao desert
-
-https://unazdravahrana.com/blog/savrsen-letnji-dorucak-koji-izgleda-kao-desert
-
-Slojeviti hladni doručak sa zobenim pahuljicama, chia semenkama, jogurtom ili biljnim napitkom, svežim voćem i orašastim plodovima priprema se uveče i jede ujutru. Idealan je za vrele letnje dane jer ne zahteva kuvanje, dugo zasićuje i izgleda kao desert.
-
-**Q: Koliko dugo treba da odstoje zobene pahuljice sa chia semenkama?**
-
-Minimum četiri sata u frižideru, a najbolje preko noći. Za to vreme chia semenke upiju tečnost i stvore gelastu, kremastu teksturu.
-
-**Q: Koje zobene pahuljice su najbolje za hladan doručak?**
-
-Preporučujemo organske krupne, integralne pahuljice jer i posle dvanaest sati u jogurtu drže oblik i ne pretvaraju se u kašu. Instant verzije sa dodatim šećerom i aromama nisu pogodne.
-
-**Q: Može li ovaj doručak bez mlečnih proizvoda?**
-
-Da, umesto jogurta koristite biljni napitak — bademov, ovseni ili kokosov. Sa koštunjavim voćem poput breskve ili kajsije kombinacija je posebno ukusna.
-
-**Q: Koje voće ne treba stavljati u ovaj doručak?**
-
-Izbegavajte lubenicu i dinju jer puštaju previše vode, kao i citruse u komadima jer njihova kiselost može da useče jogurt.
 
 ---
 
