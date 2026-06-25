@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Beta karoten za tamnjenje kože: šta se zaista dešava
+
+https://unazdravahrana.com/blog/beta-karoten-za-tamnjenje-koze-sta-se-zaista-desava
+
+Beta karoten ne stimuliše melanin niti zamenjuje sunčanje, ali redovan unos može dati topliji ton kože (karotenodermija) i podržati prirodnu odbranu od UV zraka. Hrana poput šargarepe, bundeve i spiruline je sigurnija i efikasnija od izolovanih kapsula, posebno za pušače kojima visoke doze suplemenata nisu preporučljive.
+
+**Q: Da li beta karoten zaista tamni kožu?**
+
+Ne u smislu pravog tamnjenja. Beta karoten ne stimuliše melanin, već se taloži u koži i daje blago žućkasto-narandžasti ton (karotenodermija). Pravo tamnjenje nastaje samo izlaganjem UV zracima.
+
+**Q: Koliko dugo treba piti beta karoten da se vidi efekat?**
+
+Obično 3–4 nedelje redovnog unosa za blago topliji ton lica, a 6–8 nedelja za jasniju karotenodermiju. Posle prekida boja se postepeno povlači za par meseci, bez posledica.
+
+**Q: Da li beta karoten štiti od opekotina na suncu?**
+
+Istraživanja sugerišu da karotenoidi mogu podržati prirodnu odbranu kože od UV oštećenja, ali to ne zamenjuje kremu sa zaštitnim faktorom. I dalje ćete izgoreti ako se ne namažete.
+
+**Q: Da li je bolje uzimati beta karoten iz hrane ili kapsula?**
+
+Skoro uvek iz hrane. Šargarepa, slatki krompir, bundeva i spirulina sadrže beta karoten u prirodnoj kombinaciji sa drugim karotenoidima i vlaknima. Kapsule imaju smisla samo u specifičnim situacijama, a pušačima se ne preporučuju zbog povezanosti visokih doza sa rizikom od raka pluća.
+
+---
+
 ## 5 namirnica koje ne treba mešati sa chia semenkama
 
 https://unazdravahrana.com/blog/5-namirnica-koje-ne-treba-mesati-sa-chia-semenkama
@@ -697,30 +721,6 @@ Dovoljno je 1–2 kašike semenki po porciji salate. Semenke su kalorijski guste
 **Q: Koje mahunarke su najbolje za hladnu salatu?**
 
 Za hladnu salatu najbolje su leblebije i zeleno ili braon sočivo jer drže oblik i imaju čvrstu teksturu. Crveno sočivo se raspada i pogodnije je za tople salate.
-
----
-
-## Hleb i mršavljenje: zašto izbacivanje nije rešenje
-
-https://unazdravahrana.com/blog/hleb-i-mrsavljenje-zasto-izbacivanje-nije-resenje
-
-Izbacivanje hleba donosi brz, ali lažan gubitak težine kroz vodu, a ne masno tkivo. Pravi izbor su integralni, raženi i hlebovi sa semenkama u količini prilagođenoj dnevnoj aktivnosti.
-
-**Q: Da li hleb deblja?**
-
-Hleb sam po sebi ne deblja. Problem je u izboru belog hleba i prevelikim količinama. Integralni, raženi i hleb sa semenkama drže sitost duže i mogu biti deo ishrane za mršavljenje.
-
-**Q: Koliko kriški hleba dnevno za mršavljenje?**
-
-Za sedentaran posao dve do tri kriške integralnog hleba dnevno, za aktivne osobe tri do četiri, a za rekreativce četiri do šest kriški, raspoređenih kroz dan.
-
-**Q: Kako prepoznati pravi integralni hleb?**
-
-Prvi sastojak na deklaraciji mora biti integralno (celozrno) brašno, hleb treba da ima najmanje 6 g vlakana na 100 g, malo šećera i masti. Tamna boja sama po sebi nije garancija.
-
-**Q: Da li je prepečenac manje kaloričan od hleba?**
-
-Ne. Prepečenac ima isti broj kalorija i ugljenih hidrata kao i hleb, samo je voda isparila pa su hranljive materije koncentrisanije u manjoj masi.
 
 ---
 
