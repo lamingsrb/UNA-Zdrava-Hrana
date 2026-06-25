@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji tabule sa kinoom, kajsijama i borovnicama
+
+https://unazdravahrana.com/recepti/letnji-tabule-sa-kinoom-kajsijama-i-borovnicama
+
+Letnji tabule sa kinoom, kajsijama i borovnicama — lagana salata bez glutena, gotova za 30 minuta. Idealna za toplo popodne ili užinu za poneti.
+
+**Q: Da li je ovaj recept pogodan za osobe sa intolerancijom na gluten?**
+
+Da, kinoa je prirodno bez glutena, kao i ostali sastojci u receptu. Ako ste osetljivi, proverite da li je kinoa pakovana u pogonu koji garantuje 'bez glutena' — u UNA radnji rado ćemo vas usmeriti na takve proizvode.
+
+**Q: Mogu li da koristim suve kajsije umesto svežih?**
+
+Možete, ali smanjite količinu na oko 80 g i prethodno ih potopite u toplu vodu 10 minuta pa iseckajte. Ukus će biti intenzivniji i slađi, pa razmislite da izostavite med iz dresinga.
+
+**Q: Koliko dugo se salata čuva u frižideru?**
+
+Do 2 dana u zatvorenoj posudi. Borovnice i sveže začinsko bilje dodajte tek pred serviranje da ostanu sveži i lepog izgleda.
+
+**Q: Da li deca prihvataju ovakvu salatu?**
+
+Po našem iskustvu — da, upravo zbog kajsija i borovnica koje daju prijatan slatkast ukus. Ako deca nisu navikla na nanu, slobodno je smanjite ili izostavite.
+
+---
+
 ## Galete od tikvica sa borovnicama i ovsom
 
 https://unazdravahrana.com/recepti/galete-od-tikvica-sa-borovnicama-i-ovsom
@@ -697,30 +721,6 @@ Recept je bez dodatog belog šećera i bogat vlaknima, što doprinosi stabilnije
 **Q: Mogu li da pripremim krem unapred za goste?**
 
 Naravno — čia krem napravite veče pre, a sveže voće i bademe dodajte tek pred serviranje da ostane hrskavo i lepo izgleda.
-
----
-
-## Magnezijum i varenje: tihi heroj koji često fali
-
-https://unazdravahrana.com/blog/magnezijum-i-varenje-tihi-heroj-koji-cesto-fali
-
-Magnezijum opušta mišiće creva, privlači vodu u stolicu i pomaže enzimima, pa njegov manjak često stoji iza zatvora, nadutosti i grčeva. Najpre ga tražimo u semenkama, orašastim plodovima i lisnatom povrću, a kao suplement biramo oblik prema cilju — citrat za probavu, bisglicinat za san, malat za energiju.
-
-**Q: Da li magnezijum pomaže kod zatvora?**
-
-Da, posebno oblik magnezijum citrat, jer blago privlači vodu u creva i opušta crevne mišiće, čime stolica postaje mekša i lakše prolazi. Kod povremenog zatvora često daje rezultate već za dan-dva, uz dovoljno vode i vlakana.
-
-**Q: Koji oblik magnezijuma je najbolji za varenje?**
-
-Za probavne tegobe i povremeni zatvor najčešće se preporučuje magnezijum citrat, jer ima dobru apsorpciju i blagi laksativni efekat. Ako želite smirenje i bolji san bez delovanja na stolicu, bolji izbor je magnezijum bisglicinat.
-
-**Q: Koji su znaci manjka magnezijuma?**
-
-Najčešći signali su grčevi u listovima, trzanje kapka, plitak san, razdražljivost, glavobolje, umor i probavne tegobe poput zatvora i nadutosti. Ako se javljaju zajedno i traju duže, vredi proveriti unos magnezijuma kroz ishranu i posavetovati se sa lekarom.
-
-**Q: U kojoj hrani ima najviše magnezijuma?**
-
-Najbogatiji izvori su bundevine semenke, badem, indijski orah, susam i tahini, sirovi kakao, heljda, ovsene pahuljice, zeleno lisnato povrće, mahunarke i čia semenke. Šaka semenki dnevno, uz porciju lisnatog povrća i mahunarke nekoliko puta nedeljno, pokriva veliki deo dnevne potrebe.
 
 ---
 
