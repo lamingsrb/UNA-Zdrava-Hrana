@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Detoksikacija creva: vlakna, probiotici i biljke
+
+https://unazdravahrana.com/blog/detoksikacija-creva-vlakna-probiotici-i-biljke
+
+Tekst objašnjava kako podržati prirodno čišćenje creva kroz dovoljno vlakana, tečnosti i raznovrsnu mikrofloru. Daje konkretne doze psilijuma, lana, kefira i kiselog kupusa, kao i savete za izbor probiotika i biljnih čajeva.
+
+**Q: Koliko vlakana dnevno treba za zdrava creva?**
+
+Preporučuje se 25-30 g vlakana dnevno za odraslu osobu, kombinujući rastvorljiva (psilijum, lan, ovas) i nerastvorljiva (mekinje, koža povrća). Uvek uz dovoljno vode — bar 2-3 dl na svaku kašiku psilijuma ili lana.
+
+**Q: Da li je kupovni kiseli kupus pravi probiotik?**
+
+Samo ako nije pasterizovan. Kupus iz frižidera u kesama koje 'dišu' obično je živ i sadrži korisne bakterije, dok pasterizovan kupus iz tegli sa police na sobnoj temperaturi više nema žive kulture.
+
+**Q: Kada uzimati probiotik u kapsulama?**
+
+Probiotik se uzima ujutru na prazan stomak ili pred spavanje, sa malo hladne vode. Posebno je koristan posle antibiotika (još 2-4 nedelje), pri putovanjima, stresu i hroničnoj nadutosti.
+
+**Q: Šta je sinbiotik?**
+
+Sinbiotik je kombinacija probiotika (živih korisnih bakterija) i prebiotika (vlakana poput inulina ili psilijuma koja hrane te bakterije). Takva kombinacija olakšava bakterijama da se zadrže i razmnože u crevu.
+
+---
+
 ## Beta karoten za tamnjenje kože: šta se zaista dešava
 
 https://unazdravahrana.com/blog/beta-karoten-za-tamnjenje-koze-sta-se-zaista-desava
@@ -697,30 +721,6 @@ Najmanje 4 sata da semenke upiju tečnost i dobiju kremastu teksturu. Najbolji r
 **Q: Mogu li da pripremim porcije unapred za celu nedelju?**
 
 Osnovni puding bez voća čuva se 3-4 dana u frižideru. Pripremite tegle sa pudingom, a sveže voće dodajte ujutru pred konzumiranje.
-
----
-
-## 5 sastojaka koji će vašu salatu učiniti zasitnijom
-
-https://unazdravahrana.com/blog/5-sastojaka-koji-ce-vasu-salatu-uciniti-zasitnijom
-
-Salata vas ne drži sitim jer joj nedostaju belančevine, zdrave masti i vlakna. Dodavanjem kvinoje, mahunarki, semenki, avokada i orašastih plodova salata postaje pun obrok koji drži satima.
-
-**Q: Zašto me salata ne drži sitim?**
-
-Klasična zelena salata sadrži uglavnom vodu i vlakna, ali premalo belančevina i masti, pa se mehanizam sitosti ne aktivira dovoljno. Rešenje je dodati bar dva od tri stuba sitosti: belančevine, zdrave masti i složene ugljene hidrate.
-
-**Q: Kako pravilno skuvati kvinoju za salatu?**
-
-Isperite kvinoju u sitnoj cediljki da skinete gorčinu, pa kuvajte u odnosu 1 šolja kvinoje na 2 šolje vode oko 12–15 minuta. Sklonite s vatre, ostavite poklopljeno još 5 minuta i rastresite viljuškom.
-
-**Q: Koliko semenki dodati u salatu?**
-
-Dovoljno je 1–2 kašike semenki po porciji salate. Semenke su kalorijski guste, pa veća količina ne donosi više sitosti nego može da prebaci obrok u tromost.
-
-**Q: Koje mahunarke su najbolje za hladnu salatu?**
-
-Za hladnu salatu najbolje su leblebije i zeleno ili braon sočivo jer drže oblik i imaju čvrstu teksturu. Crveno sočivo se raspada i pogodnije je za tople salate.
 
 ---
 
