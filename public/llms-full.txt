@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji rižoto sa tikvicama i kajsijama
+
+https://unazdravahrana.com/recepti/letnji-rizoto-sa-tikvicama-i-kajsijama
+
+Kremasti rižoto sa mladim tikvicama, kajsijama i bademima — sezonsko, lagano glavno jelo gotovo za 45 minuta.
+
+**Q: Mogu li da koristim beli pirinač umesto integralnog?**
+
+Možete. Beli pirinač (arborio ili carnaroli) se kuva kraće — oko 18 minuta — pa skratite vreme i prilagodite količinu bujona. Tekstura će biti kremastija, ali sa manje vlakana.
+
+**Q: Da li je recept pogodan za vegane?**
+
+Lako se prilagođava — izostavite parmezan i puter, a umesto njih dodajte kašiku hranljivog kvasca ili tahinija za kremastu notu. Bujon koristite biljni.
+
+**Q: Šta ako kajsije nisu dovoljno zrele?**
+
+Manje zrele kajsije možete kratko prodinstati u tiganju sa kapljicom maslinovog ulja pre nego što ih dodate u rižoto — tako će razviti slatkoću i mekoću.
+
+**Q: Mogu li umesto badema da stavim drugi orašasti plod?**
+
+Naravno — odlično ide i pinjole, lešnik ili indijski orah. Bitno je da ih kratko prepečete da daju aromu i hrskavost.
+
+---
+
 ## Salata od pečenih tikvica sa borovnicama i fetom
 
 https://unazdravahrana.com/recepti/salata-od-pecenih-tikvica-sa-borovnicama-i-fetom
@@ -697,30 +721,6 @@ Jedan od jednostavnih pokazatelja je boja urina — svetlo žuta obično znači 
 **Q: Da li je napitak pogodan za osobe sa intolerancijom na gluten i laktozu?**
 
 Da, recept je prirodno bez glutena i bez laktoze, pa odgovara širokom krugu ljudi sa intolerancijama.
-
----
-
-## Kokosova voda protiv letnje iscrpljenosti – pomaže li?
-
-https://unazdravahrana.com/blog/kokosova-voda-protiv-letnje-iscrpljenosti-pomaze-li
-
-Kokosova voda je prirodno osveženje bogato kalijumom i magnezijumom koje pomaže nadoknadi elektrolita izgubljenih znojenjem leti. Nije čudotvorno piće niti zamena za vodu, ali je odlična alternativa zaslađenim napicima posle umerene aktivnosti.
-
-**Q: Da li je kokosova voda prirodni izotonik?**
-
-Kokosova voda je blizu izotoničnog napitka jer sadrži kalijum, magnezijum, natrijum i prirodne šećere u koncentraciji sličnoj krvi, pa se brzo upija. Za umerenu aktivnost je odlična, ali za intenzivne treninge preko sat vremena često je potrebno dodati još natrijuma.
-
-**Q: Može li kokosova voda da zameni običnu vodu?**
-
-Ne, kokosova voda ne treba da zameni običnu vodu u svakodnevnoj hidrataciji. Vodu pijte kao glavni izvor tečnosti, a kokosovu vodu koristite po potrebi — posle znojenja, treninga ili dana provedenog na suncu.
-
-**Q: Kako da prepoznam kvalitetnu kokosovu vodu u prodavnici?**
-
-Tražite proizvod čiji sastav sadrži samo kokosovu vodu, bez dodatih šećera, aroma i koncentrata. Prirodna kokosova voda je blago zamućena, svetlo žuto-bele boje i nežno slatkastog ukusa, idealno iz svežeg kokosa, a ne iz koncentrata.
-
-**Q: Koliko kokosove vode treba popiti posle treninga?**
-
-Za rekreativce posle 45–60 minuta treninga po toplom vremenu, čaša do dve (200–300 ml) je sasvim dovoljno da nadoknadite deo izgubljenih elektrolita. Ostatak dana nastavite sa običnom vodom.
 
 ---
 
