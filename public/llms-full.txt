@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Omega-3: zašto ga vredi uzimati svaki dan
+
+https://unazdravahrana.com/blog/omega-3-zasto-ga-vredi-uzimati-svaki-dan
+
+Omega-3 masne kiseline (EPA i DHA) su esencijalne za rad srca, mozga i vida, a preporučeni dnevni unos je 250–500 mg. Ako ne jedete masnu morsku ribu 2–3 puta nedeljno, kvalitetan suplement u triglicerid formi uz obrok je razuman izbor.
+
+**Q: Kolika je preporučena dnevna doza omega-3?**
+
+Za odraslu osobu preporučuje se oko 250 mg EPA + DHA dnevno, a mnogi stručnjaci kao razuman cilj navode 500 mg. Trudnice i dojilje imaju dodatne potrebe za DHA — oko 200 mg više od osnovnog unosa.
+
+**Q: Kada je najbolje uzimati omega-3 kapsule?**
+
+Najbolje uz obrok koji sadrži malo masti, idealno uz ručak, jer se omega-3 kao masne kiseline tada znatno bolje apsorbuju. Izbegavajte uzimanje na prazan stomak i sa kafom ili čajem.
+
+**Q: Da li je omega-3 iz lanenog semena dovoljan?**
+
+Laneno seme sadrži ALA oblik koji telo mora pretvoriti u EPA i DHA, ali ta konverzija je kod većine ljudi ispod 10%. Ako ne jedete ribu, bolji izbor je direktan unos DHA iz ulja algi.
+
+**Q: Kako prepoznati kvalitetan omega-3 suplement?**
+
+Gledajte količinu EPA i DHA, ne ukupnu količinu ulja — porcija treba da daje bar 500 mg EPA + DHA. Birajte triglicerid (TG ili rTG) formu, tamnu ambalažu, dodatak vitamina E i sertifikate o prečišćavanju od teških metala.
+
+---
+
 ## Letnji rižoto sa tikvicama i kajsijama
 
 https://unazdravahrana.com/recepti/letnji-rizoto-sa-tikvicama-i-kajsijama
@@ -697,30 +721,6 @@ Melatonin je namenjen kratkotrajnoj upotrebi — par dana ili nekoliko nedelja. 
 **Q: Da li je melatonin bezbedan za decu?**
 
 Melatonin se ne preporučuje deci bez izričite preporuke pedijatra. Posebno su rizične melatoninske gumice koje deca dožive kao slatkiše, a slučajno gutanje može izazvati ozbiljne simptome i zahteva hitnu medicinsku pomoć.
-
----
-
-## Osvežavajući napitak od tikvice, borovnica i mente
-
-https://unazdravahrana.com/recepti/osvezavajuci-napitak-od-tikvice-borovnica-i-mente
-
-Osvežavajući letnji napitak od tikvice, borovnica, mente i čia semenki — gotov za 25 minuta, idealan za hidrataciju tokom vrelih dana.
-
-**Q: Da li tikvica menja ukus napitka?**
-
-Tikvica je vrlo neutralnog ukusa i u kombinaciji sa borovnicama i mentom skoro da se ne oseti — daje samo kremastu teksturu i dodatnu hidrataciju.
-
-**Q: Mogu li koristiti smrznute borovnice?**
-
-Da, smrznute borovnice odlično funkcionišu i čak dodatno rashlade napitak. Nije potrebno prethodno ih odmrzavati.
-
-**Q: Kako da prepoznam da li sam dovoljno hidriran tokom leta?**
-
-Jedan od jednostavnih pokazatelja je boja urina — svetlo žuta obično znači dobru hidrataciju, a tamnija boja signal je da povećate unos tečnosti. Za konkretne zdravstvene savete obratite se lekaru.
-
-**Q: Da li je napitak pogodan za osobe sa intolerancijom na gluten i laktozu?**
-
-Da, recept je prirodno bez glutena i bez laktoze, pa odgovara širokom krugu ljudi sa intolerancijama.
 
 ---
 
