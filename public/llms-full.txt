@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Šta je superhrana? Vodič kroz najpoznatije namirnice
+
+https://unazdravahrana.com/blog/sta-je-superhrana-vodic-kroz-najpoznatije-namirnice
+
+Superhrana je marketinški pojam za namirnice izuzetno guste hranljivim sastojcima poput čije, spiruline, make, goji bobica i asaija. Tekst objašnjava koliko ih uzimati, kako ih koristiti u svakodnevnim obrocima i na šta treba obratiti pažnju.
+
+**Q: Šta je superhrana?**
+
+Superhrana je marketinški termin za namirnice koje na malu količinu nose izuzetno mnogo hranljivih materija — vitamina, minerala, vlakana, antioksidanasa i zdravih masti. Nije zvaničan nutricionistički pojam i ne zamenjuje raznovrsnu ishranu.
+
+**Q: Koliko čia semenki je preporučljivo jesti dnevno?**
+
+Za odraslu osobu dovoljno je 1–2 kašike (15–25 g) dnevno. Obavezno ih dodajte u nešto tečno ili popijte čašu vode uz njih, jer čia upija vodu i do 10 puta svoje težine.
+
+**Q: Da li je spirulina bolja u prahu ili u tabletama?**
+
+Obe forme su podjednako efikasne. Tablete su praktičnije jer izbegavate izrazito zemljast ukus, dok se prah najlakše koristi u zelenom smutiju sa voćem koje prikriva ukus.
+
+**Q: Ko ne bi trebalo da koristi superhranu bez konsultacije?**
+
+Trudnice, dojilje, deca, osobe sa autoimunim bolestima, hroničnim oboljenjima i one koje uzimaju lekove (naročito za razređivanje krvi) treba da se posavetuju sa lekarom ili farmaceutom pre redovne upotrebe.
+
+---
+
 ## Detoksikacija creva: vlakna, probiotici i biljke
 
 https://unazdravahrana.com/blog/detoksikacija-creva-vlakna-probiotici-i-biljke
@@ -697,30 +721,6 @@ Da, što je lubenica zrelija, sadrži više likopena. Prezreli, mekši delovi lu
 **Q: Da li grejpfrut može da utiče na lekove?**
 
 Da, grejpfrut može da utiče na delovanje pojedinih lekova, posebno za pritisak i holesterol. Ako ste na redovnoj terapiji, posavetujte se sa lekarom ili farmaceutom pre svakodnevne konzumacije.
-
----
-
-## Letnji puding od chia semenki sa kajsijama i borovnicama
-
-https://unazdravahrana.com/recepti/letnji-puding-od-chia-semenki-sa-kajsijama-i-borovnicama
-
-Kremasti chia puding sa sočnim kajsijama i borovnicama — hladan letnji doručak bez glutena i laktoze, gotov za 15 minuta pripreme.
-
-**Q: Mogu li da koristim smrznute borovnice umesto svežih?**
-
-Da, smrznute borovnice su odlična zamena van sezone. Odmrznite ih u frižideru i procedite višak tečnosti pre serviranja.
-
-**Q: Da li je ovaj recept bez glutena i laktoze?**
-
-Jeste, ako koristite biljno mleko (badem, ovas, kokos). Chia semenke i voće su prirodno bez glutena i laktoze.
-
-**Q: Koliko dugo chia puding mora da stoji u frižideru?**
-
-Najmanje 4 sata da semenke upiju tečnost i dobiju kremastu teksturu. Najbolji rezultat je preko noći.
-
-**Q: Mogu li da pripremim porcije unapred za celu nedelju?**
-
-Osnovni puding bez voća čuva se 3-4 dana u frižideru. Pripremite tegle sa pudingom, a sveže voće dodajte ujutru pred konzumiranje.
 
 ---
 
