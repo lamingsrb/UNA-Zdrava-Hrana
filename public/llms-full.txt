@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Salata od pečenih tikvica sa borovnicama i fetom
+
+https://unazdravahrana.com/recepti/salata-od-pecenih-tikvica-sa-borovnicama-i-fetom
+
+Mlaka salata od pečenih tikvica, svežih borovnica, feta sira i tostiranih semenki — lagan letnji obrok gotov za 35 minuta.
+
+**Q: Mogu li da koristim smrznute borovnice?**
+
+Možete, ali ih dodajte odmrznute i ocedite tečnost da salata ne postane vodenasta. Sveže su ipak najbolje u sezoni.
+
+**Q: Da li deca vole ovu kombinaciju?**
+
+Najčešće da, jer su borovnice slatke i ublažuju ukus tikvice. Ako je dete osetljivo na sir, izostavite ga ili zamenite ribanim kačkavaljem.
+
+**Q: Koje semenke su najbolje za ovaj recept?**
+
+Sirove semenke bundeve i suncokreta koje sami tostirate u tiganju — tako zadržavaju aromu i hrskavost. Gotove slane nisu potrebne.
+
+**Q: Mogu li unapred da pripremim salatu?**
+
+Tikvice ispecite ranije i čuvajte u frižideru. Borovnice, sir, semenke i preliv dodajte tek pred serviranje.
+
+---
+
 ## Šta je superhrana? Vodič kroz najpoznatije namirnice
 
 https://unazdravahrana.com/blog/sta-je-superhrana-vodic-kroz-najpoznatije-namirnice
@@ -697,30 +721,6 @@ Tražite proizvod čiji sastav sadrži samo kokosovu vodu, bez dodatih šećera,
 **Q: Koliko kokosove vode treba popiti posle treninga?**
 
 Za rekreativce posle 45–60 minuta treninga po toplom vremenu, čaša do dve (200–300 ml) je sasvim dovoljno da nadoknadite deo izgubljenih elektrolita. Ostatak dana nastavite sa običnom vodom.
-
----
-
-## 5 namirnica bogatih likopenom (a nisu paradajz)
-
-https://unazdravahrana.com/blog/5-namirnica-bogatih-likopenom-a-nisu-paradajz
-
-Tekst predstavlja pet namirnica koje su odličan izvor likopena pored paradajza, uključujući lubenicu, šipak, roze grejpfrut i papaju. Daje praktične savete za izbor, pripremu i kombinovanje ovih namirnica radi bolje apsorpcije ovog antioksidansa.
-
-**Q: Koje namirnice osim paradajza sadrže najviše likopena?**
-
-Najbogatiji izvori likopena pored paradajza su lubenica, šipak, roze i crveni grejpfrut, papaja i guava. Sve ove namirnice imaju karakterističnu crveno-narandžastu boju koja potiče upravo od likopena.
-
-**Q: Kako se likopen najbolje upija u organizmu?**
-
-Likopen je liposolubilan, što znači da se najbolje upija u prisustvu masti. Dodajte kašičicu maslinovog ulja, šaku oraha ili avokado uz obrok kako biste povećali apsorpciju.
-
-**Q: Da li je zrelija lubenica zdravija?**
-
-Da, što je lubenica zrelija, sadrži više likopena. Prezreli, mekši delovi lubenice su savršeni za smutije i nisu za bacanje.
-
-**Q: Da li grejpfrut može da utiče na lekove?**
-
-Da, grejpfrut može da utiče na delovanje pojedinih lekova, posebno za pritisak i holesterol. Ako ste na redovnoj terapiji, posavetujte se sa lekarom ili farmaceutom pre svakodnevne konzumacije.
 
 ---
 
