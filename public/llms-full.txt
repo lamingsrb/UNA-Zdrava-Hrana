@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Mocktail činija: borovnice, kajsije i tikvica
+
+https://unazdravahrana.com/recepti/mocktail-cinija-borovnice-kajsije-i-tikvica
+
+Osvežavajuća mocktail činija sa tikvicom, kajsijama, borovnicama i čia semenkama — lagani letnji doručak gotov za 35 minuta.
+
+**Q: Da li se ukus tikvice oseti u činiji?**
+
+Ne, mlada tikvica je vrlo neutralnog ukusa i posle blanširanja služi samo kao kremasta baza. Dominiraju kajsije i borovnice.
+
+**Q: Mogu li čia semenke da zamenim nečim drugim?**
+
+Da, lanene semenke (mlevene) ili semenke bosiljka daju sličan efekat zgušnjavanja. Količina ostaje ista — 2 do 3 kašike.
+
+**Q: Da li je recept pogodan za decu?**
+
+Jeste, pogotovo kao šarena užina. Za mlađu decu možete preskočiti limetu i smanjiti količinu zaslađivača jer su kajsije već slatke.
+
+**Q: Mogu li sve pripremiti uveče za sutra?**
+
+Možete pripremiti kremu sa čia semenkama dan ranije i ostaviti je u frižideru. Sveže voće, bademe i mentu dodajte tek pred serviranje.
+
+---
+
 ## Vrste magnezijuma: koji oblik odgovara baš vama
 
 https://unazdravahrana.com/blog/vrste-magnezijuma-koji-oblik-odgovara-bas-vama
@@ -697,30 +721,6 @@ Jeste — prirodno je sladak od voća i bez veštačkih dodataka. Za najmlađe m
 **Q: Pomaže li ovakav napitak kod hidracije tokom leta?**
 
 Napici na bazi jogurta i sočnog voća doprinose unosu tečnosti uz minerale i vitamine. Ipak, voda ostaje osnovna — pratite boju urina kao orijentir, a kod zdravstvenih pitanja konsultujte lekara.
-
----
-
-## Šta se dešava s jetrom kad svaki dan jedete šećer
-
-https://unazdravahrana.com/blog/sta-se-desava-s-jetrom-kad-svaki-dan-jedete-secer
-
-Svakodnevni unos šećera, posebno iz zaslađenih napitaka i industrijskih proizvoda, opterećuje jetru i može voditi taloženju masnoće u njenim ćelijama. Tekst objašnjava skrivene izvore šećera, dnevne granice i pametne zamene poput stevije, datulja i kokosovog šećera.
-
-**Q: Koliko šećera dnevno je bezbedno za odraslu osobu?**
-
-Svetske preporuke navode najviše oko 25 grama dodatog šećera dnevno, što je otprilike 6 kašičica. Jedan gazirani sok i jedan voćni jogurt već prelaze tu granicu.
-
-**Q: Koja je najbolja zamena za beli šećer?**
-
-Stevija je odlična jer ne podiže šećer u krvi i nema kalorija, dok datulje, kokosov šećer i sirovi med nose i dodatne hranljive sastojke. Izbor zavisi od namene — za kafu stevija, za kolače datulje ili kokosov šećer.
-
-**Q: Kako prepoznati skriveni šećer u namirnicama?**
-
-Pažljivo čitajte listu sastojaka i tražite nazive poput glukozno-fruktoznog sirupa, dekstroze, saharoze, maltodekstrina i koncentrata voćnog soka. Ako se pojavi više različitih „šećera“, proizvod je verovatno jako zaslađen.
-
-**Q: Koje namirnice pomažu da se jetra odmori?**
-
-Jetru rasterećuju vlakna iz ovsa, mahunarki i povrća, zdrave masti iz orašastih plodova i maslinovog ulja, kvalitetni proteini i gorko zeleno povrće poput rukole, blitve i kelja.
 
 ---
 
