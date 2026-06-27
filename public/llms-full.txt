@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vrste magnezijuma: koji oblik odgovara baš vama
+
+https://unazdravahrana.com/blog/vrste-magnezijuma-koji-oblik-odgovara-bas-vama
+
+Magnezijum dolazi u desetak oblika i svaki ima specifičnu namenu: citrat za grčeve i opštu upotrebu, bisglicinat za san i stres, malat za umor. Pri kupovini uvek gledajte količinu elementarnog magnezijuma na deklaraciji.
+
+**Q: Koji magnezijum je najbolji za grčeve u nogama?**
+
+Magnezijum-citrat je najčešći izbor za grčeve jer se dobro upija i pristupačne je cene. Preporučena doza je 200–400 mg elementarnog magnezijuma dnevno uz obrok.
+
+**Q: Koji magnezijum je najbolji za san i nesanicu?**
+
+Magnezijum-bisglicinat (glicinat) je najbolji izbor za san jer glicin dodatno umiruje nervni sistem. Uzima se 30–60 minuta pre spavanja i ne izaziva probleme sa stomakom.
+
+**Q: Šta znači elementarni magnezijum na deklaraciji?**
+
+Elementarni magnezijum je količina čistog minerala koju zaista unosite. Na primer, tableta od 500 mg magnezijum-citrata sadrži oko 80 mg elementarnog magnezijuma, što je broj koji se računa u dnevnu dozu.
+
+**Q: Koji magnezijum pomaže kod hroničnog umora?**
+
+Magnezijum-malat je najbolji za dugotrajan umor jer je vezan za jabučnu kiselinu koja učestvuje u proizvodnji energije u ćelijama. Uzima se ujutru ili rano popodne, 200–400 mg.
+
+---
+
 ## Omega-3: zašto ga vredi uzimati svaki dan
 
 https://unazdravahrana.com/blog/omega-3-zasto-ga-vredi-uzimati-svaki-dan
@@ -697,30 +721,6 @@ Pažljivo čitajte listu sastojaka i tražite nazive poput glukozno-fruktoznog s
 **Q: Koje namirnice pomažu da se jetra odmori?**
 
 Jetru rasterećuju vlakna iz ovsa, mahunarki i povrća, zdrave masti iz orašastih plodova i maslinovog ulja, kvalitetni proteini i gorko zeleno povrće poput rukole, blitve i kelja.
-
----
-
-## Predoziranje melatoninom: simptomi i šta da znate
-
-https://unazdravahrana.com/blog/predoziranje-melatoninom-simptomi-i-sta-da-znate
-
-Melatonin je hormon koji pomaže kod povremenih problema sa spavanjem, ali u prevelikim dozama izaziva pospanost, glavobolju, mučninu i noćne more. Preporučuju se male doze (0,5–1 mg) 30–60 minuta pre spavanja, kratkotrajno i uz konsultaciju lekara kod hroničnih problema.
-
-**Q: Koja je sigurna doza melatonina?**
-
-Za većinu odraslih osoba dovoljna je doza od 0,5 do 1 mg, uzeta 30 do 60 minuta pre spavanja. Veće doze (3–5 mg) koriste se samo izuzetno, na primer kod jet laga, jer više nije nužno bolje i češće izaziva nuspojave.
-
-**Q: Koji su simptomi predoziranja melatoninom?**
-
-Najčešći simptomi su jutarnja pospanost, glavobolja, vrtoglavica, mučnina, razdražljivost i živi snovi ili noćne more. Ređi, ali ozbiljniji simptomi uključuju ubrzano lupanje srca, pad pritiska, drhtanje i jaku konfuziju — tada treba pozvati lekara.
-
-**Q: Da li se melatonin može uzimati svake večeri?**
-
-Melatonin je namenjen kratkotrajnoj upotrebi — par dana ili nekoliko nedelja. Ako problemi sa spavanjem traju mesecima, ne treba povećavati dozu već se obratiti lekaru kako bi se utvrdio pravi uzrok nesanice.
-
-**Q: Da li je melatonin bezbedan za decu?**
-
-Melatonin se ne preporučuje deci bez izričite preporuke pedijatra. Posebno su rizične melatoninske gumice koje deca dožive kao slatkiše, a slučajno gutanje može izazvati ozbiljne simptome i zahteva hitnu medicinsku pomoć.
 
 ---
 
