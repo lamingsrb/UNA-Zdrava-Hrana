@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji mocktail sa borovnicama, kajsijama i bazilikom
+
+https://unazdravahrana.com/recepti/letnji-mocktail-sa-borovnicama-kajsijama-i-bazilikom
+
+Osvežavajući letnji mocktail sa kajsijama, borovnicama, bosiljkom i čia semenkama. Lagan recept za 25 minuta — bez alkohola i bez veštačkih boja.
+
+**Q: Mogu li da koristim smrznute borovnice?**
+
+Da, smrznute borovnice su odlična zamena van sezone. Odmrznite ih kratko ili ih ubacite direktno u napitak — dodatno će ohladiti čaše.
+
+**Q: Da li čia semenke moraju da bubre unapred?**
+
+Preporučujemo da, jer tako dobijaju prijatnu teksturu i ne lepe se za zube. Ako žurite, dovoljno je 10 minuta u hladnoj vodi.
+
+**Q: Koliko dugo mocktail može da stoji?**
+
+Najbolji je odmah po pripremi. Ako mora da čeka, sklonite ga u frižider i popijte u roku od 2-3 sata kako bosiljak ne bi pogorčao.
+
+**Q: Mogu li da ga pripremim bez čia semenki?**
+
+Naravno, napitak će biti tečniji i lakši. Čia semenke su tu zbog teksture i doprinose osećaju sitosti, ali nisu obavezne.
+
+---
+
 ## Mocktail činija: borovnice, kajsije i tikvica
 
 https://unazdravahrana.com/recepti/mocktail-cinija-borovnice-kajsije-i-tikvica
@@ -697,30 +721,6 @@ Ako tražite jedan do tri artikla i živite u Kragujevcu, gotovo sigurno je ispl
 **Q: Mogu li dobiti savet o suplementima u prodavnici zdrave hrane?**
 
 Da, u UNA Zdravoj Hrani u Bresnici kod Kragujevca prodavac sa iskustvom pomaže pri izboru multivitamina, Omega-3, probiotika, magnezijuma i drugih suplemenata na osnovu vaših navika spavanja, ishrane i fizičke aktivnosti.
-
----
-
-## Hladni jogurt napitak sa kajsijama, borovnicama i čia semenk
-
-https://unazdravahrana.com/recepti/hladni-jogurt-napitak-sa-kajsijama-borovnicama-i-cia-semenk
-
-Hladni jogurt napitak sa kajsijama, borovnicama i čia semenkama — osvežavajući letnji doručak koji podržava hidraciju. Gotov za 10 minuta.
-
-**Q: Mogu li da koristim smrznute borovnice umesto svežih?**
-
-Da, smrznute borovnice odlično funkcionišu — čak daju i lepšu hladnu teksturu napitku. Samo ih dodajte direktno u blender, bez prethodnog odmrzavanja.
-
-**Q: Koliko dugo treba da čia semenke nabubre?**
-
-Oko 5-7 minuta je dovoljno za laganu gustinu. Ako volite gušći, puding-efekat, ostavite napitak 20 minuta u frižideru pre služenja.
-
-**Q: Da li je ovaj napitak dobar za decu?**
-
-Jeste — prirodno je sladak od voća i bez veštačkih dodataka. Za najmlađe možete izostaviti med i smanjiti količinu čia semenki na pola kašike po porciji.
-
-**Q: Pomaže li ovakav napitak kod hidracije tokom leta?**
-
-Napici na bazi jogurta i sočnog voća doprinose unosu tečnosti uz minerale i vitamine. Ipak, voda ostaje osnovna — pratite boju urina kao orijentir, a kod zdravstvenih pitanja konsultujte lekara.
 
 ---
 
