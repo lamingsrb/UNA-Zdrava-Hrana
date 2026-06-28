@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamini i minerali za mozak: pamćenje i fokus
+
+https://unazdravahrana.com/blog/vitamini-i-minerali-za-mozak-pamcenje-i-fokus
+
+Mozak za optimalan rad traži omega-3 (DHA/EPA), B-kompleks, magnezijum, cink, gvožđe i vitamin D koji podržavaju membrane neurona, energiju i neurotransmitere. Ciljani suplementi mogu da poboljšaju pamćenje i koncentraciju, ali ne zamenjuju san, ishranu i kretanje.
+
+**Q: Koji je najbolji vitamin za pamćenje i fokus?**
+
+Ne postoji jedan vitamin — najveći efekat daju omega-3 masne kiseline (posebno DHA), B-kompleks (B1, B6, B9, B12) i magnezijum bisglicinat ili L-treonat. Oni zajedno podržavaju strukturu neurona, proizvodnju energije i smiren nervni sistem.
+
+**Q: Kada se uzima B-kompleks za mozak?**
+
+B-kompleks se najbolje uzima ujutru ili u podne, uz obrok. Uveče može da remeti san jer podiže energiju i 'pali motor' nervnog sistema.
+
+**Q: Koliko omega-3 dnevno za bolju koncentraciju?**
+
+Za odraslu osobu koja ne jede masnu ribu redovno preporučuje se oko 250–500 mg kombinovano EPA + DHA dnevno, uz obrok sa malo masnoće radi bolje apsorpcije.
+
+**Q: Koji oblik magnezijuma je najbolji za mozak?**
+
+Za kognitivnu podršku i fokus najbolji su bisglicinat (smiruje, poboljšava san i pažnju) i L-treonat koji prolazi krvno-moždanu barijeru. Magnezijum oksid treba izbegavati zbog slabe apsorpcije.
+
+---
+
 ## Tikvica fritati sa kajsijama i bademima
 
 https://unazdravahrana.com/recepti/tikvica-fritati-sa-kajsijama-i-bademima
@@ -697,30 +721,6 @@ Jeste, deca obično obožavaju kombinaciju lubenice i borovnica. Za najmlađe mo
 **Q: Mogu li da koristim druge orašaste plodove?**
 
 Naravno — indijski orah, lešnik ili bundevine semenke takođe odlično funkcionišu. Lagano ih propržite radi punijeg ukusa.
-
----
-
-## Radno vreme UNA Zdrava Hrana u Kragujevcu
-
-https://unazdravahrana.com/blog/radno-vreme-una-zdrava-hrana-u-kragujevcu
-
-UNA Zdrava Hrana se nalazi u ulici Slobodana Penezića Krcuna, kod mosta u Bresnici (Kragujevac), i radi ponedeljak-subota 07:30-21:00 i nedeljom 08:00-15:00. U ponudi je preko 500 proizvoda — organske namirnice, suplementi, čajevi, superhrana i prirodna kozmetika — uz stručan savet sa više od 15 godina iskustva.
-
-**Q: Koje je radno vreme UNA Zdrave Hrane u Kragujevcu?**
-
-Radnim danima i subotom radimo od 07:30 do 21:00, a nedeljom od 08:00 do 15:00, bez pauze za ručak.
-
-**Q: Gde se nalazi UNA Zdrava Hrana u Kragujevcu?**
-
-Nalazimo se u ulici Slobodana Penezića Krcuna, kod mosta u Bresnici, 34000 Kragujevac.
-
-**Q: Kada je najmirnije vreme za posetu i savet?**
-
-Najmirniji period je ujutru između 07:30 i 10:00, kada prodavac ima dovoljno vremena za detaljan razgovor o suplementima i ishrani.
-
-**Q: Šta mogu da kupim u UNA Zdravoj Hrani?**
-
-Preko 500 proizvoda: organske žitarice i testenine, multivitamine, Omega-3, probiotike, čajeve, orašaste plodove, superhranu poput čije i spiruline, kao i prirodnu kozmetiku.
 
 ---
 
