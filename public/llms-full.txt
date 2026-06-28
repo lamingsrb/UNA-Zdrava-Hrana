@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Preplanuli ten preko trpeze: namirnice koje pomažu
+
+https://unazdravahrana.com/blog/preplanuli-ten-preko-trpeze-namirnice-koje-pomazu
+
+Tekst objašnjava kako određene namirnice — bogate beta-karotenom, likopenom, antioksidansima i masnim kiselinama — pomažu koži da se bolje nosi sa suncem i ravnomernije primi boju. Hrana ne zamenjuje SPF, ali kroz nedelje gradi zdraviji ten i jaču kožnu barijeru.
+
+**Q: Koje namirnice pomažu preplanulom tenu?**
+
+Šargarepa, batat, kajsije, kuvan paradajz, borovnice, spanać, avokado, laneno i čia seme, bademi i maslinovo ulje — kombinacija beta-karotena, likopena, antioksidansa i masnih kiselina podržava kožu na suncu.
+
+**Q: Da li hrana može da zameni kremu sa zaštitnim faktorom?**
+
+Ne. Hrana ne zamenjuje SPF i ne pravi ten umesto sunca. Određene namirnice samo pomažu da koža bude zdravija, elastičnija i da ravnomernije prima boju.
+
+**Q: Zašto je pečena šargarepa bolja od sirove za ten?**
+
+Termička obrada oslobađa beta-karoten iz biljnih ćelija, a kako je rastvorljiv u mastima, šargarepa pečena s maslinovim uljem je telu daleko iskoristljivija od sirove.
+
+**Q: Kada početi sa ishranom za letnju kožu?**
+
+Efekat se gradi nedeljama, ne danima. Idealno je krenuti krajem maja ili početkom juna kako bi do sredine jula koža već bila u boljoj formi.
+
+---
+
 ## Vitamini i minerali za mozak: pamćenje i fokus
 
 https://unazdravahrana.com/blog/vitamini-i-minerali-za-mozak-pamcenje-i-fokus
@@ -697,30 +721,6 @@ Najbolje se apsorbuju cink-citrat, cink-glicinat i cink-pikolinat. Cink-oksid je
 **Q: Da li su suplementi za imunitet bezbedni za svakoga?**
 
 Ako uzimate terapiju, imate hroničnu bolest, trudni ste ili dojite — obavezno se konsultujte sa lekarom. Suplementi mogu da reaguju sa lekovima i to nije sitnica.
-
----
-
-## Letnja salata sa lubenicom, borovnicama i bademima
-
-https://unazdravahrana.com/recepti/letnja-salata-sa-lubenicom-borovnicama-i-bademima
-
-Osvežavajuća letnja salata sa lubenicom, borovnicama, fetom i bademima — gotova za 20 minuta. Lak i zdrav recept za vrele dane.
-
-**Q: Mogu li da pripremim salatu unapred?**
-
-Možete je pripremiti 2-3 sata ranije i držati u frižideru, ali bademe, fetu i mentu dodajte tek pre serviranja da ostanu sveži i hrskavi.
-
-**Q: Čime da zamenim borovnice ako ih nemam?**
-
-Odlično idu i kupine, maline ili isečene kajsije. Bitno je da voće bude sveže i zrelo da dođe do izražaja.
-
-**Q: Da li je ova salata pogodna za decu?**
-
-Jeste, deca obično obožavaju kombinaciju lubenice i borovnica. Za najmlađe možete smanjiti količinu feta sira i izostaviti biber.
-
-**Q: Mogu li da koristim druge orašaste plodove?**
-
-Naravno — indijski orah, lešnik ili bundevine semenke takođe odlično funkcionišu. Lagano ih propržite radi punijeg ukusa.
 
 ---
 
