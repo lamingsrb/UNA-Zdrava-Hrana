@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji mocktail spritz sa kajsijama i borovnicama
+
+https://unazdravahrana.com/recepti/letnji-mocktail-spritz-sa-kajsijama-i-borovnicama
+
+Osvežavajući letnji mocktail sa kajsijama, borovnicama i čia semenkama. Bez alkohola i rafinisanog šećera, gotov za 25 minuta.
+
+**Q: Mogu li ovaj mocktail da pripremim za rođendansko slavlje unapred?**
+
+Sirup od kajsija i čia gel pripremite ranije i držite u frižideru. Mineralnu vodu i led dodajte tek pri serviranju da napitak ostane gaziran i osvežavajući.
+
+**Q: Da li je napitak prikladan za decu?**
+
+Jeste, sastojci su prirodni i bez veštačkih dodataka. Za malu decu možete smanjiti količinu čia semenki na pola kašike po čaši i izbegavati gaziranu vodu.
+
+**Q: Kako da napitak bude manje sladak?**
+
+Smanjite med na jednu kašiku ukupno i dodajte više soka od limuna. Zrele kajsije nose dosta prirodne slatkoće, pa često ni nije potreban dodatni zaslađivač.
+
+**Q: Mogu li da koristim druge bobice umesto borovnica?**
+
+Naravno — maline, kupine ili ribizle odlično se slažu sa kajsijama. Kombinujte ono što imate iz bašte ili sa pijace.
+
+---
+
 ## Žitarice: vodič kroz 18 vrsta i njihovu upotrebu
 
 https://unazdravahrana.com/blog/zitarice-vodic-kroz-18-vrsta-i-njihovu-upotrebu
@@ -697,30 +721,6 @@ Zdrobite ili sitno iseckajte češanj i ostavite ga da odstoji oko 10 minuta pre
 **Q: Ko ne sme da koristi ehinaceju?**
 
 Ehinaceju treba da izbegavaju osobe sa autoimunim bolestima (lupus, multipla skleroza, reumatoidni artritis), alergijom na biljke iz porodice glavočika (ambrozija, neven), kao i trudnice bez konsultacije sa lekarom.
-
----
-
-## Suplementi za energiju: kako prirodno povratiti vitalnost
-
-https://unazdravahrana.com/blog/suplementi-za-energiju-kako-prirodno-povratiti-vitalnost
-
-Vodič kroz pet najefikasnijih prirodnih suplemenata za vraćanje vitalnosti i borbu protiv hroničnog umora. Objašnjava ko ima koristi od B kompleksa, magnezijuma, koenzima Q10, ginsenga i maca korena, kao i kako se pravilno uzimaju.
-
-**Q: Koji suplement je najbolji za hronični umor?**
-
-Za hronični umor najčešće pomažu B kompleks i magnezijum malat, jer učestvuju u pretvaranju hrane u ćelijsku energiju. Ako ste stariji od 40 godina, koenzim Q10 može biti dragocen dodatak. Pre uzimanja preporučuje se provera nivoa gvožđa, vitamina D i B12.
-
-**Q: Kada se pije magnezijum, ujutru ili uveče?**
-
-Zavisi od razloga: ako ga pijete zbog grčeva, nemirnog sna ili opuštanja, uzmite ga uveče sat-dva pre spavanja. Ako vam treba za energiju i koncentraciju, podelite dozu na ujutru i popodne. Ne pijte ga istovremeno sa kafom jer tanini smanjuju apsorpciju.
-
-**Q: Koliko traje dok koenzim Q10 počne da deluje?**
-
-Koenzim Q10 traži između 4 i 8 nedelja redovne upotrebe da bi se osetila razlika u nivou energije i izdržljivosti. Obavezno ga uzimajte uz obrok koji sadrži masnoće, jer je rastvorljiv u mastima i bez toga se slabo apsorbuje.
-
-**Q: Da li su prirodni suplementi za energiju bezbedni?**
-
-Kvalitetni suplementi su uglavnom bezbedni kada se uzimaju u preporučenim dozama, ali nisu zamena za san, ishranu i lekarski pregled. Ako uzimate lekove (posebno statine ili lekove za pritisak), trudni ste ili dojite, obavezno se konsultujte sa lekarom pre upotrebe.
 
 ---
 
