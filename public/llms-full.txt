@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Žitarice: vodič kroz 18 vrsta i njihovu upotrebu
+
+https://unazdravahrana.com/blog/zitarice-vodic-kroz-18-vrsta-i-njihovu-upotrebu
+
+Detaljan vodič kroz 18 žitarica sa tabelom kalorija, proteina, vlakana, glutena i glikemijskog indeksa. Donosi praktične savete za izbor žitarica prema cilju — sitost, proteini, ishrana bez glutena ili lakše varenje.
+
+**Q: Koje žitarice su bez glutena?**
+
+Heljda, kinoa, amarant, proso, sirak, teff, pirinač i kukuruz su prirodno bez glutena. Ovas po prirodi nema gluten, ali se često obrađuje uz pšenicu, pa osobe sa celijakijom treba da biraju ovas sa oznakom 'bez glutena'.
+
+**Q: Koja žitarica ima najviše proteina?**
+
+Ovas vodi sa oko 17 g proteina na 100 g, a zatim slede spelta i kamut sa po 15 g, kao i kinoa, amarant i divlji pirinač sa 14-15 g. Kinoa je posebna jer sadrži svih devet esencijalnih aminokiselina.
+
+**Q: Koje žitarice najsporije podižu šećer u krvi?**
+
+Najniži glikemijski indeks imaju ječam (28), amarant (35), heljda i kamut (45). One su najbolji izbor za stabilan šećer u krvi i dugotrajnu sitost.
+
+**Q: Zašto je važno isprati kinou pre kuvanja?**
+
+Kinoa ima prirodni gorki sloj saponina na površini zrna. Ako se ne ispere pod mlazom vode bar pola minuta, gotovo jelo će imati gorak ukus.
+
+---
+
 ## Preplanuli ten preko trpeze: namirnice koje pomažu
 
 https://unazdravahrana.com/blog/preplanuli-ten-preko-trpeze-namirnice-koje-pomazu
@@ -697,30 +721,6 @@ Koenzim Q10 traži između 4 i 8 nedelja redovne upotrebe da bi se osetila razli
 **Q: Da li su prirodni suplementi za energiju bezbedni?**
 
 Kvalitetni suplementi su uglavnom bezbedni kada se uzimaju u preporučenim dozama, ali nisu zamena za san, ishranu i lekarski pregled. Ako uzimate lekove (posebno statine ili lekove za pritisak), trudni ste ili dojite, obavezno se konsultujte sa lekarom pre upotrebe.
-
----
-
-## Najbolji suplementi za imunitet: šta zaista pomaže
-
-https://unazdravahrana.com/blog/najbolji-suplementi-za-imunitet-sta-zaista-pomaze
-
-Vodič kroz najefikasnije suplemente za imunitet: vitamin C, vitamin D3, cink, propolis i beta-glukan. Objašnjeno kako, kada i u kojim oblicima ih koristiti za stvarne rezultate.
-
-**Q: Koji je najvažniji suplement za imunitet zimi?**
-
-Vitamin D3 je ključan od oktobra do marta jer u našem podneblju sunce nije dovoljno jako da koža proizvede potrebne količine. Uzimajte ga uz obrok sa mastima radi bolje apsorpcije.
-
-**Q: Koliko vitamina C treba uzimati dnevno?**
-
-Bolje je svakodnevno uzimati umerenu dozu od 500 do 1000 mg raspoređeno tokom dana, nego povremene megadoze kada već imate simptome prehlade.
-
-**Q: Koji oblik cinka je najbolji za apsorpciju?**
-
-Najbolje se apsorbuju cink-citrat, cink-glicinat i cink-pikolinat. Cink-oksid je jeftiniji ali se slabo iskorišćava, pa nije isplativ izbor.
-
-**Q: Da li su suplementi za imunitet bezbedni za svakoga?**
-
-Ako uzimate terapiju, imate hroničnu bolest, trudni ste ili dojite — obavezno se konsultujte sa lekarom. Suplementi mogu da reaguju sa lekovima i to nije sitnica.
 
 ---
 
