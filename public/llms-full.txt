@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Osvežavajući mocktail mojito sa borovnicama i tikvicom
+
+https://unazdravahrana.com/recepti/osvezavajuci-mocktail-mojito-sa-borovnicama-i-tikvicom
+
+Osvežavajući letnji mocktail sa borovnicama, mladom tikvicom, chia semenkama i mentom — bez alkohola, lagan i gotov za 15 minuta.
+
+**Q: Da li se tikvica zaista ne oseti u napitku?**
+
+Mlada tikvica ima vrlo blag, gotovo neutralan ukus. U kombinaciji sa borovnicama, mentom i limetom potpuno se uklapa i daje samo prijatnu svežinu, bez ukusa povrća.
+
+**Q: Mogu li deca da piju ovaj mocktail?**
+
+Naravno — recept je potpuno bez alkohola i bez veštačkih sirupa. Za najmlađe slobodno smanjite limetu i koristite negaziranu vodu ako više vole.
+
+**Q: Koliko dugo chia semenke treba da stoje u vodi?**
+
+Dovoljno je 10 do 15 minuta da nabubre i dobiju gel teksturu. Ako vam ostane viška, mogu da stoje u frižideru i do 2 dana u zatvorenoj tegli.
+
+**Q: Mogu li umesto borovnica koristiti smrznute?**
+
+Da, smrznute borovnice rade odlično — pre upotrebe ih ostavite 10 minuta da se malo otkrave i puste sok, pa nastavite po receptu.
+
+---
+
 ## Letnji mocktail spritz sa kajsijama i borovnicama
 
 https://unazdravahrana.com/recepti/letnji-mocktail-spritz-sa-kajsijama-i-borovnicama
@@ -697,30 +721,6 @@ Ne, takva brza čišćenja ne postoje. Jetra se sama detoksikuje svakodnevno, a 
 **Q: Kako se pravilno koristi kurkuma za jetru?**
 
 Kurkumin, aktivni sastojak kurkume, slabo se apsorbuje sam, pa ga treba kombinovati sa crnim biberom (piperin višestruko povećava iskoristivost) i sa malo masti poput kokosovog ili maslinovog ulja. Tako kurkuma efikasno deluje kao antioksidans, smanjuje upalu i podržava zaštitnu funkciju jetre.
-
----
-
-## Prirodni suplementi za imunitet: 4 sigurna izbora
-
-https://unazdravahrana.com/blog/prirodni-suplementi-za-imunitet-4-sigurna-izbora
-
-Vodič kroz četiri prirodna saveznika imuniteta: ehinaceju, propolis, beli luk i vitamin C, sa praktičnim uputstvima za upotrebu. Objašnjava doziranje, oblike preparata, najčešće greške i kontraindikacije za svaki suplement.
-
-**Q: Koliko dugo se sme uzimati ehinacea?**
-
-Prema preporuci Evropske agencije za lekove (EMA), preparati ehinaceje ne treba da se koriste duže od 10 dana kontinuirano kod akutnih stanja. Preventivno se može sprovesti kura od 2 do 3 nedelje, pa pauza, a za duže uzimanje konsultujte stručnjaka.
-
-**Q: Da li se propolis sme stavljati u vreo čaj?**
-
-Ne, visoka temperatura razgrađuje deo aktivnih sastojaka propolisa. Sačekajte da se čaj prohladi na oko 40°C pa tek onda dodajte kapi tinkture propolisa.
-
-**Q: Kako pravilno koristiti beli luk za imunitet?**
-
-Zdrobite ili sitno iseckajte češanj i ostavite ga da odstoji oko 10 minuta pre upotrebe, jer tada nastaje najviše alicina. Koristite ga sirovog u prelivima, namazima ili pestu, jer termička obrada smanjuje njegovo delovanje.
-
-**Q: Ko ne sme da koristi ehinaceju?**
-
-Ehinaceju treba da izbegavaju osobe sa autoimunim bolestima (lupus, multipla skleroza, reumatoidni artritis), alergijom na biljke iz porodice glavočika (ambrozija, neven), kao i trudnice bez konsultacije sa lekarom.
 
 ---
 
