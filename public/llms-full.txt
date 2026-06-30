@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdrava ishrana za mršavljenje: principi koji rade
+
+https://unazdravahrana.com/blog/zdrava-ishrana-za-mrsavljenje-principi-koji-rade
+
+Trajno mršavljenje zahteva blagi kalorijski deficit, dovoljno proteina (1,2-1,6 g/kg) i vlakana (25-35 g dnevno), uz tanjir podeljen na povrće, proteine i složene ugljene hidrate. Realan tempo je 0,5 do 1 kg nedeljno, a najveće zamke su tečne kalorije, beli hleb i zavaravajući 'fit' proizvodi.
+
+**Q: Koliko kilograma je zdravo izgubiti nedeljno?**
+
+Realan i zdrav tempo mršavljenja je 0,5 do 1 kg nedeljno. Sve preko toga je uglavnom voda i mišićna masa, koja se brzo vraća kada se prekine dijeta.
+
+**Q: Koliko proteina treba unositi dnevno za mršavljenje?**
+
+Preporučuje se 1,2 do 1,6 grama proteina po kilogramu telesne težine dnevno. Za ženu od 70 kg to je 85-110 g proteina, koje možete uneti kroz jaja, skir, piletinu, ribu i mahunarke.
+
+**Q: Kako izgleda zdrav tanjir za mršavljenje?**
+
+Polovina tanjira treba da bude povrće, četvrtina proteini (piletina, riba, jaja, mahunarke), četvrtina složeni ugljeni hidrati (integralni pirinač, heljda, kinoa) i mala kašika zdravih masti poput maslinovog ulja ili oraha.
+
+**Q: Zašto većina dijeta ne uspeva dugoročno?**
+
+Drastične dijete usporavaju metabolizam, smanjuju mišićnu masu i povećavaju glad, pa se kilogrami vraćaju sa kamatom - to je jo-jo efekat. Dugoročno radi samo blagi kalorijski deficit uz ishranu koja liči na normalan život.
+
+---
+
 ## Sedmodnevni jelovnik za zdravo mršavljenje
 
 https://unazdravahrana.com/blog/sedmodnevni-jelovnik-za-zdravo-mrsavljenje
@@ -697,30 +721,6 @@ Najbolji je svež, odmah po pripremi. Komponente (krem, voće) možete pripremit
 **Q: Mogu li da zamenim borovnice nekim drugim voćem?**
 
 Naravno — odlično idu i maline, kupine ili tanko sečene jagode. Birajte sezonsko voće za najbolji ukus i cenu.
-
----
-
-## Hladna kremasta zobena kaša sa tikvicom i kajsijama
-
-https://unazdravahrana.com/recepti/hladna-kremasta-zobena-kasa-sa-tikvicom-i-kajsijama
-
-Kremasta hladna zobena kaša sa tikvicom, kajsijama i borovnicama — lagan letnji doručak koji pripremiš uveče za sledeće jutro.
-
-**Q: Da li deca vole ovaj doručak?**
-
-Najčešće da — tikvica se uopšte ne oseti, a slatkoća kajsija i borovnica čini kašu prijatnom. Ako su deca izbirljiva, prvi put preskoči cimet i dodaj malo više meda.
-
-**Q: Mogu li da koristim smrznute borovnice i kajsije?**
-
-Možeš, samo ih prethodno odmrzni i procedi višak tečnosti da kaša ne postane vodnjikava. Sveže sezonsko voće daje najbolji ukus i teksturu.
-
-**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
-
-Uz biranje sertifikovanih ovsenih pahuljica bez glutena, da. Standardni ovas može sadržati tragove glutena iz prerade — u radnji rado preporučimo proverene varijante.
-
-**Q: Koliko dugo treba da odstoji u frižideru?**
-
-Najmanje 4 sata da chia nabubri i kaša se zgusne. Najpraktičnije je pripremiti uveče, a ujutru samo dodati sveže voće i bademe.
 
 ---
 
