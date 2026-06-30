@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Sedmodnevni jelovnik za zdravo mršavljenje
+
+https://unazdravahrana.com/blog/sedmodnevni-jelovnik-za-zdravo-mrsavljenje
+
+Praktičan sedmodnevni jelovnik za zdravo mršavljenje zasnovan na proteinu, vlaknima i zdravim mastima u svakom obroku. Uključuje princip tanjira, konkretne obroke za svaki dan i listu za nabavku za jednu osobu.
+
+**Q: Šta je zdravo mršavljenje?**
+
+Zdravo mršavljenje je gubitak 0,5 do 1 kilograma nedeljno, postignut umerenim kalorijskim manjkom od oko 300–500 kcal dnevno i jelovnikom koji možete da održite mesecima, a ne deset dana.
+
+**Q: Šta je princip tanjira?**
+
+Pola tanjira čini povrće, četvrtina protein (meso, riba, jaja, mahunarke), četvrtina kompleksni ugljeni hidrati (integralne žitarice, krompir), uz kašiku zdrave masti poput maslinovog ulja.
+
+**Q: Koliko obroka dnevno treba jesti za mršavljenje?**
+
+Tri glavna obroka (doručak, ručak, večera) uz jednu do dve opcione užine. Ako niste gladni između obroka, slobodno preskočite užinu — važnija je ukupna dnevna količina hrane.
+
+**Q: Koje namirnice su osnova zdravog jelovnika?**
+
+Protein u svakom obroku (jaja, jogurt, mahunarke, meso, riba, sir), vlakna (povrće, voće, integralne žitarice) i zdrave masti (maslinovo ulje, orašasti plodovi, avokado).
+
+---
+
 ## Osvežavajući mocktail mojito sa borovnicama i tikvicom
 
 https://unazdravahrana.com/recepti/osvezavajuci-mocktail-mojito-sa-borovnicama-i-tikvicom
@@ -697,30 +721,6 @@ Uz biranje sertifikovanih ovsenih pahuljica bez glutena, da. Standardni ovas mo�
 **Q: Koliko dugo treba da odstoji u frižideru?**
 
 Najmanje 4 sata da chia nabubri i kaša se zgusne. Najpraktičnije je pripremiti uveče, a ujutru samo dodati sveže voće i bademe.
-
----
-
-## Detoksikacija jetre: simptomi i prirodna rešenja
-
-https://unazdravahrana.com/blog/detoksikacija-jetre-simptomi-i-prirodna-resenja
-
-Tekst objašnjava kako jetra zaista funkcioniše i koje suptilne signale šalje kada je opterećena, naglašavajući da joj treba rasterećenje i podrška, a ne kratkotrajni detoks čajevi. Predstavlja sikavicu, artičoku, kurkumu i maslačak kao biljne saveznike uz jasne savete o doziranju i merama opreza.
-
-**Q: Koji su simptomi opterećene jetre?**
-
-Najčešći znaci su jutarnji umor koji ne prolazi posle kafe, mučnina i težina nakon masnih obroka, nadutost, tup ten i akne, obložen jezik i loš zadah ujutru, povećana osetljivost na alkohol, glavobolje pri buđenju i buđenje između 1 i 3 ujutru. Ako prepoznajete tri ili više simptoma duže od par nedelja, vredi preispitati ishranu i razmisliti o podršci biljkama.
-
-**Q: Koja biljka je najbolja za detoksikaciju jetre?**
-
-Sikavica (Silybum marianum) je najistraženija biljka za podršku jetri zahvaljujući silimarinu, kompleksu antioksidanata koji pomaže regeneraciji ćelija jetre. Evropska agencija za lekove (EMA) je priznaje kao tradicionalni biljni lek za podršku funkciji jetre. Najčešće se uzima kao standardizovani ekstrakt u kapsulama, u kurama od 6 do 8 nedelja.
-
-**Q: Da li detoks čajevi zaista čiste jetru za sedam dana?**
-
-Ne, takva brza čišćenja ne postoje. Jetra se sama detoksikuje svakodnevno, a njoj je potrebno dugoročno rasterećenje, ne kratka kura. Pravi pristup je smanjiti opterećenje (alkohol, ultraprerađena hrana, nepotrebni lekovi) i dodati podršku kroz gorke biljke, antioksidanse, vlakna i dovoljno vode.
-
-**Q: Kako se pravilno koristi kurkuma za jetru?**
-
-Kurkumin, aktivni sastojak kurkume, slabo se apsorbuje sam, pa ga treba kombinovati sa crnim biberom (piperin višestruko povećava iskoristivost) i sa malo masti poput kokosovog ili maslinovog ulja. Tako kurkuma efikasno deluje kao antioksidans, smanjuje upalu i podržava zaštitnu funkciju jetre.
 
 ---
 
