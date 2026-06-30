@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamini i minerali za dijabetičare: hrom, Mg, vit. D
+
+https://unazdravahrana.com/blog/vitamini-i-minerali-za-dijabeticare-hrom-mg-vit-d
+
+Tekst objašnjava ulogu hroma, magnezijuma i vitamina D u regulaciji šećera kod osoba sa dijabetesom tipa 2, uz pregled najboljih izvora hrane i oblika suplemenata. Naglašava da suplementi nisu zamena za terapiju i da se uvođenje uvek konsultuje sa lekarom.
+
+**Q: Koji je najbolji oblik magnezijuma za dijabetičare?**
+
+Magnezijum citrat i bisglicinat su obično najbolji izbor jer se dobro apsorbuju i blagi su za stomak. Bisglicinat dodatno pomaže opuštanju i snu, dok citrat može pomoći kod sklonosti zatvoru. Osobe sa bubrežnim problemima moraju se prethodno konsultovati sa lekarom.
+
+**Q: Da li hrom pikolinat snižava šećer u krvi?**
+
+Hrom učestvuje u normalnom metabolizmu ugljenih hidrata i funkciji insulina. Kod osoba sa manjkom može pomoći, ali nije zamena za terapiju. Pažnja: ako već uzimate lekove za dijabetes, hrom može dodatno spustiti šećer, pa je obavezna konsultacija sa lekarom.
+
+**Q: Zašto dijabetičarima često nedostaje magnezijum?**
+
+Kod dijabetesa tipa 2 dugotrajno povišen šećer dovodi do povećanog gubitka magnezijuma preko bubrega. Simptomi manjka uključuju noćne grčeve u listovima, nemiran san, zamor, trzanje kapka i nervozu.
+
+**Q: Da li dijabetičari treba da uzimaju vitamin D?**
+
+Manjak vitamina D je čest kod osoba sa dijabetesom tipa 2 i povezan je sa osetljivošću na insulin. Pre uzimanja suplementa preporučuje se provera nivoa u krvi, a doziranje treba prilagoditi rezultatima nalaza uz savet lekara.
+
+---
+
 ## Zdrava ishrana za mršavljenje: principi koji rade
 
 https://unazdravahrana.com/blog/zdrava-ishrana-za-mrsavljenje-principi-koji-rade
@@ -697,30 +721,6 @@ EFSA preporučuje minimum 25 grama vlakana dnevno za odrasle, a optimalno je 25 
 **Q: Da li detoks dijete od nekoliko dana zaista čiste telo?**
 
 Ne. Komercijalni detoks programi i gladovanje na sokovima nemaju uverljive naučne dokaze da uklanjaju toksine. Realni rezultat jedne do dve nedelje pažljivije ishrane je bolje varenje, manje nadutosti i stabilnija energija.
-
----
-
-## Tost od integralnog hleba sa kajsijama i tahinijem
-
-https://unazdravahrana.com/recepti/tost-od-integralnog-hleba-sa-kajsijama-i-tahinijem
-
-Brz i zdrav tost od integralnog hleba sa tahinijem, sočnim kajsijama i borovnicama. Gotov za 13 minuta — idealan letnji doručak ili užina.
-
-**Q: Mogu li da koristim suve kajsije ako nije sezona?**
-
-Možete, ali ih prethodno potopite u toplu vodu 10 minuta da omekšaju. Količinu prepolovite jer su koncentrovanije po slatkoći.
-
-**Q: Da li je ovaj tost pogodan za decu?**
-
-Da, vrlo je pogodan kao školska užina. Ako dete ne voli tahini, zamenite ga kremom od lešnika bez šećera ili tankim slojem domaćeg pekmeza.
-
-**Q: Koliko dugo se može čuvati?**
-
-Najbolji je svež, odmah po pripremi. Komponente (krem, voće) možete pripremiti unapred i sklopiti tost neposredno pre serviranja da hleb ostane hrskav.
-
-**Q: Mogu li da zamenim borovnice nekim drugim voćem?**
-
-Naravno — odlično idu i maline, kupine ili tanko sečene jagode. Birajte sezonsko voće za najbolji ukus i cenu.
 
 ---
 
