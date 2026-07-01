@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa paprikom, paradajzom i heljdom
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-paprikom-paradajzom-i-heljdom
+
+Ćoravi paprikaš sa paprikom, paradajzom i heljdom — sezonski letnji ručak bez mesa, gotov za 50 minuta. Domaći recept iz UNA kuhinje.
+
+**Q: Da li je ovo jelo bez glutena?**
+
+Jeste, ako koristite heljdu i proverite da su začini bez dodataka. Heljda je prirodno bez glutena i prija osobama sa intolerancijom.
+
+**Q: Mogu li da zamrznem ostatke?**
+
+Može, izdrži u zamrzivaču do mesec dana. Odmrznite preko noći u frižideru i podgrejte uz malo vode da se vrati sočnost.
+
+**Q: Kojim prilogom se služi ćoravi paprikaš?**
+
+Odlično ide uz kriške integralnog hleba, kašiku gustog jogurta ili sveže rendan tvrdi sir. Za lagan obrok dovoljan je i sam.
+
+**Q: Mogu li da koristim zelene paprike umesto crvenih?**
+
+Može, ali zelene daju gorči ton. Preporučujemo mešavinu — bar polovina crvenih babura za sladak, letnji ukus.
+
+---
+
 ## Nadutost stomaka: plan od 7 dana koji vredi probati
 
 https://unazdravahrana.com/blog/nadutost-stomaka-plan-od-7-dana-koji-vredi-probati
@@ -697,30 +721,6 @@ Prvi efekti na šećer u krvi mogu se videti za 2–4 nedelje redovne primene, d
 **Q: Da li suplementi mogu da zamene promenu ishrane kod insulinske rezistencije?**
 
 Ne. Nijedan suplement ne radi sam — bez šetnje posle obroka, smanjenja belog brašna i šećera, dovoljno proteina, vlakana i sna, efekat će biti minimalan. Suplementi su podrška, ne zamena za promenu navika.
-
----
-
-## Pečena tikvica sa kvinojom, kajsijama i bademima
-
-https://unazdravahrana.com/recepti/pecena-tikvica-sa-kvinojom-kajsijama-i-bademima
-
-Pečena tikvica sa kvinojom, kajsijama i bademima — lagan letnji ručak gotov za 45 minuta. Bez glutena, pun ukusa i zasitan.
-
-**Q: Mogu li recept pripremiti unapred za posao?**
-
-Da, idealan je za meal prep. Pripremite kvinoju i pečene tikvice dan ranije, a preliv, bademe i sveže začinsko bilje dodajte neposredno pre jela da sve ostane sveže i hrskavo.
-
-**Q: Da li je jelo pogodno za one koji žele da smršaju?**
-
-Jeste — kombinuje vlakna, biljne proteine i zdrave masti koje doprinose dužem osećaju sitosti, uz umerenu kalorijsku vrednost. Za individualni plan ishrane uvek se posavetujte sa nutricionistom ili lekarom.
-
-**Q: Mogu li koristiti suve kajsije ako nemam sveže?**
-
-Možete, ali smanjite količinu na 80 g i prethodno ih potopite 10 minuta u toploj vodi da omekšaju. Ukus će biti intenzivniji i slađi.
-
-**Q: Da li je recept bez glutena?**
-
-Da, kvinoja prirodno ne sadrži gluten, pa je jelo pogodno za osobe sa intolerancijom — samo proverite da su semenke i bademi pakovani u pogonu bez kontaminacije glutenom.
 
 ---
 
