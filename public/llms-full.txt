@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Najzdravije lisnate salate: 14 vrsta za tanjur
+
+https://unazdravahrana.com/blog/najzdravije-lisnate-salate-14-vrsta-za-tanjur
+
+Vodič kroz 14 vrsta lisnatog povrća sa uputstvima za kombinovanje ukusa, pravilan izbor i čuvanje. Objašnjava česte greške u pripremi salate i kako ih izbeći.
+
+**Q: Koja je najzdravija lisnata salata?**
+
+Nema jedne 'najzdravije' — kelj, spanać, rukola i potočarka spadaju u nutritivno najbogatije, ali najbolji efekat daje kombinacija više vrsta svakodnevno, bar jedna šolja dnevno.
+
+**Q: Koliko dugo traje zelena salata u frižideru?**
+
+Salata u glavi (puterica, romana) traje 5–7 dana u donjoj fioci frižidera, dok otvorena salata iz kese traje samo 24–48 sati. Uvijte listove u papirni ubrus da upije vlagu.
+
+**Q: Kojim redosledom se pravi preliv za salatu?**
+
+Prvo osušite listove, zatim dodajte so i biber, pa sirće ili limun, i na kraju maslinovo ulje. Ako prvo dodate ulje, so neće uhvatiti list.
+
+**Q: Da li se lisnato povrće može zamrznuti?**
+
+Za salatu ne, ali za smutije i variva može. Spanać, kelj i blitvu blanširajte 30 sekundi, ohladite u ledenoj vodi, iscedite i zamrznite u porcijama.
+
+---
+
 ## Vitamini i minerali za dijabetičare: hrom, Mg, vit. D
 
 https://unazdravahrana.com/blog/vitamini-i-minerali-za-dijabeticare-hrom-mg-vit-d
@@ -697,30 +721,6 @@ Dodajte jedan manji krompir uz tikvice ili povećajte količinu mlevenih badema 
 **Q: Mogu li deca da jedu ovu supu?**
 
 Naravno, ukus je blag i prijatan. Za najmlađe izostavite biber i smanjite količinu belog luka.
-
----
-
-## Detoksikacija organizma: prirodna podrška telu
-
-https://unazdravahrana.com/blog/detoksikacija-organizma-prirodna-podrska-telu
-
-Detoksikacija je svakodnevni proces koji jetra, bubrezi i creva obavljaju sami, a vi im pomažete smanjenjem opterećenja i kvalitetnom ishranom. Pet stubova su voda, vlakna, krstasto povrće, san i pokret, uz podršku biljnih čajeva poput maslačka, čička i koprive.
-
-**Q: Šta je detoksikacija organizma?**
-
-Detoksikacija je stalan biohemijski proces u kome jetra prerađuje metaboličke ostatke, a bubrezi, creva, koža i pluća ih izbacuju. Telo to radi samo, a vi možete pomoći smanjenjem alkohola, šećera i prerađene hrane uz više vode, vlakana i povrća.
-
-**Q: Koji čajevi podržavaju jetru i bubrege?**
-
-Za jetru su korisni čičak i maslačak, za bubrege kopriva, a zeleni čaj donosi antioksidanse. Pijte jednu do dve biljke dnevno i rotirajte ih tokom nedelje, ne mešajte više biljaka u istoj šolji.
-
-**Q: Koliko vlakana treba dnevno za zdravo varenje?**
-
-EFSA preporučuje minimum 25 grama vlakana dnevno za odrasle, a optimalno je 25 do 30 grama. Vlakna vežu otpadne materije u crevima i sprečavaju njihovo ponovno upijanje u organizam.
-
-**Q: Da li detoks dijete od nekoliko dana zaista čiste telo?**
-
-Ne. Komercijalni detoks programi i gladovanje na sokovima nemaju uverljive naučne dokaze da uklanjaju toksine. Realni rezultat jedne do dve nedelje pažljivije ishrane je bolje varenje, manje nadutosti i stabilnija energija.
 
 ---
 
