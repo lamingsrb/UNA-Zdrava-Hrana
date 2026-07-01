@@ -1,7 +1,7 @@
 'use client'
 
 import { AlertCircle, CheckCircle2, Loader2, Mail, Phone, Send } from 'lucide-react'
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import Reveal from '@/components/ui/Reveal'
 import { site } from '@/lib/site'
 
@@ -23,14 +23,17 @@ export default function Contact() {
   const [status, setStatus] = useState<Status>('idle')
   const [errorMsg, setErrorMsg] = useState('')
 
+  // Pri uspehu pomeri fokus na naslov success panela — inače (kad se forma
+  // demontira) fokus padne na <body> i korisnik tastature/čitača ekrana
+  // ostane bez konteksta.
+  const successRef = useRef<HTMLHeadingElement>(null)
+  useEffect(() => {
+    if (status === 'success') successRef.current?.focus()
+  }, [status])
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     if (status === 'submitting') return
-    // Honeypot popunjen → bot; tiho „uspeh" bez slanja.
-    if (honey) {
-      setStatus('success')
-      return
-    }
 
     setStatus('submitting')
     setErrorMsg('')
@@ -48,15 +51,19 @@ export default function Contact() {
           _subject: `Nova poruka sa sajta — ${name}`,
           _template: 'table',
           _captcha: 'false',
+          _honey: honey, // FormSubmit odbaci server-side ako je popunjen
         }),
       })
       const data = (await res.json().catch(() => ({}))) as {
         success?: string | boolean
         message?: string
       }
+      // FormSubmit vraća success kao STRING "true"/"false" — pokrij oba.
       const ok =
         res.ok && (data.success === true || data.success === 'true')
-      if (!ok) throw new Error(data.message || 'Slanje nije uspelo.')
+      if (!ok) {
+        throw new Error(data.message || `Slanje nije uspelo (${res.status}).`)
+      }
 
       setStatus('success')
       setName('')
@@ -156,12 +163,15 @@ export default function Contact() {
               <div
                 className="flex h-full flex-col items-center justify-center rounded-3xl border border-leaf-400/25 bg-leaf-500/10 p-10 text-center backdrop-blur-sm"
                 role="status"
-                aria-live="polite"
               >
                 <div className="flex h-16 w-16 items-center justify-center rounded-full bg-leaf-500/20 text-leaf-300">
                   <CheckCircle2 className="h-8 w-8" aria-hidden="true" />
                 </div>
-                <h3 className="mt-6 font-display text-2xl font-semibold text-cream-50">
+                <h3
+                  ref={successRef}
+                  tabIndex={-1}
+                  className="mt-6 font-display text-2xl font-semibold text-cream-50 outline-none"
+                >
                   Poruka je poslata!
                 </h3>
                 <p className="mt-3 max-w-sm text-cream-100/75">
@@ -244,7 +254,8 @@ export default function Contact() {
                     />
                   </div>
 
-                  {/* Honeypot — sakriveno od ljudi, boti ga popune */}
+                  {/* Honeypot — van ekrana (ne „hidden": neki autofill puni
+                      display:none polja); boti ga popune, FormSubmit odbaci. */}
                   <input
                     type="text"
                     name="_honey"
@@ -253,7 +264,7 @@ export default function Contact() {
                     aria-hidden="true"
                     value={honey}
                     onChange={(e) => setHoney(e.target.value)}
-                    className="hidden"
+                    className="pointer-events-none absolute -left-[9999px] h-0 w-0 opacity-0"
                   />
 
                   {status === 'error' && (
