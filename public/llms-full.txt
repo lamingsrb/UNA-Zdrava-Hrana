@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Fermentisana pića za leto: kefir, kombuha, biljni napici
+
+https://unazdravahrana.com/blog/fermentisana-pica-za-leto-kefir-kombuha-biljni-napici
+
+Vodič kroz tri letnja fermentisana pića: vodeni kefir kao najlakši ulaz u domaću fermentaciju, kombuha za jači ukus i hladne biljne infuzije bez šećera. Za svako piće dat je osnovni recept, saveti za drugu fermentaciju i najčešće greške koje treba izbeći.
+
+**Q: Da li fermentisana pića zamenjuju vodu za hidrataciju leti?**
+
+Ne zamenjuju je u potpunosti, ali su bolji izbor od zaslađenih sokova jer sadrže male količine minerala, organske kiseline i žive kulture koje pomažu varenju. Pijte ih uz redovan unos obične vode.
+
+**Q: Koliko šećera ostaje u vodenom kefiru posle fermentacije?**
+
+Velika većina šećera iz recepta se potroši tokom fermentacije jer služi kao hrana za kefirna zrnca. Finalno piće ima znatno manje šećera nego što ste stavili na početku.
+
+**Q: Koliko dugo traje fermentacija kombuhe?**
+
+Kombuha fermentiše 7 do 14 dana na sobnoj temperaturi u tamnom uglu. Probajte posle 7 dana - kad ukus pređe iz slatkog u blago kiselkast, piće je gotovo za flaširanje.
+
+**Q: Ko ne bi trebalo da pije fermentisana pića bez konsultacije sa lekarom?**
+
+Osobe sa dijabetesom, autoimunim bolestima, trudnice i osobe na specifičnoj terapiji treba da se konsultuju sa lekarom pre uvođenja fermentisanih pića. Fermentisana pića nisu lek i ne zamenjuju obrok ni terapiju.
+
+---
+
 ## Probiotici, prebiotici, postbiotici: šta je šta
 
 https://unazdravahrana.com/blog/probiotici-prebiotici-postbiotici-sta-je-sta
@@ -697,30 +721,6 @@ Mogu, na malo maslinovog ulja, po 3 minuta sa svake strane na srednjoj vatri. Pe
 **Q: Koliko dugo se tikvice ceđene drže pre mešanja?**
 
 Dovoljno je 10 minuta sa soli — so izvlači vodu, a vi ih onda rukama dobro iscedite. To je ključ da galete ne budu vlažne.
-
----
-
-## Vitamini i minerali za jak imunitet: C, D, cink i selen
-
-https://unazdravahrana.com/blog/vitamini-i-minerali-za-jak-imunitet-c-d-cink-i-selen
-
-Praktičan vodič kroz četiri ključna nutrijenta za imunitet — vitamin C, vitamin D, cink i selen — sa preporučenim dozama i prirodnim izvorima. Objašnjava kada hrana nije dovoljna i kako pametno birati suplemente bez čestih grešaka.
-
-**Q: Koji vitamini su najvažniji za jak imunitet?**
-
-Četiri ključna nutrijenta su vitamin C, vitamin D, cink i selen. Svaki pokriva drugačiji deo imunog sistema — C podržava bela krvna zrnca i sluzokožu, D reguliše imuni odgovor, cink je neophodan za sazrevanje imunih ćelija, a selen štiti ćelije od oksidativnog stresa.
-
-**Q: Koliko vitamina C treba dnevno uneti?**
-
-Preporučeni dnevni unos za odrasle je 75–90 mg, što se pokriva sa nekoliko porcija voća i povrća. U periodima stresa ili zimi suplement od 200–500 mg dnevno je dovoljan; veće doze telo uglavnom izbaci urinom.
-
-**Q: Zašto je vitamin D najčešći nedostatak u Srbiji?**
-
-Od oktobra do marta ugao sunčevih zraka kod nas je premali da bi koža sintetisala vitamin D. Uz kancelarijski rad i SPF kremu leti, većina ljudi ima nizak nivo, pa se zimi često preporučuje suplement od 800–2000 IU dnevno uz prethodnu analizu krvi.
-
-**Q: Da li vitamin C sprečava prehladu?**
-
-Vitamin C ne sprečava prehladu, ali kod ljudi koji ga redovno unose može skratiti trajanje i ublažiti simptome. Bolje deluje stalan, umeren unos kroz ishranu nego udarne doze tek kad osetite prve simptome.
 
 ---
 
