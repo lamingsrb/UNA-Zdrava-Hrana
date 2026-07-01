@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Probiotici, prebiotici, postbiotici: šta je šta
+
+https://unazdravahrana.com/blog/probiotici-prebiotici-postbiotici-sta-je-sta
+
+Probiotici su žive korisne bakterije, prebiotici su vlakna kojima se one hrane, a postbiotici su korisna jedinjenja nastala njihovom fermentacijom. Najbolji efekat postiže se kada sva tri deluju zajedno kroz raznovrsnu ishranu.
+
+**Q: Koja je razlika između probiotika, prebiotika i postbiotika?**
+
+Probiotici su žive korisne bakterije (jogurt, kefir, kiseli kupus), prebiotici su vlakna koja hrane te bakterije (luk, banana, zob, mahunarke), a postbiotici su korisna jedinjenja poput butirata koja bakterije stvore fermentacijom prebiotika. Sva tri čine deo istog lanca i najbolje deluju zajedno.
+
+**Q: Da li je bolje uzimati probiotik iz hrane ili iz kapsula?**
+
+Za svakodnevno održavanje ravnoteže crevne flore dovoljni su prirodni izvori kao što su kefir, jogurt, nepasterizovani kiseli kupus i kombuha. Suplementi u kapsulama korisni su u posebnim situacijama, na primer posle antibiotske terapije ili tokom putovanja, i tada je važno obratiti pažnju na broj CFU i konkretan soj bakterije.
+
+**Q: Koje namirnice su najbogatije prebioticima?**
+
+Najviše prebiotika ima u belom i crnom luku, praziluku, cikoriji, artičoki, šparogama, zelenkastoj banani, jabuci sa korom, zobi, ječmu, mahunarkama i ohlađenom krompiru ili pirinču. Uvodite ih postepeno kako biste izbegli nadutost.
+
+**Q: Da li kiseli kupus iz prodavnice sadrži probiotike?**
+
+Samo nepasterizovani kiseli kupus koji stoji u frižideru sadrži žive probiotičke bakterije. Sterilisan kupus sa police je i dalje zdrava namirnica, ali toplotna obrada uništava žive kulture pa on više nije probiotik.
+
+---
+
 ## Punjene paprike paradajzom, kinoom i bosiljkom
 
 https://unazdravahrana.com/recepti/punjene-paprike-paradajzom-kinoom-i-bosiljkom
@@ -697,30 +721,6 @@ Od oktobra do marta ugao sunčevih zraka kod nas je premali da bi koža sintetis
 **Q: Da li vitamin C sprečava prehladu?**
 
 Vitamin C ne sprečava prehladu, ali kod ljudi koji ga redovno unose može skratiti trajanje i ublažiti simptome. Bolje deluje stalan, umeren unos kroz ishranu nego udarne doze tek kad osetite prve simptome.
-
----
-
-## Vitamini i minerali za žene u menopauzi: vodič
-
-https://unazdravahrana.com/blog/vitamini-i-minerali-za-zene-u-menopauzi-vodic
-
-Vodič objašnjava kako pad estrogena posle 45. godine utiče na kosti, san i termoregulaciju kod žena. Detaljno se obrađuju kalcijum, magnezijum i vitamin D — preporučene doze, najbolji oblici i česte greške pri suplementaciji.
-
-**Q: Koliko kalcijuma dnevno treba ženi u menopauzi?**
-
-Prema NIH, ženama starijim od 50 godina preporučuje se 1200 mg kalcijuma dnevno, ukupno iz hrane i suplemenata. Telo apsorbuje najviše 500 mg po obroku, pa dozu treba podeliti na dva puta.
-
-**Q: Koji oblik magnezijuma je najbolji za nesanicu u menopauzi?**
-
-Magnezijum-glicinat je najnežniji za stomak i najefikasniji za san i opuštanje. Uzima se otprilike sat vremena pre spavanja, a rezultati se obično primete nakon dve nedelje.
-
-**Q: Zašto je vitamin D važan u menopauzi?**
-
-Bez vitamina D telo ne može efikasno da apsorbuje kalcijum, pa suplementacija kalcijumom gubi smisao. Vitamin D je ključan za očuvanje gustine kostiju nakon pada estrogena.
-
-**Q: Da li suplementi mogu da zamene lekarsku terapiju u menopauzi?**
-
-Ne. Suplementi podržavaju organizam i ublažavaju simptome, ali ne zamenjuju lekarsku procenu. Pre uzimanja, posebno uz terapiju za pritisak, štitnu žlezdu ili razređivače krvi, obavezno se konsultujte sa lekarom.
 
 ---
 
