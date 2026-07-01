@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Punjene paprike paradajzom, kinoom i bosiljkom
+
+https://unazdravahrana.com/recepti/punjene-paprike-paradajzom-kinoom-i-bosiljkom
+
+Letnje punjene paprike sa kinoom, paradajzom i bosiljkom — lagan vegetarijanski obrok bez glutena, gotov za 50 minuta.
+
+**Q: Mogu li da pripremim fil dan ranije?**
+
+Naravno. Fil od kinoe i paradajza možete napraviti dan ranije i držati u frižideru u zatvorenoj posudi. Sutradan samo napunite paprike i pecite.
+
+**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
+
+Da, kinoa je prirodno bez glutena. Proverite samo etiketu na suvom paradajzu i začinima da nema tragova glutena ako ste osetljivi.
+
+**Q: Koje paprike su najbolje za ovaj recept?**
+
+Klasične babure su idealne jer su mesnate i lepo drže oblik. Mogu i crvene paprike za slađi ukus, a šilje su zgodne za manje porcije ili predjelo.
+
+**Q: Kako da paprike ne budu previše mekane posle pečenja?**
+
+Ne prekuvajte ih — 25 do 30 minuta na 190°C je taman. Ako volite da su malo hrskavije, pecite bez folije i pratite boju kože.
+
+---
+
 ## Ćoravi paprikaš sa paprikom, paradajzom i heljdom
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-paprikom-paradajzom-i-heljdom
@@ -697,30 +721,6 @@ Bez vitamina D telo ne može efikasno da apsorbuje kalcijum, pa suplementacija k
 **Q: Da li suplementi mogu da zamene lekarsku terapiju u menopauzi?**
 
 Ne. Suplementi podržavaju organizam i ublažavaju simptome, ali ne zamenjuju lekarsku procenu. Pre uzimanja, posebno uz terapiju za pritisak, štitnu žlezdu ili razređivače krvi, obavezno se konsultujte sa lekarom.
-
----
-
-## Prirodni suplementi za insulinsku rezistenciju
-
-https://unazdravahrana.com/blog/prirodni-suplementi-za-insulinsku-rezistenciju
-
-Inozitol (posebno uz PCOS), berberin i hrom su najkorisniji prirodni suplementi kod insulinske rezistencije, ali samo uz promenu ishrane, kretanje i san. Pre uvođenja obavezna je laboratorija i konsultacija sa lekarom, naročito ako se već uzima terapija.
-
-**Q: Koji je najbolji prirodni suplement za insulinsku rezistenciju?**
-
-Ne postoji jedan univerzalni izbor. Inozitol (mio-inozitol u kombinaciji sa D-hiro-inozitolom 40:1) je prvi izbor za žene, posebno uz PCOS. Berberin je snažniji i pogodan kada je glavni problem povišen šećer i holesterol. Hrom je dobra dopuna kod izraženih želja za slatkim.
-
-**Q: Mogu li da uzimam berberin i inozitol zajedno?**
-
-Da, te dve supstance se često kombinuju jer deluju različitim mehanizmima — inozitol popravlja signalizaciju insulina u ćeliji, dok berberin aktivira AMPK enzim. Pre kombinovanja konsultujte lekara, posebno ako uzimate metformin ili druge lekove.
-
-**Q: Koliko brzo berberin počinje da deluje?**
-
-Prvi efekti na šećer u krvi mogu se videti za 2–4 nedelje redovne primene, dok je za stabilnu promenu HOMA-IR indeksa i HbA1c potrebno najmanje 8–12 nedelja. Berberin se uzima 500 mg tri puta dnevno uz obrok da bi se izbegla mučnina i nadutost.
-
-**Q: Da li suplementi mogu da zamene promenu ishrane kod insulinske rezistencije?**
-
-Ne. Nijedan suplement ne radi sam — bez šetnje posle obroka, smanjenja belog brašna i šećera, dovoljno proteina, vlakana i sna, efekat će biti minimalan. Suplementi su podrška, ne zamena za promenu navika.
 
 ---
 
