@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Nadutost stomaka: plan od 7 dana koji vredi probati
+
+https://unazdravahrana.com/blog/nadutost-stomaka-plan-od-7-dana-koji-vredi-probati
+
+Sedmodnevni plan protiv nadutosti uvodi po jednu naviku dnevno: vodu i manje soli, sporije žvakanje, čaj od nane ili kima, vlakna, probiotike, šetnju i pauzu od okidača. Tekst donosi i tabelu namirnica koje smiruju stomak i onih koje ga uznemiruju kod osetljivih.
+
+**Q: Šta najčešće izaziva nadutost stomaka?**
+
+Najčešći uzroci su gutanje vazduha tokom brzog jela, gazirana pića, previše soli, zatvor, stres i nedostatak vlakana, kao i pojedine namirnice poput sirovog kupusa, pasulja, luka, mlečnih proizvoda ili pšenice kod osetljivih osoba.
+
+**Q: Koji čaj je najbolji protiv nadutosti?**
+
+Najbolje deluju čajevi od nane, kima, komorača, anisa i đumbira. Piju se topli posle obroka, bez šećera, i pomažu da se stomak umiri i lakše svari hrana.
+
+**Q: Da li probiotici pomažu kod nadutog stomaka?**
+
+Da, probiotici podržavaju ravnotežu crevne mikroflore koja se često poremeti posle antibiotika, u stresu ili uz lošu ishranu. Mogu se uneti kroz suplemente, kefir, jogurt sa živim kulturama ili sok od kiselog kupusa.
+
+**Q: Kada nadutost stomaka zahteva odlazak lekaru?**
+
+Ako nadutost traje nedeljama i prati je gubitak težine, krv u stolici, jaki bolovi ili trajna promena ritma pražnjenja creva, obavezno se treba javiti lekaru jer to nije obična funkcionalna nadutost.
+
+---
+
 ## Najzdravije lisnate salate: 14 vrsta za tanjur
 
 https://unazdravahrana.com/blog/najzdravije-lisnate-salate-14-vrsta-za-tanjur
@@ -697,30 +721,6 @@ Možete, ali smanjite količinu na 80 g i prethodno ih potopite 10 minuta u topl
 **Q: Da li je recept bez glutena?**
 
 Da, kvinoja prirodno ne sadrži gluten, pa je jelo pogodno za osobe sa intolerancijom — samo proverite da su semenke i bademi pakovani u pogonu bez kontaminacije glutenom.
-
----
-
-## Lagana kremasta supa od tikvica sa borovnicama
-
-https://unazdravahrana.com/recepti/lagana-kremasta-supa-od-tikvica-sa-borovnicama
-
-Lagana kremasta supa od tikvica sa svežim borovnicama i bademima — letnji recept za 40 minuta, bez glutena, oko 210 kcal po porciji.
-
-**Q: Mogu li da koristim smrznute borovnice?**
-
-Možete, ali ih kratko ocedite nakon odmrzavanja. Sveže borovnice ipak daju lepšu teksturu i čvrstoću na vrhu tople supe.
-
-**Q: Da li je recept pogodan za veganski jelovnik?**
-
-Jeste, recept je u potpunosti biljnog porekla. Samo proverite da je supa od povrća koju koristite bez životinjskih sastojaka.
-
-**Q: Kako da supa bude gušća?**
-
-Dodajte jedan manji krompir uz tikvice ili povećajte količinu mlevenih badema na 60 g. Možete i smanjiti količinu supe za oko 100 ml.
-
-**Q: Mogu li deca da jedu ovu supu?**
-
-Naravno, ukus je blag i prijatan. Za najmlađe izostavite biber i smanjite količinu belog luka.
 
 ---
 
