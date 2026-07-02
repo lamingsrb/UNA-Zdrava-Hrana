@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Slabokrvni ste i mučno vam je leti? 6 recepata sa gvožđem
+
+https://unazdravahrana.com/blog/slabokrvni-ste-i-mucno-vam-je-leti-6-recepata-sa-gvozdjem
+
+Vodič objašnjava zašto slabokrvni ljudi teže podnose leto i kako kombinovati biljno gvožđe sa vitaminom C radi bolje apsorpcije. Nudi 6 jednostavnih letnjih recepata sa sočivom, tahinijem, spirulinom, moringom, semenkama bundeve i suvim voćem.
+
+**Q: Koje namirnice sadrže najviše gvožđa?**
+
+Najkoncentrovaniji biljni izvori su spirulina i moringa u prahu (25-30 mg na 100 g), zatim susam i tahini (14 mg), semenke bundeve (8-9 mg), suve kajsije (6 mg), kuvani spanać i sočivo.
+
+**Q: Kako povećati apsorpciju gvožđa iz biljne hrane?**
+
+Nehem gvožđe iz biljaka upija se znatno bolje uz vitamin C u istom obroku - dodajte limun, papriku, paradajz, jagode ili peršun. Izbegavajte crni i zeleni čaj uz obrok jer tanini vezuju gvožđe.
+
+**Q: Zašto slabokrvni teže podnose leto?**
+
+Na visokim temperaturama krvni sudovi se šire, pritisak pada, a znojenjem se gube tečnost i minerali. Kod niskih zaliha gvožđa telo teže prenosi kiseonik, pa se javljaju vrtoglavica, mučnina, lupanje srca i glavobolja.
+
+**Q: Da li spirulina pomaže kod anemije?**
+
+Spirulina je jedan od najbogatijih biljnih izvora gvožđa (28-30 mg na 100 g) i može podržati unos, ali nije zamena za medicinsku terapiju. Kod sumnje na anemiju uradite krvnu sliku i feritin kod lekara.
+
+---
+
 ## 5 načina da jedete datulje bez skoka šećera u krvi
 
 https://unazdravahrana.com/blog/5-nacina-da-jedete-datulje-bez-skoka-secera-u-krvi
@@ -697,30 +721,6 @@ Chia semenke upijaju tečnost do deset puta veću od svoje težine i formiraju g
 **Q: Da li chia semenke i lanene semenke mogu zajedno?**
 
 Mogu, ali samo u maloj količini i uz dosta vode. Bolje je birati jednu vrstu semenki po obroku jer obe bubre i vezuju tečnost, pa zajedno mogu izazvati zatvor i težinu.
-
----
-
-## Letnji tabule sa kinoom, kajsijama i borovnicama
-
-https://unazdravahrana.com/recepti/letnji-tabule-sa-kinoom-kajsijama-i-borovnicama
-
-Letnji tabule sa kinoom, kajsijama i borovnicama — lagana salata bez glutena, gotova za 30 minuta. Idealna za toplo popodne ili užinu za poneti.
-
-**Q: Da li je ovaj recept pogodan za osobe sa intolerancijom na gluten?**
-
-Da, kinoa je prirodno bez glutena, kao i ostali sastojci u receptu. Ako ste osetljivi, proverite da li je kinoa pakovana u pogonu koji garantuje 'bez glutena' — u UNA radnji rado ćemo vas usmeriti na takve proizvode.
-
-**Q: Mogu li da koristim suve kajsije umesto svežih?**
-
-Možete, ali smanjite količinu na oko 80 g i prethodno ih potopite u toplu vodu 10 minuta pa iseckajte. Ukus će biti intenzivniji i slađi, pa razmislite da izostavite med iz dresinga.
-
-**Q: Koliko dugo se salata čuva u frižideru?**
-
-Do 2 dana u zatvorenoj posudi. Borovnice i sveže začinsko bilje dodajte tek pred serviranje da ostanu sveži i lepog izgleda.
-
-**Q: Da li deca prihvataju ovakvu salatu?**
-
-Po našem iskustvu — da, upravo zbog kajsija i borovnica koje daju prijatan slatkast ukus. Ako deca nisu navikla na nanu, slobodno je smanjite ili izostavite.
 
 ---
 
