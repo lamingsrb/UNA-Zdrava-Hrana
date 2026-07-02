@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja salata od pečene paprike sa malinama i lešnikom
+
+https://unazdravahrana.com/recepti/letnja-salata-od-pecene-paprike-sa-malinama-i-lesnikom
+
+Letnja salata od pečene paprike sa malinama, lešnikom i semenom lana — laka, bez glutena i gotova za 45 minuta.
+
+**Q: Mogu li paprike da ispečem dan ranije?**
+
+Naravno. Očišćene pečene paprike drže se u frižideru u zatvorenoj posudi 2-3 dana, prelivene malo maslinovog ulja. Salatu sastavite tik pred serviranje.
+
+**Q: Da li recept sadrži gluten ili laktozu?**
+
+U osnovnoj verziji nema ni glutena ni laktoze, pa je prijatan i osobama sa intolerancijama. Ako dodate sir, laktoza više neće biti isključena.
+
+**Q: Kojim jelima uz ovu salatu prija?**
+
+Odličan je prilog uz pečenu ribu, piletinu sa žara ili grilovanu ćuretinu. Kao samostalno jelo lepo se slaže sa parčetom integralnog hleba.
+
+**Q: Mogu li smrznute maline da zamene sveže?**
+
+Preporučujemo sveže jer se ne raspadaju. Ako koristite smrznute, odmrznite ih na cediljki i pažljivo dodajte na kraju da ne oboje celu salatu.
+
+---
+
 ## Slabokrvni ste i mučno vam je leti? 6 recepata sa gvožđem
 
 https://unazdravahrana.com/blog/slabokrvni-ste-i-mucno-vam-je-leti-6-recepata-sa-gvozdjem
@@ -697,30 +721,6 @@ Istraživanja sugerišu da karotenoidi mogu podržati prirodnu odbranu kože od 
 **Q: Da li je bolje uzimati beta karoten iz hrane ili kapsula?**
 
 Skoro uvek iz hrane. Šargarepa, slatki krompir, bundeva i spirulina sadrže beta karoten u prirodnoj kombinaciji sa drugim karotenoidima i vlaknima. Kapsule imaju smisla samo u specifičnim situacijama, a pušačima se ne preporučuju zbog povezanosti visokih doza sa rizikom od raka pluća.
-
----
-
-## 5 namirnica koje ne treba mešati sa chia semenkama
-
-https://unazdravahrana.com/blog/5-namirnica-koje-ne-treba-mesati-sa-chia-semenkama
-
-Chia semenke upijaju tečnost i formiraju gel, pa loše kombinacije sa drugim vlaknima i teškim obrocima izazivaju nadutost i zatvor. Treba ih izbegavati uz granolu, lanene semenke i psyllium, masno meso, suvo voće i mleko kod osetljivih osoba.
-
-**Q: Sa čim ne treba mešati chia semenke?**
-
-Chia semenke ne treba mešati sa suvom granolom, lanenim semenkama i psylliumom u istom obroku, masnim mesom, velikim količinama suvog voća i mlekom kod osetljivih osoba, jer te kombinacije izazivaju nadutost i težinu u stomaku.
-
-**Q: Koliko chia semenki dnevno je bezbedno?**
-
-Preporučena dnevna količina za odraslu osobu je jedna do dve kašike, odnosno oko 15 do 25 grama, uz obavezno dovoljno tečnosti tokom dana.
-
-**Q: Zašto chia semenke izazivaju nadutost?**
-
-Chia semenke upijaju tečnost do deset puta veću od svoje težine i formiraju gel u stomaku. Ako se kombinuju sa drugim namirnicama bogatim vlaknima ili sa malo vode, dolazi do preopterećenja creva i nadutosti.
-
-**Q: Da li chia semenke i lanene semenke mogu zajedno?**
-
-Mogu, ali samo u maloj količini i uz dosta vode. Bolje je birati jednu vrstu semenki po obroku jer obe bubre i vezuju tečnost, pa zajedno mogu izazvati zatvor i težinu.
 
 ---
 
