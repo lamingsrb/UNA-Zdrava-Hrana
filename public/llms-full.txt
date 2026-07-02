@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kajsija: kako pomaže koži, vidu i varenju leti
+
+https://unazdravahrana.com/blog/kajsija-kako-pomaze-kozi-vidu-i-varenju-leti
+
+Kajsija leti hidrira, donosi beta-karoten (vitamin A) i lako svarljiva vlakna, pa podržava kožu, vid i varenje uz redovan i umeren unos. Ključno je izabrati zrele, mirisne plodove i prava, nesumporisana sušena kajsija, uz kombinaciju sa malo zdravih masnoća radi bolje iskoristivosti.
+
+**Q: Koliko kajsija dnevno je dovoljno leti?**
+
+Za odrasle je optimalno 4–5 svežih kajsija dnevno kao užina, ili 3–4 sušene van sezone. Bolje je jesti šaku svakog dana nego veliku količinu odjednom, jer telo tako ravnomernije iskoristi beta-karoten i vlakna.
+
+**Q: Kako prepoznati pravu sušenu kajsiju bez sumpora?**
+
+Prirodno sušena kajsija je tamnija, smeđe-narandžasta i mat, dok je jarko narandžasta i sjajna sušena kajsija sumporisana (E220). Uvek proverite deklaraciju i tražite proizvode bez sumpor-dioksida, posebno ako imate astmu ili osetljive disajne puteve.
+
+**Q: Da li kajsija zaista pomaže koži na suncu?**
+
+Kajsija sadrži beta-karoten koji telo pretvara u vitamin A, što doprinosi obnovi kože i njenoj otpornosti. Ne zamenjuje kremu za sunčanje, ali redovan unos narandžastog voća i povrća pomaže koži da lakše podnosi letnje sunce.
+
+**Q: Sa čim kombinovati kajsiju za bolju iskoristivost?**
+
+Beta-karoten je rastvorljiv u mastima, pa kajsiju kombinujte sa malo zdravih masnoća — bademima, orasima ili susamovim tahinijem. Tako telo iz iste količine kajsije dobija znatno više vitamina A.
+
+---
+
 ## 6 namirnica bogatih vodom za stabilniji šećer u krvi
 
 https://unazdravahrana.com/blog/6-namirnica-bogatih-vodom-za-stabilniji-secer-u-krvi
@@ -697,30 +721,6 @@ Sirove semenke bundeve i suncokreta koje sami tostirate u tiganju — tako zadr�
 **Q: Mogu li unapred da pripremim salatu?**
 
 Tikvice ispecite ranije i čuvajte u frižideru. Borovnice, sir, semenke i preliv dodajte tek pred serviranje.
-
----
-
-## Šta je superhrana? Vodič kroz najpoznatije namirnice
-
-https://unazdravahrana.com/blog/sta-je-superhrana-vodic-kroz-najpoznatije-namirnice
-
-Superhrana je marketinški pojam za namirnice izuzetno guste hranljivim sastojcima poput čije, spiruline, make, goji bobica i asaija. Tekst objašnjava koliko ih uzimati, kako ih koristiti u svakodnevnim obrocima i na šta treba obratiti pažnju.
-
-**Q: Šta je superhrana?**
-
-Superhrana je marketinški termin za namirnice koje na malu količinu nose izuzetno mnogo hranljivih materija — vitamina, minerala, vlakana, antioksidanasa i zdravih masti. Nije zvaničan nutricionistički pojam i ne zamenjuje raznovrsnu ishranu.
-
-**Q: Koliko čia semenki je preporučljivo jesti dnevno?**
-
-Za odraslu osobu dovoljno je 1–2 kašike (15–25 g) dnevno. Obavezno ih dodajte u nešto tečno ili popijte čašu vode uz njih, jer čia upija vodu i do 10 puta svoje težine.
-
-**Q: Da li je spirulina bolja u prahu ili u tabletama?**
-
-Obe forme su podjednako efikasne. Tablete su praktičnije jer izbegavate izrazito zemljast ukus, dok se prah najlakše koristi u zelenom smutiju sa voćem koje prikriva ukus.
-
-**Q: Ko ne bi trebalo da koristi superhranu bez konsultacije?**
-
-Trudnice, dojilje, deca, osobe sa autoimunim bolestima, hroničnim oboljenjima i one koje uzimaju lekove (naročito za razređivanje krvi) treba da se posavetuju sa lekarom ili farmaceutom pre redovne upotrebe.
 
 ---
 
