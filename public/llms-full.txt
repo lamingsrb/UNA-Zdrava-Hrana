@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja tepsija paradajza i paprike sa heljdom
+
+https://unazdravahrana.com/recepti/letnja-tepsija-paradajza-i-paprike-sa-heljdom
+
+Letnja tepsija sa heljdom, paradajzom i paprikom — bez mesa, bez glutena, sita i puna sezonskih ukusa. Gotova za 50 minuta.
+
+**Q: Da li je ovo jelo bez glutena?**
+
+Jeste, ako koristite čistu heljdu (bez glutena po prirodi) i proverite da začini nisu mešani sa sastojcima koji sadrže gluten. Za osobe sa celijakijom preporučujemo heljdu sa oznakom 'bez glutena'.
+
+**Q: Mogu li da pripremim ovo unapred?**
+
+Možete. Tepsija se lepo podgreje sutradan, a ukusi se dodatno prožmu. Čuvajte u frižideru do 3 dana i podgrejte u rerni na 160°C oko 10 minuta.
+
+**Q: Čime da zamenim heljdu ako je deca ne vole?**
+
+Odlično radi proso, integralni pirinač ili kinoa. Vremena kuvanja se razlikuju — kinoa se kuva oko 12 minuta, integralni pirinač 30-35 minuta.
+
+**Q: Da li je ovo dovoljno kao glavno jelo?**
+
+Jeste — heljda daje kompleksne ugljene hidrate i proteine, a povrće vlakna i vitamine. Ako želite više proteina, dodajte kuvane leblebije ili sir uz serviranje.
+
+---
+
 ## Letnja salata od pečene paprike sa malinama i lešnikom
 
 https://unazdravahrana.com/recepti/letnja-salata-od-pecene-paprike-sa-malinama-i-lesnikom
@@ -697,30 +721,6 @@ Probiotik se uzima ujutru na prazan stomak ili pred spavanje, sa malo hladne vod
 **Q: Šta je sinbiotik?**
 
 Sinbiotik je kombinacija probiotika (živih korisnih bakterija) i prebiotika (vlakana poput inulina ili psilijuma koja hrane te bakterije). Takva kombinacija olakšava bakterijama da se zadrže i razmnože u crevu.
-
----
-
-## Beta karoten za tamnjenje kože: šta se zaista dešava
-
-https://unazdravahrana.com/blog/beta-karoten-za-tamnjenje-koze-sta-se-zaista-desava
-
-Beta karoten ne stimuliše melanin niti zamenjuje sunčanje, ali redovan unos može dati topliji ton kože (karotenodermija) i podržati prirodnu odbranu od UV zraka. Hrana poput šargarepe, bundeve i spiruline je sigurnija i efikasnija od izolovanih kapsula, posebno za pušače kojima visoke doze suplemenata nisu preporučljive.
-
-**Q: Da li beta karoten zaista tamni kožu?**
-
-Ne u smislu pravog tamnjenja. Beta karoten ne stimuliše melanin, već se taloži u koži i daje blago žućkasto-narandžasti ton (karotenodermija). Pravo tamnjenje nastaje samo izlaganjem UV zracima.
-
-**Q: Koliko dugo treba piti beta karoten da se vidi efekat?**
-
-Obično 3–4 nedelje redovnog unosa za blago topliji ton lica, a 6–8 nedelja za jasniju karotenodermiju. Posle prekida boja se postepeno povlači za par meseci, bez posledica.
-
-**Q: Da li beta karoten štiti od opekotina na suncu?**
-
-Istraživanja sugerišu da karotenoidi mogu podržati prirodnu odbranu kože od UV oštećenja, ali to ne zamenjuje kremu sa zaštitnim faktorom. I dalje ćete izgoreti ako se ne namažete.
-
-**Q: Da li je bolje uzimati beta karoten iz hrane ili kapsula?**
-
-Skoro uvek iz hrane. Šargarepa, slatki krompir, bundeva i spirulina sadrže beta karoten u prirodnoj kombinaciji sa drugim karotenoidima i vlaknima. Kapsule imaju smisla samo u specifičnim situacijama, a pušačima se ne preporučuju zbog povezanosti visokih doza sa rizikom od raka pluća.
 
 ---
 
