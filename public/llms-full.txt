@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 6 namirnica bogatih vodom za stabilniji šećer u krvi
+
+https://unazdravahrana.com/blog/6-namirnica-bogatih-vodom-za-stabilniji-secer-u-krvi
+
+Namirnice sa 85–96% vode poput krastavca, bobičastog voća, lisnatog povrća, paradajza i chia semenki doprinose hidraciji i stabilnijem šećeru u krvi. Uz vlakna i minerale, one usporavaju porast glukoze posle obroka i lako se uklapaju u svakodnevne obroke.
+
+**Q: Koje namirnice imaju najviše vode?**
+
+Krastavac sadrži oko 96% vode, paradajz 94%, lisnato povrće 91–95%, a bobičasto voće 85–91%. Sve su odlične za hidraciju i imaju nizak glikemijski indeks.
+
+**Q: Da li bobičasto voće podiže šećer u krvi?**
+
+Borovnice, maline, kupine i jagode imaju nizak glikemijski indeks (25–40) i puno vlakana, pa mnogo blaže podižu šećer od banane ili grožđa. Šaka uz jogurt je dobar izbor.
+
+**Q: Koliko tečnosti dnevno treba osoba sa dijabetesom?**
+
+EFSA preporučuje oko 2 L za žene i 2,5 L za muškarce, s tim što 20–30% dolazi iz hrane. Kod visokih temperatura i fizičke aktivnosti potrebe su veće, ali se konsultujte sa lekarom.
+
+**Q: Zašto je hidracija važna kod dijabetesa?**
+
+Visok šećer u krvi telo izbacuje mokraćom zajedno sa vodom, što izaziva dehidraciju. Dehidracija dodatno koncentruje glukozu u krvi i stvara začarani krug pogoršanja.
+
+---
+
 ## Letnja tepsija paradajza i paprike sa heljdom
 
 https://unazdravahrana.com/recepti/letnja-tepsija-paradajza-i-paprike-sa-heljdom
@@ -697,30 +721,6 @@ Obe forme su podjednako efikasne. Tablete su praktičnije jer izbegavate izrazit
 **Q: Ko ne bi trebalo da koristi superhranu bez konsultacije?**
 
 Trudnice, dojilje, deca, osobe sa autoimunim bolestima, hroničnim oboljenjima i one koje uzimaju lekove (naročito za razređivanje krvi) treba da se posavetuju sa lekarom ili farmaceutom pre redovne upotrebe.
-
----
-
-## Detoksikacija creva: vlakna, probiotici i biljke
-
-https://unazdravahrana.com/blog/detoksikacija-creva-vlakna-probiotici-i-biljke
-
-Tekst objašnjava kako podržati prirodno čišćenje creva kroz dovoljno vlakana, tečnosti i raznovrsnu mikrofloru. Daje konkretne doze psilijuma, lana, kefira i kiselog kupusa, kao i savete za izbor probiotika i biljnih čajeva.
-
-**Q: Koliko vlakana dnevno treba za zdrava creva?**
-
-Preporučuje se 25-30 g vlakana dnevno za odraslu osobu, kombinujući rastvorljiva (psilijum, lan, ovas) i nerastvorljiva (mekinje, koža povrća). Uvek uz dovoljno vode — bar 2-3 dl na svaku kašiku psilijuma ili lana.
-
-**Q: Da li je kupovni kiseli kupus pravi probiotik?**
-
-Samo ako nije pasterizovan. Kupus iz frižidera u kesama koje 'dišu' obično je živ i sadrži korisne bakterije, dok pasterizovan kupus iz tegli sa police na sobnoj temperaturi više nema žive kulture.
-
-**Q: Kada uzimati probiotik u kapsulama?**
-
-Probiotik se uzima ujutru na prazan stomak ili pred spavanje, sa malo hladne vode. Posebno je koristan posle antibiotika (još 2-4 nedelje), pri putovanjima, stresu i hroničnoj nadutosti.
-
-**Q: Šta je sinbiotik?**
-
-Sinbiotik je kombinacija probiotika (živih korisnih bakterija) i prebiotika (vlakana poput inulina ili psilijuma koja hrane te bakterije). Takva kombinacija olakšava bakterijama da se zadrže i razmnože u crevu.
 
 ---
 
