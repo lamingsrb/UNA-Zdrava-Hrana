@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kako podneti vrućine kad termometar puca
+
+https://unazdravahrana.com/blog/kako-podneti-vrucine-kad-termometar-puca
+
+Praktičan vodič kroz letnje vrućine: koliko vode piti, kada su potrebni elektroliti i koji oblik magnezijuma pomaže kod grčeva i nesanice. Uz jasne signale kada se javiti lekaru i primere hrane koja prirodno hladi organizam.
+
+**Q: Koliko vode treba piti kada je napolju preko 35°C?**
+
+Odrasla osoba prosečne građe bez fizičke aktivnosti treba 2,5–3 litra tečnosti dnevno, a osobe koje rade napolju ili treniraju 4 litra i više. Ne čekajte da ožednite jer osećaj žeđi kasni.
+
+**Q: Kada su elektroliti zaista potrebni?**
+
+Elektroliti su potrebni onima koji se obilno znoje — radnicima napolju, rekreativcima i često starijim osobama. Ljudima u kancelariji uglavnom je dovoljna uravnotežena ishrana sa slanom hranom, bananom i kefirom.
+
+**Q: Koji oblik magnezijuma je najbolji za grčeve i nesanicu?**
+
+Magnezijum-citrat se dobro apsorbuje i pogodan je za većinu ljudi, dok je bisglicinat najnežniji za stomak i pomaže onima koji loše spavaju. Uzima se uveče uz čašu vode.
+
+**Q: Kako napraviti domaći napitak sa elektrolitima?**
+
+Pomešajte 1 litar vode, prstohvat morske ili himalajske soli, sok od pola limuna i kašičicu meda. Nije zamena za lek, ali dobro nadoknađuje minerale posle znojenja.
+
+---
+
 ## Biljna prva pomoć: 5 biljaka za putnu ljekarnu
 
 https://unazdravahrana.com/blog/biljna-prva-pomoc-5-biljaka-za-putnu-ljekarnu
@@ -697,30 +721,6 @@ Da, kombinacija 100–200 mg L-teanina uz jutarnju kafu često ublažava nervozu
 **Q: Koji magnezijum je najbolji za smirenje i san?**
 
 Magnezijum bisglicinat je najbolji izbor za anksioznost i san — odlično se apsorbuje, blag je za želudac i specifično podržava opuštanje. Doza koja se obično preporučuje je 200–400 mg elementarnog magnezijuma uveče.
-
----
-
-## Letnji mocktail sa borovnicama, kajsijama i bazilikom
-
-https://unazdravahrana.com/recepti/letnji-mocktail-sa-borovnicama-kajsijama-i-bazilikom
-
-Osvežavajući letnji mocktail sa kajsijama, borovnicama, bosiljkom i čia semenkama. Lagan recept za 25 minuta — bez alkohola i bez veštačkih boja.
-
-**Q: Mogu li da koristim smrznute borovnice?**
-
-Da, smrznute borovnice su odlična zamena van sezone. Odmrznite ih kratko ili ih ubacite direktno u napitak — dodatno će ohladiti čaše.
-
-**Q: Da li čia semenke moraju da bubre unapred?**
-
-Preporučujemo da, jer tako dobijaju prijatnu teksturu i ne lepe se za zube. Ako žurite, dovoljno je 10 minuta u hladnoj vodi.
-
-**Q: Koliko dugo mocktail može da stoji?**
-
-Najbolji je odmah po pripremi. Ako mora da čeka, sklonite ga u frižider i popijte u roku od 2-3 sata kako bosiljak ne bi pogorčao.
-
-**Q: Mogu li da ga pripremim bez čia semenki?**
-
-Naravno, napitak će biti tečniji i lakši. Čia semenke su tu zbog teksture i doprinose osećaju sitosti, ali nisu obavezne.
 
 ---
 
