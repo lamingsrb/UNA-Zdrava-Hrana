@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Biljna apoteka u Kragujevcu: bilje, čajevi i suplementi
+
+https://unazdravahrana.com/blog/biljna-apoteka-u-kragujevcu-bilje-cajevi-i-suplementi
+
+Pregled ponude biljne apoteke UNA u Kragujevcu — od kamilice i majčine dušice do kurkume, magnezijuma i omega-3 suplemenata. Tekst objašnjava razliku između leka i dodatka ishrani, moguće interakcije i kako se bira čaj prema simptomu, dužini tegoba i terapiji koju već koristite.
+
+**Q: Šta je biljna apoteka?**
+
+Biljna apoteka je prodavnica u kojoj se kupuju lekovito bilje, čajne mešavine, tinkture, biljni sirupi i suplementi biljnog porekla. Ne izdaje lekove na recept, već dodatke ishrani koji podržavaju varenje, san, imunitet, disajne puteve i cirkulaciju.
+
+**Q: Gde se nalazi biljna apoteka UNA u Kragujevcu?**
+
+UNA se nalazi u Penezićevoj ulici, kod mosta u Bresnici, i posluje već petnaest godina sa policama domaćeg i uvoznog bilja, čajeva, tinktura i suplemenata.
+
+**Q: Da li bilje može da se meša sa lekovima?**
+
+Neke biljke ozbiljno stupaju u interakcije sa lekovima — kantarion, beli luk u kapsulama i ginko mogu smanjiti ili pojačati dejstvo terapije za pritisak, razređivača krvi, antidepresiva i terapije štitne žlezde. Pre uvođenja bilja ili suplementa uvek konsultujte lekara ili farmaceuta.
+
+**Q: Kako da izaberem pravi čaj kada je izbor ogroman?**
+
+Krenite od simptoma (a ne dijagnoze), procenite koliko tegoba traje, navedite šta već pijete od terapije i suplemenata, i uzmite u obzir kome se čaj kupuje (deca, trudnice, stariji). Najbolji čaj je onaj koji ćete redovno piti, pa vodite računa i o ukusu.
+
+---
+
 ## Hronična upala počinje ujutru: 5 navika koje pomažu
 
 https://unazdravahrana.com/blog/hronicna-upala-pocinje-ujutru-5-navika-koje-pomazu
@@ -697,30 +721,6 @@ Laneno seme sadrži ALA oblik koji telo mora pretvoriti u EPA i DHA, ali ta konv
 **Q: Kako prepoznati kvalitetan omega-3 suplement?**
 
 Gledajte količinu EPA i DHA, ne ukupnu količinu ulja — porcija treba da daje bar 500 mg EPA + DHA. Birajte triglicerid (TG ili rTG) formu, tamnu ambalažu, dodatak vitamina E i sertifikate o prečišćavanju od teških metala.
-
----
-
-## Letnji rižoto sa tikvicama i kajsijama
-
-https://unazdravahrana.com/recepti/letnji-rizoto-sa-tikvicama-i-kajsijama
-
-Kremasti rižoto sa mladim tikvicama, kajsijama i bademima — sezonsko, lagano glavno jelo gotovo za 45 minuta.
-
-**Q: Mogu li da koristim beli pirinač umesto integralnog?**
-
-Možete. Beli pirinač (arborio ili carnaroli) se kuva kraće — oko 18 minuta — pa skratite vreme i prilagodite količinu bujona. Tekstura će biti kremastija, ali sa manje vlakana.
-
-**Q: Da li je recept pogodan za vegane?**
-
-Lako se prilagođava — izostavite parmezan i puter, a umesto njih dodajte kašiku hranljivog kvasca ili tahinija za kremastu notu. Bujon koristite biljni.
-
-**Q: Šta ako kajsije nisu dovoljno zrele?**
-
-Manje zrele kajsije možete kratko prodinstati u tiganju sa kapljicom maslinovog ulja pre nego što ih dodate u rižoto — tako će razviti slatkoću i mekoću.
-
-**Q: Mogu li umesto badema da stavim drugi orašasti plod?**
-
-Naravno — odlično ide i pinjole, lešnik ili indijski orah. Bitno je da ih kratko prepečete da daju aromu i hrskavost.
 
 ---
 
