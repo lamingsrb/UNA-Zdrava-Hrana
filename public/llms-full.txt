@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji gazpacho sa paradajzom, paprikom i čia semenkama
+
+https://unazdravahrana.com/recepti/letnji-gazpacho-sa-paradajzom-paprikom-i-cia-semenkama
+
+Osvežavajući gazpacho sa paradajzom, pečenom paprikom i čia semenkama. Lagana letnja supa za 35 minuta — bez šporeta u vrelim danima.
+
+**Q: Mogu li gazpacho da pripremim dan ranije?**
+
+Naravno, čak je i ukusniji sutradan kada se arome povežu. Držite ga u zatvorenoj posudi u frižideru i promešajte pre serviranja.
+
+**Q: Čemu služe čia semenke u supi?**
+
+Kada nabubre, prave lagani gel koji doprinosi kremastoj teksturi bez pavlake i brašna. Takođe podržavaju osećaj sitosti.
+
+**Q: Da li deca vole ovu supu?**
+
+Većina dece prihvata gazpacho ako se izostavi beli luk i doda kašika prirodnog jogurta na vrh. Poslužite sa hrskavim tostom kao zabavu.
+
+**Q: Mogu li da zamrznem gazpacho?**
+
+Može, ali svež je najbolji. Ako zamrzavate, ostavite 2 cm praznog prostora u posudi i pre serviranja dobro promešajte jer se sastojci razdvajaju.
+
+---
+
 ## Letnja bruskete pločica sa paradajzom i breskvom
 
 https://unazdravahrana.com/recepti/letnja-bruskete-plocica-sa-paradajzom-i-breskvom
@@ -697,30 +721,6 @@ Jeste, pogotovo kao šarena užina. Za mlađu decu možete preskočiti limetu i 
 **Q: Mogu li sve pripremiti uveče za sutra?**
 
 Možete pripremiti kremu sa čia semenkama dan ranije i ostaviti je u frižideru. Sveže voće, bademe i mentu dodajte tek pred serviranje.
-
----
-
-## Vrste magnezijuma: koji oblik odgovara baš vama
-
-https://unazdravahrana.com/blog/vrste-magnezijuma-koji-oblik-odgovara-bas-vama
-
-Magnezijum dolazi u desetak oblika i svaki ima specifičnu namenu: citrat za grčeve i opštu upotrebu, bisglicinat za san i stres, malat za umor. Pri kupovini uvek gledajte količinu elementarnog magnezijuma na deklaraciji.
-
-**Q: Koji magnezijum je najbolji za grčeve u nogama?**
-
-Magnezijum-citrat je najčešći izbor za grčeve jer se dobro upija i pristupačne je cene. Preporučena doza je 200–400 mg elementarnog magnezijuma dnevno uz obrok.
-
-**Q: Koji magnezijum je najbolji za san i nesanicu?**
-
-Magnezijum-bisglicinat (glicinat) je najbolji izbor za san jer glicin dodatno umiruje nervni sistem. Uzima se 30–60 minuta pre spavanja i ne izaziva probleme sa stomakom.
-
-**Q: Šta znači elementarni magnezijum na deklaraciji?**
-
-Elementarni magnezijum je količina čistog minerala koju zaista unosite. Na primer, tableta od 500 mg magnezijum-citrata sadrži oko 80 mg elementarnog magnezijuma, što je broj koji se računa u dnevnu dozu.
-
-**Q: Koji magnezijum pomaže kod hroničnog umora?**
-
-Magnezijum-malat je najbolji za dugotrajan umor jer je vezan za jabučnu kiselinu koja učestvuje u proizvodnji energije u ćelijama. Uzima se ujutru ili rano popodne, 200–400 mg.
 
 ---
 
