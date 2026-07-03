@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja bruskete pločica sa paradajzom i breskvom
+
+https://unazdravahrana.com/recepti/letnja-bruskete-plocica-sa-paradajzom-i-breskvom
+
+Letnje bruskete sa paradajzom, breskvom i bademima na integralnom hlebu — brz, lagan i osvežavajući recept gotov za 25 minuta.
+
+**Q: Mogu li da koristim nektarine umesto breski?**
+
+Naravno. Nektarine imaju čvršću teksturu i savršeno pristaju uz paradajz. Kajsije takođe rade, ali dodaj malo manje meda jer su slađe.
+
+**Q: Da li se ovo jelo može spremiti bez pečenja hleba?**
+
+Može, ali topao i hrskav hleb daje mnogo bolju teksturu i aromu. Ako preskačeš tostiranje, koristi svež integralan ili raženi hleb koji dobro drži nadev.
+
+**Q: Koliko dugo mogu da stoje gotove bruskete?**
+
+Najbolje ih je pojesti odmah. Ako ostanu, hleb će omekšati za 20-30 minuta, pa preporučujemo da nadev i hleb držiš odvojeno do serviranja.
+
+**Q: Da li je ovaj recept pogodan za decu?**
+
+Jeste, deca uglavnom vole slatkast ukus breskve i sočnost paradajza. Za najmlađe možeš izostaviti beli luk i biber.
+
+---
+
 ## Biljna apoteka u Kragujevcu: bilje, čajevi i suplementi
 
 https://unazdravahrana.com/blog/biljna-apoteka-u-kragujevcu-bilje-cajevi-i-suplementi
@@ -697,30 +721,6 @@ Elementarni magnezijum je količina čistog minerala koju zaista unosite. Na pri
 **Q: Koji magnezijum pomaže kod hroničnog umora?**
 
 Magnezijum-malat je najbolji za dugotrajan umor jer je vezan za jabučnu kiselinu koja učestvuje u proizvodnji energije u ćelijama. Uzima se ujutru ili rano popodne, 200–400 mg.
-
----
-
-## Omega-3: zašto ga vredi uzimati svaki dan
-
-https://unazdravahrana.com/blog/omega-3-zasto-ga-vredi-uzimati-svaki-dan
-
-Omega-3 masne kiseline (EPA i DHA) su esencijalne za rad srca, mozga i vida, a preporučeni dnevni unos je 250–500 mg. Ako ne jedete masnu morsku ribu 2–3 puta nedeljno, kvalitetan suplement u triglicerid formi uz obrok je razuman izbor.
-
-**Q: Kolika je preporučena dnevna doza omega-3?**
-
-Za odraslu osobu preporučuje se oko 250 mg EPA + DHA dnevno, a mnogi stručnjaci kao razuman cilj navode 500 mg. Trudnice i dojilje imaju dodatne potrebe za DHA — oko 200 mg više od osnovnog unosa.
-
-**Q: Kada je najbolje uzimati omega-3 kapsule?**
-
-Najbolje uz obrok koji sadrži malo masti, idealno uz ručak, jer se omega-3 kao masne kiseline tada znatno bolje apsorbuju. Izbegavajte uzimanje na prazan stomak i sa kafom ili čajem.
-
-**Q: Da li je omega-3 iz lanenog semena dovoljan?**
-
-Laneno seme sadrži ALA oblik koji telo mora pretvoriti u EPA i DHA, ali ta konverzija je kod većine ljudi ispod 10%. Ako ne jedete ribu, bolji izbor je direktan unos DHA iz ulja algi.
-
-**Q: Kako prepoznati kvalitetan omega-3 suplement?**
-
-Gledajte količinu EPA i DHA, ne ukupnu količinu ulja — porcija treba da daje bar 500 mg EPA + DHA. Birajte triglicerid (TG ili rTG) formu, tamnu ambalažu, dodatak vitamina E i sertifikate o prečišćavanju od teških metala.
 
 ---
 
