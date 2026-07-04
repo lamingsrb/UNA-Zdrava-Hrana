@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja paprika punjena heljdom i malinama
+
+https://unazdravahrana.com/recepti/letnja-paprika-punjena-heljdom-i-malinama
+
+Punjenje paprike bez mesa sa heljdom, malinama i sirom — jednostavan letnji recept koji podržava probavu i energiju. Brza priprema za ceo dan.
+
+**Q: Mogu li pripremiti unapred i zagrejati kasnije?**
+
+Da, punjene paprike se mogu sklopiti i spremiti dan ranije, a zatim samo ispeći pred servisiranje. Takođe, pečene se odlično podgrevaju u rerni na 180°C oko 10 minuta.
+
+**Q: Da li mogu koristiti smrznute maline?**
+
+Možete, ali one sadrže više vode i više će se raspasti. Najbolje ih je koristiti smrznute samo ako ne možete naći sveže, i dodajte ih na kraju u smesu bez prethodnog odmrzavanja.
+
+**Q: Jel ovo jelo pogodno za osobe na bezglutenskoj ishrani?**
+
+Da, heljda prirodno ne sadrži gluten, a ostali sastojci su bez glutena. Obavezno proverite oznake na pakovanjima proizvoda da biste bili potpuno sigurni.
+
+**Q: Šta služiti uz ove paprike?**
+
+Uz njih ide sveža zelena salata sa kap limunovog soka i maslinovog ulja, ili prosti integralni hleb. Za lakši obrok možete ih služiti i potpuno same — paprike su već dovoljno zasitne.
+
+---
+
 ## Najbolji suplementi za oporavak mišića posle treninga
 
 https://unazdravahrana.com/blog/najbolji-suplementi-za-oporavak-misica-posle-treninga
@@ -697,30 +721,6 @@ Da, nema kofeina ni alkohola. Za najmlađe preporučujemo manju količinu čia s
 **Q: Mogu li ga praviti u većoj količini za zabavu?**
 
 Naravno, sve količine udvostručite ili utrostručite. Poslužite u staklenoj bokali, a gaziranu vodu dodajte tek pre serviranja da napitak ostane živ i osvežavajući.
-
----
-
-## Vitamini za decu: šta je zaista važno za rast
-
-https://unazdravahrana.com/blog/vitamini-za-decu-sta-je-zaista-vazno-za-rast
-
-Vodič za roditelje o ključnim vitaminima i mineralima za decu — vitamin D, C, gvožđe, cink i omega-3 — sa naglaskom na ishranu pre suplementacije. Donosi praktične savete o izvorima u hrani, kombinacijama namirnica i situacijama kada vredi konsultovati pedijatra.
-
-**Q: Da li su deci potrebni vitaminski suplementi?**
-
-Ne uvek. Dete koje jede raznovrsno najčešće dobija dovoljno hranljivih materija iz hrane. Suplementi su korisni kada postoji izbirljivost, vegetarijanska ishrana ili tokom zimskih meseci za vitamin D. Pre suplementacije konsultujte pedijatra.
-
-**Q: Koji vitamin je najvažniji za decu zimi?**
-
-Vitamin D je ključan tokom zimskih meseci (oktobar–mart) jer sunce u Srbiji tada nije dovoljno jako da telo proizvede potrebne količine. Doprinosi rastu kostiju, radu mišića i imunog sistema.
-
-**Q: Kako pomoći detetu da bolje apsorbuje gvožđe iz biljne hrane?**
-
-Kombinujte namirnice bogate gvožđem (sočivo, spanać, ovsene pahuljice) sa izvorima vitamina C poput paprike, paradajza, limuna ili pomorandže. Izbegavajte mleko i crni čaj uz takve obroke jer smanjuju apsorpciju.
-
-**Q: Koji su najbolji izvori cinka za decu?**
-
-Najbolji izvori cinka su meso (junetina, piletina), jaja, bundevine i suncokretove semenke, integralne žitarice, mahunarke i sir. Šaka bundevinih semenki uz užinu pokriva dobar deo dnevnih potreba.
 
 ---
 
