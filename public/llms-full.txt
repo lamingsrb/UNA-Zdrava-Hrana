@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa palentom i spirulinom
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-palentom-i-spirulinom
+
+Ćoravi paprikaš sa palentom i spirulinom — letnje povrće u ukusnom, zdravom jelu bez mesa. Spreman za 45 minuta.
+
+**Q: Da li mogu koristiti običnu palentu umesto integralne?**
+
+Da, možete. Razlika je u tome što integralna palenta zadržava više vlakana i ima bogatiji ukus, a vreme kuvanja je slično. Ako koristite običnu palentu, možete malo smanjiti količinu tečnosti jer brže upija vodu.
+
+**Q: Šta ako ne nađem svež paradajz?**
+
+Možete koristiti pelat iz konzerve (oko 400 g) ili dobar kvalitetan paradajz sok. Svež zreli paradajz daje najbolji ukus, ali pelat je odlična alternativa van sezone.
+
+**Q: Da li spirulina menja ukus znatno?**
+
+U maloj količini (pola kašičice na 4 porcije) spirulina daje blago, umami dubinu ukusu i lepu boju, bez preuzimanja dominantnosti. Ako niste sigurni, krenite sa manje i povećavajte po ukusu.
+
+**Q: Mogu li dodati i drugo povrće?**
+
+Naravno! Patlidžan, tikvice ili pečurke se odlično uklapaju. Dinstajte ih zajedno sa paprikom u koraku 2, uz eventualno produženje vremena za par minuta.
+
+---
+
 ## Letnja paprika punjena heljdom i malinama
 
 https://unazdravahrana.com/recepti/letnja-paprika-punjena-heljdom-i-malinama
@@ -697,30 +721,6 @@ Manje zrele kajsije iseci na tanje komade i dodaj ih nešto ranije u pečenje da
 **Q: Koje bademe preporučujete za ovaj recept?**
 
 Najbolje sirove, neoljuštene bademe koje ćeš sam kratko propeći u tiganju — tako su najmirisniji. Takve bademe imamo u radnji u Bresnici.
-
----
-
-## Letnji virali mocktail: borovnice, kajsije i čia
-
-https://unazdravahrana.com/recepti/letnji-virali-mocktail-borovnice-kajsije-i-cia
-
-Letnji mocktail sa borovnicama, kajsijama i čia semenkama — viralni recept bez alkohola i rafinisanog šećera, gotov za 25 minuta.
-
-**Q: Mogu li mocktail napraviti sa smrznutim voćem?**
-
-Apsolutno. Smrznute borovnice i kajsije savršeno odgovaraju — kompot će se brže napraviti, a led možete smanjiti jer voće samo hladi napitak.
-
-**Q: Koliko dugo čia semenke treba da bubre?**
-
-Minimum 15 minuta za laganu teksturu, ali ako imate vremena ostavite ih 30–60 minuta u frižideru — biće gušće i prijatnije za pijenje na slamčicu.
-
-**Q: Da li je ovaj napitak pogodan za decu?**
-
-Da, nema kofeina ni alkohola. Za najmlađe preporučujemo manju količinu čia semenki i manje meda — voće samo po sebi donosi dovoljno slatkoće.
-
-**Q: Mogu li ga praviti u većoj količini za zabavu?**
-
-Naravno, sve količine udvostručite ili utrostručite. Poslužite u staklenoj bokali, a gaziranu vodu dodajte tek pre serviranja da napitak ostane živ i osvežavajući.
 
 ---
 
