@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Najbolji suplementi za oporavak mišića posle treninga
+
+https://unazdravahrana.com/blog/najbolji-suplementi-za-oporavak-misica-posle-treninga
+
+Ovaj članak objašnjava da je za oporavak mišića posle treninga najvažniji unos proteina, ugljenih hidrata i minerala poput magnezijuma, dok BCAA i drugi dodaci predstavljaju dodatnu opciju tek kada su osnove na mestu. Praktični saveti pomažu rekreativcima i sportistima da pametno odaberu suplemente bez nepotrebnog trošenja novca.
+
+**Q: Koji suplementi su najbolji za oporavak mišića posle treninga?**
+
+Osnovni suplementi za oporavak mišića su protein u prahu (najčešće whey), magnezijum za opuštanje mišića, i ugljeni hidrati za obnovu glikogena. Kreatin i BCAA mogu dodatno pomoći, ali samo kada su osnovne potrebe za proteinima i mineralima već pokrivene.
+
+**Q: Da li mi trebaju BCAA ako već pijem protein u prahu?**
+
+U većini slučajeva ne. Whey protein već sadrži sve esencijalne aminokiseline, uključujući BCAA. Dodatni unos BCAA ima smisla samo ako trenirate na prazan stomak, ste na restriktivnoj dijeti, ili dugotrajno trenirate izdržljivost.
+
+**Q: Koliko proteina dnevno treba rekreativnom sportisti?**
+
+Za rekreativca koji trenira 3-4 puta nedeljno preporučuje se 1,4 do 1,8 grama proteina po kilogramu telesne težine dnevno. Za osobu od 75 kg to je između 105 i 135 grama proteina dnevno, što se može postići kombinacijom obroka i proteinskog šejka.
+
+**Q: Zašto je magnezijum važan za oporavak mišića?**
+
+Magnezijum pomaže opuštanje mišića posle napora, smanjuje grčeve i podržava kvalitetniji san, koji je ključan za obnovu mišićnog tkiva. Nedostatak magnezijuma je čest zbog osiromašenog zemljišta, rafinisane hrane, stresa i prekomernog unosa kafe i alkohola.
+
+---
+
 ## Kako podneti vrućine kad termometar puca
 
 https://unazdravahrana.com/blog/kako-podneti-vrucine-kad-termometar-puca
@@ -697,30 +721,6 @@ Kombinujte namirnice bogate gvožđem (sočivo, spanać, ovsene pahuljice) sa iz
 **Q: Koji su najbolji izvori cinka za decu?**
 
 Najbolji izvori cinka su meso (junetina, piletina), jaja, bundevine i suncokretove semenke, integralne žitarice, mahunarke i sir. Šaka bundevinih semenki uz užinu pokriva dobar deo dnevnih potreba.
-
----
-
-## Prirodni suplementi za anksioznost: vodič kroz tri saveznika
-
-https://unazdravahrana.com/blog/prirodni-suplementi-za-anksioznost-vodic-kroz-tri-saveznika
-
-Vodič kroz tri prirodna suplementa za anksioznost: ašvagandu kao adaptogen za dugotrajni stres, L-teanin za brzo smirenje bez pospanosti i magnezijum kao temelj koji se kod stresa brzo troši. Tekst daje praktične doze, oblike, vreme uzimanja i upozorenja za koga ovi suplementi nisu pogodni.
-
-**Q: Koji je najbolji prirodni suplement za anksioznost?**
-
-Ne postoji jedan najbolji — tri najčešće preporučivana su ašvaganda (za hronični stres, deluje posle 2–3 nedelje), L-teanin (za brzo smirenje za 30–60 minuta) i magnezijum bisglicinat (kao temelj, posebno za san). Često se kombinuju jer pokrivaju različite mehanizme.
-
-**Q: Koliko dugo treba piti ašvagandu da bi se osetio efekat?**
-
-Prvi efekti se obično primete posle 2–3 nedelje redovnog uzimanja, a puna slika posle 6–8 nedelja. Tipična doza je 300–600 mg standardizovanog ekstrakta korena (KSM-66 ili Sensoril) dnevno, ujutru ili uveče pre spavanja.
-
-**Q: Da li L-teanin može da se uzima uz kafu?**
-
-Da, kombinacija 100–200 mg L-teanina uz jutarnju kafu često ublažava nervozu i 'treskavi' osećaj koji kafa može da izazove, dok fokus i budnost ostaju. L-teanin ne stvara naviku i smatra se jednim od bezbednijih suplemenata.
-
-**Q: Koji magnezijum je najbolji za smirenje i san?**
-
-Magnezijum bisglicinat je najbolji izbor za anksioznost i san — odlično se apsorbuje, blag je za želudac i specifično podržava opuštanje. Doza koja se obično preporučuje je 200–400 mg elementarnog magnezijuma uveče.
 
 ---
 
