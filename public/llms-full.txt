@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Fried dates: 5-minutni recept koji je osvojio internet
+
+https://unazdravahrana.com/blog/fried-dates-5-minutni-recept-koji-je-osvojio-internet
+
+Fried dates su brza i zdrava poslastica od karamelizovanih urmi na tiganju, serviranih preko grčkog jogurta sa pistaćima, morskom solju i maslinovim uljem. Celo jelo se sprema za pet minuta i koristi isključivo cele, prepoznatljive namirnice, što ga čini idealnim za doručak, užinu ili lagani desert.
+
+**Q: Šta su fried dates?**
+
+Fried dates su urme koje se kratko zagrevaju na tiganju sa maslinovim uljem dok ne postanu blago karamelizovane, a zatim se služe preko grčkog jogurta sa seckanim pistaćima, morskom solju i maslinovim uljem.
+
+**Q: Koliko vremena treba za spremanje fried dates?**
+
+Priprema fried dates traje doslovno pet minuta — urme se prže dva do tri minuta na tiganju, a preostali sastojci se samo slažu u činiju.
+
+**Q: Koje urme su najbolje za fried dates?**
+
+Medjool urme su najbolji izbor jer su veoma mesnate i intenzivno slatke, ali i kvalitetne sveže organske urme iz prodavnice zdrave hrane mogu biti odlične, pod uslovom da su dovoljno meke.
+
+**Q: Zašto se u fried dates dodaje morska so i maslinovo ulje?**
+
+Morska so izvlači dubinu ukusa i balansira slatkoću urmi, dok maslinovo ulje donosi voćnu, blago gorku notu koja se savršeno slaže sa karamelastim karakterom zagrejanih urmi.
+
+---
+
 ## Vitamini i minerali za zdravu kičmu i zglobove
 
 https://unazdravahrana.com/blog/vitamini-i-minerali-za-zdravu-kicmu-i-zglobove
@@ -697,30 +721,6 @@ Dovoljno je 10 do 15 minuta da nabubre i dobiju gel teksturu. Ako vam ostane vi�
 **Q: Mogu li umesto borovnica koristiti smrznute?**
 
 Da, smrznute borovnice rade odlično — pre upotrebe ih ostavite 10 minuta da se malo otkrave i puste sok, pa nastavite po receptu.
-
----
-
-## Letnji mocktail spritz sa kajsijama i borovnicama
-
-https://unazdravahrana.com/recepti/letnji-mocktail-spritz-sa-kajsijama-i-borovnicama
-
-Osvežavajući letnji mocktail sa kajsijama, borovnicama i čia semenkama. Bez alkohola i rafinisanog šećera, gotov za 25 minuta.
-
-**Q: Mogu li ovaj mocktail da pripremim za rođendansko slavlje unapred?**
-
-Sirup od kajsija i čia gel pripremite ranije i držite u frižideru. Mineralnu vodu i led dodajte tek pri serviranju da napitak ostane gaziran i osvežavajući.
-
-**Q: Da li je napitak prikladan za decu?**
-
-Jeste, sastojci su prirodni i bez veštačkih dodataka. Za malu decu možete smanjiti količinu čia semenki na pola kašike po čaši i izbegavati gaziranu vodu.
-
-**Q: Kako da napitak bude manje sladak?**
-
-Smanjite med na jednu kašiku ukupno i dodajte više soka od limuna. Zrele kajsije nose dosta prirodne slatkoće, pa često ni nije potreban dodatni zaslađivač.
-
-**Q: Mogu li da koristim druge bobice umesto borovnica?**
-
-Naravno — maline, kupine ili ribizle odlično se slažu sa kajsijama. Kombinujte ono što imate iz bašte ili sa pijace.
 
 ---
 
