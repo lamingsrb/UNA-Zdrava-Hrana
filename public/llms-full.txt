@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni paradajz sa urminama i kozjim sirom
+
+https://unazdravahrana.com/recepti/peceni-paradajz-sa-urminama-i-kozjim-sirom
+
+Pečeni paradajz sa urminama i kozjim sirom — jednostavan letnji recept za 35 minuta. Zdravo, ukusno i bez glutena.
+
+**Q: Da li mogu koristiti običan kravlji sir umesto kozjeg?**
+
+Naravno. Kozji sir je blaži i lakše se vari za mnoge ljude, ali beli kravlji sir ili mozzarella odlično funkcionišu. Ako koristite slani sir, smanjite so u receptu za pola.
+
+**Q: Koja vrsta paradajza je najbolja za pečenje?**
+
+Bilo koji zreli paradajz je dobar, ali šolica ili okrugli srednji paradajz imaju najbolji odnos mesa i soka. Trešnjasti paradajz takođe funkcioniše — pecite ga 5–10 minuta kraće jer je manji.
+
+**Q: Da li ovaj recept odgovara osobama sa intolerancijom na gluten?**
+
+Da, jelo je potpuno bez glutena. Samo pazite da ga služite uz bezglutenski hleb ako ga jedete kao glavno jelo.
+
+**Q: Mogu li ga pripremiti unapred za goste?**
+
+Možete ispeći paradajz sat vremena pre služenja i ostaviti na sobnoj temperaturi. Kozji sir, bademe i bosiljak dodajte neposredno pre serviranja kako bi tekstura ostala sveža.
+
+---
+
 ## Letnji bakarni paradajz sa urminama i bademima
 
 https://unazdravahrana.com/recepti/letnji-bakarni-paradajz-sa-urminama-i-bademima
@@ -697,30 +721,6 @@ Najniži glikemijski indeks imaju ječam (28), amarant (35), heljda i kamut (45)
 **Q: Zašto je važno isprati kinou pre kuvanja?**
 
 Kinoa ima prirodni gorki sloj saponina na površini zrna. Ako se ne ispere pod mlazom vode bar pola minuta, gotovo jelo će imati gorak ukus.
-
----
-
-## Preplanuli ten preko trpeze: namirnice koje pomažu
-
-https://unazdravahrana.com/blog/preplanuli-ten-preko-trpeze-namirnice-koje-pomazu
-
-Tekst objašnjava kako određene namirnice — bogate beta-karotenom, likopenom, antioksidansima i masnim kiselinama — pomažu koži da se bolje nosi sa suncem i ravnomernije primi boju. Hrana ne zamenjuje SPF, ali kroz nedelje gradi zdraviji ten i jaču kožnu barijeru.
-
-**Q: Koje namirnice pomažu preplanulom tenu?**
-
-Šargarepa, batat, kajsije, kuvan paradajz, borovnice, spanać, avokado, laneno i čia seme, bademi i maslinovo ulje — kombinacija beta-karotena, likopena, antioksidansa i masnih kiselina podržava kožu na suncu.
-
-**Q: Da li hrana može da zameni kremu sa zaštitnim faktorom?**
-
-Ne. Hrana ne zamenjuje SPF i ne pravi ten umesto sunca. Određene namirnice samo pomažu da koža bude zdravija, elastičnija i da ravnomernije prima boju.
-
-**Q: Zašto je pečena šargarepa bolja od sirove za ten?**
-
-Termička obrada oslobađa beta-karoten iz biljnih ćelija, a kako je rastvorljiv u mastima, šargarepa pečena s maslinovim uljem je telu daleko iskoristljivija od sirove.
-
-**Q: Kada početi sa ishranom za letnju kožu?**
-
-Efekat se gradi nedeljama, ne danima. Idealno je krenuti krajem maja ili početkom juna kako bi do sredine jula koža već bila u boljoj formi.
 
 ---
 
