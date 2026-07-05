@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamini i minerali za zdravu kičmu i zglobove
+
+https://unazdravahrana.com/blog/vitamini-i-minerali-za-zdravu-kicmu-i-zglobove
+
+Ovaj članak objašnjava kako magnezijum, vitamin D3 i K2, te kalcijum deluju na zdravlje kičme, zglobova i kostiju kroz tri ključne mete: gustinu kostiju, elastičnost hrskavice i smanjenje upale. Praktični saveti obuhvataju odabir pravih oblika suplemenata, doziranje i vreme uzimanja za maksimalnu apsorpciju.
+
+**Q: Koji vitamin je najvažniji za zdravlje zglobova i kičme?**
+
+Vitamin D3 je ključan jer omogućava crevima da apsorbuju kalcijum iz hrane. Bez dovoljno D vitamina, kalcijum ne dolazi do kostiju. Takođe je važan vitamin K2 koji usmerava kalcijum u kosti i zube, sprečavajući njegovo taloženje u krvnim sudovima.
+
+**Q: Koji oblik magnezijuma je najbolji za bolove u leđima?**
+
+Za mišićnu napetost i bolove u leđima najčešće se preporučuju magnezijum-citrat za opštu relaksaciju i magnezijum-glicinat za hroničnu napetost i dublji san. Preporučuje se uzimanje uveče u dozi 300–400 mg dnevno.
+
+**Q: Kako se uzimaju vitamin D3 i K2 zajedno?**
+
+Za odrasle osobe preporučuje se 2000–4000 IJ D3 dnevno uz 50–100 mcg K2 u MK-7 obliku. Treba ih uzimati uz obrok koji sadrži masti jer su vitamini rastvorljivi u mastima, što je neophodno za pravilnu apsorpciju.
+
+**Q: Šta uništava hrskavicu i izaziva bolove u zglobovima?**
+
+Hrskavica se vremenom tanji, a sinovijalna tečnost gubi svojstva podmazivanja. Glavni faktori koji razgrađuju i kosti i hrskavicu su hronična upala, neadekvatan unos nutrijenata i starenje, dok pravilna ishrana i suplementacija mogu usporiti taj proces.
+
+---
+
 ## Pečeni paradajz sa urminama i kozjim sirom
 
 https://unazdravahrana.com/recepti/peceni-paradajz-sa-urminama-i-kozjim-sirom
@@ -697,30 +721,6 @@ Smanjite med na jednu kašiku ukupno i dodajte više soka od limuna. Zrele kajsi
 **Q: Mogu li da koristim druge bobice umesto borovnica?**
 
 Naravno — maline, kupine ili ribizle odlično se slažu sa kajsijama. Kombinujte ono što imate iz bašte ili sa pijace.
-
----
-
-## Žitarice: vodič kroz 18 vrsta i njihovu upotrebu
-
-https://unazdravahrana.com/blog/zitarice-vodic-kroz-18-vrsta-i-njihovu-upotrebu
-
-Detaljan vodič kroz 18 žitarica sa tabelom kalorija, proteina, vlakana, glutena i glikemijskog indeksa. Donosi praktične savete za izbor žitarica prema cilju — sitost, proteini, ishrana bez glutena ili lakše varenje.
-
-**Q: Koje žitarice su bez glutena?**
-
-Heljda, kinoa, amarant, proso, sirak, teff, pirinač i kukuruz su prirodno bez glutena. Ovas po prirodi nema gluten, ali se često obrađuje uz pšenicu, pa osobe sa celijakijom treba da biraju ovas sa oznakom 'bez glutena'.
-
-**Q: Koja žitarica ima najviše proteina?**
-
-Ovas vodi sa oko 17 g proteina na 100 g, a zatim slede spelta i kamut sa po 15 g, kao i kinoa, amarant i divlji pirinač sa 14-15 g. Kinoa je posebna jer sadrži svih devet esencijalnih aminokiselina.
-
-**Q: Koje žitarice najsporije podižu šećer u krvi?**
-
-Najniži glikemijski indeks imaju ječam (28), amarant (35), heljda i kamut (45). One su najbolji izbor za stabilan šećer u krvi i dugotrajnu sitost.
-
-**Q: Zašto je važno isprati kinou pre kuvanja?**
-
-Kinoa ima prirodni gorki sloj saponina na površini zrna. Ako se ne ispere pod mlazom vode bar pola minuta, gotovo jelo će imati gorak ukus.
 
 ---
 
