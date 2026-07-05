@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji bakarni paradajz sa urminama i bademima
+
+https://unazdravahrana.com/recepti/letnji-bakarni-paradajz-sa-urminama-i-bademima
+
+Brz letnji recept: bakarni paradajz sa urminama i bademima — gotov za 20 minuta, slatko-slano, bez glutena. Inspirisano viralnim fried dates.
+
+**Q: Može li sa zelenom paprikom umesto crvene?**
+
+Može, ali zelena paprika je kiselija i manje slatka, pa će jelo imati drugačiji karakter. Crvena paprika bolje harmonizuje sa slatkoćom urmi. Ako imate samo zelenu, dodajte malo više urmi ili kašičicu javorovog sirupa da balansirate.
+
+**Q: Da li je ovaj recept pogodan za dijabetičare?**
+
+Urme sadrže prirodne šećere, pa ih osobe sa dijabetesom treba da koriste umereno i u dogovoru sa svojim lekarom. Mogu se smanjiti na 4-5 urmi, a bademi i maslinovo ulje doprinose tome da obrok bude uravnoteženiji.
+
+**Q: Koji paradajz je najbolji za ovaj recept?**
+
+Sočan, zreo, rumen paradajz — onaj koji miriše na paradajz. Najbolji su krupni, mesnati tipovi poput volovskog srca ili bifik paradajza. Mali čeri paradajz takođe radi, ali ga ne seckajte, samo prepolovite.
+
+**Q: Mogu li dodati sir ili feta?**
+
+Naravno — izmrvljena feta ili kozji sir na vrhu, kada je jelo gotovo, daju divan slano-kiselkast kontrast. Za vegansku verziju, pospite hranljivim kvascem za sličan efekat.
+
+---
+
 ## Suplementi gvožđa: Kako odabrati pravi i izbeći neželjene
 
 https://unazdravahrana.com/blog/suplementi-gvozdja-kako-odabrati-pravi-i-izbeci-nezeljene
@@ -697,30 +721,6 @@ Termička obrada oslobađa beta-karoten iz biljnih ćelija, a kako je rastvorlji
 **Q: Kada početi sa ishranom za letnju kožu?**
 
 Efekat se gradi nedeljama, ne danima. Idealno je krenuti krajem maja ili početkom juna kako bi do sredine jula koža već bila u boljoj formi.
-
----
-
-## Vitamini i minerali za mozak: pamćenje i fokus
-
-https://unazdravahrana.com/blog/vitamini-i-minerali-za-mozak-pamcenje-i-fokus
-
-Mozak za optimalan rad traži omega-3 (DHA/EPA), B-kompleks, magnezijum, cink, gvožđe i vitamin D koji podržavaju membrane neurona, energiju i neurotransmitere. Ciljani suplementi mogu da poboljšaju pamćenje i koncentraciju, ali ne zamenjuju san, ishranu i kretanje.
-
-**Q: Koji je najbolji vitamin za pamćenje i fokus?**
-
-Ne postoji jedan vitamin — najveći efekat daju omega-3 masne kiseline (posebno DHA), B-kompleks (B1, B6, B9, B12) i magnezijum bisglicinat ili L-treonat. Oni zajedno podržavaju strukturu neurona, proizvodnju energije i smiren nervni sistem.
-
-**Q: Kada se uzima B-kompleks za mozak?**
-
-B-kompleks se najbolje uzima ujutru ili u podne, uz obrok. Uveče može da remeti san jer podiže energiju i 'pali motor' nervnog sistema.
-
-**Q: Koliko omega-3 dnevno za bolju koncentraciju?**
-
-Za odraslu osobu koja ne jede masnu ribu redovno preporučuje se oko 250–500 mg kombinovano EPA + DHA dnevno, uz obrok sa malo masnoće radi bolje apsorpcije.
-
-**Q: Koji oblik magnezijuma je najbolji za mozak?**
-
-Za kognitivnu podršku i fokus najbolji su bisglicinat (smiruje, poboljšava san i pažnju) i L-treonat koji prolazi krvno-moždanu barijeru. Magnezijum oksid treba izbegavati zbog slabe apsorpcije.
 
 ---
 
