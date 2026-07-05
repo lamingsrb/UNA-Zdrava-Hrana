@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Suplementi gvožđa: Kako odabrati pravi i izbeći neželjene
+
+https://unazdravahrana.com/blog/suplementi-gvozdja-kako-odabrati-pravi-i-izbeci-nezeljene
+
+Suplementi gvožđa dolaze u različitim oblicima koji se značajno razlikuju po apsorpciji i podnošljivosti, pri čemu bisglicinat retko izaziva tegobe sa varenjem, dok sulfat često dovodi do mučnine i zatvora. Pre početka suplementacije obavezno je uraditi nalaze krvi i konsultovati se sa lekarom, jer se višak gvožđa taloži u organizmu i može biti štetan.
+
+**Q: Koji oblik gvožđa je najbolji za osetljiv stomak?**
+
+Gvožđe bisglicinat je oblik gde je gvožđe vezano za aminokiselinu glicin, koja ga štiti u digestivnom traktu i smanjuje iritaciju sluzokože. Zbog toga retko izaziva mučninu, zatvor ili osećaj težine u stomaku, što ga čini idealnim izborom za osobe sa osetljivim varenjem i trudnice.
+
+**Q: Koje su razlike između bisglicinata, fumarata i sulfata gvožđa?**
+
+Bisglicinat ima odličnu apsorpciju i vrlo dobru podnošljivost, fumarat nudi dobru apsorpciju ali umerenu podnošljivost koja može izazvati mučninu, dok sulfat ima zadovoljavajuću apsorpciju ali nižu podnošljivost sa čestim tegobama poput mučnine i zatvora. Sulfat je tradicionalni oblik koji je sve ređe prvi izbor.
+
+**Q: Koji su znaci da mi možda treba dodatno gvožđe?**
+
+Najčešći simptomi uključuju hroničan umor koji ne prolazi spavanjem, bledilo kože i sluzokoža, kratak dah pri naporu, vrtoglavice, lomljive nokte, opadanje kose i hladne ruke i stopala. Međutim, svaki simptom može imati više uzroka, pa je obavezan odlazak lekaru i vađenje nalaza pre suplementacije.
+
+**Q: Da li treba samostalno da uzimam suplemente gvožđa?**
+
+Ne, suplementacija gvožđem se nikada ne preduzima na svoju ruku. Telo nema prirodan mehanizam za izbacivanje viška gvožđa, pa se on može taložiti u organima i izazvati probleme. Prvi korak je odlazak lekaru, vađenje krvene slike, feritina i transferina, i tek na osnovu tih rezultata kreće suplementacija po preporuci lekara.
+
+---
+
 ## Ćoravi paprikaš sa palentom i spirulinom
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-palentom-i-spirulinom
@@ -697,30 +721,6 @@ Za odraslu osobu koja ne jede masnu ribu redovno preporučuje se oko 250–500 m
 **Q: Koji oblik magnezijuma je najbolji za mozak?**
 
 Za kognitivnu podršku i fokus najbolji su bisglicinat (smiruje, poboljšava san i pažnju) i L-treonat koji prolazi krvno-moždanu barijeru. Magnezijum oksid treba izbegavati zbog slabe apsorpcije.
-
----
-
-## Tikvica fritati sa kajsijama i bademima
-
-https://unazdravahrana.com/recepti/tikvica-fritati-sa-kajsijama-i-bademima
-
-Lagana letnja fritata sa mladim tikvicama, kajsijama i bademima — bez glutena, gotova za 40 minuta. Idealna za ručak ili doručak.
-
-**Q: Mogu li da pripremim fritatu unapred?**
-
-Da, fritata je zahvalna jer se može ispeći veče ranije i čuvati u frižideru do 2 dana. Posluži je hladnu ili kratko podgrej u rerni.
-
-**Q: Da li recept odgovara osobama bez glutena?**
-
-Da, recept je prirodno bez glutena jer ne sadrži brašno. Ako koristiš sir, proveri da je deklarisan kao bez glutena.
-
-**Q: Šta ako kajsije nisu dovoljno zrele?**
-
-Manje zrele kajsije iseci na tanje komade i dodaj ih nešto ranije u pečenje da omekšaju. Možeš dodati i prstohvat meda za balans.
-
-**Q: Koje bademe preporučujete za ovaj recept?**
-
-Najbolje sirove, neoljuštene bademe koje ćeš sam kratko propeći u tiganju — tako su najmirisniji. Takve bademe imamo u radnji u Bresnici.
 
 ---
 
