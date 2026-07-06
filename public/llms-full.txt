@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Najbolji izvor superhrane i proteina online?
+
+https://unazdravahrana.com/blog/najbolji-izvor-superhrane-i-proteina-online
+
+Vodič za kupovinu superhrane i proteina online u Srbiji sa jasnim kriterijumima: poreklo, sertifikat, sastav i realna cena. Objašnjava kada je online prodavnica dovoljna, a kada je bolje potražiti savet u lokalnoj specijalizovanoj radnji.
+
+**Q: Gde kupiti kvalitetnu spirulinu online u Srbiji?**
+
+Birajte prodavce koji jasno navode zemlju porekla (Havaji ili sertifikovani izvori), broj sertifikacionog tela za organski proizvod i rok trajanja. Spirulina ispod 800 dinara za 200 g najčešće je lošijeg kvaliteta ili stara roba.
+
+**Q: Koji protein u prahu je najbolji za početnike?**
+
+Za rekreativce i opštu upotrebu whey koncentrat je dovoljan i povoljniji, dok je whey izolat bolji izbor za osetljive na laktozu jer ima čistiji sastav. Proverite da nema previše šećera, veštačkih zaslađivača i punila.
+
+**Q: Kako prepoznati ozbiljnu online prodavnicu zdrave hrane?**
+
+Ozbiljan prodavac navodi poreklo namirnice, rok trajanja i partiju, broj sertifikata za organske proizvode, jasan sastav bez skrivenih aroma i realnu cenu. Ako je cena preterano niska, obično postoji razlog u kvalitetu ili starosti robe.
+
+**Q: Koliko superhrane dnevno treba uzimati?**
+
+Praktično pravilo je jedna, maksimalno dve superhrane dnevno tokom mesec dana redovnog uzimanja. Na primer, 1 kašičica spiruline (oko 3 g) u soku, ili 1-2 kašike čia semenki potopljenih u tečnosti.
+
+---
+
 ## Zatvor kod starijih: uzroci i praktična rešenja
 
 https://unazdravahrana.com/blog/zatvor-kod-starijih-uzroci-i-prakticna-resenja
@@ -697,30 +721,6 @@ Da, probiotici podržavaju ravnotežu crevne mikroflore koja se često poremeti 
 **Q: Kada nadutost stomaka zahteva odlazak lekaru?**
 
 Ako nadutost traje nedeljama i prati je gubitak težine, krv u stolici, jaki bolovi ili trajna promena ritma pražnjenja creva, obavezno se treba javiti lekaru jer to nije obična funkcionalna nadutost.
-
----
-
-## Najzdravije lisnate salate: 14 vrsta za tanjur
-
-https://unazdravahrana.com/blog/najzdravije-lisnate-salate-14-vrsta-za-tanjur
-
-Vodič kroz 14 vrsta lisnatog povrća sa uputstvima za kombinovanje ukusa, pravilan izbor i čuvanje. Objašnjava česte greške u pripremi salate i kako ih izbeći.
-
-**Q: Koja je najzdravija lisnata salata?**
-
-Nema jedne 'najzdravije' — kelj, spanać, rukola i potočarka spadaju u nutritivno najbogatije, ali najbolji efekat daje kombinacija više vrsta svakodnevno, bar jedna šolja dnevno.
-
-**Q: Koliko dugo traje zelena salata u frižideru?**
-
-Salata u glavi (puterica, romana) traje 5–7 dana u donjoj fioci frižidera, dok otvorena salata iz kese traje samo 24–48 sati. Uvijte listove u papirni ubrus da upije vlagu.
-
-**Q: Kojim redosledom se pravi preliv za salatu?**
-
-Prvo osušite listove, zatim dodajte so i biber, pa sirće ili limun, i na kraju maslinovo ulje. Ako prvo dodate ulje, so neće uhvatiti list.
-
-**Q: Da li se lisnato povrće može zamrznuti?**
-
-Za salatu ne, ali za smutije i variva može. Spanać, kelj i blitvu blanširajte 30 sekundi, ohladite u ledenoj vodi, iscedite i zamrznite u porcijama.
 
 ---
 
