@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa slanutkom i heljdom
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-i-heljdom
+
+Ćoravi paprikaš sa slanutkom i heljdom — letnji, zasitan obrok bez mesa. Jednostavan recept sa sezonskom paprikom i paradajzom.
+
+**Q: Mogu li da koristim slanutak iz konzerve?**
+
+Naravno, samo ga dobro isperite i ocedite pre nego što ga dodate u šerpu. Ako kuvate suvi slanutak, potopite ga preko noći i skuvajte unapred.
+
+**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Jeste — heljda je prirodno bez glutena. Proverite deklaraciju heljde koju kupujete ako je osetljivost izražena, jer neke marke nose oznaku 'bez glutena'.
+
+**Q: Kako da zamenim sveži paradajz van sezone?**
+
+Koristite kvalitetan pelat ili domaći paradajz sok iz tegle. Leti je ipak najbolje iskoristiti svež, zreo paradajz — ukus je neuporediv.
+
+**Q: Može li paprikaš da se zamrzne?**
+
+Može, u porcijama, do 2 meseca. Odmrznite ga preko noći u frižideru i podgrejte na tihoj vatri uz malo vode ako je previše zgusnuo.
+
+---
+
 ## Ćoravi paprikaš sa paprikom, paradajzom i kinoom
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-paprikom-paradajzom-i-kinoom
@@ -697,30 +721,6 @@ Kod dijabetesa tipa 2 dugotrajno povišen šećer dovodi do povećanog gubitka m
 **Q: Da li dijabetičari treba da uzimaju vitamin D?**
 
 Manjak vitamina D je čest kod osoba sa dijabetesom tipa 2 i povezan je sa osetljivošću na insulin. Pre uzimanja suplementa preporučuje se provera nivoa u krvi, a doziranje treba prilagoditi rezultatima nalaza uz savet lekara.
-
----
-
-## Zdrava ishrana za mršavljenje: principi koji rade
-
-https://unazdravahrana.com/blog/zdrava-ishrana-za-mrsavljenje-principi-koji-rade
-
-Trajno mršavljenje zahteva blagi kalorijski deficit, dovoljno proteina (1,2-1,6 g/kg) i vlakana (25-35 g dnevno), uz tanjir podeljen na povrće, proteine i složene ugljene hidrate. Realan tempo je 0,5 do 1 kg nedeljno, a najveće zamke su tečne kalorije, beli hleb i zavaravajući 'fit' proizvodi.
-
-**Q: Koliko kilograma je zdravo izgubiti nedeljno?**
-
-Realan i zdrav tempo mršavljenja je 0,5 do 1 kg nedeljno. Sve preko toga je uglavnom voda i mišićna masa, koja se brzo vraća kada se prekine dijeta.
-
-**Q: Koliko proteina treba unositi dnevno za mršavljenje?**
-
-Preporučuje se 1,2 do 1,6 grama proteina po kilogramu telesne težine dnevno. Za ženu od 70 kg to je 85-110 g proteina, koje možete uneti kroz jaja, skir, piletinu, ribu i mahunarke.
-
-**Q: Kako izgleda zdrav tanjir za mršavljenje?**
-
-Polovina tanjira treba da bude povrće, četvrtina proteini (piletina, riba, jaja, mahunarke), četvrtina složeni ugljeni hidrati (integralni pirinač, heljda, kinoa) i mala kašika zdravih masti poput maslinovog ulja ili oraha.
-
-**Q: Zašto većina dijeta ne uspeva dugoročno?**
-
-Drastične dijete usporavaju metabolizam, smanjuju mišićnu masu i povećavaju glad, pa se kilogrami vraćaju sa kamatom - to je jo-jo efekat. Dugoročno radi samo blagi kalorijski deficit uz ishranu koja liči na normalan život.
 
 ---
 
