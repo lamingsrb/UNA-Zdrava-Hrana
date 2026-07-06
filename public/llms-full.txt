@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa paprikom, paradajzom i kinoom
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-paprikom-paradajzom-i-kinoom
+
+Ćoravi paprikaš sa paprikom, paradajzom i kinoom — sito letnje jelo bez mesa i glutena, gotovo za 50 minuta. Recept UNA Zdrave Hrane.
+
+**Q: Mogu li deca da jedu ovaj paprikaš?**
+
+Da, jelo je blago i slatkasto zbog pečene paprike i paradajza. Ako pripremate za mlađu decu, izostavite biber i alevu papriku ili ih smanjite, a med zamenite kašikom domaćeg soka od jabuke.
+
+**Q: Da li je recept bez glutena?**
+
+Jeste, kinoa prirodno ne sadrži gluten. Ako imate celijakiju, proverite deklaraciju na pakovanju kinoe — u UNA radnji imamo kinou sa jasno označenim poreklom.
+
+**Q: Kako da znam da je kinoa gotova?**
+
+Zrna postanu prozirna i iz njih se izvuku sitne bele spiralice (klice) — to je znak da je kinoa mekana i spremna. Ako je još tvrda, dodajte malo tople vode i kuvajte još 3-5 minuta.
+
+**Q: Mogu li da zamrznem ostatke?**
+
+Može, izdrži do 2 meseca u zamrzivaču. Odmrzavajte preko noći u frižideru i podgrejte na tihoj vatri uz malo dodate vode jer kinoa upije tečnost tokom stajanja.
+
+---
+
 ## Najbolja alternativa Bio Špajzu: 7 prodavnica u Srbiji
 
 https://unazdravahrana.com/blog/najbolja-alternativa-bio-spajzu-7-prodavnica-u-srbiji
@@ -697,30 +721,6 @@ Polovina tanjira treba da bude povrće, četvrtina proteini (piletina, riba, jaj
 **Q: Zašto većina dijeta ne uspeva dugoročno?**
 
 Drastične dijete usporavaju metabolizam, smanjuju mišićnu masu i povećavaju glad, pa se kilogrami vraćaju sa kamatom - to je jo-jo efekat. Dugoročno radi samo blagi kalorijski deficit uz ishranu koja liči na normalan život.
-
----
-
-## Sedmodnevni jelovnik za zdravo mršavljenje
-
-https://unazdravahrana.com/blog/sedmodnevni-jelovnik-za-zdravo-mrsavljenje
-
-Praktičan sedmodnevni jelovnik za zdravo mršavljenje zasnovan na proteinu, vlaknima i zdravim mastima u svakom obroku. Uključuje princip tanjira, konkretne obroke za svaki dan i listu za nabavku za jednu osobu.
-
-**Q: Šta je zdravo mršavljenje?**
-
-Zdravo mršavljenje je gubitak 0,5 do 1 kilograma nedeljno, postignut umerenim kalorijskim manjkom od oko 300–500 kcal dnevno i jelovnikom koji možete da održite mesecima, a ne deset dana.
-
-**Q: Šta je princip tanjira?**
-
-Pola tanjira čini povrće, četvrtina protein (meso, riba, jaja, mahunarke), četvrtina kompleksni ugljeni hidrati (integralne žitarice, krompir), uz kašiku zdrave masti poput maslinovog ulja.
-
-**Q: Koliko obroka dnevno treba jesti za mršavljenje?**
-
-Tri glavna obroka (doručak, ručak, večera) uz jednu do dve opcione užine. Ako niste gladni između obroka, slobodno preskočite užinu — važnija je ukupna dnevna količina hrane.
-
-**Q: Koje namirnice su osnova zdravog jelovnika?**
-
-Protein u svakom obroku (jaja, jogurt, mahunarke, meso, riba, sir), vlakna (povrće, voće, integralne žitarice) i zdrave masti (maslinovo ulje, orašasti plodovi, avokado).
 
 ---
 
