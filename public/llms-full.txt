@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zatvor kod starijih: uzroci i praktična rešenja
+
+https://unazdravahrana.com/blog/zatvor-kod-starijih-uzroci-i-prakticna-resenja
+
+Zatvor je česta tegoba u trećem životnom dobu zbog sporije peristaltike, manjeg unosa vode, lekova i smanjene aktivnosti. Rešenje leži u postupnom povećanju vlakana (psilium, laneno seme, suva šljiva), dovoljnoj hidrataciji, redovnoj šetnji i jednostavnim navikama poput čaše mlake vode ujutru.
+
+**Q: Koliko vlakana dnevno treba starijoj osobi?**
+
+Odrasla osoba, uključujući starije, treba oko 25–30 grama vlakana dnevno, uz obavezno povećanje unosa vode – na svakih 5 grama dodatih vlakana jedna čaša vode više.
+
+**Q: Koja hrana najbrže pomaže kod zatvora kod starijih?**
+
+Najefikasnije su suve šljive (3–5 komada dnevno ili kompot uveče), psilium ljuspice u vodi ujutru, mleveno laneno seme, ovsene pahuljice i chia seme, uz dovoljno tečnosti.
+
+**Q: Kada zatvor kod starijih zahteva lekara?**
+
+Lekaru treba obavezno otići ako zatvor traje duže od tri nedelje, ako se pojavi krv u stolici, nagli gubitak težine, jak bol u stomaku ili paradoksalna dijareja (tečna stolica pored tvrde grude).
+
+**Q: Da li šetnja pomaže kod zatvora?**
+
+Da, redovna šetnja od 20–30 minuta dnevno laganim tempom dokazano poboljšava rad creva, a naročito je efikasno 10 minuta hoda posle doručka uz toplu tečnost.
+
+---
+
 ## Ćoravi paprikaš sa slanutkom i heljdom
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-i-heljdom
@@ -697,30 +721,6 @@ Prvo osušite listove, zatim dodajte so i biber, pa sirće ili limun, i na kraju
 **Q: Da li se lisnato povrće može zamrznuti?**
 
 Za salatu ne, ali za smutije i variva može. Spanać, kelj i blitvu blanširajte 30 sekundi, ohladite u ledenoj vodi, iscedite i zamrznite u porcijama.
-
----
-
-## Vitamini i minerali za dijabetičare: hrom, Mg, vit. D
-
-https://unazdravahrana.com/blog/vitamini-i-minerali-za-dijabeticare-hrom-mg-vit-d
-
-Tekst objašnjava ulogu hroma, magnezijuma i vitamina D u regulaciji šećera kod osoba sa dijabetesom tipa 2, uz pregled najboljih izvora hrane i oblika suplemenata. Naglašava da suplementi nisu zamena za terapiju i da se uvođenje uvek konsultuje sa lekarom.
-
-**Q: Koji je najbolji oblik magnezijuma za dijabetičare?**
-
-Magnezijum citrat i bisglicinat su obično najbolji izbor jer se dobro apsorbuju i blagi su za stomak. Bisglicinat dodatno pomaže opuštanju i snu, dok citrat može pomoći kod sklonosti zatvoru. Osobe sa bubrežnim problemima moraju se prethodno konsultovati sa lekarom.
-
-**Q: Da li hrom pikolinat snižava šećer u krvi?**
-
-Hrom učestvuje u normalnom metabolizmu ugljenih hidrata i funkciji insulina. Kod osoba sa manjkom može pomoći, ali nije zamena za terapiju. Pažnja: ako već uzimate lekove za dijabetes, hrom može dodatno spustiti šećer, pa je obavezna konsultacija sa lekarom.
-
-**Q: Zašto dijabetičarima često nedostaje magnezijum?**
-
-Kod dijabetesa tipa 2 dugotrajno povišen šećer dovodi do povećanog gubitka magnezijuma preko bubrega. Simptomi manjka uključuju noćne grčeve u listovima, nemiran san, zamor, trzanje kapka i nervozu.
-
-**Q: Da li dijabetičari treba da uzimaju vitamin D?**
-
-Manjak vitamina D je čest kod osoba sa dijabetesom tipa 2 i povezan je sa osetljivošću na insulin. Pre uzimanja suplementa preporučuje se provera nivoa u krvi, a doziranje treba prilagoditi rezultatima nalaza uz savet lekara.
 
 ---
 
