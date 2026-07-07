@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa proso i pečenom paprikom
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-proso-i-pecenom-paprikom
+
+Ćoravi paprikaš sa prosom i pečenom paprikom — letnji ručak bez mesa, bez glutena, gotov za 50 minuta. Domaći recept iz UNA Zdrave Hrane.
+
+**Q: Da li je ovaj recept bez glutena?**
+
+Jeste — proso, paprika, paradajz i svi ostali sastojci su prirodno bez glutena. Ako ste vrlo osetljivi na gluten, proverite da je proso deklarisano kao 'bez glutena' jer neke sorte mogu imati unakrsnu kontaminaciju.
+
+**Q: Mogu li da preskočim pečenje paprika?**
+
+Možete, samo iseckajte sirove paprike i dodajte ih zajedno sa paradajzom. Ali pečene daju onu duboku, dimljenu aromu po kojoj se ovaj paprikaš pamti — vredi izdvojiti 20 minuta.
+
+**Q: Kako da postignem gušću teksturu?**
+
+Kuvajte otklopljeno poslednjih 5 minuta da voda ispari, ili izblendajte deo paprikaša i vratite u šerpu. Proso samo po sebi upija tečnost i lepo zgušnjava.
+
+**Q: Da li je pogodan za decu?**
+
+Da, blag je i hranljiv. Za mlađu decu smanjite dimljenu papriku i biber, a bosiljak sitnije iseckajte. Kremasta verzija (izblendan deo) posebno prija najmlađima.
+
+---
+
 ## Ćoravi paprikaš sa amarantom i pečenom paprikom
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-amarantom-i-pecenom-paprikom
@@ -697,30 +721,6 @@ Kombuha fermentiše 7 do 14 dana na sobnoj temperaturi u tamnom uglu. Probajte p
 **Q: Ko ne bi trebalo da pije fermentisana pića bez konsultacije sa lekarom?**
 
 Osobe sa dijabetesom, autoimunim bolestima, trudnice i osobe na specifičnoj terapiji treba da se konsultuju sa lekarom pre uvođenja fermentisanih pića. Fermentisana pića nisu lek i ne zamenjuju obrok ni terapiju.
-
----
-
-## Probiotici, prebiotici, postbiotici: šta je šta
-
-https://unazdravahrana.com/blog/probiotici-prebiotici-postbiotici-sta-je-sta
-
-Probiotici su žive korisne bakterije, prebiotici su vlakna kojima se one hrane, a postbiotici su korisna jedinjenja nastala njihovom fermentacijom. Najbolji efekat postiže se kada sva tri deluju zajedno kroz raznovrsnu ishranu.
-
-**Q: Koja je razlika između probiotika, prebiotika i postbiotika?**
-
-Probiotici su žive korisne bakterije (jogurt, kefir, kiseli kupus), prebiotici su vlakna koja hrane te bakterije (luk, banana, zob, mahunarke), a postbiotici su korisna jedinjenja poput butirata koja bakterije stvore fermentacijom prebiotika. Sva tri čine deo istog lanca i najbolje deluju zajedno.
-
-**Q: Da li je bolje uzimati probiotik iz hrane ili iz kapsula?**
-
-Za svakodnevno održavanje ravnoteže crevne flore dovoljni su prirodni izvori kao što su kefir, jogurt, nepasterizovani kiseli kupus i kombuha. Suplementi u kapsulama korisni su u posebnim situacijama, na primer posle antibiotske terapije ili tokom putovanja, i tada je važno obratiti pažnju na broj CFU i konkretan soj bakterije.
-
-**Q: Koje namirnice su najbogatije prebioticima?**
-
-Najviše prebiotika ima u belom i crnom luku, praziluku, cikoriji, artičoki, šparogama, zelenkastoj banani, jabuci sa korom, zobi, ječmu, mahunarkama i ohlađenom krompiru ili pirinču. Uvodite ih postepeno kako biste izbegli nadutost.
-
-**Q: Da li kiseli kupus iz prodavnice sadrži probiotike?**
-
-Samo nepasterizovani kiseli kupus koji stoji u frižideru sadrži žive probiotičke bakterije. Sterilisan kupus sa police je i dalje zdrava namirnica, ali toplotna obrada uništava žive kulture pa on više nije probiotik.
 
 ---
 
