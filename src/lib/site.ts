@@ -137,6 +137,9 @@ export function buildStoreJsonLd() {
     hasMap: site.maps.placeUrl,
     // entity disambiguation za pretraživače/LLM-ove — Google Maps profil
     sameAs: [site.maps.placeUrl],
+    // Founder edge → Lazarov kanonski Person entitet (entity clustering). UNA je
+    // Lazarov sopstveni biznis (standalone od BizFlowAI). Person node = buildFounderJsonLd().
+    founder: { '@id': 'https://lazar-milicevic.com/#person' },
     openingHoursSpecification: [
       {
         '@type': 'OpeningHoursSpecification',
@@ -177,5 +180,26 @@ export function buildFaqJsonLd() {
       name: item.question,
       acceptedAnswer: { '@type': 'Answer', text: item.answer },
     })),
+  }
+}
+
+/**
+ * Founder Person (Lazar Milićević) — kanonski entitet koji povezuje svaku UNA
+ * stranicu sa Lazarovim ličnim brendom. UNA je njegov sopstveni biznis (founder
+ * je tačan); standalone od BizFlowAI pa se BizFlowAI ovde NE pominje.
+ * Uključuje se u JSON-LD na početnoj, blogu i receptima (uz #store founder edge).
+ */
+export function buildFounderJsonLd() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    '@id': 'https://lazar-milicevic.com/#person',
+    name: 'Lazar Milićević',
+    url: 'https://lazar-milicevic.com/',
+    sameAs: [
+      'https://www.linkedin.com/in/lazar-m-919853111/',
+      'https://github.com/lamingsrb/',
+      'https://www.youtube.com/@bizflowai-io',
+    ],
   }
 }

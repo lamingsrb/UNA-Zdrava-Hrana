@@ -22,7 +22,7 @@ import {
   listRecipeSlugs,
   type Recipe,
 } from '@/lib/recipes'
-import { SITE_URL, site } from '@/lib/site'
+import { SITE_URL, site, buildFounderJsonLd } from '@/lib/site'
 
 interface PageProps {
   params: { slug: string }
@@ -211,6 +211,7 @@ export default async function RecipePage({ params }: PageProps) {
   const jsonLd: Array<Record<string, unknown>> = [
     buildRecipeJsonLd(recipe),
     buildBreadcrumbJsonLd(recipe),
+    buildFounderJsonLd(),
   ]
   if (recipe.aeoQuestions.length > 0) jsonLd.push(buildRecipeFaqJsonLd(recipe))
 

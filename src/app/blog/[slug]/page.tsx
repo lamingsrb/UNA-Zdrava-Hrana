@@ -12,7 +12,7 @@ import {
   listSlugs,
   type BlogPost,
 } from '@/lib/blog'
-import { SITE_URL, site } from '@/lib/site'
+import { SITE_URL, site, buildFounderJsonLd } from '@/lib/site'
 
 interface PageProps {
   params: { slug: string }
@@ -146,6 +146,7 @@ export default async function BlogPostPage({ params }: PageProps) {
   const jsonLd: Array<Record<string, unknown>> = [
     buildBlogPostingJsonLd(post),
     buildBreadcrumbJsonLd(post),
+    buildFounderJsonLd(),
   ]
   if (post.aeoQuestions.length > 0) jsonLd.push(buildPostFaqJsonLd(post))
 

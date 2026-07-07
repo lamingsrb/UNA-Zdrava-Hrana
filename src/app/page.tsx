@@ -11,12 +11,13 @@ import Location from '@/components/sections/Location'
 import Contact from '@/components/sections/Contact'
 import {
   buildFaqJsonLd,
+  buildFounderJsonLd,
   buildStoreJsonLd,
   buildWebSiteJsonLd,
 } from '@/lib/site'
 
 export default function Home() {
-  const jsonLd = [buildStoreJsonLd(), buildWebSiteJsonLd(), buildFaqJsonLd()]
+  const jsonLd = [buildStoreJsonLd(), buildWebSiteJsonLd(), buildFaqJsonLd(), buildFounderJsonLd()]
 
   return (
     <>
