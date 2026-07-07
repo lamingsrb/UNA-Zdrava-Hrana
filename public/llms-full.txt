@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Preporuka prodavnice zdrave hrane u Kragujevcu?
+
+https://unazdravahrana.com/blog/preporuka-prodavnice-zdrave-hrane-u-kragujevcu
+
+Vodič za izbor prodavnice zdrave hrane u Kragujevcu sa kriterijumima kvaliteta: asortiman, deklaracije, stručno osoblje i svež obrt robe. Donosi konkretne savete za organske namirnice, suplemente, čajeve i grickalice bez marketinških obećanja.
+
+**Q: Kako da prepoznam dobru prodavnicu zdrave hrane u Kragujevcu?**
+
+Dobra prodavnica ima širok asortiman (organske namirnice, suplemente, čajeve, kozmetiku), transparentne deklaracije sa proverenim proizvođačima, obučeno osoblje koje ume da objasni razliku između proizvoda, i redovan obrt robe što garantuje svežinu.
+
+**Q: Koji oblik magnezijuma je najbolji?**
+
+Magnezijum bisglicinat i citrat se znatno bolje apsorbuju od oksida, koji je jeftiniji ali najčešće prolazi kroz creva bez efekta. Za konkretnu dozu i indikaciju posavetujte se sa lekarom.
+
+**Q: Kako da prepoznam kvalitetnu organsku namirnicu?**
+
+Proverite sertifikat (EU zeleni list ili nacionalni), zemlju porekla i rok trajanja koji nije prekratak niti sumnjivo dug. Organski proizvodi imaju kraći rok jer nemaju konzervanse, a integralna brašna moraju biti u neprovidnoj ambalaži.
+
+**Q: Da li suplementi mogu da zamene lekove?**
+
+Ne. Suplementi podržavaju i doprinose ishrani, ali ne leče bolesti niti zamenjuju terapiju. Ako vam neko obećava da suplement 'leči' — to je jasan znak da nije u redu. Za zdravstvene probleme obavezno konsultujte lekara.
+
+---
+
 ## Ćoravi paprikaš sa proso i pečenom paprikom
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-proso-i-pecenom-paprikom
@@ -697,30 +721,6 @@ Medjool datulje su veće, mekane i izuzetno slatke, idealne za deserte i punjenj
 **Q: Kako se pravi pasta od datulja?**
 
 Šoljicu Medjool datulja bez koštica prelijte toplom vodom i ostavite 30 minuta da omekšaju. Ocedite ih (sačuvajte vodu), pa blendirajte uz postepeno dodavanje te vode dok ne dobijete glatku pastu. Čuva se u frižideru do 10 dana i zamenjuje šećer u kašama, palačinkama i kolačima.
-
----
-
-## Fermentisana pića za leto: kefir, kombuha, biljni napici
-
-https://unazdravahrana.com/blog/fermentisana-pica-za-leto-kefir-kombuha-biljni-napici
-
-Vodič kroz tri letnja fermentisana pića: vodeni kefir kao najlakši ulaz u domaću fermentaciju, kombuha za jači ukus i hladne biljne infuzije bez šećera. Za svako piće dat je osnovni recept, saveti za drugu fermentaciju i najčešće greške koje treba izbeći.
-
-**Q: Da li fermentisana pića zamenjuju vodu za hidrataciju leti?**
-
-Ne zamenjuju je u potpunosti, ali su bolji izbor od zaslađenih sokova jer sadrže male količine minerala, organske kiseline i žive kulture koje pomažu varenju. Pijte ih uz redovan unos obične vode.
-
-**Q: Koliko šećera ostaje u vodenom kefiru posle fermentacije?**
-
-Velika većina šećera iz recepta se potroši tokom fermentacije jer služi kao hrana za kefirna zrnca. Finalno piće ima znatno manje šećera nego što ste stavili na početku.
-
-**Q: Koliko dugo traje fermentacija kombuhe?**
-
-Kombuha fermentiše 7 do 14 dana na sobnoj temperaturi u tamnom uglu. Probajte posle 7 dana - kad ukus pređe iz slatkog u blago kiselkast, piće je gotovo za flaširanje.
-
-**Q: Ko ne bi trebalo da pije fermentisana pića bez konsultacije sa lekarom?**
-
-Osobe sa dijabetesom, autoimunim bolestima, trudnice i osobe na specifičnoj terapiji treba da se konsultuju sa lekarom pre uvođenja fermentisanih pića. Fermentisana pića nisu lek i ne zamenjuju obrok ni terapiju.
 
 ---
 
