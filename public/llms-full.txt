@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pre-workout napici koji stvarno rade: vodič
+
+https://unazdravahrana.com/blog/pre-workout-napici-koji-stvarno-rade-vodic
+
+Vodič kroz prirodne pre-workout sastojke poput maca praha, guarane, soka od cvekle i BCAA aminokiselina, sa preporukama kada ih popiti. Uključuje tabelu napitaka prema tipu treninga i praktične savete za tajming.
+
+**Q: Koliko pre treninga treba popiti pre-workout napitak?**
+
+Tečni napici 30–45 minuta pre treninga, kofein i guarana 45–60 minuta, a sok od cvekle 60–90 minuta pre treninga. BCAA aminokiseline 20–30 minuta pre ili tokom treninga.
+
+**Q: Da li maca prah zamenjuje kofein pre treninga?**
+
+Maca prah nije stimulans kao kofein, ali postepeno podiže osećaj snage i izdržljivosti. Idealna je za one koji ne podnose kofein ili treniraju uveče. Doza je pola do jedne kašičice u vodi ili smutiju.
+
+**Q: Zašto je sok od cvekle dobar pre treninga?**
+
+Nitrati iz cvekle šire krvne sudove, poboljšavaju cirkulaciju i dopremaju više kiseonika mišićima. Rekreativci često primete niži puls pri istom naporu kada redovno piju cveklu pre kardio treninga.
+
+**Q: Šta popiti pre jutarnjeg treninga na prazan stomak?**
+
+Držite se lakših opcija: kašika meda u toploj vodi sa limunom, pola banane ili blaga doza guarane. Teški napici na prazan stomak mogu izazvati mučninu, posebno pri kardio treningu.
+
+---
+
 ## 5 dodataka koje ne mešajte sa proteinskim prahom
 
 https://unazdravahrana.com/blog/5-dodataka-koje-ne-mesajte-sa-proteinskim-prahom
@@ -697,30 +721,6 @@ Klasične babure su idealne jer su mesnate i lepo drže oblik. Mogu i crvene pap
 **Q: Kako da paprike ne budu previše mekane posle pečenja?**
 
 Ne prekuvajte ih — 25 do 30 minuta na 190°C je taman. Ako volite da su malo hrskavije, pecite bez folije i pratite boju kože.
-
----
-
-## Ćoravi paprikaš sa paprikom, paradajzom i heljdom
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-paprikom-paradajzom-i-heljdom
-
-Ćoravi paprikaš sa paprikom, paradajzom i heljdom — sezonski letnji ručak bez mesa, gotov za 50 minuta. Domaći recept iz UNA kuhinje.
-
-**Q: Da li je ovo jelo bez glutena?**
-
-Jeste, ako koristite heljdu i proverite da su začini bez dodataka. Heljda je prirodno bez glutena i prija osobama sa intolerancijom.
-
-**Q: Mogu li da zamrznem ostatke?**
-
-Može, izdrži u zamrzivaču do mesec dana. Odmrznite preko noći u frižideru i podgrejte uz malo vode da se vrati sočnost.
-
-**Q: Kojim prilogom se služi ćoravi paprikaš?**
-
-Odlično ide uz kriške integralnog hleba, kašiku gustog jogurta ili sveže rendan tvrdi sir. Za lagan obrok dovoljan je i sam.
-
-**Q: Mogu li da koristim zelene paprike umesto crvenih?**
-
-Može, ali zelene daju gorči ton. Preporučujemo mešavinu — bar polovina crvenih babura za sladak, letnji ukus.
 
 ---
 
