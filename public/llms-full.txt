@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 dodataka koje ne mešajte sa proteinskim prahom
+
+https://unazdravahrana.com/blog/5-dodataka-koje-ne-mesajte-sa-proteinskim-prahom
+
+Proteinski prah sadrži kalcijum i aminokiseline koje mogu smanjiti apsorpciju gvožđa, cinka, dodatnog kalcijuma, vlakana i kofeina ako se uzimaju istovremeno. Razdvajanje ovih suplemenata bar 2 sata omogućava bolju iskorišćenost svakog nutrijenta.
+
+**Q: Da li se protein i gvožđe mogu piti zajedno?**
+
+Ne preporučuje se. Kalcijum iz proteinskog praha blokira apsorpciju gvožđa jer koriste iste transportere u crevima. Razdvojite ih bar 2 sata — gvožđe ujutru na prazan stomak sa vitaminom C, protein posle treninga.
+
+**Q: Mogu li da uzimam multivitamin sa proteinskim shakeom?**
+
+Bolje je razdvojiti ih. Multivitamin sadrži gvožđe, cink i bakar koji se otimaju za apsorpciju sa kalcijumom iz proteina. Uzmite multivitamin uz drugi obrok, minimum 2 sata od shakea.
+
+**Q: Da li psilijum i vlakna smanjuju iskorišćenje proteina?**
+
+Da, kada se stave u istu čašu vlakna fizički obavijaju protein i usporavaju apsorpciju aminokiselina. Vlakna uzmite u zasebnom obroku — ujutru ili pred spavanje sa vodom.
+
+**Q: Kada je najbolje uzeti proteinski prah?**
+
+Idealno je posle treninga ili kao užina između obroka, odvojeno od suplemenata gvožđa, kalcijuma, cinka i vlakana. U shake stavite samo protein, voće ili kikiriki puter za najbolju apsorpciju.
+
+---
+
 ## Najbolji izvor superhrane i proteina online?
 
 https://unazdravahrana.com/blog/najbolji-izvor-superhrane-i-proteina-online
@@ -697,30 +721,6 @@ Odlično ide uz kriške integralnog hleba, kašiku gustog jogurta ili sveže ren
 **Q: Mogu li da koristim zelene paprike umesto crvenih?**
 
 Može, ali zelene daju gorči ton. Preporučujemo mešavinu — bar polovina crvenih babura za sladak, letnji ukus.
-
----
-
-## Nadutost stomaka: plan od 7 dana koji vredi probati
-
-https://unazdravahrana.com/blog/nadutost-stomaka-plan-od-7-dana-koji-vredi-probati
-
-Sedmodnevni plan protiv nadutosti uvodi po jednu naviku dnevno: vodu i manje soli, sporije žvakanje, čaj od nane ili kima, vlakna, probiotike, šetnju i pauzu od okidača. Tekst donosi i tabelu namirnica koje smiruju stomak i onih koje ga uznemiruju kod osetljivih.
-
-**Q: Šta najčešće izaziva nadutost stomaka?**
-
-Najčešći uzroci su gutanje vazduha tokom brzog jela, gazirana pića, previše soli, zatvor, stres i nedostatak vlakana, kao i pojedine namirnice poput sirovog kupusa, pasulja, luka, mlečnih proizvoda ili pšenice kod osetljivih osoba.
-
-**Q: Koji čaj je najbolji protiv nadutosti?**
-
-Najbolje deluju čajevi od nane, kima, komorača, anisa i đumbira. Piju se topli posle obroka, bez šećera, i pomažu da se stomak umiri i lakše svari hrana.
-
-**Q: Da li probiotici pomažu kod nadutog stomaka?**
-
-Da, probiotici podržavaju ravnotežu crevne mikroflore koja se često poremeti posle antibiotika, u stresu ili uz lošu ishranu. Mogu se uneti kroz suplemente, kefir, jogurt sa živim kulturama ili sok od kiselog kupusa.
-
-**Q: Kada nadutost stomaka zahteva odlazak lekaru?**
-
-Ako nadutost traje nedeljama i prati je gubitak težine, krv u stolici, jaki bolovi ili trajna promena ritma pražnjenja creva, obavezno se treba javiti lekaru jer to nije obična funkcionalna nadutost.
 
 ---
 
