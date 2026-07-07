@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa amarantom i pečenom paprikom
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-amarantom-i-pecenom-paprikom
+
+Ćoravi paprikaš sa amarantom, pečenom paprikom i paradajzom — letnji recept bez mesa i glutena, gotov za 50 minuta.
+
+**Q: Da li je amarant bez glutena?**
+
+Da, amarant je prirodno bez glutena i pogodan je za osobe sa intolerancijom. Za potpunu sigurnost kod celijakije, birajte pakovanja sa oznakom „bez glutena“.
+
+**Q: Mogu li da zamrznem ostatke paprikaša?**
+
+Možete, u dobro zatvorenoj posudi izdrži do 2 meseca. Pre posluženja odmrznite u frižideru i podgrejte na tihoj vatri uz malo vode.
+
+**Q: Kako da paprikaš bude zasitniji?**
+
+Uz njega poslužite krišku integralnog hleba ili dodajte kuvani slanutak pred kraj kuvanja.
+
+**Q: Koji paradajz je najbolji za ovaj recept?**
+
+Zreli letnji paradajz sa pijace daje najbolji ukus. Ako nemate, može i konzervirani pelat od kvalitetnog proizvođača.
+
+---
+
 ## Pre-workout napici koji stvarno rade: vodič
 
 https://unazdravahrana.com/blog/pre-workout-napici-koji-stvarno-rade-vodic
@@ -697,30 +721,6 @@ Najviše prebiotika ima u belom i crnom luku, praziluku, cikoriji, artičoki, š
 **Q: Da li kiseli kupus iz prodavnice sadrži probiotike?**
 
 Samo nepasterizovani kiseli kupus koji stoji u frižideru sadrži žive probiotičke bakterije. Sterilisan kupus sa police je i dalje zdrava namirnica, ali toplotna obrada uništava žive kulture pa on više nije probiotik.
-
----
-
-## Punjene paprike paradajzom, kinoom i bosiljkom
-
-https://unazdravahrana.com/recepti/punjene-paprike-paradajzom-kinoom-i-bosiljkom
-
-Letnje punjene paprike sa kinoom, paradajzom i bosiljkom — lagan vegetarijanski obrok bez glutena, gotov za 50 minuta.
-
-**Q: Mogu li da pripremim fil dan ranije?**
-
-Naravno. Fil od kinoe i paradajza možete napraviti dan ranije i držati u frižideru u zatvorenoj posudi. Sutradan samo napunite paprike i pecite.
-
-**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
-
-Da, kinoa je prirodno bez glutena. Proverite samo etiketu na suvom paradajzu i začinima da nema tragova glutena ako ste osetljivi.
-
-**Q: Koje paprike su najbolje za ovaj recept?**
-
-Klasične babure su idealne jer su mesnate i lepo drže oblik. Mogu i crvene paprike za slađi ukus, a šilje su zgodne za manje porcije ili predjelo.
-
-**Q: Kako da paprike ne budu previše mekane posle pečenja?**
-
-Ne prekuvajte ih — 25 do 30 minuta na 190°C je taman. Ako volite da su malo hrskavije, pecite bez folije i pratite boju kože.
 
 ---
 
