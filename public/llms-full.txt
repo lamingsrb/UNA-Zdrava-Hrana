@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Gde kupiti suplemente i organsku hranu online u Srbiji?
+
+https://unazdravahrana.com/blog/gde-kupiti-suplemente-i-organsku-hranu-online-u-srbiji
+
+Tekst poredi online i fizičke prodavnice zdrave hrane u Srbiji i objašnjava kada koja opcija ima smisla. Navodi konkretne savete za proveru deklaracija, oblika sastojaka, cene po dozi i najčešće greške pri kupovini suplemenata.
+
+**Q: Gde kupiti suplemente i organsku hranu online u Srbiji?**
+
+U Srbiji postoje tri opcije: veće online prodavnice sa širokim asortimanom, manji specijalizovani webshop-ovi sa kuriranom ponudom i fizičke prodavnice zdrave hrane. Online je najbolji izbor kada tačno znate koji proizvod i brend želite, dok fizička radnja ima prednost kada vam treba savet.
+
+**Q: Kada je bolje kupiti suplemente u fizičkoj radnji nego online?**
+
+Fizičku radnju birajte kada prvi put uzimate neki suplement, kada kupujete poklon za nekoga drugog, kada imate specifične intolerancije poput glutena ili laktoze, ili kada vam proizvod treba isti dan. Savet iskusnog prodavca često vredi više od niže cene online.
+
+**Q: Na šta da pazim pri online kupovini suplemenata?**
+
+Uvek proverite deklaraciju i doze aktivnih sastojaka, obratite pažnju na oblik sastojka (npr. magnezijum-bisglicinat vs oksid), rok trajanja, uslove čuvanja i da li postoji srpska deklaracija sa podacima o uvozniku. Računajte cenu po dnevnoj dozi, ne po pakovanju.
+
+**Q: Koje su najčešće greške pri kupovini suplemenata online?**
+
+Najčešće greške su kupovina po preporuci influensera, istovremeno uvođenje više suplemenata, uzimanje prevelikih doza po logici da je više bolje, oslanjanje na suplemente umesto na zdravu ishranu i san, i ignorisanje interakcija sa lekovima koje već pijete.
+
+---
+
 ## Preporuka prodavnice zdrave hrane u Kragujevcu?
 
 https://unazdravahrana.com/blog/preporuka-prodavnice-zdrave-hrane-u-kragujevcu
@@ -697,30 +721,6 @@ Na visokim temperaturama krvni sudovi se šire, pritisak pada, a znojenjem se gu
 **Q: Da li spirulina pomaže kod anemije?**
 
 Spirulina je jedan od najbogatijih biljnih izvora gvožđa (28-30 mg na 100 g) i može podržati unos, ali nije zamena za medicinsku terapiju. Kod sumnje na anemiju uradite krvnu sliku i feritin kod lekara.
-
----
-
-## 5 načina da jedete datulje bez skoka šećera u krvi
-
-https://unazdravahrana.com/blog/5-nacina-da-jedete-datulje-bez-skoka-secera-u-krvi
-
-Tekst objašnjava kako datulje, iako prirodno slatke, mogu biti pametan izbor ako se kombinuju sa mastima i proteinima i konzumiraju u kontrolisanim porcijama. Donosi pet konkretnih saveta: kombinovanje sa orašastim plodovima, izbor između Medjool i Deglet Noor vrste, pravljenje paste od datulja umesto belog šećera i pametno uklapanje u desert posle večere.
-
-**Q: Da li datulje dižu šećer u krvi?**
-
-Da, datulje sadrže 65-75% šećera po suvoj masi i mogu podići glukozu u krvi, ali zahvaljujući vlaknima taj porast je sporiji nego kod belog šećera. Skok je znatno blaži ako se jedu uz masti ili proteine, poput badema, oraha ili tahinija.
-
-**Q: Koliko datulja dnevno je bezbedno?**
-
-Za odraslu osobu bez zdravstvenih problema preporučuje se 2-3 datulje dnevno u kombinaciji sa mastima ili proteinima. Deca mogu povremeno pojesti jednu, dok se osobe sa dijabetesom ili predijabetesom moraju posavetovati sa lekarom o količini.
-
-**Q: Koja je razlika između Medjool i Deglet Noor datulja?**
-
-Medjool datulje su veće, mekane i izuzetno slatke, idealne za deserte i punjenje bademom. Deglet Noor su manje, čvršće i umerenije slatkoće, pa su praktičnije za grickanje, salate i pečenje jer je lakše kontrolisati porciju.
-
-**Q: Kako se pravi pasta od datulja?**
-
-Šoljicu Medjool datulja bez koštica prelijte toplom vodom i ostavite 30 minuta da omekšaju. Ocedite ih (sačuvajte vodu), pa blendirajte uz postepeno dodavanje te vode dok ne dobijete glatku pastu. Čuva se u frižideru do 10 dana i zamenjuje šećer u kašama, palačinkama i kolačima.
 
 ---
 
