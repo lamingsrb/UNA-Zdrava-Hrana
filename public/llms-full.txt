@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa proso, paradajzom i tikvicama
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-proso-paradajzom-i-tikvicama
+
+Ćoravi paprikaš sa proso kašom, paradajzom i tikvicama — lagan letnji ručak bez glutena, gotov za 45 minuta. Recept i saveti.
+
+**Q: Da li je proso bez glutena?**
+
+Da, proso je prirodno bez glutena i pogodno je za osobe sa intolerancijom, uz proveru da je pakovanje označeno kao bezglutensko.
+
+**Q: Mogu li da napravim veću količinu unapred?**
+
+Možete. Paprikaš lepo stoji 3 dana u frižideru i često je ukusniji sutradan kada se ukusi slegnu. Zagrevajte na tihoj vatri uz malo vode.
+
+**Q: Da li je ovo jelo dovoljno za glavni obrok?**
+
+Jeste — proso donosi složene ugljene hidrate i biljne proteine, a uz bundevine semenke i maslinovo ulje dobijate zaokruženu porciju. Uz krišku integralnog hleba postaje još sitnije.
+
+**Q: Kako da izaberem zreo paradajz za paprikaš?**
+
+Birajte paradajz koji je mekan pod prstima, izrazito crven i mirisan na peteljci — to je znak da je pun ukusa i prirodnih šećera koji daju dubinu jelu.
+
+---
+
 ## Ćoravi paprikaš sa amarantom, breskvom i bosiljkom
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-amarantom-breskvom-i-bosiljkom
@@ -697,30 +721,6 @@ EFSA preporučuje oko 2 L za žene i 2,5 L za muškarce, s tim što 20–30% dol
 **Q: Zašto je hidracija važna kod dijabetesa?**
 
 Visok šećer u krvi telo izbacuje mokraćom zajedno sa vodom, što izaziva dehidraciju. Dehidracija dodatno koncentruje glukozu u krvi i stvara začarani krug pogoršanja.
-
----
-
-## Letnja tepsija paradajza i paprike sa heljdom
-
-https://unazdravahrana.com/recepti/letnja-tepsija-paradajza-i-paprike-sa-heljdom
-
-Letnja tepsija sa heljdom, paradajzom i paprikom — bez mesa, bez glutena, sita i puna sezonskih ukusa. Gotova za 50 minuta.
-
-**Q: Da li je ovo jelo bez glutena?**
-
-Jeste, ako koristite čistu heljdu (bez glutena po prirodi) i proverite da začini nisu mešani sa sastojcima koji sadrže gluten. Za osobe sa celijakijom preporučujemo heljdu sa oznakom 'bez glutena'.
-
-**Q: Mogu li da pripremim ovo unapred?**
-
-Možete. Tepsija se lepo podgreje sutradan, a ukusi se dodatno prožmu. Čuvajte u frižideru do 3 dana i podgrejte u rerni na 160°C oko 10 minuta.
-
-**Q: Čime da zamenim heljdu ako je deca ne vole?**
-
-Odlično radi proso, integralni pirinač ili kinoa. Vremena kuvanja se razlikuju — kinoa se kuva oko 12 minuta, integralni pirinač 30-35 minuta.
-
-**Q: Da li je ovo dovoljno kao glavno jelo?**
-
-Jeste — heljda daje kompleksne ugljene hidrate i proteine, a povrće vlakna i vitamine. Ako želite više proteina, dodajte kuvane leblebije ili sir uz serviranje.
 
 ---
 
