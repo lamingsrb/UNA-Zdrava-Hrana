@@ -200,6 +200,8 @@ export function buildFounderJsonLd() {
       'https://www.linkedin.com/in/lazar-m-919853111/',
       'https://github.com/lamingsrb/',
       'https://www.youtube.com/@bizflowai-io',
+      'https://www.wikidata.org/wiki/Q140462104',
+      'https://www.crunchbase.com/person/lazar-mili%C4%87evi%C4%87',
     ],
   }
 }
