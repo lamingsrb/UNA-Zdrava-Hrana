@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa amarantom, breskvom i bosiljkom
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-amarantom-breskvom-i-bosiljkom
+
+Ćoravi paprikaš sa amarantom, paprikom, paradajzom i breskvom — letnje jelo bez mesa, gotovo za 45 minuta. Recept UNA Zdrave Hrane.
+
+**Q: Da li amarant treba prethodno namakati?**
+
+Ne mora — dovoljno je dobro ga isprati pod hladnom vodom. Kuva se za 20-25 minuta i ima blago orašast ukus.
+
+**Q: Mogu li koristiti smrznutu papriku?**
+
+Možete, ali sveža letnja paprika daje mnogo bolju aromu i teksturu. Ako koristite smrznutu, dodajte je odmrznutu i skratite dinstanje za par minuta.
+
+**Q: Da li je ovo jelo dovoljno za glavni obrok?**
+
+Jeste — amarant donosi biljne proteine i sitost, pa uz salatu čini kompletan ručak. Za veće apetite poslužite uz krišku integralnog hleba.
+
+**Q: Kako da breskva ne postane kašasta?**
+
+Dodajte je tek na kraju kuvanja, 3-4 minuta pre skidanja sa vatre, i birajte breskve koje su zrele ali čvrste.
+
+---
+
 ## Ishrana po decenijama: šta jesti u 30-im, 40-im i posle
 
 https://unazdravahrana.com/blog/ishrana-po-decenijama-sta-jesti-u-30-im-40-im-i-posle
@@ -697,30 +721,6 @@ Odlično radi proso, integralni pirinač ili kinoa. Vremena kuvanja se razlikuju
 **Q: Da li je ovo dovoljno kao glavno jelo?**
 
 Jeste — heljda daje kompleksne ugljene hidrate i proteine, a povrće vlakna i vitamine. Ako želite više proteina, dodajte kuvane leblebije ili sir uz serviranje.
-
----
-
-## Letnja salata od pečene paprike sa malinama i lešnikom
-
-https://unazdravahrana.com/recepti/letnja-salata-od-pecene-paprike-sa-malinama-i-lesnikom
-
-Letnja salata od pečene paprike sa malinama, lešnikom i semenom lana — laka, bez glutena i gotova za 45 minuta.
-
-**Q: Mogu li paprike da ispečem dan ranije?**
-
-Naravno. Očišćene pečene paprike drže se u frižideru u zatvorenoj posudi 2-3 dana, prelivene malo maslinovog ulja. Salatu sastavite tik pred serviranje.
-
-**Q: Da li recept sadrži gluten ili laktozu?**
-
-U osnovnoj verziji nema ni glutena ni laktoze, pa je prijatan i osobama sa intolerancijama. Ako dodate sir, laktoza više neće biti isključena.
-
-**Q: Kojim jelima uz ovu salatu prija?**
-
-Odličan je prilog uz pečenu ribu, piletinu sa žara ili grilovanu ćuretinu. Kao samostalno jelo lepo se slaže sa parčetom integralnog hleba.
-
-**Q: Mogu li smrznute maline da zamene sveže?**
-
-Preporučujemo sveže jer se ne raspadaju. Ako koristite smrznute, odmrznite ih na cediljki i pažljivo dodajte na kraju da ne oboje celu salatu.
 
 ---
 
