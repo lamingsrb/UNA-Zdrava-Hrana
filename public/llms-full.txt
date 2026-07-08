@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ishrana po decenijama: šta jesti u 30-im, 40-im i posle
+
+https://unazdravahrana.com/blog/ishrana-po-decenijama-sta-jesti-u-30-im-40-im-i-posle
+
+Vodič kroz ishranu po decenijama objašnjava kako se potrebe menjaju sa godinama i koje namirnice postaju prioritet u 30-im, 40-im, 50-im i 60-im. Fokus je na proteinima, kalcijumu, vitaminu D, B12, omega-3 masnim kiselinama i vlaknima za očuvanje mišića, kostiju i energije.
+
+**Q: Koliko proteina treba jesti posle 40. godine?**
+
+Preporučuje se 1,2–1,6 g proteina po kilogramu telesne težine dnevno, što za osobu od 70 kg iznosi oko 90–110 g, raspoređeno na 3–4 obroka radi očuvanja mišićne mase.
+
+**Q: Koje namirnice su najvažnije u menopauzi?**
+
+U menopauzi su ključne namirnice bogate kalcijumom (jogurt, sardine, susam, brokoli), vitaminom D, fitoestrogenima (laneno seme, soja, mahunarke) i omega-3 masnim kiselinama za zdravlje srca i kostiju.
+
+**Q: Zašto je vitamin B12 važan posle 60. godine?**
+
+Posle 60. godine apsorpcija vitamina B12 se smanjuje jer slabi želudačna kiselina, pa umor, zaboravnost i utrnulost mogu biti znak deficita. Često je potrebna suplementacija uz konsultaciju sa lekarom.
+
+**Q: Kako sprečiti gubitak mišićne mase sa godinama?**
+
+Kombinacija dovoljnog unosa proteina (20–30 g po obroku) i treninga otpora najmanje dva puta nedeljno je najefikasniji način da se uspori sarkopenija i sačuva mišićna snaga.
+
+---
+
 ## Gde kupiti suplemente i organsku hranu online u Srbiji?
 
 https://unazdravahrana.com/blog/gde-kupiti-suplemente-i-organsku-hranu-online-u-srbiji
@@ -700,28 +724,4 @@ Preporučujemo sveže jer se ne raspadaju. Ako koristite smrznute, odmrznite ih 
 
 ---
 
-## Slabokrvni ste i mučno vam je leti? 6 recepata sa gvožđem
-
-https://unazdravahrana.com/blog/slabokrvni-ste-i-mucno-vam-je-leti-6-recepata-sa-gvozdjem
-
-Vodič objašnjava zašto slabokrvni ljudi teže podnose leto i kako kombinovati biljno gvožđe sa vitaminom C radi bolje apsorpcije. Nudi 6 jednostavnih letnjih recepata sa sočivom, tahinijem, spirulinom, moringom, semenkama bundeve i suvim voćem.
-
-**Q: Koje namirnice sadrže najviše gvožđa?**
-
-Najkoncentrovaniji biljni izvori su spirulina i moringa u prahu (25-30 mg na 100 g), zatim susam i tahini (14 mg), semenke bundeve (8-9 mg), suve kajsije (6 mg), kuvani spanać i sočivo.
-
-**Q: Kako povećati apsorpciju gvožđa iz biljne hrane?**
-
-Nehem gvožđe iz biljaka upija se znatno bolje uz vitamin C u istom obroku - dodajte limun, papriku, paradajz, jagode ili peršun. Izbegavajte crni i zeleni čaj uz obrok jer tanini vezuju gvožđe.
-
-**Q: Zašto slabokrvni teže podnose leto?**
-
-Na visokim temperaturama krvni sudovi se šire, pritisak pada, a znojenjem se gube tečnost i minerali. Kod niskih zaliha gvožđa telo teže prenosi kiseonik, pa se javljaju vrtoglavica, mučnina, lupanje srca i glavobolja.
-
-**Q: Da li spirulina pomaže kod anemije?**
-
-Spirulina je jedan od najbogatijih biljnih izvora gvožđa (28-30 mg na 100 g) i može podržati unos, ali nije zamena za medicinsku terapiju. Kod sumnje na anemiju uradite krvnu sliku i feritin kod lekara.
-
----
-
-Last updated: 2026-06-13
+Last updated: 2026-07-08

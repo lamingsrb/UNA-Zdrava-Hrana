@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Ishrana po decenijama: šta jesti u 30-im, 40-im i posle](https://unazdravahrana.com/blog/ishrana-po-decenijama-sta-jesti-u-30-im-40-im-i-posle)
 - [Gde kupiti suplemente i organsku hranu online u Srbiji?](https://unazdravahrana.com/blog/gde-kupiti-suplemente-i-organsku-hranu-online-u-srbiji)
 - [Preporuka prodavnice zdrave hrane u Kragujevcu?](https://unazdravahrana.com/blog/preporuka-prodavnice-zdrave-hrane-u-kragujevcu)
 - [Ćoravi paprikaš sa proso i pečenom paprikom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-proso-i-pecenom-paprikom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Ćoravi paprikaš sa palentom i spirulinom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-palentom-i-spirulinom)
 - [Letnja paprika punjena heljdom i malinama](https://unazdravahrana.com/recepti/letnja-paprika-punjena-heljdom-i-malinama)
 - [Najbolji suplementi za oporavak mišića posle treninga](https://unazdravahrana.com/blog/najbolji-suplementi-za-oporavak-misica-posle-treninga)
-- [Kako podneti vrućine kad termometar puca](https://unazdravahrana.com/blog/kako-podneti-vrucine-kad-termometar-puca)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-06-13
+Last updated: 2026-07-08
