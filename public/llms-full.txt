@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Koštice lubenice: zašto ih više ne bacamo
+
+https://unazdravahrana.com/blog/kostice-lubenice-zasto-ih-vise-ne-bacamo
+
+Koštice lubenice sadrže biljne proteine, magnezijum, cink i gvožđe, ali se najbolje iskoriste kada se peku, klijaju ili ljušte. Tekst donosi praktične savete za pripremu i ideje za korišćenje u svakodnevnoj ishrani porodice.
+
+**Q: Da li se koštice lubenice mogu jesti?**
+
+Da, koštice lubenice se mogu jesti, ali se najbolje iskoriste kada su pečene, klijale ili oljuštene. Sirove cele koštice prolaze kroz creva gotovo netaknute.
+
+**Q: Kako se peku koštice lubenice?**
+
+Isperite i osušite koštice, rasporedite ih na pleh sa malo maslinovog ulja i soli, pa pecite na 160–170 °C oko 15–20 minuta uz povremeno mešanje, dok ne postanu hrskave i zlatne.
+
+**Q: Šta sadrže koštice lubenice?**
+
+Koštice lubenice sadrže biljne proteine, nezasićene masti, magnezijum, cink, gvožđe, kalijum, folate i vitamine B grupe, slično bundevinim i suncokretovim semenkama.
+
+**Q: Kako klijati semenke lubenice?**
+
+Potopite koštice u vodu preko noći, isperite ih i držite u tegli sa gazom 1–2 dana, ispirajući ujutru i uveče. Kada se pojavi mali klic, spremne su za jelo.
+
+---
+
 ## Ćoravi paprikaš sa proso, paradajzom i tikvicama
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-proso-paradajzom-i-tikvicama
@@ -697,30 +721,6 @@ Kajsija sadrži beta-karoten koji telo pretvara u vitamin A, što doprinosi obno
 **Q: Sa čim kombinovati kajsiju za bolju iskoristivost?**
 
 Beta-karoten je rastvorljiv u mastima, pa kajsiju kombinujte sa malo zdravih masnoća — bademima, orasima ili susamovim tahinijem. Tako telo iz iste količine kajsije dobija znatno više vitamina A.
-
----
-
-## 6 namirnica bogatih vodom za stabilniji šećer u krvi
-
-https://unazdravahrana.com/blog/6-namirnica-bogatih-vodom-za-stabilniji-secer-u-krvi
-
-Namirnice sa 85–96% vode poput krastavca, bobičastog voća, lisnatog povrća, paradajza i chia semenki doprinose hidraciji i stabilnijem šećeru u krvi. Uz vlakna i minerale, one usporavaju porast glukoze posle obroka i lako se uklapaju u svakodnevne obroke.
-
-**Q: Koje namirnice imaju najviše vode?**
-
-Krastavac sadrži oko 96% vode, paradajz 94%, lisnato povrće 91–95%, a bobičasto voće 85–91%. Sve su odlične za hidraciju i imaju nizak glikemijski indeks.
-
-**Q: Da li bobičasto voće podiže šećer u krvi?**
-
-Borovnice, maline, kupine i jagode imaju nizak glikemijski indeks (25–40) i puno vlakana, pa mnogo blaže podižu šećer od banane ili grožđa. Šaka uz jogurt je dobar izbor.
-
-**Q: Koliko tečnosti dnevno treba osoba sa dijabetesom?**
-
-EFSA preporučuje oko 2 L za žene i 2,5 L za muškarce, s tim što 20–30% dolazi iz hrane. Kod visokih temperatura i fizičke aktivnosti potrebe su veće, ali se konsultujte sa lekarom.
-
-**Q: Zašto je hidracija važna kod dijabetesa?**
-
-Visok šećer u krvi telo izbacuje mokraćom zajedno sa vodom, što izaziva dehidraciju. Dehidracija dodatno koncentruje glukozu u krvi i stvara začarani krug pogoršanja.
 
 ---
 
