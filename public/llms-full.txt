@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Soda bikarbona za pranje voća: da li stvarno radi?
+
+https://unazdravahrana.com/blog/soda-bikarbona-za-pranje-voca-da-li-stvarno-radi
+
+Soda bikarbona pomaže da se sa kore voća uklone ostaci nekih pesticida, ali samo uz pravilan odnos (1 kašičica na 2 dl vode) i potapanje 10–15 minuta. Ne uklanja sistemske pesticide koji su prodrli u plod, niti ima smisla za voće koje se ionako guli.
+
+**Q: Da li soda bikarbona uklanja pesticide sa voća?**
+
+Delimično da — uklanja veći deo ostataka kontaktnih pesticida sa površine kore, ali ne izvlači sistemske pesticide koji su već prodrli u unutrašnjost ploda. Studija sa Univerziteta Massachusetts (2017) potvrdila je da je efikasnija od pranja običnom vodom.
+
+**Q: Koliko sode bikarbone treba na litar vode za pranje voća?**
+
+Optimalan odnos je jedna kašičica sode na 2 dl vode, odnosno jedna kašika na litar vode. Veća količina sode ne daje bolji efekat, samo neprijatan ukus ako se ne ispere dobro.
+
+**Q: Koliko dugo treba potapati voće u sodu bikarbonu?**
+
+Najmanje 10 minuta, a idealno 12–15 minuta. Kraće potapanje od 30 sekundi neće imati efekta. Za nežno bobičasto voće dovoljno je 5–7 minuta, uz obavezno ispiranje čistom vodom.
+
+**Q: Za koje voće nema smisla koristiti sodu bikarbonu?**
+
+Za banane, narandže, avokado, krompir i šargarepu — sve što se ionako guli. Takođe nema mnogo smisla za kupus i karfiol, jer se hemikalije zadržavaju između slojeva listova.
+
+---
+
 ## Ćoravi paprikaš sa slanutkom, breskvom i prosom
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-breskvom-i-prosom
@@ -697,30 +721,6 @@ Najbolje ih je pojesti odmah. Ako ostanu, hleb će omekšati za 20-30 minuta, pa
 **Q: Da li je ovaj recept pogodan za decu?**
 
 Jeste, deca uglavnom vole slatkast ukus breskve i sočnost paradajza. Za najmlađe možeš izostaviti beli luk i biber.
-
----
-
-## Biljna apoteka u Kragujevcu: bilje, čajevi i suplementi
-
-https://unazdravahrana.com/blog/biljna-apoteka-u-kragujevcu-bilje-cajevi-i-suplementi
-
-Pregled ponude biljne apoteke UNA u Kragujevcu — od kamilice i majčine dušice do kurkume, magnezijuma i omega-3 suplemenata. Tekst objašnjava razliku između leka i dodatka ishrani, moguće interakcije i kako se bira čaj prema simptomu, dužini tegoba i terapiji koju već koristite.
-
-**Q: Šta je biljna apoteka?**
-
-Biljna apoteka je prodavnica u kojoj se kupuju lekovito bilje, čajne mešavine, tinkture, biljni sirupi i suplementi biljnog porekla. Ne izdaje lekove na recept, već dodatke ishrani koji podržavaju varenje, san, imunitet, disajne puteve i cirkulaciju.
-
-**Q: Gde se nalazi biljna apoteka UNA u Kragujevcu?**
-
-UNA se nalazi u Penezićevoj ulici, kod mosta u Bresnici, i posluje već petnaest godina sa policama domaćeg i uvoznog bilja, čajeva, tinktura i suplemenata.
-
-**Q: Da li bilje može da se meša sa lekovima?**
-
-Neke biljke ozbiljno stupaju u interakcije sa lekovima — kantarion, beli luk u kapsulama i ginko mogu smanjiti ili pojačati dejstvo terapije za pritisak, razređivača krvi, antidepresiva i terapije štitne žlezde. Pre uvođenja bilja ili suplementa uvek konsultujte lekara ili farmaceuta.
-
-**Q: Kako da izaberem pravi čaj kada je izbor ogroman?**
-
-Krenite od simptoma (a ne dijagnoze), procenite koliko tegoba traje, navedite šta već pijete od terapije i suplemenata, i uzmite u obzir kome se čaj kupuje (deca, trudnice, stariji). Najbolji čaj je onaj koji ćete redovno piti, pa vodite računa i o ukusu.
 
 ---
 
