@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa slanutkom, paradajzom i bulgurom
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-paradajzom-i-bulgurom
+
+Ćoravi paprikaš sa slanutkom, paradajzom i integralnim bulgurom — sit i lagan letnji ručak bez mesa, gotov za 50 minuta.
+
+**Q: Mogu li da koristim slanutak iz konzerve?**
+
+Naravno. Dobro ga isperite pod mlazom hladne vode i ocedite pre dodavanja u lonac — tako uklanjate višak soli.
+
+**Q: Da li je jelo posno?**
+
+Jeste, potpuno je biljno i pogodno za posne dane, vegetarijance i vegane.
+
+**Q: Šta uz ovaj paprikaš ide kao prilog?**
+
+Prija uz krišku integralnog hleba, kašiku domaćeg jogurta ili svežu zelenu salatu sa krastavcem.
+
+**Q: Mogu li da zamrznem ostatke?**
+
+Može, u porcijama do mesec dana. Odmrznite u frižideru preko noći i podgrejte na tihoj vatri uz malo vode.
+
+---
+
 ## Koštice lubenice: zašto ih više ne bacamo
 
 https://unazdravahrana.com/blog/kostice-lubenice-zasto-ih-vise-ne-bacamo
@@ -700,28 +724,4 @@ Doručak koji ne skače šećer u krvi kombinuje vlakna, belančevine i zdrave m
 
 ---
 
-## Kajsija: kako pomaže koži, vidu i varenju leti
-
-https://unazdravahrana.com/blog/kajsija-kako-pomaze-kozi-vidu-i-varenju-leti
-
-Kajsija leti hidrira, donosi beta-karoten (vitamin A) i lako svarljiva vlakna, pa podržava kožu, vid i varenje uz redovan i umeren unos. Ključno je izabrati zrele, mirisne plodove i prava, nesumporisana sušena kajsija, uz kombinaciju sa malo zdravih masnoća radi bolje iskoristivosti.
-
-**Q: Koliko kajsija dnevno je dovoljno leti?**
-
-Za odrasle je optimalno 4–5 svežih kajsija dnevno kao užina, ili 3–4 sušene van sezone. Bolje je jesti šaku svakog dana nego veliku količinu odjednom, jer telo tako ravnomernije iskoristi beta-karoten i vlakna.
-
-**Q: Kako prepoznati pravu sušenu kajsiju bez sumpora?**
-
-Prirodno sušena kajsija je tamnija, smeđe-narandžasta i mat, dok je jarko narandžasta i sjajna sušena kajsija sumporisana (E220). Uvek proverite deklaraciju i tražite proizvode bez sumpor-dioksida, posebno ako imate astmu ili osetljive disajne puteve.
-
-**Q: Da li kajsija zaista pomaže koži na suncu?**
-
-Kajsija sadrži beta-karoten koji telo pretvara u vitamin A, što doprinosi obnovi kože i njenoj otpornosti. Ne zamenjuje kremu za sunčanje, ali redovan unos narandžastog voća i povrća pomaže koži da lakše podnosi letnje sunce.
-
-**Q: Sa čim kombinovati kajsiju za bolju iskoristivost?**
-
-Beta-karoten je rastvorljiv u mastima, pa kajsiju kombinujte sa malo zdravih masnoća — bademima, orasima ili susamovim tahinijem. Tako telo iz iste količine kajsije dobija znatno više vitamina A.
-
----
-
-Last updated: 2026-07-08
+Last updated: 2026-07-09
