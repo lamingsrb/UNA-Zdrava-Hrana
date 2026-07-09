@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćoravi paprikaš sa slanutkom, breskvom i prosom
+
+https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-breskvom-i-prosom
+
+Letnji ćoravi paprikaš sa slanutkom, prosom i breskvom — obrok bez mesa, bez glutena, gotov za 45 minuta. Recept iz UNA Zdrave Hrane.
+
+**Q: Mogu li da koristim slanutak iz konzerve?**
+
+Naravno. Dobro ga isperite pod hladnom vodom pre nego što ga dodate u paprikaš — tako uklanjate višak soli i tečnost iz konzerve.
+
+**Q: Da li je ovo jelo bez glutena?**
+
+Jeste, ukoliko koristite proso, slanutak i začine iz proverenih izvora bez unakrsne kontaminacije. Kod nas u radnji možete pitati za deklaracije.
+
+**Q: Kako da paprikaš bude gušći?**
+
+Smanjite količinu vode za oko 100 ml ili na kraju kuvanja izgnječite viljuškom manji deo slanutka i vratite u šerpu — dobija kremastu teksturu bez brašna.
+
+**Q: Da li deca vole ovu kombinaciju sa breskvom?**
+
+Uglavnom da, jer breskva ublažava kiselost paradajza. Ako je dete osetljivo na komadiće voća, iseckajte breskvu sitnije ili je dodajte pri kraju, samo da se progreje.
+
+---
+
 ## Ćoravi paprikaš sa slanutkom, paradajzom i bulgurom
 
 https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-paradajzom-i-bulgurom
@@ -697,30 +721,6 @@ Neke biljke ozbiljno stupaju u interakcije sa lekovima — kantarion, beli luk u
 **Q: Kako da izaberem pravi čaj kada je izbor ogroman?**
 
 Krenite od simptoma (a ne dijagnoze), procenite koliko tegoba traje, navedite šta već pijete od terapije i suplemenata, i uzmite u obzir kome se čaj kupuje (deca, trudnice, stariji). Najbolji čaj je onaj koji ćete redovno piti, pa vodite računa i o ukusu.
-
----
-
-## Hronična upala počinje ujutru: 5 navika koje pomažu
-
-https://unazdravahrana.com/blog/hronicna-upala-pocinje-ujutru-5-navika-koje-pomazu
-
-Hronična niskostepena upala se hrani malim jutarnjim odlukama poput kafe na prazan stomak i slatkog doručka. Pet navika — čaša vode pre kafe, doručak sa vlaknima i belančevinama, antiinflamatorni začini, mir bez telefona i stabilan šećer u krvi — okreću taj obrazac.
-
-**Q: Šta je tiha hronična upala?**
-
-Tiha hronična upala je niskostepeni upalni proces koji ne boli i ne vidi se, ali godinama tinja u pozadini organizma. Povezuje se sa umorom, problemima sa varenjem i kožom, slabijom koncentracijom i bržim starenjem ćelija.
-
-**Q: Zašto piti vodu pre kafe ujutru?**
-
-Posle 7-8 sati sna telo je dehidrirano, a kafa na prazan stomak dodatno izbacuje tečnost i podiže kortizol. Čaša mlake vode pre kafe rehidrira organizam, pokreće bubrege i smiruje jutarnji stresni odgovor.
-
-**Q: Koji začini smanjuju upalu?**
-
-Kurkuma, đumbir, cimet i crni biber su začini koje istraživači povezuju sa antiinflamatornim delovanjem. Crni biber višestruko povećava iskoristljivost kurkume, pa se često kombinuju u zlatnom mleku ili toplim napicima.
-
-**Q: Kako izgleda antiinflamatorni doručak?**
-
-Doručak koji ne skače šećer u krvi kombinuje vlakna, belančevine i zdrave masti — na primer ovsena kaša sa chia semenkama, orasima i cimetom, ili jogurt sa lanenim semenom i bobicama. Izbegava se belo brašno i dodati šećer.
 
 ---
 
