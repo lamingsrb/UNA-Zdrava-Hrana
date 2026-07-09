@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 8 namirnica i pića koja mogu povisiti kortizol
+
+https://unazdravahrana.com/blog/8-namirnica-i-pica-koja-mogu-povisiti-kortizol
+
+Tekst objašnjava kako kafa, energetska pića, šećer, alkohol, so, rafinisani ugljeni hidrati i dehidracija podižu nivo kortizola i pogoršavaju stres. Nudi konkretne zamene i savete za stabilniju energiju, bolji san i uravnoteženiji hormonalni odgovor.
+
+**Q: Koje piće najviše povisuje kortizol?**
+
+Kafa i energetska pića najbrže podižu kortizol jer kofein direktno stimuliše nadbubrežne žlezde. Nivo kortizola može porasti već pola sata nakon jače šoljice.
+
+**Q: Da li šećer podiže kortizol?**
+
+Da. Šećer izaziva nagli skok glukoze i insulina, a telo taj pad registruje kao stres i luči kortizol, što izaziva nervozu i glad za slatkim.
+
+**Q: Kada je najbolje popiti prvu kafu ujutru?**
+
+Prvu kafu je najbolje popiti 60 do 90 minuta nakon buđenja, kada jutarnji nivo kortizola počne prirodno da opada. Nikada je ne pijte na prazan stomak.
+
+**Q: Kako alkohol utiče na kortizol i san?**
+
+Alkohol podiže kortizol tokom noći, posebno u drugoj polovini sna, pa se ljudi bude oko 3h i teško ponovo zaspu. Preporuka je izbegavati ga bar 3 sata pre spavanja.
+
+---
+
 ## Soda bikarbona za pranje voća: da li stvarno radi?
 
 https://unazdravahrana.com/blog/soda-bikarbona-za-pranje-voca-da-li-stvarno-radi
@@ -697,30 +721,6 @@ Većina dece prihvata gazpacho ako se izostavi beli luk i doda kašika prirodnog
 **Q: Mogu li da zamrznem gazpacho?**
 
 Može, ali svež je najbolji. Ako zamrzavate, ostavite 2 cm praznog prostora u posudi i pre serviranja dobro promešajte jer se sastojci razdvajaju.
-
----
-
-## Letnja bruskete pločica sa paradajzom i breskvom
-
-https://unazdravahrana.com/recepti/letnja-bruskete-plocica-sa-paradajzom-i-breskvom
-
-Letnje bruskete sa paradajzom, breskvom i bademima na integralnom hlebu — brz, lagan i osvežavajući recept gotov za 25 minuta.
-
-**Q: Mogu li da koristim nektarine umesto breski?**
-
-Naravno. Nektarine imaju čvršću teksturu i savršeno pristaju uz paradajz. Kajsije takođe rade, ali dodaj malo manje meda jer su slađe.
-
-**Q: Da li se ovo jelo može spremiti bez pečenja hleba?**
-
-Može, ali topao i hrskav hleb daje mnogo bolju teksturu i aromu. Ako preskačeš tostiranje, koristi svež integralan ili raženi hleb koji dobro drži nadev.
-
-**Q: Koliko dugo mogu da stoje gotove bruskete?**
-
-Najbolje ih je pojesti odmah. Ako ostanu, hleb će omekšati za 20-30 minuta, pa preporučujemo da nadev i hleb držiš odvojeno do serviranja.
-
-**Q: Da li je ovaj recept pogodan za decu?**
-
-Jeste, deca uglavnom vole slatkast ukus breskve i sočnost paradajza. Za najmlađe možeš izostaviti beli luk i biber.
 
 ---
 
