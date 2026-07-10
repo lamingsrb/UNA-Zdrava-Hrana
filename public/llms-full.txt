@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Bez vremena za kuvanje? 7 proteinskih obroka za 10 minuta
+
+https://unazdravahrana.com/blog/bez-vremena-za-kuvanje-7-proteinskih-obroka-za-10-minuta
+
+Tekst donosi sedam proteinskih obroka koji se pripremaju za oko 10 minuta, uz listu namirnica koje treba držati u kuhinji. Recepti pokrivaju doručak, ručak, večeru i obrok posle treninga, sa varijacijama za porodicu, rekreativce i početnike.
+
+**Q: Koliko proteina treba imati brzi obrok?**
+
+Nutricionisti generalno preporučuju oko 20–30 g proteina po glavnom obroku za odraslu osobu, ali tačna količina zavisi od telesne mase, aktivnosti i uzrasta, pa je najbolje pitati lekara ili nutricionistu.
+
+**Q: Koje namirnice držati u kuhinji za brze proteinske obroke?**
+
+Osnovna rezerva uključuje jaja, grčki jogurt, konzervu tunjevine ili sardina, integralne ovsene pahuljice, kinou, slanutak, semenke (chia, lan, bundeva), orašaste plodove, biljni protein u prahu i integralni hleb.
+
+**Q: Kako napraviti overnight oats sa proteinom?**
+
+U teglu stavite 4 kašike ovsenih pahuljica, kašiku chia semenki, 200 ml mleka, mericu proteina u prahu ili 3 kašike grčkog jogurta i malo cimeta. Promešate, ostavite u frižideru preko noći i ujutru dodate voće i orahe.
+
+**Q: Šta pojesti odmah posle treninga kada nema vremena za kuvanje?**
+
+Najbrže rešenje je proteinski smuti: 300 ml mleka ili vode, merica proteina u prahu, banana, kašika bademovog putera, kašika chia semenki i prstohvat cimeta blendirano 90 sekundi.
+
+---
+
 ## 8 namirnica i pića koja mogu povisiti kortizol
 
 https://unazdravahrana.com/blog/8-namirnica-i-pica-koja-mogu-povisiti-kortizol
@@ -700,28 +724,4 @@ Kamilica je jedna od retkih biljaka koja se smatra bezbednom i za malu decu u um
 
 ---
 
-## Letnji gazpacho sa paradajzom, paprikom i čia semenkama
-
-https://unazdravahrana.com/recepti/letnji-gazpacho-sa-paradajzom-paprikom-i-cia-semenkama
-
-Osvežavajući gazpacho sa paradajzom, pečenom paprikom i čia semenkama. Lagana letnja supa za 35 minuta — bez šporeta u vrelim danima.
-
-**Q: Mogu li gazpacho da pripremim dan ranije?**
-
-Naravno, čak je i ukusniji sutradan kada se arome povežu. Držite ga u zatvorenoj posudi u frižideru i promešajte pre serviranja.
-
-**Q: Čemu služe čia semenke u supi?**
-
-Kada nabubre, prave lagani gel koji doprinosi kremastoj teksturi bez pavlake i brašna. Takođe podržavaju osećaj sitosti.
-
-**Q: Da li deca vole ovu supu?**
-
-Većina dece prihvata gazpacho ako se izostavi beli luk i doda kašika prirodnog jogurta na vrh. Poslužite sa hrskavim tostom kao zabavu.
-
-**Q: Mogu li da zamrznem gazpacho?**
-
-Može, ali svež je najbolji. Ako zamrzavate, ostavite 2 cm praznog prostora u posudi i pre serviranja dobro promešajte jer se sastojci razdvajaju.
-
----
-
-Last updated: 2026-07-09
+Last updated: 2026-07-10

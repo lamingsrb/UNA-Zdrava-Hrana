@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Bez vremena za kuvanje? 7 proteinskih obroka za 10 minuta](https://unazdravahrana.com/blog/bez-vremena-za-kuvanje-7-proteinskih-obroka-za-10-minuta)
 - [8 namirnica i pića koja mogu povisiti kortizol](https://unazdravahrana.com/blog/8-namirnica-i-pica-koja-mogu-povisiti-kortizol)
 - [Soda bikarbona za pranje voća: da li stvarno radi?](https://unazdravahrana.com/blog/soda-bikarbona-za-pranje-voca-da-li-stvarno-radi)
 - [Ćoravi paprikaš sa slanutkom, breskvom i prosom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-breskvom-i-prosom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Ćoravi paprikaš sa slanutkom i heljdom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-i-heljdom)
 - [Ćoravi paprikaš sa paprikom, paradajzom i kinoom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-paprikom-paradajzom-i-kinoom)
 - [Najbolja alternativa Bio Špajzu: 7 prodavnica u Srbiji](https://unazdravahrana.com/blog/najbolja-alternativa-bio-spajzu-7-prodavnica-u-srbiji)
-- [Fried dates: 5-minutni recept koji je osvojio internet](https://unazdravahrana.com/blog/fried-dates-5-minutni-recept-koji-je-osvojio-internet)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-09
+Last updated: 2026-07-10
