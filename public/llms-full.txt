@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja tabuli salata sa proso, paradajzom i breskvom
+
+https://unazdravahrana.com/recepti/letnja-tabuli-salata-sa-proso-paradajzom-i-breskvom
+
+Letnja tabuli salata sa proso, paradajzom i breskvom — svežа, bez glutena, gotova za 30 minuta. Idealna za tople dane.
+
+**Q: Da li je ova salata bez glutena?**
+
+Jeste, proso je prirodno bez glutena. Ako imate izraženu osetljivost, obratite pažnju da kupujete proso sa oznakom 'bez glutena' — u UNA radnji vam možemo preporučiti proverene brendove.
+
+**Q: Mogu li unapred da pripremim salatu za goste?**
+
+Možete pripremiti proso i iseći povrće nekoliko sati ranije i držati odvojeno u frižideru. Sjedinite sve i dodajte preliv 20–30 minuta pre serviranja, a semenke tek na kraju.
+
+**Q: Čime da zamenim peršun i bosiljak ako ih nemam?**
+
+Sveža nana odlično ide uz breskvu i limun, a može i kombinacija vlašca i origana. Važno je da ima puno svežeg zelenila — to je duša tabuli salate.
+
+**Q: Da li je pogodna za decu?**
+
+Jeste, nežnog je ukusa i slatkasta zbog breskve. Za mlađu decu možete izostaviti crveni luk ili ga kratko prokuvati da ublažite oštrinu.
+
+---
+
 ## Bez vremena za kuvanje? 7 proteinskih obroka za 10 minuta
 
 https://unazdravahrana.com/blog/bez-vremena-za-kuvanje-7-proteinskih-obroka-za-10-minuta
@@ -697,30 +721,6 @@ Magnezijum-citrat se dobro apsorbuje i pogodan je za većinu ljudi, dok je bisgl
 **Q: Kako napraviti domaći napitak sa elektrolitima?**
 
 Pomešajte 1 litar vode, prstohvat morske ili himalajske soli, sok od pola limuna i kašičicu meda. Nije zamena za lek, ali dobro nadoknađuje minerale posle znojenja.
-
----
-
-## Biljna prva pomoć: 5 biljaka za putnu ljekarnu
-
-https://unazdravahrana.com/blog/biljna-prva-pomoc-5-biljaka-za-putnu-ljekarnu
-
-Praktičan vodič za sastavljanje putne ljekarne od pet biljaka koje pokrivaju najčešće letnje tegobe: mučninu, probavne smetnje, opekotine od sunca, ubode insekata i nervozu. Uz jasna uputstva za doziranje, upozorenja i savete za porodice sa decom.
-
-**Q: Koje biljke poneti na letovanje?**
-
-Pet biljaka pokriva najčešće letnje tegobe: kamilica za stomak, kožu i san; nana protiv mučnine u vožnji; đumbir za probavu i mučninu od masne hrane; aloe vera gel za opekotine i ubode; lavandino eterično ulje za smirenje i kožu.
-
-**Q: Kako se pravilno kuva čaj od kamilice?**
-
-Kesicu ili kašičicu suvog cveta preliti sa 2 dl vrele vode, poklopiti šoljicu i ostaviti 8-10 minuta. Ne treba kuvati na vatri jer isparavaju eterična ulja i čaj postaje gorak.
-
-**Q: Šta pomaže kod mučnine u vožnji?**
-
-Nana i đumbir najbolje pomažu. Kap eteričnog ulja nane na maramicu za udisanje ili kandirani đumbir za žvakanje deluju brzo. Čaj od đumbira popiti pola sata pre polaska ako znate da vas hvata mučnina.
-
-**Q: Da li je kamilica bezbedna za decu?**
-
-Kamilica je jedna od retkih biljaka koja se smatra bezbednom i za malu decu u umerenim količinama. Koristi se blag čaj za smirenje stomaka ili nemira pred spavanje, kao i ohlađen za ispiranje iritirane kože.
 
 ---
 
