@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja crvena čorba od pečene paprike i paradajza
+
+https://unazdravahrana.com/recepti/letnja-crvena-corba-od-pecene-paprike-i-paradajza
+
+Kremasta letnja čorba od pečene paprike i paradajza sa semenkama konoplje — lagan, hranljiv i bezglutenski recept za celu porodicu.
+
+**Q: Mogu li da zamrznem ovu čorbu?**
+
+Da, čorba se odlično zamrzava do 2 meseca. Zamrznite je bez semenki i bosiljka, a njih dodajte sveže prilikom serviranja.
+
+**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
+
+Jeste, svi sastojci su prirodno bez glutena. Ako koristite gotovu supu, proverite deklaraciju da ne sadrži gluten.
+
+**Q: Kako da čorba bude još kremastija bez pavlake?**
+
+Dodajte kašiku susamove paste (tahini) pri blendanju ili šaku indijskog oraha koji ste 15 minuta držali u toploj vodi.
+
+**Q: Koje semenke su najbolje za posipanje po čorbi?**
+
+Konopljine semenke daju blag orašasti ukus i puno proteina, susam nudi mineralnu notu, a bundevine hrskavost. U radnji vam možemo pomoći da izaberete.
+
+---
+
 ## Letnja tabuli salata sa proso, paradajzom i breskvom
 
 https://unazdravahrana.com/recepti/letnja-tabuli-salata-sa-proso-paradajzom-i-breskvom
@@ -697,30 +721,6 @@ Za rekreativca koji trenira 3-4 puta nedeljno preporučuje se 1,4 do 1,8 grama p
 **Q: Zašto je magnezijum važan za oporavak mišića?**
 
 Magnezijum pomaže opuštanje mišića posle napora, smanjuje grčeve i podržava kvalitetniji san, koji je ključan za obnovu mišićnog tkiva. Nedostatak magnezijuma je čest zbog osiromašenog zemljišta, rafinisane hrane, stresa i prekomernog unosa kafe i alkohola.
-
----
-
-## Kako podneti vrućine kad termometar puca
-
-https://unazdravahrana.com/blog/kako-podneti-vrucine-kad-termometar-puca
-
-Praktičan vodič kroz letnje vrućine: koliko vode piti, kada su potrebni elektroliti i koji oblik magnezijuma pomaže kod grčeva i nesanice. Uz jasne signale kada se javiti lekaru i primere hrane koja prirodno hladi organizam.
-
-**Q: Koliko vode treba piti kada je napolju preko 35°C?**
-
-Odrasla osoba prosečne građe bez fizičke aktivnosti treba 2,5–3 litra tečnosti dnevno, a osobe koje rade napolju ili treniraju 4 litra i više. Ne čekajte da ožednite jer osećaj žeđi kasni.
-
-**Q: Kada su elektroliti zaista potrebni?**
-
-Elektroliti su potrebni onima koji se obilno znoje — radnicima napolju, rekreativcima i često starijim osobama. Ljudima u kancelariji uglavnom je dovoljna uravnotežena ishrana sa slanom hranom, bananom i kefirom.
-
-**Q: Koji oblik magnezijuma je najbolji za grčeve i nesanicu?**
-
-Magnezijum-citrat se dobro apsorbuje i pogodan je za većinu ljudi, dok je bisglicinat najnežniji za stomak i pomaže onima koji loše spavaju. Uzima se uveče uz čašu vode.
-
-**Q: Kako napraviti domaći napitak sa elektrolitima?**
-
-Pomešajte 1 litar vode, prstohvat morske ili himalajske soli, sok od pola limuna i kašičicu meda. Nije zamena za lek, ali dobro nadoknađuje minerale posle znojenja.
 
 ---
 
