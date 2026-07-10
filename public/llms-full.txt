@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 7 jutarnjih napitaka za podršku zdravlju bubrega
+
+https://unazdravahrana.com/blog/7-jutarnjih-napitaka-za-podrsku-zdravlju-bubrega
+
+Tekst predstavlja sedam jednostavnih jutarnjih napitaka koji pomažu hidrataciju i blagu podršku bubrezima, uključujući vodu sa limunom, čaj od koprive, kurkuma latte i zeleni čaj. Uz recepte, autor naglašava da napici ne zamenjuju lekarski savet, posebno kod hroničnih bolesti ili terapije.
+
+**Q: Koji je najbolji jutarnji napitak za bubrege?**
+
+Čaša mlake vode sa sokom od pola limuna, popijena pre kafe i doručka, najjednostavniji je i najefikasniji izbor jer nadoknađuje tečnost i pomaže sprečavanju kalcijum-oksalatnih kamenaca.
+
+**Q: Da li je čaj od koprive dobar za bubrege?**
+
+Čaj od koprive deluje blago diuretično i tradicionalno se koristi za podršku bubrezima i mokraćnim putevima, ali ga treba izbegavati bez konsultacije sa lekarom ako uzimate lekove za pritisak ili diuretike.
+
+**Q: Koliko vode dnevno treba piti za zdravlje bubrega?**
+
+Odrasla osoba treba oko 1,5 do 2 litra tečnosti dnevno, ravnomerno raspoređeno tokom dana — čaša uz svaki obrok i između obroka, uz svetlo slamnastu boju mokraće kao pokazatelj dobre hidracije.
+
+**Q: Da li je zeleni čaj štetan za bubrege?**
+
+Zeleni čaj je u umerenim količinama (1–2 šolje dnevno) koristan zbog antioksidanasa katehina, ali osobe sklone oksalatnim kamencima treba da ga piju umereno jer sadrži oksalate.
+
+---
+
 ## Letnja crvena čorba od pečene paprike i paradajza
 
 https://unazdravahrana.com/recepti/letnja-crvena-corba-od-pecene-paprike-i-paradajza
@@ -697,30 +721,6 @@ Da, heljda prirodno ne sadrži gluten, a ostali sastojci su bez glutena. Obavezn
 **Q: Šta služiti uz ove paprike?**
 
 Uz njih ide sveža zelena salata sa kap limunovog soka i maslinovog ulja, ili prosti integralni hleb. Za lakši obrok možete ih služiti i potpuno same — paprike su već dovoljno zasitne.
-
----
-
-## Najbolji suplementi za oporavak mišića posle treninga
-
-https://unazdravahrana.com/blog/najbolji-suplementi-za-oporavak-misica-posle-treninga
-
-Ovaj članak objašnjava da je za oporavak mišića posle treninga najvažniji unos proteina, ugljenih hidrata i minerala poput magnezijuma, dok BCAA i drugi dodaci predstavljaju dodatnu opciju tek kada su osnove na mestu. Praktični saveti pomažu rekreativcima i sportistima da pametno odaberu suplemente bez nepotrebnog trošenja novca.
-
-**Q: Koji suplementi su najbolji za oporavak mišića posle treninga?**
-
-Osnovni suplementi za oporavak mišića su protein u prahu (najčešće whey), magnezijum za opuštanje mišića, i ugljeni hidrati za obnovu glikogena. Kreatin i BCAA mogu dodatno pomoći, ali samo kada su osnovne potrebe za proteinima i mineralima već pokrivene.
-
-**Q: Da li mi trebaju BCAA ako već pijem protein u prahu?**
-
-U većini slučajeva ne. Whey protein već sadrži sve esencijalne aminokiseline, uključujući BCAA. Dodatni unos BCAA ima smisla samo ako trenirate na prazan stomak, ste na restriktivnoj dijeti, ili dugotrajno trenirate izdržljivost.
-
-**Q: Koliko proteina dnevno treba rekreativnom sportisti?**
-
-Za rekreativca koji trenira 3-4 puta nedeljno preporučuje se 1,4 do 1,8 grama proteina po kilogramu telesne težine dnevno. Za osobu od 75 kg to je između 105 i 135 grama proteina dnevno, što se može postići kombinacijom obroka i proteinskog šejka.
-
-**Q: Zašto je magnezijum važan za oporavak mišića?**
-
-Magnezijum pomaže opuštanje mišića posle napora, smanjuje grčeve i podržava kvalitetniji san, koji je ključan za obnovu mišićnog tkiva. Nedostatak magnezijuma je čest zbog osiromašenog zemljišta, rafinisane hrane, stresa i prekomernog unosa kafe i alkohola.
 
 ---
 
