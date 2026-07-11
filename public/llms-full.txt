@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji ćoravi paprikaš sa bulgurom i bosiljkom
+
+https://unazdravahrana.com/recepti/letnji-coravi-paprikas-sa-bulgurom-i-bosiljkom
+
+Letnji ćoravi paprikaš sa bulgurom, paprikom, paradajzom i bosiljkom — jednostavan, sit i gotov za 45 minuta. Recept UNA Zdrave Hrane.
+
+**Q: Mogu li da pripremim jelo unapred?**
+
+Možete. Skuvajte do koraka pre dodavanja bosiljka, ohladite i držite u frižideru do 3 dana. Zagrejte uz malo vode i tek onda dodajte sveži bosiljak.
+
+**Q: Da li je recept bez glutena?**
+
+Bulgur sadrži gluten. Za varijantu bez glutena zamenite ga prosom ili heljdom — dobićete jednako ukusan rezultat.
+
+**Q: Kako da dobijem punijeg ukusa bez mesa?**
+
+Ključ je u dobro propečenom luku, dimljenoj aleva paprici i zrelom letnjem paradajzu. Kap jabukovog sirćeta na kraju podiže sve arome.
+
+**Q: Sa čim da služim ovo jelo?**
+
+Odlično ide uz kriške integralnog hleba, kap kiselog mleka ili kockice feta sira. Za lagan letnji ručak dovoljan je i samostalno.
+
+---
+
 ## Zdrava ishrana za decu: saveti i ideje za užinu
 
 https://unazdravahrana.com/blog/zdrava-ishrana-za-decu-saveti-i-ideje-za-uzinu
@@ -697,30 +721,6 @@ Najčešći simptomi uključuju hroničan umor koji ne prolazi spavanjem, bledil
 **Q: Da li treba samostalno da uzimam suplemente gvožđa?**
 
 Ne, suplementacija gvožđem se nikada ne preduzima na svoju ruku. Telo nema prirodan mehanizam za izbacivanje viška gvožđa, pa se on može taložiti u organima i izazvati probleme. Prvi korak je odlazak lekaru, vađenje krvene slike, feritina i transferina, i tek na osnovu tih rezultata kreće suplementacija po preporuci lekara.
-
----
-
-## Ćoravi paprikaš sa palentom i spirulinom
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-palentom-i-spirulinom
-
-Ćoravi paprikaš sa palentom i spirulinom — letnje povrće u ukusnom, zdravom jelu bez mesa. Spreman za 45 minuta.
-
-**Q: Da li mogu koristiti običnu palentu umesto integralne?**
-
-Da, možete. Razlika je u tome što integralna palenta zadržava više vlakana i ima bogatiji ukus, a vreme kuvanja je slično. Ako koristite običnu palentu, možete malo smanjiti količinu tečnosti jer brže upija vodu.
-
-**Q: Šta ako ne nađem svež paradajz?**
-
-Možete koristiti pelat iz konzerve (oko 400 g) ili dobar kvalitetan paradajz sok. Svež zreli paradajz daje najbolji ukus, ali pelat je odlična alternativa van sezone.
-
-**Q: Da li spirulina menja ukus znatno?**
-
-U maloj količini (pola kašičice na 4 porcije) spirulina daje blago, umami dubinu ukusu i lepu boju, bez preuzimanja dominantnosti. Ako niste sigurni, krenite sa manje i povećavajte po ukusu.
-
-**Q: Mogu li dodati i drugo povrće?**
-
-Naravno! Patlidžan, tikvice ili pečurke se odlično uklapaju. Dinstajte ih zajedno sa paprikom u koraku 2, uz eventualno produženje vremena za par minuta.
 
 ---
 
