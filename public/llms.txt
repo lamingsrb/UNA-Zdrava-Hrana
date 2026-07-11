@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Zdrava ishrana za decu: saveti i ideje za užinu](https://unazdravahrana.com/blog/zdrava-ishrana-za-decu-saveti-i-ideje-za-uzinu)
 - [7 jutarnjih napitaka za podršku zdravlju bubrega](https://unazdravahrana.com/blog/7-jutarnjih-napitaka-za-podrsku-zdravlju-bubrega)
 - [Letnja crvena čorba od pečene paprike i paradajza](https://unazdravahrana.com/recepti/letnja-crvena-corba-od-pecene-paprike-i-paradajza)
 - [Letnja tabuli salata sa proso, paradajzom i breskvom](https://unazdravahrana.com/recepti/letnja-tabuli-salata-sa-proso-paradajzom-i-breskvom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Pre-workout napici koji stvarno rade: vodič](https://unazdravahrana.com/blog/pre-workout-napici-koji-stvarno-rade-vodic)
 - [5 dodataka koje ne mešajte sa proteinskim prahom](https://unazdravahrana.com/blog/5-dodataka-koje-ne-mesajte-sa-proteinskim-prahom)
 - [Najbolji izvor superhrane i proteina online?](https://unazdravahrana.com/blog/najbolji-izvor-superhrane-i-proteina-online)
-- [Zatvor kod starijih: uzroci i praktična rešenja](https://unazdravahrana.com/blog/zatvor-kod-starijih-uzroci-i-prakticna-resenja)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-10
+Last updated: 2026-07-11

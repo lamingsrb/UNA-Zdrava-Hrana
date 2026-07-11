@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdrava ishrana za decu: saveti i ideje za užinu
+
+https://unazdravahrana.com/blog/zdrava-ishrana-za-decu-saveti-i-ideje-za-uzinu
+
+Vodič za roditelje o tome kako sastaviti raznovrsne obroke i školske užine za decu uz protein, složene ugljene hidrate, zdrave masti i voće ili povrće. Donosi konkretne kombinacije, listu namirnica koje vredi držati u kući i realan pristup šećeru i grickalicama.
+
+**Q: Šta treba da sadrži zdrav obrok za dete?**
+
+Svaki glavni obrok treba da ima izvor proteina (jaja, meso, mahunarke, mlečni proizvodi), složeni ugljeni hidrat (integralne žitarice, krompir, pirinač), malo zdravih masti (orašasti plodovi, maslinovo ulje) i porciju voća ili povrća.
+
+**Q: Koje su ideje za zdravu užinu za školu?**
+
+Kombinujte nešto sito (integralni sendvič, tortilja, domaći mafin), nešto sveže (voće ili narezano povrće), nešto 'kul' (proteinska ili voćna pločica, šaka orašastih plodova) i flašicu vode. Dobre kombinacije su tortilja sa piletinom i kruška, integralni hleb sa sirom i jabuka, ili pirinčani vafli sa kikiriki puterom i bananom.
+
+**Q: Kako smanjiti unos šećera kod dece?**
+
+Ne držite slatkiše i gazirana pića u kući u velikim količinama, zamenite kioskarske grickalice proteinskim i voćnim pločicama bez dodatog šećera, razblažite sokove vodom i izbegavajte slatke pahuljice za doručak koje izazivaju nagli pad energije.
+
+**Q: Koje namirnice vredi uvek imati u kući za dečju ishranu?**
+
+Ovsene pahuljice, jaja, integralni hleb i testenina, jogurt i domaći sir, mahunarke poput sočiva i slanutka, orašasti plodovi i semenke, sezonsko voće i povrće, kao i maslinovo ulje. To je baza od koje se lako sklapaju raznovrsni obroci.
+
+---
+
 ## 7 jutarnjih napitaka za podršku zdravlju bubrega
 
 https://unazdravahrana.com/blog/7-jutarnjih-napitaka-za-podrsku-zdravlju-bubrega
@@ -700,28 +724,4 @@ Naravno! Patlidžan, tikvice ili pečurke se odlično uklapaju. Dinstajte ih zaj
 
 ---
 
-## Letnja paprika punjena heljdom i malinama
-
-https://unazdravahrana.com/recepti/letnja-paprika-punjena-heljdom-i-malinama
-
-Punjenje paprike bez mesa sa heljdom, malinama i sirom — jednostavan letnji recept koji podržava probavu i energiju. Brza priprema za ceo dan.
-
-**Q: Mogu li pripremiti unapred i zagrejati kasnije?**
-
-Da, punjene paprike se mogu sklopiti i spremiti dan ranije, a zatim samo ispeći pred servisiranje. Takođe, pečene se odlično podgrevaju u rerni na 180°C oko 10 minuta.
-
-**Q: Da li mogu koristiti smrznute maline?**
-
-Možete, ali one sadrže više vode i više će se raspasti. Najbolje ih je koristiti smrznute samo ako ne možete naći sveže, i dodajte ih na kraju u smesu bez prethodnog odmrzavanja.
-
-**Q: Jel ovo jelo pogodno za osobe na bezglutenskoj ishrani?**
-
-Da, heljda prirodno ne sadrži gluten, a ostali sastojci su bez glutena. Obavezno proverite oznake na pakovanjima proizvoda da biste bili potpuno sigurni.
-
-**Q: Šta služiti uz ove paprike?**
-
-Uz njih ide sveža zelena salata sa kap limunovog soka i maslinovog ulja, ili prosti integralni hleb. Za lakši obrok možete ih služiti i potpuno same — paprike su već dovoljno zasitne.
-
----
-
-Last updated: 2026-07-10
+Last updated: 2026-07-11
