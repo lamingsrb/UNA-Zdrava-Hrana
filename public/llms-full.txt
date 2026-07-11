@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 starih navika baby boomera koje vredi vratiti
+
+https://unazdravahrana.com/blog/5-starih-navika-baby-boomera-koje-vredi-vratiti
+
+Tekst analizira pet zdravih navika iz vremena baby boomera koje vredi vratiti u savremenu ishranu: jedan glavni obrok u podne, svakodnevna fermentisana hrana, sezonsko i lokalno povrće, celovite žitarice umesto pahuljica. Naglašava se da ove navike podržavaju varenje, sitost i zdravu težinu bez dijeta i brojanja kalorija.
+
+**Q: Zašto je kiseli kupus iz bureta bolji od onog iz konzerve?**
+
+Kiseli kupus iz bureta ili frižidera nije pasterizovan, pa zadržava žive bakterije koje podržavaju crevni mikrobiom. Kupus iz konzerve je toplotno obrađen, čime se korisne bakterije uništavaju, iako ukus ostaje sličan.
+
+**Q: Kada treba jesti glavni obrok tokom dana?**
+
+Idealno je glavni obrok pojesti između 13 i 15 časova, kada je varenje najaktivnije. Ako to nije moguće zbog posla, pomerite ga na trenutak kada ste kod kuće, a večera neka bude lagana — jogurt, supa ili voće posle 19h.
+
+**Q: Koja fermentisana hrana je najbolja za svakodnevnu upotrebu?**
+
+Kiselo mleko, kefir i domaći jogurt su najlakši za svakodnevnu upotrebu i pogodni su za doručak ili užinu. Nepasterizovan kiseli kupus i turšija se preporučuju uz glavne obroke 3-5 puta nedeljno kao dodatak varenju.
+
+**Q: Kako da jedem sezonski ako sam početnik?**
+
+Ne morate menjati sve odjednom — napravite pravilo da dve trećine povrća u vašoj korpi bude ono što je trenutno u sezoni. Leti birajte paradajz i tikvice, zimi kiseli kupus, krompir i cveklu.
+
+---
+
 ## Letnja panzanella sa paradajzom, breskvom i heljdom
 
 https://unazdravahrana.com/recepti/letnja-panzanella-sa-paradajzom-breskvom-i-heljdom
@@ -697,30 +721,6 @@ Da, jelo je potpuno bez glutena. Samo pazite da ga služite uz bezglutenski hleb
 **Q: Mogu li ga pripremiti unapred za goste?**
 
 Možete ispeći paradajz sat vremena pre služenja i ostaviti na sobnoj temperaturi. Kozji sir, bademe i bosiljak dodajte neposredno pre serviranja kako bi tekstura ostala sveža.
-
----
-
-## Letnji bakarni paradajz sa urminama i bademima
-
-https://unazdravahrana.com/recepti/letnji-bakarni-paradajz-sa-urminama-i-bademima
-
-Brz letnji recept: bakarni paradajz sa urminama i bademima — gotov za 20 minuta, slatko-slano, bez glutena. Inspirisano viralnim fried dates.
-
-**Q: Može li sa zelenom paprikom umesto crvene?**
-
-Može, ali zelena paprika je kiselija i manje slatka, pa će jelo imati drugačiji karakter. Crvena paprika bolje harmonizuje sa slatkoćom urmi. Ako imate samo zelenu, dodajte malo više urmi ili kašičicu javorovog sirupa da balansirate.
-
-**Q: Da li je ovaj recept pogodan za dijabetičare?**
-
-Urme sadrže prirodne šećere, pa ih osobe sa dijabetesom treba da koriste umereno i u dogovoru sa svojim lekarom. Mogu se smanjiti na 4-5 urmi, a bademi i maslinovo ulje doprinose tome da obrok bude uravnoteženiji.
-
-**Q: Koji paradajz je najbolji za ovaj recept?**
-
-Sočan, zreo, rumen paradajz — onaj koji miriše na paradajz. Najbolji su krupni, mesnati tipovi poput volovskog srca ili bifik paradajza. Mali čeri paradajz takođe radi, ali ga ne seckajte, samo prepolovite.
-
-**Q: Mogu li dodati sir ili feta?**
-
-Naravno — izmrvljena feta ili kozji sir na vrhu, kada je jelo gotovo, daju divan slano-kiselkast kontrast. Za vegansku verziju, pospite hranljivim kvascem za sličan efekat.
 
 ---
 
