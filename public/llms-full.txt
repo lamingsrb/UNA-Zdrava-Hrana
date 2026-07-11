@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Salata od tikvica: 6 brzih recepata za leto
+
+https://unazdravahrana.com/blog/salata-od-tikvica-6-brzih-recepata-za-leto
+
+Vodič kroz šest jednostavnih letnjih salata od tikvica, od sirove sa fetom i mentom do grilovane sa kozjim sirom i medom. Uključuje savete za kupovinu, pripremu i kombinovanje tikvica sa sirevima, mahunarkama i semenkama.
+
+**Q: Da li se tikvica može jesti sirova u salati?**
+
+Da, posebno mlade tikvice dužine do 20 cm. Isecite ih na tanke trake ili narendajte, posolite i ostavite 10-15 minuta da puste vodu, pa iscedite pre mešanja sa ostalim sastojcima.
+
+**Q: Kako sprečiti da salata od tikvica bude vodnjikava?**
+
+Posolite tikvicu i ostavite je 10-15 minuta u cediljki da pusti višak vode, zatim je dobro iscedite. Ovaj korak je ključan za sirove i blanširane varijante salate.
+
+**Q: Koliko kalorija ima tikvica?**
+
+Tikvica ima oko 17 kalorija na 100 grama i sadrži preko 90% vode, uz kalijum, vitamin C i vlakna. Dodavanjem sira, semenki ili leblebija postaje pun obrok.
+
+**Q: Koje ulje najbolje ide uz salatu od tikvica?**
+
+Hladno ceđeno maslinovo ulje je klasika za sirove i blanširane varijante. Bundevino ulje odlično prija uz semenke bundeve i beli luk, a laneno je dobar izbor za hladne salate.
+
+---
+
 ## 5 starih navika baby boomera koje vredi vratiti
 
 https://unazdravahrana.com/blog/5-starih-navika-baby-boomera-koje-vredi-vratiti
@@ -697,30 +721,6 @@ Za odrasle osobe preporučuje se 2000–4000 IJ D3 dnevno uz 50–100 mcg K2 u M
 **Q: Šta uništava hrskavicu i izaziva bolove u zglobovima?**
 
 Hrskavica se vremenom tanji, a sinovijalna tečnost gubi svojstva podmazivanja. Glavni faktori koji razgrađuju i kosti i hrskavicu su hronična upala, neadekvatan unos nutrijenata i starenje, dok pravilna ishrana i suplementacija mogu usporiti taj proces.
-
----
-
-## Pečeni paradajz sa urminama i kozjim sirom
-
-https://unazdravahrana.com/recepti/peceni-paradajz-sa-urminama-i-kozjim-sirom
-
-Pečeni paradajz sa urminama i kozjim sirom — jednostavan letnji recept za 35 minuta. Zdravo, ukusno i bez glutena.
-
-**Q: Da li mogu koristiti običan kravlji sir umesto kozjeg?**
-
-Naravno. Kozji sir je blaži i lakše se vari za mnoge ljude, ali beli kravlji sir ili mozzarella odlično funkcionišu. Ako koristite slani sir, smanjite so u receptu za pola.
-
-**Q: Koja vrsta paradajza je najbolja za pečenje?**
-
-Bilo koji zreli paradajz je dobar, ali šolica ili okrugli srednji paradajz imaju najbolji odnos mesa i soka. Trešnjasti paradajz takođe funkcioniše — pecite ga 5–10 minuta kraće jer je manji.
-
-**Q: Da li ovaj recept odgovara osobama sa intolerancijom na gluten?**
-
-Da, jelo je potpuno bez glutena. Samo pazite da ga služite uz bezglutenski hleb ako ga jedete kao glavno jelo.
-
-**Q: Mogu li ga pripremiti unapred za goste?**
-
-Možete ispeći paradajz sat vremena pre služenja i ostaviti na sobnoj temperaturi. Kozji sir, bademe i bosiljak dodajte neposredno pre serviranja kako bi tekstura ostala sveža.
 
 ---
 
