@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamin C leti: zašto vam treba i kad se ne borite s
+
+https://unazdravahrana.com/blog/vitamin-c-leti-zasto-vam-treba-i-kad-se-ne-borite-s
+
+Vitamin C se leti brže troši zbog znojenja i UV zračenja, a najbolje ga je unositi kroz svežu hranu poput paprike, šipka i kivija. Toplota ga razgrađuje, pa kratko kuvanje na pari i sirove salate čuvaju najviše vrednosti.
+
+**Q: Koja namirnica ima najviše vitamina C?**
+
+Od namirnica dostupnih kod nas, kamu kamu i acerola prah imaju najviše (1500–3000 mg/100g), a od sveže hrane šipak (400–800 mg) i crvena paprika (140 mg). Jedna crvena paprika pokriva ceo dnevni unos.
+
+**Q: Koliko vitamina C treba dnevno?**
+
+Prema smernicama NIH, odraslim ženama treba oko 75 mg, muškarcima 90 mg, a pušačima dodatnih 35 mg dnevno. Unos se lako pokriva svežim voćem i povrćem.
+
+**Q: Da li kuvanje uništava vitamin C?**
+
+Da, vitamin C je osetljiv na toplotu, vazduh i vodu. Brokoli kuvan 15 minuta gubi do 50%, dok kuvan na pari 3–4 minuta zadržava skoro sve. Sirovo povrće i voće je najbolji izbor.
+
+**Q: Koji su znaci nedostatka vitamina C?**
+
+Umor koji ne prolazi, krvarenje desni, modrice bez razloga, sporo zarastanje rana, suva koža, opadanje kose i češće prehlade mogu biti znaci blagog hroničnog nedostatka vitamina C.
+
+---
+
 ## Tiha upala u telu: hrana koju jedemo skoro svaki dan
 
 https://unazdravahrana.com/blog/tiha-upala-u-telu-hrana-koju-jedemo-skoro-svaki-dan
@@ -697,30 +721,6 @@ U proseku jesu, ali razlike su velike. Bio Špajz je među skupljima, dok Zelena
 **Q: Šta treba proveriti pre kupovine suplemenata?**
 
 Proverite poreklo, organic sertifikate i laboratorijske nalaze proizvođača. Preporučuje se i konsultacija sa prodavcem koji poznaje sastav, posebno za Omega-3, probiotike i suplemente za decu.
-
----
-
-## Fried dates: 5-minutni recept koji je osvojio internet
-
-https://unazdravahrana.com/blog/fried-dates-5-minutni-recept-koji-je-osvojio-internet
-
-Fried dates su brza i zdrava poslastica od karamelizovanih urmi na tiganju, serviranih preko grčkog jogurta sa pistaćima, morskom solju i maslinovim uljem. Celo jelo se sprema za pet minuta i koristi isključivo cele, prepoznatljive namirnice, što ga čini idealnim za doručak, užinu ili lagani desert.
-
-**Q: Šta su fried dates?**
-
-Fried dates su urme koje se kratko zagrevaju na tiganju sa maslinovim uljem dok ne postanu blago karamelizovane, a zatim se služe preko grčkog jogurta sa seckanim pistaćima, morskom solju i maslinovim uljem.
-
-**Q: Koliko vremena treba za spremanje fried dates?**
-
-Priprema fried dates traje doslovno pet minuta — urme se prže dva do tri minuta na tiganju, a preostali sastojci se samo slažu u činiju.
-
-**Q: Koje urme su najbolje za fried dates?**
-
-Medjool urme su najbolji izbor jer su veoma mesnate i intenzivno slatke, ali i kvalitetne sveže organske urme iz prodavnice zdrave hrane mogu biti odlične, pod uslovom da su dovoljno meke.
-
-**Q: Zašto se u fried dates dodaje morska so i maslinovo ulje?**
-
-Morska so izvlači dubinu ukusa i balansira slatkoću urmi, dok maslinovo ulje donosi voćnu, blago gorku notu koja se savršeno slaže sa karamelastim karakterom zagrejanih urmi.
 
 ---
 
