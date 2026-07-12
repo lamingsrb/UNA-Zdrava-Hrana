@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Celijakija i nadutost: kada je vreme za pregled
+
+https://unazdravahrana.com/blog/celijakija-i-nadutost-kada-je-vreme-za-pregled
+
+Celijakija je autoimuna bolest koja oštećuje tanko crevo posle unosa glutena, a nadutost, umor i problemi sa stolicom su česti znaci. Dijagnoza počinje krvnim testom na anti-tTG IgA antitela, i ključno je ne izbacivati gluten pre testiranja.
+
+**Q: Kako da znam da li imam celijakiju ili samo osetljivost na gluten?**
+
+Celijakija se potvrđuje krvnim testom na anti-tTG IgA antitela i biopsijom tankog creva, dok kod neceljakijske osetljivosti nema antitela ni oštećenja creva. Ako imate nadutost, anemiju ili umor duže od 4-6 nedelja, obratite se lekaru pre nego što sami izbacite gluten.
+
+**Q: Zašto ne smem da izbacim gluten pre testa na celijakiju?**
+
+Ako izbacite gluten mesec dana pre analize, antitela padaju i test može biti lažno negativan, pa se dijagnoza propušta. Gluten treba nastaviti da unosite normalno sve do završetka krvnog testa i eventualne biopsije.
+
+**Q: Koliko brzo se trbuh naduva posle glutena kod celijakije?**
+
+Nadutost se obično javlja 30 minuta do 2 sata posle obroka sa hlebom, testeninom ili pivom, i jača je uveče nego ujutru. Često je prati umor posle ručka i osećaj magle u glavi.
+
+**Q: Da li je bezglutenska ishrana automatski zdrava?**
+
+Nije — industrijski bezglutenski proizvodi često sadrže mnogo šećera, škroba i loših masti. Osnova zdrave bezglutenske ishrane su povrće, mahunarke, jaja, meso, riba, pirinač, heljda, proso i kvinoa.
+
+---
+
 ## Letnja salata od paradajza, malina i kinoe
 
 https://unazdravahrana.com/recepti/letnja-salata-od-paradajza-malina-i-kinoe
@@ -697,30 +721,6 @@ Lekaru treba obavezno otići ako zatvor traje duže od tri nedelje, ako se pojav
 **Q: Da li šetnja pomaže kod zatvora?**
 
 Da, redovna šetnja od 20–30 minuta dnevno laganim tempom dokazano poboljšava rad creva, a naročito je efikasno 10 minuta hoda posle doručka uz toplu tečnost.
-
----
-
-## Ćoravi paprikaš sa slanutkom i heljdom
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-i-heljdom
-
-Ćoravi paprikaš sa slanutkom i heljdom — letnji, zasitan obrok bez mesa. Jednostavan recept sa sezonskom paprikom i paradajzom.
-
-**Q: Mogu li da koristim slanutak iz konzerve?**
-
-Naravno, samo ga dobro isperite i ocedite pre nego što ga dodate u šerpu. Ako kuvate suvi slanutak, potopite ga preko noći i skuvajte unapred.
-
-**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
-
-Jeste — heljda je prirodno bez glutena. Proverite deklaraciju heljde koju kupujete ako je osetljivost izražena, jer neke marke nose oznaku 'bez glutena'.
-
-**Q: Kako da zamenim sveži paradajz van sezone?**
-
-Koristite kvalitetan pelat ili domaći paradajz sok iz tegle. Leti je ipak najbolje iskoristiti svež, zreo paradajz — ukus je neuporediv.
-
-**Q: Može li paprikaš da se zamrzne?**
-
-Može, u porcijama, do 2 meseca. Odmrznite ga preko noći u frižideru i podgrejte na tihoj vatri uz malo vode ako je previše zgusnuo.
 
 ---
 
