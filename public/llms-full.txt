@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Tiha upala u telu: hrana koju jedemo skoro svaki dan
+
+https://unazdravahrana.com/blog/tiha-upala-u-telu-hrana-koju-jedemo-skoro-svaki-dan
+
+Tekst objašnjava fenomen tihe hronične upale koju svakodnevno podstičemo ultraprerađenom hranom, rafinisanim šećerom, belim brašnom i prerađenim mesom. Nudi konkretne zamene po obrocima i skelet protivupalnog tanjira zasnovan na mediteranskoj i tradicionalnoj ishrani.
+
+**Q: Šta je tiha upala u telu?**
+
+Tiha upala je hronično, niskostepeno zapaljenje koje ne boli akutno, ali godinama tinja u pozadini organizma. Nastaje kada imuni sistem iz dana u dan dobija male signale iz hrane, stresa, lošeg sna i sedenja, pa ostaje u stalnom stanju blage pripravnosti i može podsticati razvoj dijabetesa, bolesti srca i autoimunih stanja.
+
+**Q: Koje namirnice najčešće izazivaju upalu u telu?**
+
+Najčešći krivci su ultraprerađeni proizvodi sa dugom listom sastojaka, rafinisani šećer i slatki napici, rafinisana biljna ulja korišćena za višekratno prženje, beli hleb i industrijska peciva, prerađeno crveno meso poput kobasica i salama, kao i trans masti iz preprženih namirnica. Problem nije jedan obrok, nego svakodnevno ponavljanje.
+
+**Q: Kako izgleda protivupalni obrok?**
+
+Protivupalni tanjir sadrži puno svežeg sezonskog povrća, kvalitetne masnoće poput maslinovog ulja, orašastih plodova i masne ribe, integralne žitarice u umerenim količinama, mahunarke nekoliko puta nedeljno i začine poput kurkume, đumbira i belog luka. Meso, šećer i prerađena hrana zastupljeni su u malim količinama.
+
+**Q: Koji su simptomi hronične upale u organizmu?**
+
+Najčešći simptomi su stalan umor bez jasnog razloga, nadutost i loše varenje, bolovi u zglobovima i mišićima, problemi sa kožom poput akni kod odraslih i ekcema, teško mršavljenje uprkos trudu, česte prehlade i osećaj mentalne magle. Ako se ovi simptomi ponavljaju, vredi razmotriti svakodnevnu ishranu.
+
+---
+
 ## Salata od tikvica: 6 brzih recepata za leto
 
 https://unazdravahrana.com/blog/salata-od-tikvica-6-brzih-recepata-za-leto
@@ -700,28 +724,4 @@ Morska so izvlači dubinu ukusa i balansira slatkoću urmi, dok maslinovo ulje d
 
 ---
 
-## Vitamini i minerali za zdravu kičmu i zglobove
-
-https://unazdravahrana.com/blog/vitamini-i-minerali-za-zdravu-kicmu-i-zglobove
-
-Ovaj članak objašnjava kako magnezijum, vitamin D3 i K2, te kalcijum deluju na zdravlje kičme, zglobova i kostiju kroz tri ključne mete: gustinu kostiju, elastičnost hrskavice i smanjenje upale. Praktični saveti obuhvataju odabir pravih oblika suplemenata, doziranje i vreme uzimanja za maksimalnu apsorpciju.
-
-**Q: Koji vitamin je najvažniji za zdravlje zglobova i kičme?**
-
-Vitamin D3 je ključan jer omogućava crevima da apsorbuju kalcijum iz hrane. Bez dovoljno D vitamina, kalcijum ne dolazi do kostiju. Takođe je važan vitamin K2 koji usmerava kalcijum u kosti i zube, sprečavajući njegovo taloženje u krvnim sudovima.
-
-**Q: Koji oblik magnezijuma je najbolji za bolove u leđima?**
-
-Za mišićnu napetost i bolove u leđima najčešće se preporučuju magnezijum-citrat za opštu relaksaciju i magnezijum-glicinat za hroničnu napetost i dublji san. Preporučuje se uzimanje uveče u dozi 300–400 mg dnevno.
-
-**Q: Kako se uzimaju vitamin D3 i K2 zajedno?**
-
-Za odrasle osobe preporučuje se 2000–4000 IJ D3 dnevno uz 50–100 mcg K2 u MK-7 obliku. Treba ih uzimati uz obrok koji sadrži masti jer su vitamini rastvorljivi u mastima, što je neophodno za pravilnu apsorpciju.
-
-**Q: Šta uništava hrskavicu i izaziva bolove u zglobovima?**
-
-Hrskavica se vremenom tanji, a sinovijalna tečnost gubi svojstva podmazivanja. Glavni faktori koji razgrađuju i kosti i hrskavicu su hronična upala, neadekvatan unos nutrijenata i starenje, dok pravilna ishrana i suplementacija mogu usporiti taj proces.
-
----
-
-Last updated: 2026-07-11
+Last updated: 2026-07-12

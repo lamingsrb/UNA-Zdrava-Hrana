@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Tiha upala u telu: hrana koju jedemo skoro svaki dan](https://unazdravahrana.com/blog/tiha-upala-u-telu-hrana-koju-jedemo-skoro-svaki-dan)
 - [Salata od tikvica: 6 brzih recepata za leto](https://unazdravahrana.com/blog/salata-od-tikvica-6-brzih-recepata-za-leto)
 - [5 starih navika baby boomera koje vredi vratiti](https://unazdravahrana.com/blog/5-starih-navika-baby-boomera-koje-vredi-vratiti)
 - [Letnja panzanella sa paradajzom, breskvom i heljdom](https://unazdravahrana.com/recepti/letnja-panzanella-sa-paradajzom-breskvom-i-heljdom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Ishrana po decenijama: šta jesti u 30-im, 40-im i posle](https://unazdravahrana.com/blog/ishrana-po-decenijama-sta-jesti-u-30-im-40-im-i-posle)
 - [Gde kupiti suplemente i organsku hranu online u Srbiji?](https://unazdravahrana.com/blog/gde-kupiti-suplemente-i-organsku-hranu-online-u-srbiji)
 - [Preporuka prodavnice zdrave hrane u Kragujevcu?](https://unazdravahrana.com/blog/preporuka-prodavnice-zdrave-hrane-u-kragujevcu)
-- [Ćoravi paprikaš sa proso i pečenom paprikom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-proso-i-pecenom-paprikom)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-11
+Last updated: 2026-07-12
