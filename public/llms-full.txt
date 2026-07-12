@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja salata od paradajza, malina i kinoe
+
+https://unazdravahrana.com/recepti/letnja-salata-od-paradajza-malina-i-kinoe
+
+Letnja salata od paradajza, malina i kinoe — lagan, zasitan i bezglutenski recept za 35 minuta. Idealna za vrele dane.
+
+**Q: Mogu li da pripremim salatu unapred za posao?**
+
+Da. Kuvanu kinou i preliv držite odvojeno od paradajza i malina, pa spojite pred jelo. Tako sastojci ostaju sveži i hrskavi.
+
+**Q: Da li je recept bez glutena?**
+
+Jeste — kinoa prirodno ne sadrži gluten. Ako imate potvrđenu celijakiju, proverite da na pakovanju piše oznaka 'bez glutena'.
+
+**Q: Čime da zamenim bademe ako imam alergiju na orašaste plodove?**
+
+Odlično će poslužiti semenke suncokreta ili bundeve — kratko ih propržite na suvom tiganju za isti hrskavi efekat.
+
+**Q: Koliko dugo se kuva kinoa da ne bude gnjecava?**
+
+Pravilo je 1 deo kinoe na 2 dela vode, 15 minuta krčkanja i još 5 minuta odmaranja poklopljeno. Tako ostaje rastresita i lepo puca zrno.
+
+---
+
 ## Letnji kuskus sa paradajzom, breskvom i mentom
 
 https://unazdravahrana.com/recepti/letnji-kuskus-sa-paradajzom-breskvom-i-mentom
@@ -697,30 +721,6 @@ Koristite kvalitetan pelat ili domaći paradajz sok iz tegle. Leti je ipak najbo
 **Q: Može li paprikaš da se zamrzne?**
 
 Može, u porcijama, do 2 meseca. Odmrznite ga preko noći u frižideru i podgrejte na tihoj vatri uz malo vode ako je previše zgusnuo.
-
----
-
-## Ćoravi paprikaš sa paprikom, paradajzom i kinoom
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-paprikom-paradajzom-i-kinoom
-
-Ćoravi paprikaš sa paprikom, paradajzom i kinoom — sito letnje jelo bez mesa i glutena, gotovo za 50 minuta. Recept UNA Zdrave Hrane.
-
-**Q: Mogu li deca da jedu ovaj paprikaš?**
-
-Da, jelo je blago i slatkasto zbog pečene paprike i paradajza. Ako pripremate za mlađu decu, izostavite biber i alevu papriku ili ih smanjite, a med zamenite kašikom domaćeg soka od jabuke.
-
-**Q: Da li je recept bez glutena?**
-
-Jeste, kinoa prirodno ne sadrži gluten. Ako imate celijakiju, proverite deklaraciju na pakovanju kinoe — u UNA radnji imamo kinou sa jasno označenim poreklom.
-
-**Q: Kako da znam da je kinoa gotova?**
-
-Zrna postanu prozirna i iz njih se izvuku sitne bele spiralice (klice) — to je znak da je kinoa mekana i spremna. Ako je još tvrda, dodajte malo tople vode i kuvajte još 3-5 minuta.
-
-**Q: Mogu li da zamrznem ostatke?**
-
-Može, izdrži do 2 meseca u zamrzivaču. Odmrzavajte preko noći u frižideru i podgrejte na tihoj vatri uz malo dodate vode jer kinoa upije tečnost tokom stajanja.
 
 ---
 
