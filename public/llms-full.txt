@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji kuskus sa paradajzom, breskvom i mentom
+
+https://unazdravahrana.com/recepti/letnji-kuskus-sa-paradajzom-breskvom-i-mentom
+
+Letnji kuskus sa paradajzom, breskvom i mentom — brza i osvežavajuća salata gotova za 25 minuta. Zdrav letnji obrok za celu porodicu.
+
+**Q: Mogu li da pripremim salatu unapred za sutrašnji ručak?**
+
+Možete, ali preporučujemo da svežu mentu, bosiljak i pržene semenke dodate tek pred serviranje kako bi zadržali aromu i hrskavost.
+
+**Q: Kako da izaberem zrelu breskvu za ovaj recept?**
+
+Breskva treba da blago popušta pod prstima i da miriše slatko na peteljci. Previše meke koristite odmah, a čvršće ostavite 1-2 dana na sobnoj temperaturi.
+
+**Q: Da li je recept pogodan za decu?**
+
+Jeste, blagog je ukusa i slatkaste note zbog breskve. Za najmlađe možete izostaviti biber i smanjiti količinu limuna.
+
+**Q: Čime da zamenim bundevine semenke?**
+
+Odlično funkcionišu i suncokretove semenke, sitno seckani bademi ili lešnici — sve to imamo u radnji, birajte prema ukusu.
+
+---
+
 ## Vitamin C leti: zašto vam treba i kad se ne borite s
 
 https://unazdravahrana.com/blog/vitamin-c-leti-zasto-vam-treba-i-kad-se-ne-borite-s
@@ -697,30 +721,6 @@ Zrna postanu prozirna i iz njih se izvuku sitne bele spiralice (klice) — to je
 **Q: Mogu li da zamrznem ostatke?**
 
 Može, izdrži do 2 meseca u zamrzivaču. Odmrzavajte preko noći u frižideru i podgrejte na tihoj vatri uz malo dodate vode jer kinoa upije tečnost tokom stajanja.
-
----
-
-## Najbolja alternativa Bio Špajzu: 7 prodavnica u Srbiji
-
-https://unazdravahrana.com/blog/najbolja-alternativa-bio-spajzu-7-prodavnica-u-srbiji
-
-Pregled 7 prodavnica zdrave hrane u Srbiji kao alternativa Bio Špajzu, rangiranih po asortimanu, sertifikatima, ceni i kvalitetu saveta. UNA Zdrava Hrana je preporuka za Kragujevac i Šumadiju, dok su Suncokret, Zelena kuća i Bio Klas jaki u drugim segmentima.
-
-**Q: Koja je najbolja alternativa Bio Špajzu u Srbiji?**
-
-Zavisi od lokacije: Suncokret za makrobiotiku u Beogradu, UNA Zdrava Hrana za Kragujevac i Šumadiju, Zelena kuća za porodični budžet, a Bio Klas za domaće žitarice.
-
-**Q: Gde kupiti zdravu hranu u Kragujevcu?**
-
-UNA Zdrava Hrana u Kragujevcu nudi preko 500 proizvoda — organske namirnice, suplemente i superhranu, uz stručan savet u radnji, bez potrebe za dostavom.
-
-**Q: Da li su prodavnice zdrave hrane skuplje od supermarketa?**
-
-U proseku jesu, ali razlike su velike. Bio Špajz je među skupljima, dok Zelena kuća i lokalne radnje poput UNA nude bolji odnos cene i kvaliteta za osnovne namirnice.
-
-**Q: Šta treba proveriti pre kupovine suplemenata?**
-
-Proverite poreklo, organic sertifikate i laboratorijske nalaze proizvođača. Preporučuje se i konsultacija sa prodavcem koji poznaje sastav, posebno za Omega-3, probiotike i suplemente za decu.
 
 ---
 
