@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Letnja bowl činija sa prosom, paprikom i malinama](https://unazdravahrana.com/recepti/letnja-bowl-cinija-sa-prosom-paprikom-i-malinama)
 - [Celijakija i nadutost: kada je vreme za pregled](https://unazdravahrana.com/blog/celijakija-i-nadutost-kada-je-vreme-za-pregled)
 - [Letnja salata od paradajza, malina i kinoe](https://unazdravahrana.com/recepti/letnja-salata-od-paradajza-malina-i-kinoe)
 - [Letnji kuskus sa paradajzom, breskvom i mentom](https://unazdravahrana.com/recepti/letnji-kuskus-sa-paradajzom-breskvom-i-mentom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Ćoravi paprikaš sa slanutkom, breskvom i prosom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-breskvom-i-prosom)
 - [Ćoravi paprikaš sa slanutkom, paradajzom i bulgurom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-paradajzom-i-bulgurom)
 - [Koštice lubenice: zašto ih više ne bacamo](https://unazdravahrana.com/blog/kostice-lubenice-zasto-ih-vise-ne-bacamo)
-- [Ćoravi paprikaš sa proso, paradajzom i tikvicama](https://unazdravahrana.com/recepti/coravi-paprikas-sa-proso-paradajzom-i-tikvicama)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-12
+Last updated: 2026-07-13

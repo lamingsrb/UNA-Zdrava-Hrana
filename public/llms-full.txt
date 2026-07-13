@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja bowl činija sa prosom, paprikom i malinama
+
+https://unazdravahrana.com/recepti/letnja-bowl-cinija-sa-prosom-paprikom-i-malinama
+
+Letnja bowl činija sa prosom, pečenom paprikom, paradajzom i prelivom od malina — lagan i hranljiv obrok bez glutena za 40 minuta.
+
+**Q: Da li je proso pogodno za osobe sa intolerancijom na gluten?**
+
+Da, proso je prirodno bez glutena i predstavlja odličnu alternativu pšenici. Ako ste osetljivi, proverite na pakovanju oznaku 'bez glutena' — u UNA radnji imamo takve varijante.
+
+**Q: Mogu li da pripremim ovu činiju unapred za posao?**
+
+Da, možete skuvati proso i ispeći papriku dan ranije. Ujutru samo sklopite sve u činiju, a preliv i sveže maline dodajte pred jelo da ostanu sveži.
+
+**Q: Šta ako mi je proso gorko?**
+
+Proso ima prirodnu blagu gorčinu koja se skoro potpuno uklanja ispiranjem pod hladnom vodom pre kuvanja. Ispirajte dok voda ne postane bistra.
+
+**Q: Koliko dugo mogu da čuvam maline u frižideru?**
+
+Sveže maline najbolje je pojesti u roku od 1-2 dana. Ne perite ih dok ih ne budete koristili, jer brže omekšaju.
+
+---
+
 ## Celijakija i nadutost: kada je vreme za pregled
 
 https://unazdravahrana.com/blog/celijakija-i-nadutost-kada-je-vreme-za-pregled
@@ -700,28 +724,4 @@ Praktično pravilo je jedna, maksimalno dve superhrane dnevno tokom mesec dana r
 
 ---
 
-## Zatvor kod starijih: uzroci i praktična rešenja
-
-https://unazdravahrana.com/blog/zatvor-kod-starijih-uzroci-i-prakticna-resenja
-
-Zatvor je česta tegoba u trećem životnom dobu zbog sporije peristaltike, manjeg unosa vode, lekova i smanjene aktivnosti. Rešenje leži u postupnom povećanju vlakana (psilium, laneno seme, suva šljiva), dovoljnoj hidrataciji, redovnoj šetnji i jednostavnim navikama poput čaše mlake vode ujutru.
-
-**Q: Koliko vlakana dnevno treba starijoj osobi?**
-
-Odrasla osoba, uključujući starije, treba oko 25–30 grama vlakana dnevno, uz obavezno povećanje unosa vode – na svakih 5 grama dodatih vlakana jedna čaša vode više.
-
-**Q: Koja hrana najbrže pomaže kod zatvora kod starijih?**
-
-Najefikasnije su suve šljive (3–5 komada dnevno ili kompot uveče), psilium ljuspice u vodi ujutru, mleveno laneno seme, ovsene pahuljice i chia seme, uz dovoljno tečnosti.
-
-**Q: Kada zatvor kod starijih zahteva lekara?**
-
-Lekaru treba obavezno otići ako zatvor traje duže od tri nedelje, ako se pojavi krv u stolici, nagli gubitak težine, jak bol u stomaku ili paradoksalna dijareja (tečna stolica pored tvrde grude).
-
-**Q: Da li šetnja pomaže kod zatvora?**
-
-Da, redovna šetnja od 20–30 minuta dnevno laganim tempom dokazano poboljšava rad creva, a naročito je efikasno 10 minuta hoda posle doručka uz toplu tečnost.
-
----
-
-Last updated: 2026-07-12
+Last updated: 2026-07-13
