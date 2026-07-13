@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji rižoto sa ječmom, paradajzom i paprikom
+
+https://unazdravahrana.com/recepti/letnji-rizoto-sa-jecmom-paradajzom-i-paprikom
+
+Kremast letnji rižoto od integralnog ječma sa zrelim paradajzom, paprikom i bosiljkom — sit, zdrav i jednostavan za pripremu.
+
+**Q: Da li se ječam mora prethodno namakati?**
+
+Perlirani (oljušteni) ječam ne mora — dovoljno je da ga isperete. Ako imate integralni ječam sa ljuskom, namakanje preko noći ubrzava kuvanje.
+
+**Q: Mogu li da napravim rižoto bez glutena?**
+
+Ječam sadrži gluten, pa nije pogodan za osobe sa celijakijom. Kao zamenu možete koristiti proso ili kinou uz kraće vreme kuvanja.
+
+**Q: Koliko dugo se čuva u frižideru?**
+
+Do 3 dana u zatvorenoj posudi. Prilikom podgrevanja dodajte malo tople vode i sveže листове bosiljka.
+
+**Q: Da li deca vole ovo jelo?**
+
+Da, kremasta tekstura i blagi ukus paradajza i paprike prijaju deci. Ako ne vole komadiće, paradajz malo izblendujте pre dodavanja.
+
+---
+
 ## Letnja bowl činija sa prosom, paprikom i malinama
 
 https://unazdravahrana.com/recepti/letnja-bowl-cinija-sa-prosom-paprikom-i-malinama
@@ -697,30 +721,6 @@ Da, kada se stave u istu čašu vlakna fizički obavijaju protein i usporavaju a
 **Q: Kada je najbolje uzeti proteinski prah?**
 
 Idealno je posle treninga ili kao užina između obroka, odvojeno od suplemenata gvožđa, kalcijuma, cinka i vlakana. U shake stavite samo protein, voće ili kikiriki puter za najbolju apsorpciju.
-
----
-
-## Najbolji izvor superhrane i proteina online?
-
-https://unazdravahrana.com/blog/najbolji-izvor-superhrane-i-proteina-online
-
-Vodič za kupovinu superhrane i proteina online u Srbiji sa jasnim kriterijumima: poreklo, sertifikat, sastav i realna cena. Objašnjava kada je online prodavnica dovoljna, a kada je bolje potražiti savet u lokalnoj specijalizovanoj radnji.
-
-**Q: Gde kupiti kvalitetnu spirulinu online u Srbiji?**
-
-Birajte prodavce koji jasno navode zemlju porekla (Havaji ili sertifikovani izvori), broj sertifikacionog tela za organski proizvod i rok trajanja. Spirulina ispod 800 dinara za 200 g najčešće je lošijeg kvaliteta ili stara roba.
-
-**Q: Koji protein u prahu je najbolji za početnike?**
-
-Za rekreativce i opštu upotrebu whey koncentrat je dovoljan i povoljniji, dok je whey izolat bolji izbor za osetljive na laktozu jer ima čistiji sastav. Proverite da nema previše šećera, veštačkih zaslađivača i punila.
-
-**Q: Kako prepoznati ozbiljnu online prodavnicu zdrave hrane?**
-
-Ozbiljan prodavac navodi poreklo namirnice, rok trajanja i partiju, broj sertifikata za organske proizvode, jasan sastav bez skrivenih aroma i realnu cenu. Ako je cena preterano niska, obično postoji razlog u kvalitetu ili starosti robe.
-
-**Q: Koliko superhrane dnevno treba uzimati?**
-
-Praktično pravilo je jedna, maksimalno dve superhrane dnevno tokom mesec dana redovnog uzimanja. Na primer, 1 kašičica spiruline (oko 3 g) u soku, ili 1-2 kašike čia semenki potopljenih u tečnosti.
 
 ---
 
