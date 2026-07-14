@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja salata sa heljdom, malinama i tostiranim bademima
+
+https://unazdravahrana.com/recepti/letnja-salata-sa-heljdom-malinama-i-tostiranim-bademima
+
+Osvežavajuća letnja salata sa heljdom, malinama i tostiranim bademima — bez glutena, gotova za 35 minuta. Lagan i sit obrok za tople dane.
+
+**Q: Da li salata odgovara osobama sa intolerancijom na gluten?**
+
+Da, heljda uprkos imenu nije žitarica i prirodno je bez glutena. Proverite samo da je pakovanje označeno kao 'bez glutena' jer se ponekad prerađuje u pogonima gde ima i pšenice.
+
+**Q: Mogu li da koristim smrznute maline?**
+
+Možete, ali ih ne odmrzavajte potpuno — dodajte ih poluzaleđene tik pred serviranje da ne puste previše soka i ne ofarbaju heljdu u ružičasto.
+
+**Q: Koliko dugo salata ostaje sveža za poneti na posao?**
+
+U dobro zatvorenoj posudi u frižideru do 48 sati. Ako je nosite na posao, dresing držite odvojeno i prelijte je tek pred jelo — heljda će ostati rastresita.
+
+**Q: Da li mogu da zamenim med nečim drugim?**
+
+Naravno — javorov sirup ili sirup od agave dobro funkcionišu. Ako želite potpuno bez zaslađivača, dodajte pola zrele breskve iseckane sitno, ona će uneti prirodnu slatkoću u dresing.
+
+---
+
 ## Letnja frittata sa paprikom, paradajzom i bosiljkom
 
 https://unazdravahrana.com/recepti/letnja-frittata-sa-paprikom-paradajzom-i-bosiljkom
@@ -697,30 +721,6 @@ Uz njega poslužite krišku integralnog hleba ili dodajte kuvani slanutak pred k
 **Q: Koji paradajz je najbolji za ovaj recept?**
 
 Zreli letnji paradajz sa pijace daje najbolji ukus. Ako nemate, može i konzervirani pelat od kvalitetnog proizvođača.
-
----
-
-## Pre-workout napici koji stvarno rade: vodič
-
-https://unazdravahrana.com/blog/pre-workout-napici-koji-stvarno-rade-vodic
-
-Vodič kroz prirodne pre-workout sastojke poput maca praha, guarane, soka od cvekle i BCAA aminokiselina, sa preporukama kada ih popiti. Uključuje tabelu napitaka prema tipu treninga i praktične savete za tajming.
-
-**Q: Koliko pre treninga treba popiti pre-workout napitak?**
-
-Tečni napici 30–45 minuta pre treninga, kofein i guarana 45–60 minuta, a sok od cvekle 60–90 minuta pre treninga. BCAA aminokiseline 20–30 minuta pre ili tokom treninga.
-
-**Q: Da li maca prah zamenjuje kofein pre treninga?**
-
-Maca prah nije stimulans kao kofein, ali postepeno podiže osećaj snage i izdržljivosti. Idealna je za one koji ne podnose kofein ili treniraju uveče. Doza je pola do jedne kašičice u vodi ili smutiju.
-
-**Q: Zašto je sok od cvekle dobar pre treninga?**
-
-Nitrati iz cvekle šire krvne sudove, poboljšavaju cirkulaciju i dopremaju više kiseonika mišićima. Rekreativci često primete niži puls pri istom naporu kada redovno piju cveklu pre kardio treninga.
-
-**Q: Šta popiti pre jutarnjeg treninga na prazan stomak?**
-
-Držite se lakših opcija: kašika meda u toploj vodi sa limunom, pola banane ili blaga doza guarane. Teški napici na prazan stomak mogu izazvati mučninu, posebno pri kardio treningu.
 
 ---
 
