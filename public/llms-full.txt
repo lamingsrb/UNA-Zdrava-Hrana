@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja frittata sa paprikom, paradajzom i bosiljkom
+
+https://unazdravahrana.com/recepti/letnja-frittata-sa-paprikom-paradajzom-i-bosiljkom
+
+Letnja frittata sa paprikom, paradajzom, bosiljkom i semenkama suncokreta — zdrav, brz recept za 40 minuta, idealan za ručak ili užinu.
+
+**Q: Mogu li da napravim frittatu bez tiganja koji ide u rernu?**
+
+Da. Povrće propržite u običnom tiganju, pa sve prebacite u nauljenu vatrostalnu posudu, prelijte jajima i pecite u rerni 18–20 minuta na 190°C.
+
+**Q: Kako da frittata ostane sočna, a ne suva?**
+
+Ključ je da je ne prepečete — čim se sredina stegne i lagano zatalasa na dodir, izvadite je iz rerne. Kašika mleka u smesi takođe pomaže mekoći.
+
+**Q: Da li je pogodna za decu?**
+
+Jeste — blaga je, hranljiva i lako se jede rukama u kockicama. Za mlađu decu smanjite biber i beli luk, a bosiljak dodajte sitno iseckan.
+
+**Q: Mogu li da je pripremim unapred za sutrašnji ručak?**
+
+Naravno. Napravite je uveče, ohladite i čuvajte u frižideru. Sutradan podgrejte kratko u rerni ili jedite hladnu uz salatu od svežeg paradajza.
+
+---
+
 ## Letnji rižoto sa ječmom, paradajzom i paprikom
 
 https://unazdravahrana.com/recepti/letnji-rizoto-sa-jecmom-paradajzom-i-paprikom
@@ -700,28 +724,4 @@ Držite se lakših opcija: kašika meda u toploj vodi sa limunom, pola banane il
 
 ---
 
-## 5 dodataka koje ne mešajte sa proteinskim prahom
-
-https://unazdravahrana.com/blog/5-dodataka-koje-ne-mesajte-sa-proteinskim-prahom
-
-Proteinski prah sadrži kalcijum i aminokiseline koje mogu smanjiti apsorpciju gvožđa, cinka, dodatnog kalcijuma, vlakana i kofeina ako se uzimaju istovremeno. Razdvajanje ovih suplemenata bar 2 sata omogućava bolju iskorišćenost svakog nutrijenta.
-
-**Q: Da li se protein i gvožđe mogu piti zajedno?**
-
-Ne preporučuje se. Kalcijum iz proteinskog praha blokira apsorpciju gvožđa jer koriste iste transportere u crevima. Razdvojite ih bar 2 sata — gvožđe ujutru na prazan stomak sa vitaminom C, protein posle treninga.
-
-**Q: Mogu li da uzimam multivitamin sa proteinskim shakeom?**
-
-Bolje je razdvojiti ih. Multivitamin sadrži gvožđe, cink i bakar koji se otimaju za apsorpciju sa kalcijumom iz proteina. Uzmite multivitamin uz drugi obrok, minimum 2 sata od shakea.
-
-**Q: Da li psilijum i vlakna smanjuju iskorišćenje proteina?**
-
-Da, kada se stave u istu čašu vlakna fizički obavijaju protein i usporavaju apsorpciju aminokiselina. Vlakna uzmite u zasebnom obroku — ujutru ili pred spavanje sa vodom.
-
-**Q: Kada je najbolje uzeti proteinski prah?**
-
-Idealno je posle treninga ili kao užina između obroka, odvojeno od suplemenata gvožđa, kalcijuma, cinka i vlakana. U shake stavite samo protein, voće ili kikiriki puter za najbolju apsorpciju.
-
----
-
-Last updated: 2026-07-13
+Last updated: 2026-07-14

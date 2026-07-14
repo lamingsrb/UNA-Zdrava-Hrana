@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Letnja frittata sa paprikom, paradajzom i bosiljkom](https://unazdravahrana.com/recepti/letnja-frittata-sa-paprikom-paradajzom-i-bosiljkom)
 - [Letnji rižoto sa ječmom, paradajzom i paprikom](https://unazdravahrana.com/recepti/letnji-rizoto-sa-jecmom-paradajzom-i-paprikom)
 - [Letnja bowl činija sa prosom, paprikom i malinama](https://unazdravahrana.com/recepti/letnja-bowl-cinija-sa-prosom-paprikom-i-malinama)
 - [Celijakija i nadutost: kada je vreme za pregled](https://unazdravahrana.com/blog/celijakija-i-nadutost-kada-je-vreme-za-pregled)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [8 namirnica i pića koja mogu povisiti kortizol](https://unazdravahrana.com/blog/8-namirnica-i-pica-koja-mogu-povisiti-kortizol)
 - [Soda bikarbona za pranje voća: da li stvarno radi?](https://unazdravahrana.com/blog/soda-bikarbona-za-pranje-voca-da-li-stvarno-radi)
 - [Ćoravi paprikaš sa slanutkom, breskvom i prosom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-breskvom-i-prosom)
-- [Ćoravi paprikaš sa slanutkom, paradajzom i bulgurom](https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-paradajzom-i-bulgurom)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-13
+Last updated: 2026-07-14
