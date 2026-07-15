@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 6 vitamina i suplemenata koje ne treba piti nagladno
+
+https://unazdravahrana.com/blog/6-vitamina-i-suplemenata-koje-ne-treba-piti-nagladno
+
+---
+
 ## Letnja salata sa heljdom, malinama i tostiranim bademima
 
 https://unazdravahrana.com/recepti/letnja-salata-sa-heljdom-malinama-i-tostiranim-bademima
@@ -700,28 +706,4 @@ Da, blag je i hranljiv. Za mlađu decu smanjite dimljenu papriku i biber, a bosi
 
 ---
 
-## Ćoravi paprikaš sa amarantom i pečenom paprikom
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-amarantom-i-pecenom-paprikom
-
-Ćoravi paprikaš sa amarantom, pečenom paprikom i paradajzom — letnji recept bez mesa i glutena, gotov za 50 minuta.
-
-**Q: Da li je amarant bez glutena?**
-
-Da, amarant je prirodno bez glutena i pogodan je za osobe sa intolerancijom. Za potpunu sigurnost kod celijakije, birajte pakovanja sa oznakom „bez glutena“.
-
-**Q: Mogu li da zamrznem ostatke paprikaša?**
-
-Možete, u dobro zatvorenoj posudi izdrži do 2 meseca. Pre posluženja odmrznite u frižideru i podgrejte na tihoj vatri uz malo vode.
-
-**Q: Kako da paprikaš bude zasitniji?**
-
-Uz njega poslužite krišku integralnog hleba ili dodajte kuvani slanutak pred kraj kuvanja.
-
-**Q: Koji paradajz je najbolji za ovaj recept?**
-
-Zreli letnji paradajz sa pijace daje najbolji ukus. Ako nemate, može i konzervirani pelat od kvalitetnog proizvođača.
-
----
-
-Last updated: 2026-07-14
+Last updated: 2026-07-15
