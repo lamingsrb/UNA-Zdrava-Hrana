@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnje pljeskavice od proje sa paprikom i malinama
+
+https://unazdravahrana.com/recepti/letnje-pljeskavice-od-proje-sa-paprikom-i-malinama
+
+Letnje pljeskavice od integralne proje sa paprikom, uz svežu salsu od paradajza i malina. Lagan sezonski recept za 45 minuta.
+
+**Q: Mogu li pljeskavice da pržim umesto da pečem u rerni?**
+
+Možete, ali pečenje u rerni znatno smanjuje količinu masnoće i olakšava varenje. Ako ipak birate tiganj, koristite minimum ulja i pecite na srednjoj vatri.
+
+**Q: Da li deca vole ovaj recept?**
+
+Uglavnom da, jer je kukuruzno brašno prirodno blago slatkasto. Ako deca ne vole komade paprike, sitno je izrendajte pre nego što je dodate u smesu.
+
+**Q: Čime da zamenim maline ako ih nemam?**
+
+Odlično idu i borovnice, ribizle ili sitno seckana breskva — svaka od ovih varijanti daje svežinu i blagu slatkoću koja se lepo slaže sa paradajzom.
+
+**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Uz zamenu pšeničnog brašna heljdinim ili pirinčanim, recept postaje bez glutena. Za konkretne zdravstvene potrebe uvek se posavetujte sa lekarom ili nutricionistom.
+
+---
+
 ## Letnja quinoa salata sa breskvom, paprikom i čia semenkama
 
 https://unazdravahrana.com/recepti/letnja-quinoa-salata-sa-breskvom-paprikom-i-cia-semenkama
@@ -679,30 +703,6 @@ Uvek proverite deklaraciju i doze aktivnih sastojaka, obratite pažnju na oblik 
 **Q: Koje su najčešće greške pri kupovini suplemenata online?**
 
 Najčešće greške su kupovina po preporuci influensera, istovremeno uvođenje više suplemenata, uzimanje prevelikih doza po logici da je više bolje, oslanjanje na suplemente umesto na zdravu ishranu i san, i ignorisanje interakcija sa lekovima koje već pijete.
-
----
-
-## Preporuka prodavnice zdrave hrane u Kragujevcu?
-
-https://unazdravahrana.com/blog/preporuka-prodavnice-zdrave-hrane-u-kragujevcu
-
-Vodič za izbor prodavnice zdrave hrane u Kragujevcu sa kriterijumima kvaliteta: asortiman, deklaracije, stručno osoblje i svež obrt robe. Donosi konkretne savete za organske namirnice, suplemente, čajeve i grickalice bez marketinških obećanja.
-
-**Q: Kako da prepoznam dobru prodavnicu zdrave hrane u Kragujevcu?**
-
-Dobra prodavnica ima širok asortiman (organske namirnice, suplemente, čajeve, kozmetiku), transparentne deklaracije sa proverenim proizvođačima, obučeno osoblje koje ume da objasni razliku između proizvoda, i redovan obrt robe što garantuje svežinu.
-
-**Q: Koji oblik magnezijuma je najbolji?**
-
-Magnezijum bisglicinat i citrat se znatno bolje apsorbuju od oksida, koji je jeftiniji ali najčešće prolazi kroz creva bez efekta. Za konkretnu dozu i indikaciju posavetujte se sa lekarom.
-
-**Q: Kako da prepoznam kvalitetnu organsku namirnicu?**
-
-Proverite sertifikat (EU zeleni list ili nacionalni), zemlju porekla i rok trajanja koji nije prekratak niti sumnjivo dug. Organski proizvodi imaju kraći rok jer nemaju konzervanse, a integralna brašna moraju biti u neprovidnoj ambalaži.
-
-**Q: Da li suplementi mogu da zamene lekove?**
-
-Ne. Suplementi podržavaju i doprinose ishrani, ali ne leče bolesti niti zamenjuju terapiju. Ako vam neko obećava da suplement 'leči' — to je jasan znak da nije u redu. Za zdravstvene probleme obavezno konsultujte lekara.
 
 ---
 
