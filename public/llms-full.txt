@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja quinoa salata sa breskvom, paprikom i čia semenkama
+
+https://unazdravahrana.com/recepti/letnja-quinoa-salata-sa-breskvom-paprikom-i-cia-semenkama
+
+Osvežavajuća letnja salata sa quinoom, sočnom breskvom, pečenom paprikom i čia semenkama — lagan i sit obrok bez glutena za 35 minuta.
+
+**Q: Da li mogu da pripremim salatu dan ranije?**
+
+Možete pripremiti quinou, pečenu papriku i preliv dan ranije i držati odvojeno u frižideru. Breskvu, rukolu i bosiljak dodajte tek pred serviranje da ostanu sveži.
+
+**Q: Čime da zamenim breskvu ako je ne volim?**
+
+Odlično funkcionišu kajsije, nektarine ili čak zrele kruške. Za slaniju verziju možete dodati i pola avokada isečenog na kockice.
+
+**Q: Da li je ova salata pogodna za osobe sa intolerancijom na gluten?**
+
+Da, quinoa i svi ostali sastojci u receptu su prirodno bez glutena. Ipak, uvek proverite deklaraciju na pakovanju quinoe da nije rađena u pogonu sa žitaricama koje sadrže gluten.
+
+**Q: Koliko dugo čia semenke ostaju hrskave u salati?**
+
+Čia semenke apsorbuju vlagu, pa ako želite hrskavu teksturu, pospite ih neposredno pred serviranje. Ako vam ne smeta mekša tekstura, možete ih dodati i ranije — tada preliv postaje malo gušći.
+
+---
+
 ## 6 vitamina i suplemenata koje ne treba piti nagladno
 
 https://unazdravahrana.com/blog/6-vitamina-i-suplemenata-koje-ne-treba-piti-nagladno
@@ -679,30 +703,6 @@ Proverite sertifikat (EU zeleni list ili nacionalni), zemlju porekla i rok traja
 **Q: Da li suplementi mogu da zamene lekove?**
 
 Ne. Suplementi podržavaju i doprinose ishrani, ali ne leče bolesti niti zamenjuju terapiju. Ako vam neko obećava da suplement 'leči' — to je jasan znak da nije u redu. Za zdravstvene probleme obavezno konsultujte lekara.
-
----
-
-## Ćoravi paprikaš sa proso i pečenom paprikom
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-proso-i-pecenom-paprikom
-
-Ćoravi paprikaš sa prosom i pečenom paprikom — letnji ručak bez mesa, bez glutena, gotov za 50 minuta. Domaći recept iz UNA Zdrave Hrane.
-
-**Q: Da li je ovaj recept bez glutena?**
-
-Jeste — proso, paprika, paradajz i svi ostali sastojci su prirodno bez glutena. Ako ste vrlo osetljivi na gluten, proverite da je proso deklarisano kao 'bez glutena' jer neke sorte mogu imati unakrsnu kontaminaciju.
-
-**Q: Mogu li da preskočim pečenje paprika?**
-
-Možete, samo iseckajte sirove paprike i dodajte ih zajedno sa paradajzom. Ali pečene daju onu duboku, dimljenu aromu po kojoj se ovaj paprikaš pamti — vredi izdvojiti 20 minuta.
-
-**Q: Kako da postignem gušću teksturu?**
-
-Kuvajte otklopljeno poslednjih 5 minuta da voda ispari, ili izblendajte deo paprikaša i vratite u šerpu. Proso samo po sebi upija tečnost i lepo zgušnjava.
-
-**Q: Da li je pogodan za decu?**
-
-Da, blag je i hranljiv. Za mlađu decu smanjite dimljenu papriku i biber, a bosiljak sitnije iseckajte. Kremasta verzija (izblendan deo) posebno prija najmlađima.
 
 ---
 
