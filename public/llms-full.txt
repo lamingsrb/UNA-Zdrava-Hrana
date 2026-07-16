@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 7 grešaka zbog kojih vaša salata i nije baš zdrava
+
+https://unazdravahrana.com/blog/7-gresaka-zbog-kojih-vasa-salata-i-nije-bas-zdrava
+
+Tekst objašnjava sedam najčešćih grešaka pri pripremi salate: siromašna baza od zelene salate, nedostatak proteina, kalorični kupovni prelivi, rafinisani hrskavi dodaci i izostavljanje zdravih masti. Uz svaku grešku data su konkretna rešenja, proporcije i zamene kojima se salata pretvara u pravi obrok.
+
+**Q: Zašto sam gladan sat vremena posle salate?**
+
+Najčešći razlog je nedostatak proteina. Salata bez izvora proteina telo tretira kao predjelo, a ne kao obrok. Dodajte 20–30 g proteina — dva kuvana jajeta, 150 g slanutka ili sočiva, tofu, piletinu ili tunjevinu — i sitost će trajati znatno duže.
+
+**Q: Koje je lisnato povrće najzdravije za salatu?**
+
+Tamnije vrste su nutritivno bogatije od ledene i klasične zelene salate. Spanać nudi gvožđe i folate, rukola vitamin K i kalcijum, radič vlakna, a baby kelj vitamine C i K. Najbolje je mešati nekoliko vrsta u istoj činiji.
+
+**Q: Kako se pravi zdrav preliv za salatu?**
+
+Osnovna proporcija je 3 dela ulja i 1 deo kiseline, uz so, biber i začin po izboru. Na primer: 3 kašike maslinovog ulja, 1 kašika jabukovog sirćeta ili limunovog soka, prstohvat soli i kašičica senfa. Gotovo za dva minuta i bez skrivenih šećera.
+
+**Q: Da li je salata bez ulja zdravija?**
+
+Ne. Vitamini A, D, E i K su rastvorljivi u mastima, pa ih telo apsorbuje tek uz malo masti. Dovoljne su 1–2 kašike hladno ceđenog ulja, šaka orašastih plodova ili pola avokada da iskoristite nutrijente iz povrća.
+
+---
+
 ## Letnja kremasta ovsena kaša sa breskvom i chia semenkama (hl
 
 https://unazdravahrana.com/recepti/letnja-kremasta-ovsena-kasa-sa-breskvom-i-chia-semenkama-hl
@@ -679,30 +703,6 @@ Smanjite količinu vode za oko 100 ml ili na kraju kuvanja izgnječite viljuško
 **Q: Da li deca vole ovu kombinaciju sa breskvom?**
 
 Uglavnom da, jer breskva ublažava kiselost paradajza. Ako je dete osetljivo na komadiće voća, iseckajte breskvu sitnije ili je dodajte pri kraju, samo da se progreje.
-
----
-
-## Ćoravi paprikaš sa slanutkom, paradajzom i bulgurom
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-paradajzom-i-bulgurom
-
-Ćoravi paprikaš sa slanutkom, paradajzom i integralnim bulgurom — sit i lagan letnji ručak bez mesa, gotov za 50 minuta.
-
-**Q: Mogu li da koristim slanutak iz konzerve?**
-
-Naravno. Dobro ga isperite pod mlazom hladne vode i ocedite pre dodavanja u lonac — tako uklanjate višak soli.
-
-**Q: Da li je jelo posno?**
-
-Jeste, potpuno je biljno i pogodno za posne dane, vegetarijance i vegane.
-
-**Q: Šta uz ovaj paprikaš ide kao prilog?**
-
-Prija uz krišku integralnog hleba, kašiku domaćeg jogurta ili svežu zelenu salatu sa krastavcem.
-
-**Q: Mogu li da zamrznem ostatke?**
-
-Može, u porcijama do mesec dana. Odmrznite u frižideru preko noći i podgrejte na tihoj vatri uz malo vode.
 
 ---
 
