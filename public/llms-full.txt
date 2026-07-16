@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja kremasta ovsena kaša sa breskvom i chia semenkama (hl
+
+https://unazdravahrana.com/recepti/letnja-kremasta-ovsena-kasa-sa-breskvom-i-chia-semenkama-hl
+
+Hladna ovsena kaša sa breskvom, chia semenkama i bademima — kremasti letnji doručak koji se priprema uveče. Bez kuvanja, gotov za 10 minuta.
+
+**Q: Mogu li da pripremim kašu bez chia semenki?**
+
+Možeš, ali chia daje kremastu, pudingastu teksturu jer upija tečnost. Ako je izostaviš, smanji količinu mleka za oko 50 ml da kaša ne bude previše retka.
+
+**Q: Koliko dugo kaša može da stoji u frižideru?**
+
+Do 3 dana u zatvorenoj tegli. Voće dodaj tek pre posluživanja da ostane sveže i sočno.
+
+**Q: Da li je ovaj recept pogodan za decu?**
+
+Jeste, deca obično vole slatkast ukus breskve i cimeta. Za mlađu decu iseckaj bademe sitnije ili ih izostavi zbog rizika od gušenja.
+
+**Q: Mogu li da koristim instant ovsene pahuljice?**
+
+Bolje su krupne, integralne pahuljice jer zadržavaju teksturu i daju duže osećaj sitosti. Instant pahuljice će postati previše meke i kašaste.
+
+---
+
 ## Letnja kaša od heljde sa breskvom i malinama
 
 https://unazdravahrana.com/recepti/letnja-kasa-od-heljde-sa-breskvom-i-malinama
@@ -679,30 +703,6 @@ Prija uz krišku integralnog hleba, kašiku domaćeg jogurta ili svežu zelenu s
 **Q: Mogu li da zamrznem ostatke?**
 
 Može, u porcijama do mesec dana. Odmrznite u frižideru preko noći i podgrejte na tihoj vatri uz malo vode.
-
----
-
-## Koštice lubenice: zašto ih više ne bacamo
-
-https://unazdravahrana.com/blog/kostice-lubenice-zasto-ih-vise-ne-bacamo
-
-Koštice lubenice sadrže biljne proteine, magnezijum, cink i gvožđe, ali se najbolje iskoriste kada se peku, klijaju ili ljušte. Tekst donosi praktične savete za pripremu i ideje za korišćenje u svakodnevnoj ishrani porodice.
-
-**Q: Da li se koštice lubenice mogu jesti?**
-
-Da, koštice lubenice se mogu jesti, ali se najbolje iskoriste kada su pečene, klijale ili oljuštene. Sirove cele koštice prolaze kroz creva gotovo netaknute.
-
-**Q: Kako se peku koštice lubenice?**
-
-Isperite i osušite koštice, rasporedite ih na pleh sa malo maslinovog ulja i soli, pa pecite na 160–170 °C oko 15–20 minuta uz povremeno mešanje, dok ne postanu hrskave i zlatne.
-
-**Q: Šta sadrže koštice lubenice?**
-
-Koštice lubenice sadrže biljne proteine, nezasićene masti, magnezijum, cink, gvožđe, kalijum, folate i vitamine B grupe, slično bundevinim i suncokretovim semenkama.
-
-**Q: Kako klijati semenke lubenice?**
-
-Potopite koštice u vodu preko noći, isperite ih i držite u tegli sa gazom 1–2 dana, ispirajući ujutru i uveče. Kada se pojavi mali klic, spremne su za jelo.
 
 ---
 
