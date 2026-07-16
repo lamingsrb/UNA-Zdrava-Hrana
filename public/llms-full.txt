@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja kaša od heljde sa breskvom i malinama
+
+https://unazdravahrana.com/recepti/letnja-kasa-od-heljde-sa-breskvom-i-malinama
+
+Kremasta letnja kaša od heljde sa sočnom breskvom, malinama i bademima. Zdrav doručak bez glutena, gotov za 30 minuta.
+
+**Q: Mogu li da koristim smrznute maline umesto svežih?**
+
+Da, smrznute maline su odlična zamena van sezone. Ostavite ih 10-15 minuta na sobnoj temperaturi da se malo otkrave pre serviranja, ili ih umešajte u toplu kašu da puste sok.
+
+**Q: Da li je ova kaša pogodna za osobe sa intolerancijom na gluten?**
+
+Heljda je prirodno bez glutena uprkos imenu. Ako imate potvrđenu celijakiju, obavezno birajte heljdu sa oznakom „bez glutena" jer može doći do unakrsne kontaminacije tokom prerade.
+
+**Q: Kako da smanjim količinu šećera u receptu?**
+
+Zrela breskva i maline daju dovoljno prirodne slatkoće, pa slobodno izostavite med ili ga smanjite na kašičicu. Cimet dodatno pojačava utisak slatkoće bez šećera.
+
+**Q: Da li mogu unapred da pripremim kašu za celu radnu nedelju?**
+
+Preporučujemo pripremu za 2-3 dana unapred. Kašu čuvajte u frižideru u staklenim teglama, a voće i orašaste plodove dodajte tek pre serviranja da ostanu sveži i hrskavi.
+
+---
+
 ## Postbiotici: šta su, čemu služe i kako ih uneti
 
 https://unazdravahrana.com/blog/postbiotici-sta-su-cemu-sluze-i-kako-ih-uneti
@@ -679,30 +703,6 @@ Koštice lubenice sadrže biljne proteine, nezasićene masti, magnezijum, cink, 
 **Q: Kako klijati semenke lubenice?**
 
 Potopite koštice u vodu preko noći, isperite ih i držite u tegli sa gazom 1–2 dana, ispirajući ujutru i uveče. Kada se pojavi mali klic, spremne su za jelo.
-
----
-
-## Ćoravi paprikaš sa proso, paradajzom i tikvicama
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-proso-paradajzom-i-tikvicama
-
-Ćoravi paprikaš sa proso kašom, paradajzom i tikvicama — lagan letnji ručak bez glutena, gotov za 45 minuta. Recept i saveti.
-
-**Q: Da li je proso bez glutena?**
-
-Da, proso je prirodno bez glutena i pogodno je za osobe sa intolerancijom, uz proveru da je pakovanje označeno kao bezglutensko.
-
-**Q: Mogu li da napravim veću količinu unapred?**
-
-Možete. Paprikaš lepo stoji 3 dana u frižideru i često je ukusniji sutradan kada se ukusi slegnu. Zagrevajte na tihoj vatri uz malo vode.
-
-**Q: Da li je ovo jelo dovoljno za glavni obrok?**
-
-Jeste — proso donosi složene ugljene hidrate i biljne proteine, a uz bundevine semenke i maslinovo ulje dobijate zaokruženu porciju. Uz krišku integralnog hleba postaje još sitnije.
-
-**Q: Kako da izaberem zreo paradajz za paprikaš?**
-
-Birajte paradajz koji je mekan pod prstima, izrazito crven i mirisan na peteljci — to je znak da je pun ukusa i prirodnih šećera koji daju dubinu jelu.
 
 ---
 
