@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Postbiotici: šta su, čemu služe i kako ih uneti
+
+https://unazdravahrana.com/blog/postbiotici-sta-su-cemu-sluze-i-kako-ih-uneti
+
+Postbiotici su korisna jedinjenja koja nastaju kada probiotičke bakterije fermentišu vlakna u crevima i podržavaju sluznicu, probavu i imunitet. Najlakše ih unosimo kroz fermentisanu hranu poput jogurta, kefira, kiselog kupusa i kombuhe, uz dovoljno vlakana iz zobi, mahunarki i povrća.
+
+**Q: Šta su postbiotici jednostavnim rečima?**
+
+Postbiotici su korisne materije koje nastaju kada dobre bakterije u crevima razgrade vlakna i fermentišu hranu. To su kratkolančane masne kiseline (poput butirata), peptidi i drugi metaboliti koji hrane sluznicu creva i podržavaju ravnotežu mikrobioma.
+
+**Q: Koja je razlika između probiotika, prebiotika i postbiotika?**
+
+Probiotici su žive korisne bakterije, prebiotici su vlakna kojima se te bakterije hrane, a postbiotici su korisna jedinjenja koja bakterije proizvedu kao rezultat svog rada. Sva tri deluju zajedno na zdravlje creva.
+
+**Q: U kojoj hrani se nalaze postbiotici?**
+
+Postbiotike unosimo kroz fermentisanu hranu: kiselo mleko, jogurt, kefir, zrele sireve, nepasterizovan kiseli kupus, kisele paprike, kimči, kombuhu, kvas od cvekle, miso, tempeh i hleb sa prirodnim kvascem.
+
+**Q: Za koliko vremena se osete efekti fermentisane hrane?**
+
+Realni okvir je od 3 do 6 nedelja doslednog uključivanja fermentisane hrane u ishranu. Tada se najčešće primeti redovnija probava, manji osećaj težine posle jela i bolje podnošenje vlakana.
+
+---
+
 ## Maslinovo ulje: od tanjira do kože, vodič bez mistifikacije
 
 https://unazdravahrana.com/blog/maslinovo-ulje-od-tanjira-do-koze-vodic-bez-mistifikacije
@@ -679,30 +703,6 @@ Jeste — proso donosi složene ugljene hidrate i biljne proteine, a uz bundevin
 **Q: Kako da izaberem zreo paradajz za paprikaš?**
 
 Birajte paradajz koji je mekan pod prstima, izrazito crven i mirisan na peteljci — to je znak da je pun ukusa i prirodnih šećera koji daju dubinu jelu.
-
----
-
-## Ćoravi paprikaš sa amarantom, breskvom i bosiljkom
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-amarantom-breskvom-i-bosiljkom
-
-Ćoravi paprikaš sa amarantom, paprikom, paradajzom i breskvom — letnje jelo bez mesa, gotovo za 45 minuta. Recept UNA Zdrave Hrane.
-
-**Q: Da li amarant treba prethodno namakati?**
-
-Ne mora — dovoljno je dobro ga isprati pod hladnom vodom. Kuva se za 20-25 minuta i ima blago orašast ukus.
-
-**Q: Mogu li koristiti smrznutu papriku?**
-
-Možete, ali sveža letnja paprika daje mnogo bolju aromu i teksturu. Ako koristite smrznutu, dodajte je odmrznutu i skratite dinstanje za par minuta.
-
-**Q: Da li je ovo jelo dovoljno za glavni obrok?**
-
-Jeste — amarant donosi biljne proteine i sitost, pa uz salatu čini kompletan ručak. Za veće apetite poslužite uz krišku integralnog hleba.
-
-**Q: Kako da breskva ne postane kašasta?**
-
-Dodajte je tek na kraju kuvanja, 3-4 minuta pre skidanja sa vatre, i birajte breskve koje su zrele ali čvrste.
 
 ---
 
