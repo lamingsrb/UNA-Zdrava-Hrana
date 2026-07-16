@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamini i minerali za mršavljenje: šta stvarno radi
+
+https://unazdravahrana.com/blog/vitamini-i-minerali-za-mrsavljenje-sta-stvarno-radi
+
+Tekst objašnjava koji vitamini i minerali mogu podržati mršavljenje kada ishrana ne pokriva sve potrebe, sa fokusom na magnezijum, hrom, B kompleks i vitamin D. Navodi konkretne oblike, doze i vreme uzimanja, uz jasnu poruku da suplementi nisu zamena za tanjir i savet lekara.
+
+**Q: Koji je najbolji vitamin za mršavljenje?**
+
+Ne postoji jedan vitamin koji topi kilograme. Magnezijum, hrom, B kompleks i vitamin D najčešće se pominju jer podržavaju metabolizam, san i regulaciju šećera, ali samo kada ishrana ne pokriva potrebe.
+
+**Q: Da li magnezijum pomaže kod mršavljenja?**
+
+Magnezijum ne sagoreva masti direktno, ali poboljšava san, smanjuje grčeve i pomaže energetski metabolizam. Bolji san znači manje žudnje za brzim šećerima sledećeg dana, što indirektno olakšava mršavljenje.
+
+**Q: Kako hrom utiče na žudnju za slatkim?**
+
+Hrom učestvuje u načinu na koji telo koristi insulin i stabilizuje šećer u krvi. Stabilniji šećer znači manje naglih kriza za slatkim, obično poslepodne, ali efekat je postepen i traje nekoliko nedelja.
+
+**Q: Kada uzimati B kompleks za metabolizam?**
+
+B kompleks se uzima ujutru uz doručak jer može delovati blago stimulativno i ometati san. Ne pijte ga na prazan stomak da ne bi izazvao mučninu, i birajte uravnotežene doze sa aktivnim oblicima vitamina.
+
+---
+
 ## 7 grešaka zbog kojih vaša salata i nije baš zdrava
 
 https://unazdravahrana.com/blog/7-gresaka-zbog-kojih-vasa-salata-i-nije-bas-zdrava
@@ -679,30 +703,6 @@ Najmanje 10 minuta, a idealno 12–15 minuta. Kraće potapanje od 30 sekundi ne�
 **Q: Za koje voće nema smisla koristiti sodu bikarbonu?**
 
 Za banane, narandže, avokado, krompir i šargarepu — sve što se ionako guli. Takođe nema mnogo smisla za kupus i karfiol, jer se hemikalije zadržavaju između slojeva listova.
-
----
-
-## Ćoravi paprikaš sa slanutkom, breskvom i prosom
-
-https://unazdravahrana.com/recepti/coravi-paprikas-sa-slanutkom-breskvom-i-prosom
-
-Letnji ćoravi paprikaš sa slanutkom, prosom i breskvom — obrok bez mesa, bez glutena, gotov za 45 minuta. Recept iz UNA Zdrave Hrane.
-
-**Q: Mogu li da koristim slanutak iz konzerve?**
-
-Naravno. Dobro ga isperite pod hladnom vodom pre nego što ga dodate u paprikaš — tako uklanjate višak soli i tečnost iz konzerve.
-
-**Q: Da li je ovo jelo bez glutena?**
-
-Jeste, ukoliko koristite proso, slanutak i začine iz proverenih izvora bez unakrsne kontaminacije. Kod nas u radnji možete pitati za deklaracije.
-
-**Q: Kako da paprikaš bude gušći?**
-
-Smanjite količinu vode za oko 100 ml ili na kraju kuvanja izgnječite viljuškom manji deo slanutka i vratite u šerpu — dobija kremastu teksturu bez brašna.
-
-**Q: Da li deca vole ovu kombinaciju sa breskvom?**
-
-Uglavnom da, jer breskva ublažava kiselost paradajza. Ako je dete osetljivo na komadiće voća, iseckajte breskvu sitnije ili je dodajte pri kraju, samo da se progreje.
 
 ---
 
