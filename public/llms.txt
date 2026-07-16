@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Maslinovo ulje: od tanjira do kože, vodič bez mistifikacije](https://unazdravahrana.com/blog/maslinovo-ulje-od-tanjira-do-koze-vodic-bez-mistifikacije)
 - [4 vrste voća koje mogu smanjiti rizik od raka dojke](https://unazdravahrana.com/blog/4-vrste-voca-koje-mogu-smanjiti-rizik-od-raka-dojke)
 - [Letnje pljeskavice od proje sa paprikom i malinama](https://unazdravahrana.com/recepti/letnje-pljeskavice-od-proje-sa-paprikom-i-malinama)
 - [Letnja quinoa salata sa breskvom, paprikom i čia semenkama](https://unazdravahrana.com/recepti/letnja-quinoa-salata-sa-breskvom-paprikom-i-cia-semenkama)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Letnji ćoravi paprikaš sa bulgurom i bosiljkom](https://unazdravahrana.com/recepti/letnji-coravi-paprikas-sa-bulgurom-i-bosiljkom)
 - [Zdrava ishrana za decu: saveti i ideje za užinu](https://unazdravahrana.com/blog/zdrava-ishrana-za-decu-saveti-i-ideje-za-uzinu)
 - [7 jutarnjih napitaka za podršku zdravlju bubrega](https://unazdravahrana.com/blog/7-jutarnjih-napitaka-za-podrsku-zdravlju-bubrega)
-- [Letnja crvena čorba od pečene paprike i paradajza](https://unazdravahrana.com/recepti/letnja-crvena-corba-od-pecene-paprike-i-paradajza)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-15
+Last updated: 2026-07-16

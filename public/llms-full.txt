@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Maslinovo ulje: od tanjira do kože, vodič bez mistifikacije
+
+https://unazdravahrana.com/blog/maslinovo-ulje-od-tanjira-do-koze-vodic-bez-mistifikacije
+
+Praktičan vodič za izbor, degustaciju, upotrebu i čuvanje ekstra devičanskog maslinovog ulja u domaćoj kuhinji. Objašnjava oznake na etiketi, razliku između sirove i termičke upotrebe i preporučeni dnevni unos od 2 do 4 kašike.
+
+**Q: Šta znači oznaka ekstra devičansko maslinovo ulje?**
+
+Ekstra devičansko (extra virgin) je najviši kvalitet maslinovog ulja, dobijen hladnim ceđenjem, sa slobodnim masnim kiselinama ispod 0,8%. Ima punu aromu i najviše polifenola, za razliku od rafinisanog ulja koje se često prodaje pod nazivom samo maslinovo ulje.
+
+**Q: Sme li se pržiti na maslinovom ulju?**
+
+Sme, jer ekstra devičansko ima tačku dimljenja između 190 i 210°C, što je više od uobičajenih temperatura kućne pripreme. Međutim, za duboko prženje bolje je koristiti jednostavnije ulje, a dobru flašu čuvati za salate i završne prelive.
+
+**Q: Koliko maslinovog ulja dnevno je dovoljno?**
+
+Prema mediteranskom obrascu ishrane, preporučuje se 2 do 4 supene kašike maslinovog ulja dnevno, ukupno iz svih izvora. Jedna kašika ima oko 13–14 grama i približno 120 kalorija.
+
+**Q: Kako prepoznati kvalitetno maslinovo ulje pri degustaciji?**
+
+Kvalitetno ekstra devičansko ulje ima svež miris na travu, paradajz ili zelenu jabuku i blago zapeče u grlu zbog oleokantala. Gorčina i pikantnost su znak kvaliteta, dok miris na užeglu mast, karton ili plastelin znači da je ulje pokvareno.
+
+---
+
 ## 4 vrste voća koje mogu smanjiti rizik od raka dojke
 
 https://unazdravahrana.com/blog/4-vrste-voca-koje-mogu-smanjiti-rizik-od-raka-dojke
@@ -682,28 +706,4 @@ Dodajte je tek na kraju kuvanja, 3-4 minuta pre skidanja sa vatre, i birajte bre
 
 ---
 
-## Ishrana po decenijama: šta jesti u 30-im, 40-im i posle
-
-https://unazdravahrana.com/blog/ishrana-po-decenijama-sta-jesti-u-30-im-40-im-i-posle
-
-Vodič kroz ishranu po decenijama objašnjava kako se potrebe menjaju sa godinama i koje namirnice postaju prioritet u 30-im, 40-im, 50-im i 60-im. Fokus je na proteinima, kalcijumu, vitaminu D, B12, omega-3 masnim kiselinama i vlaknima za očuvanje mišića, kostiju i energije.
-
-**Q: Koliko proteina treba jesti posle 40. godine?**
-
-Preporučuje se 1,2–1,6 g proteina po kilogramu telesne težine dnevno, što za osobu od 70 kg iznosi oko 90–110 g, raspoređeno na 3–4 obroka radi očuvanja mišićne mase.
-
-**Q: Koje namirnice su najvažnije u menopauzi?**
-
-U menopauzi su ključne namirnice bogate kalcijumom (jogurt, sardine, susam, brokoli), vitaminom D, fitoestrogenima (laneno seme, soja, mahunarke) i omega-3 masnim kiselinama za zdravlje srca i kostiju.
-
-**Q: Zašto je vitamin B12 važan posle 60. godine?**
-
-Posle 60. godine apsorpcija vitamina B12 se smanjuje jer slabi želudačna kiselina, pa umor, zaboravnost i utrnulost mogu biti znak deficita. Često je potrebna suplementacija uz konsultaciju sa lekarom.
-
-**Q: Kako sprečiti gubitak mišićne mase sa godinama?**
-
-Kombinacija dovoljnog unosa proteina (20–30 g po obroku) i treninga otpora najmanje dva puta nedeljno je najefikasniji način da se uspori sarkopenija i sačuva mišićna snaga.
-
----
-
-Last updated: 2026-07-15
+Last updated: 2026-07-16
