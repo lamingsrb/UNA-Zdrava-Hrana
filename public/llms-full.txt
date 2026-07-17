@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja proso kaša sa paradajzom i bosiljkom
+
+https://unazdravahrana.com/recepti/letnja-proso-kasa-sa-paradajzom-i-bosiljkom
+
+Letnja proso kaša sa svežim paradajzom, bosiljkom i tostiranim semenkama — lagan i zasitan ručak bez glutena, gotov za 35 minuta.
+
+**Q: Da li je proso zaista bez glutena?**
+
+Da, proso je prirodno bez glutena i odlična je opcija za osobe sa celijakijom ili osetljivošću na gluten. Ipak, ako imate strogu dijetu, proverite da na pakovanju piše da je proizvedeno u pogonu bez unakrsne kontaminacije.
+
+**Q: Zašto isprati proso pre kuvanja?**
+
+Zrna prosa imaju tanak spoljašnji sloj koji može dati blago gorak ukus. Ispiranjem pod hladnom vodom taj sloj se uklanja, a gotova kaša ima blaži i prijatniji ukus.
+
+**Q: Mogu li paradajz dodati tokom kuvanja umesto na kraju?**
+
+Možete, ali će izgubiti svežinu i vitamine. Ideja recepta je da topla kaša samo malo zagreje sirov paradajz — tako ostaje sočan i letnji.
+
+**Q: Kako da recept učinim još sitijim za sportiste?**
+
+Dodajte 150 g kuvanog slanutka ili šaku bundevinih semenki uz suncokretove. Time povećavate udeo proteina i minerala, a jelo ostaje lagano za varenje.
+
+---
+
 ## Zdrav doručak, ručak i večera: dnevni jelovnik
 
 https://unazdravahrana.com/blog/zdrav-dorucak-rucak-i-vecera-dnevni-jelovnik
@@ -661,30 +685,6 @@ Sveža nana odlično ide uz breskvu i limun, a može i kombinacija vlašca i ori
 **Q: Da li je pogodna za decu?**
 
 Jeste, nežnog je ukusa i slatkasta zbog breskve. Za mlađu decu možete izostaviti crveni luk ili ga kratko prokuvati da ublažite oštrinu.
-
----
-
-## Bez vremena za kuvanje? 7 proteinskih obroka za 10 minuta
-
-https://unazdravahrana.com/blog/bez-vremena-za-kuvanje-7-proteinskih-obroka-za-10-minuta
-
-Tekst donosi sedam proteinskih obroka koji se pripremaju za oko 10 minuta, uz listu namirnica koje treba držati u kuhinji. Recepti pokrivaju doručak, ručak, večeru i obrok posle treninga, sa varijacijama za porodicu, rekreativce i početnike.
-
-**Q: Koliko proteina treba imati brzi obrok?**
-
-Nutricionisti generalno preporučuju oko 20–30 g proteina po glavnom obroku za odraslu osobu, ali tačna količina zavisi od telesne mase, aktivnosti i uzrasta, pa je najbolje pitati lekara ili nutricionistu.
-
-**Q: Koje namirnice držati u kuhinji za brze proteinske obroke?**
-
-Osnovna rezerva uključuje jaja, grčki jogurt, konzervu tunjevine ili sardina, integralne ovsene pahuljice, kinou, slanutak, semenke (chia, lan, bundeva), orašaste plodove, biljni protein u prahu i integralni hleb.
-
-**Q: Kako napraviti overnight oats sa proteinom?**
-
-U teglu stavite 4 kašike ovsenih pahuljica, kašiku chia semenki, 200 ml mleka, mericu proteina u prahu ili 3 kašike grčkog jogurta i malo cimeta. Promešate, ostavite u frižideru preko noći i ujutru dodate voće i orahe.
-
-**Q: Šta pojesti odmah posle treninga kada nema vremena za kuvanje?**
-
-Najbrže rešenje je proteinski smuti: 300 ml mleka ili vode, merica proteina u prahu, banana, kašika bademovog putera, kašika chia semenki i prstohvat cimeta blendirano 90 sekundi.
 
 ---
 
