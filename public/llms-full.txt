@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 dodataka koje kombinovati sa magnezijumom
+
+https://unazdravahrana.com/blog/5-dodataka-koje-kombinovati-sa-magnezijumom
+
+---
+
 ## Vitamini i minerali za mršavljenje: šta stvarno radi
 
 https://unazdravahrana.com/blog/vitamini-i-minerali-za-mrsavljenje-sta-stvarno-radi
@@ -682,28 +688,4 @@ Alkohol podiže kortizol tokom noći, posebno u drugoj polovini sna, pa se ljudi
 
 ---
 
-## Soda bikarbona za pranje voća: da li stvarno radi?
-
-https://unazdravahrana.com/blog/soda-bikarbona-za-pranje-voca-da-li-stvarno-radi
-
-Soda bikarbona pomaže da se sa kore voća uklone ostaci nekih pesticida, ali samo uz pravilan odnos (1 kašičica na 2 dl vode) i potapanje 10–15 minuta. Ne uklanja sistemske pesticide koji su prodrli u plod, niti ima smisla za voće koje se ionako guli.
-
-**Q: Da li soda bikarbona uklanja pesticide sa voća?**
-
-Delimično da — uklanja veći deo ostataka kontaktnih pesticida sa površine kore, ali ne izvlači sistemske pesticide koji su već prodrli u unutrašnjost ploda. Studija sa Univerziteta Massachusetts (2017) potvrdila je da je efikasnija od pranja običnom vodom.
-
-**Q: Koliko sode bikarbone treba na litar vode za pranje voća?**
-
-Optimalan odnos je jedna kašičica sode na 2 dl vode, odnosno jedna kašika na litar vode. Veća količina sode ne daje bolji efekat, samo neprijatan ukus ako se ne ispere dobro.
-
-**Q: Koliko dugo treba potapati voće u sodu bikarbonu?**
-
-Najmanje 10 minuta, a idealno 12–15 minuta. Kraće potapanje od 30 sekundi neće imati efekta. Za nežno bobičasto voće dovoljno je 5–7 minuta, uz obavezno ispiranje čistom vodom.
-
-**Q: Za koje voće nema smisla koristiti sodu bikarbonu?**
-
-Za banane, narandže, avokado, krompir i šargarepu — sve što se ionako guli. Takođe nema mnogo smisla za kupus i karfiol, jer se hemikalije zadržavaju između slojeva listova.
-
----
-
-Last updated: 2026-07-16
+Last updated: 2026-07-17

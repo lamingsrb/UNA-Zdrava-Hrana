@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [5 dodataka koje kombinovati sa magnezijumom](https://unazdravahrana.com/blog/5-dodataka-koje-kombinovati-sa-magnezijumom)
 - [Vitamini i minerali za mršavljenje: šta stvarno radi](https://unazdravahrana.com/blog/vitamini-i-minerali-za-mrsavljenje-sta-stvarno-radi)
 - [7 grešaka zbog kojih vaša salata i nije baš zdrava](https://unazdravahrana.com/blog/7-gresaka-zbog-kojih-vasa-salata-i-nije-bas-zdrava)
 - [Letnja kremasta ovsena kaša sa breskvom i chia semenkama (hl](https://unazdravahrana.com/recepti/letnja-kremasta-ovsena-kasa-sa-breskvom-i-chia-semenkama-hl)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Letnji kuskus sa paradajzom, breskvom i mentom](https://unazdravahrana.com/recepti/letnji-kuskus-sa-paradajzom-breskvom-i-mentom)
 - [Vitamin C leti: zašto vam treba i kad se ne borite s](https://unazdravahrana.com/blog/vitamin-c-leti-zasto-vam-treba-i-kad-se-ne-borite-s)
 - [Tiha upala u telu: hrana koju jedemo skoro svaki dan](https://unazdravahrana.com/blog/tiha-upala-u-telu-hrana-koju-jedemo-skoro-svaki-dan)
-- [Salata od tikvica: 6 brzih recepata za leto](https://unazdravahrana.com/blog/salata-od-tikvica-6-brzih-recepata-za-leto)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-16
+Last updated: 2026-07-17
