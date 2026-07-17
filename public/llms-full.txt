@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Crni beli luk: fermentisani superheroj koji nije ljut
+
+https://unazdravahrana.com/blog/crni-beli-luk-fermentisani-superheroj-koji-nije-ljut
+
+Crni beli luk je obični beli luk fermentisan 30-90 dana na 60-70°C, sladak i bez ljutine, bogat antioksidansima i S-alil-cisteinom (SAC). Preporučuje se 1-3 čena dnevno kao dodatak ishrani za podršku srcu i imunitetu, uz konsultaciju lekara ako se uzimaju lekovi za pritisak ili razređivači krvi.
+
+**Q: Šta je crni beli luk?**
+
+Crni beli luk je obični beli luk koji je 30-90 dana fermentisan na kontrolisanoj temperaturi od 60-70°C i visokoj vlažnosti. Rezultat je mekan, sladak, tamno smeđ do crn proizvod bez ljutine i tipičnog mirisa belog luka.
+
+**Q: Koliko crnog belog luka dnevno treba jesti?**
+
+Uobičajena preporuka za odrasle je 1-3 čena dnevno. Konzistentnost je važnija od tajminga – može se uzimati ujutru na prazan stomak, uz doručak ili uveče uz obrok.
+
+**Q: Da li crni beli luk snižava holesterol?**
+
+Crni beli luk može doprineti održavanju normalnog nivoa holesterola kao deo uravnotežene ishrane, zahvaljujući S-alil-cisteinu (SAC) i antioksidansima. On nije zamena za terapiju i ne leči povišen holesterol samostalno.
+
+**Q: Kako prepoznati kvalitetan crni beli luk?**
+
+Kvalitetan crni beli luk je iznutra tamno smeđ do crn, mekan poput suve šljive, blagog sladunjavog mirisa sa notama balzamika. Na deklaraciji treba da piše samo beli luk, bez konzervansa, šećera i aroma.
+
+---
+
 ## Letnja salata od pira sa paradajzom i breskvom
 
 https://unazdravahrana.com/recepti/letnja-salata-od-pira-sa-paradajzom-i-breskvom
@@ -661,30 +685,6 @@ Odrasla osoba treba oko 1,5 do 2 litra tečnosti dnevno, ravnomerno raspoređeno
 **Q: Da li je zeleni čaj štetan za bubrege?**
 
 Zeleni čaj je u umerenim količinama (1–2 šolje dnevno) koristan zbog antioksidanasa katehina, ali osobe sklone oksalatnim kamencima treba da ga piju umereno jer sadrži oksalate.
-
----
-
-## Letnja crvena čorba od pečene paprike i paradajza
-
-https://unazdravahrana.com/recepti/letnja-crvena-corba-od-pecene-paprike-i-paradajza
-
-Kremasta letnja čorba od pečene paprike i paradajza sa semenkama konoplje — lagan, hranljiv i bezglutenski recept za celu porodicu.
-
-**Q: Mogu li da zamrznem ovu čorbu?**
-
-Da, čorba se odlično zamrzava do 2 meseca. Zamrznite je bez semenki i bosiljka, a njih dodajte sveže prilikom serviranja.
-
-**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
-
-Jeste, svi sastojci su prirodno bez glutena. Ako koristite gotovu supu, proverite deklaraciju da ne sadrži gluten.
-
-**Q: Kako da čorba bude još kremastija bez pavlake?**
-
-Dodajte kašiku susamove paste (tahini) pri blendanju ili šaku indijskog oraha koji ste 15 minuta držali u toploj vodi.
-
-**Q: Koje semenke su najbolje za posipanje po čorbi?**
-
-Konopljine semenke daju blag orašasti ukus i puno proteina, susam nudi mineralnu notu, a bundevine hrskavost. U radnji vam možemo pomoći da izaberete.
 
 ---
 
