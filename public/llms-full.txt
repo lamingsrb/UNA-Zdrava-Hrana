@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdrav doručak, ručak i večera: dnevni jelovnik
+
+https://unazdravahrana.com/blog/zdrav-dorucak-rucak-i-vecera-dnevni-jelovnik
+
+Tekst predstavlja jednostavan plan zdrave ishrane zasnovan na pravilu tanjira: pola povrća, četvrtina proteina, četvrtina složenih ugljenih hidrata. Nudi konkretne predloge doručka, užine i ručka prilagođene porodicama, rekreativcima i osobama sa posebnim potrebama.
+
+**Q: Šta je pravilo tanjira u zdravoj ishrani?**
+
+Pravilo tanjira znači da pola tanjira treba da bude povrće (sveže ili termički obrađeno), četvrtina kvalitetan izvor proteina, četvrtina složeni ugljeni hidrati poput integralnih žitarica, mahunarki ili krompira, uz kašiku dobre masti kao što je maslinovo ulje, orasi ili avokado.
+
+**Q: Kako izgleda stabilan zdrav doručak?**
+
+Stabilan doručak sadrži proteine, vlakna i malo dobre masti — na primer ovsenu kašu sa orašastim plodovima i voćem, dva jajeta sa integralnim hlebom i povrćem, ili kiselo mleko sa ovsem i voćem. Takav obrok drži energiju tri do četiri sata bez pada šećera.
+
+**Q: Šta jesti za užinu da ne pojedemo previše na ručku?**
+
+Najjednostavnija užina je šaka orašastih plodova i jedno voće. Dobre alternative su kockica sira sa integralnim krekerima, kuvano jaje, kašika kikirikijevog putera na kriški hleba ili kvalitetna pločica sa orasima gde šećer nije među prva tri sastojka.
+
+**Q: Koje su najčešće greške tokom ručka?**
+
+Najčešće greške su premalo povrća na tanjiru, dodavanje bele pekarske robe uz svaki obrok umesto jedne kriške integralnog hleba, i svakodnevno prženje na dubokom ulju umesto pečenja u rerni ili kuvanja.
+
+---
+
 ## 5 dodataka koje kombinovati sa magnezijumom
 
 https://unazdravahrana.com/blog/5-dodataka-koje-kombinovati-sa-magnezijumom
@@ -661,30 +685,6 @@ U teglu stavite 4 kašike ovsenih pahuljica, kašiku chia semenki, 200 ml mleka,
 **Q: Šta pojesti odmah posle treninga kada nema vremena za kuvanje?**
 
 Najbrže rešenje je proteinski smuti: 300 ml mleka ili vode, merica proteina u prahu, banana, kašika bademovog putera, kašika chia semenki i prstohvat cimeta blendirano 90 sekundi.
-
----
-
-## 8 namirnica i pića koja mogu povisiti kortizol
-
-https://unazdravahrana.com/blog/8-namirnica-i-pica-koja-mogu-povisiti-kortizol
-
-Tekst objašnjava kako kafa, energetska pića, šećer, alkohol, so, rafinisani ugljeni hidrati i dehidracija podižu nivo kortizola i pogoršavaju stres. Nudi konkretne zamene i savete za stabilniju energiju, bolji san i uravnoteženiji hormonalni odgovor.
-
-**Q: Koje piće najviše povisuje kortizol?**
-
-Kafa i energetska pića najbrže podižu kortizol jer kofein direktno stimuliše nadbubrežne žlezde. Nivo kortizola može porasti već pola sata nakon jače šoljice.
-
-**Q: Da li šećer podiže kortizol?**
-
-Da. Šećer izaziva nagli skok glukoze i insulina, a telo taj pad registruje kao stres i luči kortizol, što izaziva nervozu i glad za slatkim.
-
-**Q: Kada je najbolje popiti prvu kafu ujutru?**
-
-Prvu kafu je najbolje popiti 60 do 90 minuta nakon buđenja, kada jutarnji nivo kortizola počne prirodno da opada. Nikada je ne pijte na prazan stomak.
-
-**Q: Kako alkohol utiče na kortizol i san?**
-
-Alkohol podiže kortizol tokom noći, posebno u drugoj polovini sna, pa se ljudi bude oko 3h i teško ponovo zaspu. Preporuka je izbegavati ga bar 3 sata pre spavanja.
 
 ---
 
