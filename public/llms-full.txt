@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja salata od pira sa paradajzom i breskvom
+
+https://unazdravahrana.com/recepti/letnja-salata-od-pira-sa-paradajzom-i-breskvom
+
+Letnja salata od pira sa paradajzom, breskvom i bosiljkom — lagan i zdrav obrok gotov za 40 minuta. Recept i sastojci iz UNA radnje.
+
+**Q: Mogu li pir zameniti drugom žitaricom?**
+
+Da, odlično funkcionišu ječam, farro ili bulgur. Za bržu pripremu koristite kinou (kuva se 15 minuta) ili već kuvanu heljdu.
+
+**Q: Da li salata može da se pripremi unapred?**
+
+Može, i zapravo je ukusnija posle sat vremena stajanja. Preporuka je da bosiljak i tostirane bademe dodate tik pred služenje da zadrže svežinu i hrskavost.
+
+**Q: Da li je pir pogodan za osobe sa osetljivošću na gluten?**
+
+Pir sadrži gluten, iako u drugačijem obliku od moderne pšenice. Osobe sa celijakijom treba da ga izbegavaju i koriste bezglutenske žitarice poput kinoe ili heljde. Za zdravstvena pitanja konsultujte lekara.
+
+**Q: Koje breskve su najbolje za ovu salatu?**
+
+Zrele, čvrste breskve srednje slatkoće — ne prezrele jer se raspadnu. Nektarine su odlična alternativa, a jesu i praktičnije jer se ne moraju ljuštiti.
+
+---
+
 ## Letnja proso kaša sa paradajzom i bosiljkom
 
 https://unazdravahrana.com/recepti/letnja-proso-kasa-sa-paradajzom-i-bosiljkom
@@ -661,30 +685,6 @@ Dodajte kašiku susamove paste (tahini) pri blendanju ili šaku indijskog oraha 
 **Q: Koje semenke su najbolje za posipanje po čorbi?**
 
 Konopljine semenke daju blag orašasti ukus i puno proteina, susam nudi mineralnu notu, a bundevine hrskavost. U radnji vam možemo pomoći da izaberete.
-
----
-
-## Letnja tabuli salata sa proso, paradajzom i breskvom
-
-https://unazdravahrana.com/recepti/letnja-tabuli-salata-sa-proso-paradajzom-i-breskvom
-
-Letnja tabuli salata sa proso, paradajzom i breskvom — svežа, bez glutena, gotova za 30 minuta. Idealna za tople dane.
-
-**Q: Da li je ova salata bez glutena?**
-
-Jeste, proso je prirodno bez glutena. Ako imate izraženu osetljivost, obratite pažnju da kupujete proso sa oznakom 'bez glutena' — u UNA radnji vam možemo preporučiti proverene brendove.
-
-**Q: Mogu li unapred da pripremim salatu za goste?**
-
-Možete pripremiti proso i iseći povrće nekoliko sati ranije i držati odvojeno u frižideru. Sjedinite sve i dodajte preliv 20–30 minuta pre serviranja, a semenke tek na kraju.
-
-**Q: Čime da zamenim peršun i bosiljak ako ih nemam?**
-
-Sveža nana odlično ide uz breskvu i limun, a može i kombinacija vlašca i origana. Važno je da ima puno svežeg zelenila — to je duša tabuli salate.
-
-**Q: Da li je pogodna za decu?**
-
-Jeste, nežnog je ukusa i slatkasta zbog breskve. Za mlađu decu možete izostaviti crveni luk ili ga kratko prokuvati da ublažite oštrinu.
 
 ---
 
