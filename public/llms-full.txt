@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Piti kolagen – da ili ne? Iskren vodič bez fensi obećanja
+
+https://unazdravahrana.com/blog/piti-kolagen-da-ili-ne-iskren-vodic-bez-fensi-obecanja
+
+Vodič objašnjava šta su hidrolizovani kolagenski peptidi, koji tipovi postoje i za koga su namenjeni. Navode se realne doze, trajanje uzimanja od 8-12 nedelja i najčešće greške kupaca.
+
+**Q: Da li kolagen zaista deluje na kožu?**
+
+Ozbiljne studije pokazuju blagi do umereni pozitivan efekat na elastičnost i hidrataciju kože posle 8-12 nedelja svakodnevnog uzimanja hidrolizovanog kolagena. Efekat nije trenutan i kolagen doprinosi, ali ne leči.
+
+**Q: Koja je pravilna dnevna doza kolagena?**
+
+Za kožu, kosu i nokte preporučuje se oko 2,5-10 g hidrolizovanog kolagena dnevno, za zglobove oko 10 g dnevno, a nedenaturisani UC-II za zglobove uzima se u dozi od oko 40 mg dnevno.
+
+**Q: Koji tip kolagena da izaberem?**
+
+Za opšti efekat na kožu, kosu i nokte najbolji je hidrolizovani tip I ili kombinacija tipova I i III, goveđeg ili morskog porekla. Rekreativci sa tegobama u zglobovima biraju nedenaturisani tip II (UC-II).
+
+**Q: Kada je najbolje piti kolagen?**
+
+Nema stroge dogme — može ujutru na prazan stomak, u kafi, smutiju ili čaju uveče. Ključno je da bude svakodnevna navika i da se uzima uz vitamin C, koji je neophodan za sintezu novog kolagena.
+
+---
+
 ## Letnja hladna supa od paradajza i breskve sa bademima
 
 https://unazdravahrana.com/recepti/letnja-hladna-supa-od-paradajza-i-breskve-sa-bademima
@@ -661,30 +685,6 @@ Kiselo mleko, kefir i domaći jogurt su najlakši za svakodnevnu upotrebu i pogo
 **Q: Kako da jedem sezonski ako sam početnik?**
 
 Ne morate menjati sve odjednom — napravite pravilo da dve trećine povrća u vašoj korpi bude ono što je trenutno u sezoni. Leti birajte paradajz i tikvice, zimi kiseli kupus, krompir i cveklu.
-
----
-
-## Letnja panzanella sa paradajzom, breskvom i heljdom
-
-https://unazdravahrana.com/recepti/letnja-panzanella-sa-paradajzom-breskvom-i-heljdom
-
-Letnja panzanella sa paradajzom, breskvom, heljdom i bosiljkom — brz, zdrav i osvežavajući obrok za vrele dane. Recept UNA Zdrave Hrane.
-
-**Q: Mogu li da pripremim salatu unapred?**
-
-Sastojke možete iseći i heljdu skuvati nekoliko sati ranije, ali hleb, preliv i bosiljak dodajte tek 10–15 minuta pre služenja da salata ostane sveža.
-
-**Q: Da li breskva može da se zameni drugim voćem?**
-
-Naravno — nektarina, kajsija ili čak lubenica lepo funkcionišu u letnjoj varijanti. Birajte zrelo, mirisno voće.
-
-**Q: Je li ovo dovoljno za glavni obrok?**
-
-Kao lagani letnji obrok, jedna porcija je dovoljna. Za izdašniji ručak dodajte kuvano jaje, slanutak ili komad pečene ribe.
-
-**Q: Koja heljda je bolja — bela ili prženasta?**
-
-Za salate preporučujemo belu (neprženu) heljdu — ima blaži ukus. Prženasta ima intenzivniju, orašastu aromu i bolja je za tople obroke.
 
 ---
 
