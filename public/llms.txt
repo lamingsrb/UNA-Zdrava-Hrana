@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Topli čaj bolje hladi telo od ledenih napitaka](https://unazdravahrana.com/blog/topli-caj-bolje-hladi-telo-od-ledenih-napitaka)
 - [Crni beli luk: fermentisani superheroj koji nije ljut](https://unazdravahrana.com/blog/crni-beli-luk-fermentisani-superheroj-koji-nije-ljut)
 - [Letnja salata od pira sa paradajzom i breskvom](https://unazdravahrana.com/recepti/letnja-salata-od-pira-sa-paradajzom-i-breskvom)
 - [Letnja proso kaša sa paradajzom i bosiljkom](https://unazdravahrana.com/recepti/letnja-proso-kasa-sa-paradajzom-i-bosiljkom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Letnja frittata sa paprikom, paradajzom i bosiljkom](https://unazdravahrana.com/recepti/letnja-frittata-sa-paprikom-paradajzom-i-bosiljkom)
 - [Letnji rižoto sa ječmom, paradajzom i paprikom](https://unazdravahrana.com/recepti/letnji-rizoto-sa-jecmom-paradajzom-i-paprikom)
 - [Letnja bowl činija sa prosom, paprikom i malinama](https://unazdravahrana.com/recepti/letnja-bowl-cinija-sa-prosom-paprikom-i-malinama)
-- [Celijakija i nadutost: kada je vreme za pregled](https://unazdravahrana.com/blog/celijakija-i-nadutost-kada-je-vreme-za-pregled)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-17
+Last updated: 2026-07-18

@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Topli čaj bolje hladi telo od ledenih napitaka
+
+https://unazdravahrana.com/blog/topli-caj-bolje-hladi-telo-od-ledenih-napitaka
+
+Topao čaj hladi telo efikasnije od ledenih napitaka jer podstiče znojenje, prirodni rashladni sistem organizma. Najbolji izbor za leto su nana, hibiskus, zeleni čaj, kamilica i melisa, uz pravilnu temperaturu i način pijenja.
+
+**Q: Zašto topao čaj bolje hladi od ledenog napitka?**
+
+Topao napitak signalizira telu da pojača znojenje, a isparavanje znoja sa kože odnosi toplotu i efikasno hladi organizam. Ledeni napitak smanjuje znojenje jer telu poručuje da je hladno.
+
+**Q: Koji je najbolji čaj za leto?**
+
+Nana (menta), hibiskus, zeleni čaj, kamilica i melisa su najbolji izbor. Nana daje osećaj svežine, hibiskus osvežava kiselkastim ukusom, a zeleni čaj pomaže kod letnje malaksalosti.
+
+**Q: Na kojoj temperaturi treba piti čaj leti?**
+
+Idealna temperatura je 55-65°C - topao ali ne vreo. Sipajte šolju i sačekajte 3-4 minuta pre pijenja, i pijuckajte malim gutljajima da telo dobije jasan signal za pojačano znojenje.
+
+**Q: Da li ledeni čaj iz flaše hladi telo?**
+
+Ne, zaslađeni ledeni čajevi iz flaše sa velikom količinom šećera nemaju rashladni efekat kao topao čaj. Zapravo, telo se dodatno bori sa obradom šećera što ga još više greje.
+
+---
+
 ## Crni beli luk: fermentisani superheroj koji nije ljut
 
 https://unazdravahrana.com/blog/crni-beli-luk-fermentisani-superheroj-koji-nije-ljut
@@ -664,28 +688,4 @@ Ovsene pahuljice, jaja, integralni hleb i testenina, jogurt i domaći sir, mahun
 
 ---
 
-## 7 jutarnjih napitaka za podršku zdravlju bubrega
-
-https://unazdravahrana.com/blog/7-jutarnjih-napitaka-za-podrsku-zdravlju-bubrega
-
-Tekst predstavlja sedam jednostavnih jutarnjih napitaka koji pomažu hidrataciju i blagu podršku bubrezima, uključujući vodu sa limunom, čaj od koprive, kurkuma latte i zeleni čaj. Uz recepte, autor naglašava da napici ne zamenjuju lekarski savet, posebno kod hroničnih bolesti ili terapije.
-
-**Q: Koji je najbolji jutarnji napitak za bubrege?**
-
-Čaša mlake vode sa sokom od pola limuna, popijena pre kafe i doručka, najjednostavniji je i najefikasniji izbor jer nadoknađuje tečnost i pomaže sprečavanju kalcijum-oksalatnih kamenaca.
-
-**Q: Da li je čaj od koprive dobar za bubrege?**
-
-Čaj od koprive deluje blago diuretično i tradicionalno se koristi za podršku bubrezima i mokraćnim putevima, ali ga treba izbegavati bez konsultacije sa lekarom ako uzimate lekove za pritisak ili diuretike.
-
-**Q: Koliko vode dnevno treba piti za zdravlje bubrega?**
-
-Odrasla osoba treba oko 1,5 do 2 litra tečnosti dnevno, ravnomerno raspoređeno tokom dana — čaša uz svaki obrok i između obroka, uz svetlo slamnastu boju mokraće kao pokazatelj dobre hidracije.
-
-**Q: Da li je zeleni čaj štetan za bubrege?**
-
-Zeleni čaj je u umerenim količinama (1–2 šolje dnevno) koristan zbog antioksidanasa katehina, ali osobe sklone oksalatnim kamencima treba da ga piju umereno jer sadrži oksalate.
-
----
-
-Last updated: 2026-07-17
+Last updated: 2026-07-18
