@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja salata od amaranta sa paprikom i breskvom
+
+https://unazdravahrana.com/recepti/letnja-salata-od-amaranta-sa-paprikom-i-breskvom
+
+Letnja salata od amaranta sa breskvom, paprikom i bademima — lagan, bezglutenski recept gotov za 30 minuta. Osvežavajuć ručak za tople dane.
+
+**Q: Da li je amarant bez glutena?**
+
+Da, amarant je prirodno bez glutena, pa je odličan izbor za osobe sa intolerancijom na gluten ili one koji žele raznovrsniju ishranu bez pšenice.
+
+**Q: Mogu li da pripremim salatu unapred za posao?**
+
+Možete. Skuvajte amarant i iseckajte povrće veče ranije, a preliv i bademe dodajte tek pred jelo da salata ostane sveža.
+
+**Q: Čime da zamenim bademe ako imam alergiju?**
+
+Umesto badema koristite semenke suncokreta ili bundeve — takođe ih kratko tostirajte u suvom tiganju da pojačate ukus.
+
+**Q: Da li salata odgovara deci?**
+
+Da, ukusi su blagi i slatkasti zahvaljujući breskvi. Za mlađu decu možete izostaviti biber i sitnije iseckati sastojke.
+
+---
+
 ## Topli čaj bolje hladi telo od ledenih napitaka
 
 https://unazdravahrana.com/blog/topli-caj-bolje-hladi-telo-od-ledenih-napitaka
@@ -661,30 +685,6 @@ Ključ je u dobro propečenom luku, dimljenoj aleva paprici i zrelom letnjem par
 **Q: Sa čim da služim ovo jelo?**
 
 Odlično ide uz kriške integralnog hleba, kap kiselog mleka ili kockice feta sira. Za lagan letnji ručak dovoljan je i samostalno.
-
----
-
-## Zdrava ishrana za decu: saveti i ideje za užinu
-
-https://unazdravahrana.com/blog/zdrava-ishrana-za-decu-saveti-i-ideje-za-uzinu
-
-Vodič za roditelje o tome kako sastaviti raznovrsne obroke i školske užine za decu uz protein, složene ugljene hidrate, zdrave masti i voće ili povrće. Donosi konkretne kombinacije, listu namirnica koje vredi držati u kući i realan pristup šećeru i grickalicama.
-
-**Q: Šta treba da sadrži zdrav obrok za dete?**
-
-Svaki glavni obrok treba da ima izvor proteina (jaja, meso, mahunarke, mlečni proizvodi), složeni ugljeni hidrat (integralne žitarice, krompir, pirinač), malo zdravih masti (orašasti plodovi, maslinovo ulje) i porciju voća ili povrća.
-
-**Q: Koje su ideje za zdravu užinu za školu?**
-
-Kombinujte nešto sito (integralni sendvič, tortilja, domaći mafin), nešto sveže (voće ili narezano povrće), nešto 'kul' (proteinska ili voćna pločica, šaka orašastih plodova) i flašicu vode. Dobre kombinacije su tortilja sa piletinom i kruška, integralni hleb sa sirom i jabuka, ili pirinčani vafli sa kikiriki puterom i bananom.
-
-**Q: Kako smanjiti unos šećera kod dece?**
-
-Ne držite slatkiše i gazirana pića u kući u velikim količinama, zamenite kioskarske grickalice proteinskim i voćnim pločicama bez dodatog šećera, razblažite sokove vodom i izbegavajte slatke pahuljice za doručak koje izazivaju nagli pad energije.
-
-**Q: Koje namirnice vredi uvek imati u kući za dečju ishranu?**
-
-Ovsene pahuljice, jaja, integralni hleb i testenina, jogurt i domaći sir, mahunarke poput sočiva i slanutka, orašasti plodovi i semenke, sezonsko voće i povrće, kao i maslinovo ulje. To je baza od koje se lako sklapaju raznovrsni obroci.
 
 ---
 
