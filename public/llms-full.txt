@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja hladna supa od paradajza i breskve sa bademima
+
+https://unazdravahrana.com/recepti/letnja-hladna-supa-od-paradajza-i-breskve-sa-bademima
+
+Osvežavajuća hladna supa od paradajza i breskve sa tostiranim bademima i chia semenkama — letnji recept gotov za 30 minuta.
+
+**Q: Mogu li da napravim supu unapred za goste?**
+
+Da, čak je i preporučljivo. Napravite je jutro ranije i držite u frižideru — ukusi se prožmu i supa dobija na dubini. Bademe za dekoraciju dodajte tek pred serviranje da ostanu hrskavi.
+
+**Q: Šta ako mi je supa previše gusta ili previše retka?**
+
+Ako je gusta, dodajte malo hladne vode ili kockicu leda pri blendanju. Ako je retka, dodajte krišku integralnog hleba natopljenu u supu i ponovo izblendajte — to je klasičan trik iz gaspaho tradicije.
+
+**Q: Da li mogu da izostavim beli luk?**
+
+Naravno. Ako ne volite intenzivan ukus, koristite samo pola čena ili ga potpuno izostavite. Supa će biti blaža i pogodnija za decu.
+
+**Q: Koje breskve su najbolje za ovaj recept?**
+
+Zrele, mirišljave breskve sa sočnim mesom — što slađe to bolje, jer prirodna slatkoća balansira kiselost paradajza. Ako su nedozrele, dodajte kašičicu meda više.
+
+---
+
 ## Letnja salata od amaranta sa paprikom i breskvom
 
 https://unazdravahrana.com/recepti/letnja-salata-od-amaranta-sa-paprikom-i-breskvom
@@ -661,30 +685,6 @@ Kao lagani letnji obrok, jedna porcija je dovoljna. Za izdašniji ručak dodajte
 **Q: Koja heljda je bolja — bela ili prženasta?**
 
 Za salate preporučujemo belu (neprženu) heljdu — ima blaži ukus. Prženasta ima intenzivniju, orašastu aromu i bolja je za tople obroke.
-
----
-
-## Letnji ćoravi paprikaš sa bulgurom i bosiljkom
-
-https://unazdravahrana.com/recepti/letnji-coravi-paprikas-sa-bulgurom-i-bosiljkom
-
-Letnji ćoravi paprikaš sa bulgurom, paprikom, paradajzom i bosiljkom — jednostavan, sit i gotov za 45 minuta. Recept UNA Zdrave Hrane.
-
-**Q: Mogu li da pripremim jelo unapred?**
-
-Možete. Skuvajte do koraka pre dodavanja bosiljka, ohladite i držite u frižideru do 3 dana. Zagrejte uz malo vode i tek onda dodajte sveži bosiljak.
-
-**Q: Da li je recept bez glutena?**
-
-Bulgur sadrži gluten. Za varijantu bez glutena zamenite ga prosom ili heljdom — dobićete jednako ukusan rezultat.
-
-**Q: Kako da dobijem punijeg ukusa bez mesa?**
-
-Ključ je u dobro propečenom luku, dimljenoj aleva paprici i zrelom letnjem paradajzu. Kap jabukovog sirćeta na kraju podiže sve arome.
-
-**Q: Sa čim da služim ovo jelo?**
-
-Odlično ide uz kriške integralnog hleba, kap kiselog mleka ili kockice feta sira. Za lagan letnji ručak dovoljan je i samostalno.
 
 ---
 
