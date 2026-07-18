@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 brzih i laganih letnjih recepata za doručak
+
+https://unazdravahrana.com/blog/5-brzih-i-laganih-letnjih-recepata-za-dorucak
+
+Tekst predstavlja pet brzih letnjih recepata za doručak koji se pripremaju za 5 do 15 minuta i ne opterećuju stomak po vrućini. Recepti kombinuju kompleksne ugljene hidrate, zdrave masti i proteine kroz namirnice poput ovsa, chia semenki, avokada, feta sira, spiruline i bobičastog voća.
+
+**Q: Šta znači lagan letnji doručak?**
+
+Lagan letnji doručak je kombinacija kompleksnih ugljenih hidrata sa vlaknima, malo kvalitetnih masti i dovoljno proteina, bez teških, masnih ili prženih namirnica koje po vrućini traže dugu digestiju.
+
+**Q: Koliko dugo se priprema ovsena kaša preko noći?**
+
+Priprema traje samo 5 minuta uveče: sastojci se sipaju u staklenu teglu, promešaju i ostave u frižideru do jutra, kada se dodaju sveže voće i orašasti plodovi.
+
+**Q: Da li je spirulina bezbedna za svakoga?**
+
+Spirulina se preporučuje u malim količinama (1/2 kašičice), ali osobe na terapiji za štitnu žlezdu ili sa autoimunim oboljenjima treba da se posavetuju sa lekarom pre redovnog uzimanja.
+
+**Q: Koji doručak je najbolji pre jutarnjeg treninga?**
+
+Ovsena kaša preko noći sa chia semenkama i voćem je idealna 45 minuta pre treninga jer daje sporo oslobađanje energije bez težine u stomaku.
+
+---
+
 ## Piti kolagen – da ili ne? Iskren vodič bez fensi obećanja
 
 https://unazdravahrana.com/blog/piti-kolagen-da-ili-ne-iskren-vodic-bez-fensi-obecanja
@@ -661,30 +685,6 @@ Tikvica ima oko 17 kalorija na 100 grama i sadrži preko 90% vode, uz kalijum, v
 **Q: Koje ulje najbolje ide uz salatu od tikvica?**
 
 Hladno ceđeno maslinovo ulje je klasika za sirove i blanširane varijante. Bundevino ulje odlično prija uz semenke bundeve i beli luk, a laneno je dobar izbor za hladne salate.
-
----
-
-## 5 starih navika baby boomera koje vredi vratiti
-
-https://unazdravahrana.com/blog/5-starih-navika-baby-boomera-koje-vredi-vratiti
-
-Tekst analizira pet zdravih navika iz vremena baby boomera koje vredi vratiti u savremenu ishranu: jedan glavni obrok u podne, svakodnevna fermentisana hrana, sezonsko i lokalno povrće, celovite žitarice umesto pahuljica. Naglašava se da ove navike podržavaju varenje, sitost i zdravu težinu bez dijeta i brojanja kalorija.
-
-**Q: Zašto je kiseli kupus iz bureta bolji od onog iz konzerve?**
-
-Kiseli kupus iz bureta ili frižidera nije pasterizovan, pa zadržava žive bakterije koje podržavaju crevni mikrobiom. Kupus iz konzerve je toplotno obrađen, čime se korisne bakterije uništavaju, iako ukus ostaje sličan.
-
-**Q: Kada treba jesti glavni obrok tokom dana?**
-
-Idealno je glavni obrok pojesti između 13 i 15 časova, kada je varenje najaktivnije. Ako to nije moguće zbog posla, pomerite ga na trenutak kada ste kod kuće, a večera neka bude lagana — jogurt, supa ili voće posle 19h.
-
-**Q: Koja fermentisana hrana je najbolja za svakodnevnu upotrebu?**
-
-Kiselo mleko, kefir i domaći jogurt su najlakši za svakodnevnu upotrebu i pogodni su za doručak ili užinu. Nepasterizovan kiseli kupus i turšija se preporučuju uz glavne obroke 3-5 puta nedeljno kao dodatak varenju.
-
-**Q: Kako da jedem sezonski ako sam početnik?**
-
-Ne morate menjati sve odjednom — napravite pravilo da dve trećine povrća u vašoj korpi bude ono što je trenutno u sezoni. Leti birajte paradajz i tikvice, zimi kiseli kupus, krompir i cveklu.
 
 ---
 
