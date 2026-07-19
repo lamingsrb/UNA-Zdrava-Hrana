@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Pčelinji polen: vodič od žlice pre doručka](https://unazdravahrana.com/blog/pcelinji-polen-vodic-od-zlice-pre-dorucka)
 - [5 brzih i laganih letnjih recepata za doručak](https://unazdravahrana.com/blog/5-brzih-i-laganih-letnjih-recepata-za-dorucak)
 - [Piti kolagen – da ili ne? Iskren vodič bez fensi obećanja](https://unazdravahrana.com/blog/piti-kolagen-da-ili-ne-iskren-vodic-bez-fensi-obecanja)
 - [Letnja hladna supa od paradajza i breskve sa bademima](https://unazdravahrana.com/recepti/letnja-hladna-supa-od-paradajza-i-breskve-sa-bademima)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [4 vrste voća koje mogu smanjiti rizik od raka dojke](https://unazdravahrana.com/blog/4-vrste-voca-koje-mogu-smanjiti-rizik-od-raka-dojke)
 - [Letnje pljeskavice od proje sa paprikom i malinama](https://unazdravahrana.com/recepti/letnje-pljeskavice-od-proje-sa-paprikom-i-malinama)
 - [Letnja quinoa salata sa breskvom, paprikom i čia semenkama](https://unazdravahrana.com/recepti/letnja-quinoa-salata-sa-breskvom-paprikom-i-cia-semenkama)
-- [6 vitamina i suplemenata koje ne treba piti nagladno](https://unazdravahrana.com/blog/6-vitamina-i-suplemenata-koje-ne-treba-piti-nagladno)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-18
+Last updated: 2026-07-19

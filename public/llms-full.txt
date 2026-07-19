@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pčelinji polen: vodič od žlice pre doručka
+
+https://unazdravahrana.com/blog/pcelinji-polen-vodic-od-zlice-pre-dorucka
+
+Vodič o pčelinjem polenu objašnjava kako prepoznati kvalitetan proizvod po boji, mirisu i vlazi granula, te preporučuje postepeno uvođenje od pola kašičice do jedne kašike dnevno. Ističe najčešće greške poput izlaganja toploti, lošeg čuvanja i nepravilne pripreme koje poništavaju nutritivnu vrednost.
+
+**Q: Koliko pčelinjeg polena treba uzimati dnevno?**
+
+Odrasla osoba počinje sa pola kašičice prvih 3–5 dana, pa postepeno povećava do jedne kašike (10–15 g) dnevno, najbolje ujutru 15–20 minuta pre doručka.
+
+**Q: Da li deca smeju da jedu pčelinji polen?**
+
+Deca od 6 do 12 godina mogu uzimati 1/4 do 1/2 kašičice, ali samo uz saglasnost pedijatra. Deci mlađoj od 3 godine se ne preporučuje.
+
+**Q: Kako prepoznati kvalitetan pčelinji polen?**
+
+Kvalitetan polen ima najmanje 4–5 različitih boja granula, suv je na dodir, granule 'šuškaju' u tegli, a miris je cvetno-medni i blago slatkast.
+
+**Q: Zašto se pčelinji polen ne sme stavljati u vreo čaj?**
+
+Temperature iznad 40°C razgrađuju enzime i deo vitamina u polenu. Ako ga dodajete u napitak, sačekajte da se ohladi pre mešanja.
+
+---
+
 ## 5 brzih i laganih letnjih recepata za doručak
 
 https://unazdravahrana.com/blog/5-brzih-i-laganih-letnjih-recepata-za-dorucak
@@ -664,28 +688,4 @@ Najčešći simptomi su stalan umor bez jasnog razloga, nadutost i loše varenje
 
 ---
 
-## Salata od tikvica: 6 brzih recepata za leto
-
-https://unazdravahrana.com/blog/salata-od-tikvica-6-brzih-recepata-za-leto
-
-Vodič kroz šest jednostavnih letnjih salata od tikvica, od sirove sa fetom i mentom do grilovane sa kozjim sirom i medom. Uključuje savete za kupovinu, pripremu i kombinovanje tikvica sa sirevima, mahunarkama i semenkama.
-
-**Q: Da li se tikvica može jesti sirova u salati?**
-
-Da, posebno mlade tikvice dužine do 20 cm. Isecite ih na tanke trake ili narendajte, posolite i ostavite 10-15 minuta da puste vodu, pa iscedite pre mešanja sa ostalim sastojcima.
-
-**Q: Kako sprečiti da salata od tikvica bude vodnjikava?**
-
-Posolite tikvicu i ostavite je 10-15 minuta u cediljki da pusti višak vode, zatim je dobro iscedite. Ovaj korak je ključan za sirove i blanširane varijante salate.
-
-**Q: Koliko kalorija ima tikvica?**
-
-Tikvica ima oko 17 kalorija na 100 grama i sadrži preko 90% vode, uz kalijum, vitamin C i vlakna. Dodavanjem sira, semenki ili leblebija postaje pun obrok.
-
-**Q: Koje ulje najbolje ide uz salatu od tikvica?**
-
-Hladno ceđeno maslinovo ulje je klasika za sirove i blanširane varijante. Bundevino ulje odlično prija uz semenke bundeve i beli luk, a laneno je dobar izbor za hladne salate.
-
----
-
-Last updated: 2026-07-18
+Last updated: 2026-07-19
