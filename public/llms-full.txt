@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Šta nutricionisti retko jedu — i šta rade umesto toga
+
+https://unazdravahrana.com/blog/sta-nutricionisti-retko-jedu-i-sta-rade-umesto-toga
+
+Nutricionisti izbegavaju gazirana pića, ultra-prerađenu hranu, beli šećer, margarin i lažno „zdrave" pločice, ali ne iz fanatizma već zato što su našli bolje zamene. Umesto toga biraju vodu sa voćem, domaće čorbe, prirodne zaslađivače poput meda i datula, hladno ceđena ulja i grickalice kratkog sastava.
+
+**Q: Šta nutricionisti najređe kupuju?**
+
+Najređe kupuju gazirana pića, „voćne" sokove iz tetrapaka, ultra-prerađenu hranu sa dugom listom sastojaka, margarin i „zdrave" pločice iz kioska koje često sadrže mnogo šećera.
+
+**Q: Čime zameniti beli šećer u domaćoj kuhinji?**
+
+Med u mlakom čaju ili jogurtu, sitno seckane datule u ovsenoj kaši, kokosov šećer u pecivima i sirovi kakao za čokoladni ukus su prirodne zamene koje daju sladak ukus uz dodatne mikroelemente.
+
+**Q: Kako smanjiti želju za slatkim?**
+
+Ne dozvolite da postanete preterano gladni — jedite redovne obroke sa proteinima i vlaknima, i držite „pametne slatkiše" pri ruci poput tamne čokolade 70%, datula sa orasima ili voća.
+
+**Q: Da li su „fit" pločice iz kioska zaista zdrave?**
+
+Često nisu — pakovanje može biti zeleno, ali sastav pun glukozno-fruktoznog sirupa. Birajte pločice sa kratkim sastavom, manje od 8-10g šećera, i najmanje 5g proteina i 3g vlakana.
+
+---
+
 ## Letnji farro sa pečenom paprikom i malinama
 
 https://unazdravahrana.com/recepti/letnji-farro-sa-pecenom-paprikom-i-malinama
@@ -661,30 +685,6 @@ Nadutost se obično javlja 30 minuta do 2 sata posle obroka sa hlebom, testenino
 **Q: Da li je bezglutenska ishrana automatski zdrava?**
 
 Nije — industrijski bezglutenski proizvodi često sadrže mnogo šećera, škroba i loših masti. Osnova zdrave bezglutenske ishrane su povrće, mahunarke, jaja, meso, riba, pirinač, heljda, proso i kvinoa.
-
----
-
-## Letnja salata od paradajza, malina i kinoe
-
-https://unazdravahrana.com/recepti/letnja-salata-od-paradajza-malina-i-kinoe
-
-Letnja salata od paradajza, malina i kinoe — lagan, zasitan i bezglutenski recept za 35 minuta. Idealna za vrele dane.
-
-**Q: Mogu li da pripremim salatu unapred za posao?**
-
-Da. Kuvanu kinou i preliv držite odvojeno od paradajza i malina, pa spojite pred jelo. Tako sastojci ostaju sveži i hrskavi.
-
-**Q: Da li je recept bez glutena?**
-
-Jeste — kinoa prirodno ne sadrži gluten. Ako imate potvrđenu celijakiju, proverite da na pakovanju piše oznaka 'bez glutena'.
-
-**Q: Čime da zamenim bademe ako imam alergiju na orašaste plodove?**
-
-Odlično će poslužiti semenke suncokreta ili bundeve — kratko ih propržite na suvom tiganju za isti hrskavi efekat.
-
-**Q: Koliko dugo se kuva kinoa da ne bude gnjecava?**
-
-Pravilo je 1 deo kinoe na 2 dela vode, 15 minuta krčkanja i još 5 minuta odmaranja poklopljeno. Tako ostaje rastresita i lepo puca zrno.
 
 ---
 
