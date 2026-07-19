@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji farro sa pečenom paprikom i malinama
+
+https://unazdravahrana.com/recepti/letnji-farro-sa-pecenom-paprikom-i-malinama
+
+Letnja salata sa farro žitaricom, pečenom paprikom, paradajzom, malinama i bademima. Lagan i sit obrok za 45 minuta.
+
+**Q: Da li se farro mora prethodno potapati?**
+
+Perlirani (oljušteni) farro ne mora — kuva se za 25-30 minuta. Ako imate integralnu, celu varijantu, potopite je u hladnu vodu 4-6 sati radi bržeg kuvanja.
+
+**Q: Mogu li salatu pripremiti unapred za goste?**
+
+Da. Skuvajte farro i ispecite papriku dan ranije i držite u frižideru odvojeno. Sve sastojke sjedinite 15-20 minuta pre serviranja, a maline i bosiljak dodajte na kraju.
+
+**Q: Čime da zamenim bademe ako imam alergiju?**
+
+Odlično idu semenke suncokreta ili bundeve, prethodno kratko tostirane. Daju sličnu hrskavost bez orašastih plodova.
+
+**Q: Da li je ovo jelo dovoljno kao glavni obrok?**
+
+Jeste — farro donosi vlakna i biljne proteine, a bademi zdrave masti. Za veće apetite dodajte kuvano jaje ili sir za dodatne proteine.
+
+---
+
 ## Letnja kaša od ječma sa paprikom i malinama
 
 https://unazdravahrana.com/recepti/letnja-kasa-od-jecma-sa-paprikom-i-malinama
@@ -661,30 +685,6 @@ Odlično će poslužiti semenke suncokreta ili bundeve — kratko ih propržite 
 **Q: Koliko dugo se kuva kinoa da ne bude gnjecava?**
 
 Pravilo je 1 deo kinoe na 2 dela vode, 15 minuta krčkanja i još 5 minuta odmaranja poklopljeno. Tako ostaje rastresita i lepo puca zrno.
-
----
-
-## Letnji kuskus sa paradajzom, breskvom i mentom
-
-https://unazdravahrana.com/recepti/letnji-kuskus-sa-paradajzom-breskvom-i-mentom
-
-Letnji kuskus sa paradajzom, breskvom i mentom — brza i osvežavajuća salata gotova za 25 minuta. Zdrav letnji obrok za celu porodicu.
-
-**Q: Mogu li da pripremim salatu unapred za sutrašnji ručak?**
-
-Možete, ali preporučujemo da svežu mentu, bosiljak i pržene semenke dodate tek pred serviranje kako bi zadržali aromu i hrskavost.
-
-**Q: Kako da izaberem zrelu breskvu za ovaj recept?**
-
-Breskva treba da blago popušta pod prstima i da miriše slatko na peteljci. Previše meke koristite odmah, a čvršće ostavite 1-2 dana na sobnoj temperaturi.
-
-**Q: Da li je recept pogodan za decu?**
-
-Jeste, blagog je ukusa i slatkaste note zbog breskve. Za najmlađe možete izostaviti biber i smanjiti količinu limuna.
-
-**Q: Čime da zamenim bundevine semenke?**
-
-Odlično funkcionišu i suncokretove semenke, sitno seckani bademi ili lešnici — sve to imamo u radnji, birajte prema ukusu.
 
 ---
 
