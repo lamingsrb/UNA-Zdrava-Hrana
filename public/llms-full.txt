@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja kaša od ječma sa paprikom i malinama
+
+https://unazdravahrana.com/recepti/letnja-kasa-od-jecma-sa-paprikom-i-malinama
+
+Letnja kaša od ječma sa pečenom paprikom, malinama i semenkama — jednostavan, zasitan i sezonski recept sa sastojcima iz UNA radnje.
+
+**Q: Da li ječam mora da se namače pre kuvanja?**
+
+Integralni ječam ne mora obavezno da se namače, ali ako imate vremena, potapanje 2-3 sata skratiće kuvanje za oko 10 minuta i olakšati varenje.
+
+**Q: Mogu li deca da jedu ovu kašu?**
+
+Da, recept je prijateljski nastrojen prema deci. Za mlađu decu smanjite biber i belog luka, a maline i pečena paprika obično postignu odličan utisak zbog boje i slatkoće.
+
+**Q: Šta ako sam osetljiv na gluten?**
+
+Ječam sadrži gluten, pa nije pogodan za osobe sa celijakijom ili osetljivošću na gluten. Umesto njega koristite heljdu ili proso — donesite bezglutensku alternativu iz UNA radnje.
+
+**Q: Mogu li smrznute maline umesto svežih?**
+
+Možete, ali ih dodajte na toplu kašu odmah da se blago otope. Sveže maline sa pijace u sezoni ipak daju najbolju aromu i teksturu.
+
+---
+
 ## Superhrana u prahu: spirulina, chlorella i maca
 
 https://unazdravahrana.com/blog/superhrana-u-prahu-spirulina-chlorella-i-maca
@@ -661,30 +685,6 @@ Jeste, blagog je ukusa i slatkaste note zbog breskve. Za najmlađe možete izost
 **Q: Čime da zamenim bundevine semenke?**
 
 Odlično funkcionišu i suncokretove semenke, sitno seckani bademi ili lešnici — sve to imamo u radnji, birajte prema ukusu.
-
----
-
-## Vitamin C leti: zašto vam treba i kad se ne borite s
-
-https://unazdravahrana.com/blog/vitamin-c-leti-zasto-vam-treba-i-kad-se-ne-borite-s
-
-Vitamin C se leti brže troši zbog znojenja i UV zračenja, a najbolje ga je unositi kroz svežu hranu poput paprike, šipka i kivija. Toplota ga razgrađuje, pa kratko kuvanje na pari i sirove salate čuvaju najviše vrednosti.
-
-**Q: Koja namirnica ima najviše vitamina C?**
-
-Od namirnica dostupnih kod nas, kamu kamu i acerola prah imaju najviše (1500–3000 mg/100g), a od sveže hrane šipak (400–800 mg) i crvena paprika (140 mg). Jedna crvena paprika pokriva ceo dnevni unos.
-
-**Q: Koliko vitamina C treba dnevno?**
-
-Prema smernicama NIH, odraslim ženama treba oko 75 mg, muškarcima 90 mg, a pušačima dodatnih 35 mg dnevno. Unos se lako pokriva svežim voćem i povrćem.
-
-**Q: Da li kuvanje uništava vitamin C?**
-
-Da, vitamin C je osetljiv na toplotu, vazduh i vodu. Brokoli kuvan 15 minuta gubi do 50%, dok kuvan na pari 3–4 minuta zadržava skoro sve. Sirovo povrće i voće je najbolji izbor.
-
-**Q: Koji su znaci nedostatka vitamina C?**
-
-Umor koji ne prolazi, krvarenje desni, modrice bez razloga, sporo zarastanje rana, suva koža, opadanje kose i češće prehlade mogu biti znaci blagog hroničnog nedostatka vitamina C.
 
 ---
 
