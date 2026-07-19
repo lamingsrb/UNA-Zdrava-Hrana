@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Superhrana u prahu: spirulina, chlorella i maca
+
+https://unazdravahrana.com/blog/superhrana-u-prahu-spirulina-chlorella-i-maca
+
+Vodič kroz tri najpopularnije superhrane u prahu — spirulinu, chlorellu i macu — sa jasnim dozama, ukusom i praktičnim savetima za uvođenje. Objašnjava kome koja odgovara i na šta obratiti pažnju pri kupovini.
+
+**Q: Koja superhrana u prahu je najbolja za početnike?**
+
+Spirulina se najčešće preporučuje početnicima jer ima podnošljiviji ukus od chlorelle, lako se meša u smuti od banane i borovnica, i donosi biljne proteine, gvožđe i B vitamine. Početna doza je 1–3 grama dnevno.
+
+**Q: Koja je razlika između spiruline i chlorelle?**
+
+Obe su zelene mikroalge, ali spirulina je bogatija proteinima (oko 60%) i lakša za piti, dok chlorella ima više vlakana i hlorofila. Chlorella mora imati oznaku 'broken cell wall' da bi je telo iskoristilo.
+
+**Q: Koliko maca praha se uzima dnevno?**
+
+Uobičajena doza je 1 kašičica (3–5 grama) dnevno, najbolje ujutru. Neki ljudi je uzimaju u ciklusima 5 dana da, 2 dana pauze. Osobe sa problemima štitne žlezde treba prvo da se posavetuju sa lekarom.
+
+**Q: Kada je najbolje uzimati spirulinu?**
+
+Spirulinu je najbolje uzeti ujutru ili pre treninga, jer neki ljudi osete blagi porast energije. Izbegavajte je uveče. Najlakše se pije umešana u smuti od voća koje prikrije morski ukus.
+
+---
+
 ## Pčelinji polen: vodič od žlice pre doručka
 
 https://unazdravahrana.com/blog/pcelinji-polen-vodic-od-zlice-pre-dorucka
@@ -661,30 +685,6 @@ Da, vitamin C je osetljiv na toplotu, vazduh i vodu. Brokoli kuvan 15 minuta gub
 **Q: Koji su znaci nedostatka vitamina C?**
 
 Umor koji ne prolazi, krvarenje desni, modrice bez razloga, sporo zarastanje rana, suva koža, opadanje kose i češće prehlade mogu biti znaci blagog hroničnog nedostatka vitamina C.
-
----
-
-## Tiha upala u telu: hrana koju jedemo skoro svaki dan
-
-https://unazdravahrana.com/blog/tiha-upala-u-telu-hrana-koju-jedemo-skoro-svaki-dan
-
-Tekst objašnjava fenomen tihe hronične upale koju svakodnevno podstičemo ultraprerađenom hranom, rafinisanim šećerom, belim brašnom i prerađenim mesom. Nudi konkretne zamene po obrocima i skelet protivupalnog tanjira zasnovan na mediteranskoj i tradicionalnoj ishrani.
-
-**Q: Šta je tiha upala u telu?**
-
-Tiha upala je hronično, niskostepeno zapaljenje koje ne boli akutno, ali godinama tinja u pozadini organizma. Nastaje kada imuni sistem iz dana u dan dobija male signale iz hrane, stresa, lošeg sna i sedenja, pa ostaje u stalnom stanju blage pripravnosti i može podsticati razvoj dijabetesa, bolesti srca i autoimunih stanja.
-
-**Q: Koje namirnice najčešće izazivaju upalu u telu?**
-
-Najčešći krivci su ultraprerađeni proizvodi sa dugom listom sastojaka, rafinisani šećer i slatki napici, rafinisana biljna ulja korišćena za višekratno prženje, beli hleb i industrijska peciva, prerađeno crveno meso poput kobasica i salama, kao i trans masti iz preprženih namirnica. Problem nije jedan obrok, nego svakodnevno ponavljanje.
-
-**Q: Kako izgleda protivupalni obrok?**
-
-Protivupalni tanjir sadrži puno svežeg sezonskog povrća, kvalitetne masnoće poput maslinovog ulja, orašastih plodova i masne ribe, integralne žitarice u umerenim količinama, mahunarke nekoliko puta nedeljno i začine poput kurkume, đumbira i belog luka. Meso, šećer i prerađena hrana zastupljeni su u malim količinama.
-
-**Q: Koji su simptomi hronične upale u organizmu?**
-
-Najčešći simptomi su stalan umor bez jasnog razloga, nadutost i loše varenje, bolovi u zglobovima i mišićima, problemi sa kožom poput akni kod odraslih i ekcema, teško mršavljenje uprkos trudu, česte prehlade i osećaj mentalne magle. Ako se ovi simptomi ponavljaju, vredi razmotriti svakodnevnu ishranu.
 
 ---
 
