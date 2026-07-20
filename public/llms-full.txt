@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Organske oznake u Srbiji: kako prepoznati pravi bio proizvod
+
+https://unazdravahrana.com/blog/organske-oznake-u-srbiji-kako-prepoznati-pravi-bio-proizvod
+
+Tekst objašnjava koje organske oznake postoje u Srbiji i kako ih razlikovati od marketinških termina poput 'prirodno' ili 'domaće'. Kupci uče da traže logo sertifikacionog tela, kodni broj (npr. RS-BIO-001) i poreklo sirovine na deklaraciji.
+
+**Q: Šta znači oznaka 'organski' na proizvodu u Srbiji?**
+
+Znači da je proizvod napravljen po strogim pravilima organske poljoprivrede, bez sintetičkih pesticida, veštačkih đubriva i GMO semena, i da poseduje sertifikat akreditovanog kontrolnog tela. Termin je pravno zaštićen i mora biti praćen logom sertifikatora i kodnim brojem.
+
+**Q: Kako izgleda kodni broj organskog sertifikata?**
+
+Kodni broj ima format: dva slova zemlje – BIO – tri cifre kontrolnog tela. Na primer, RS-BIO-001 označava Srbiju i kontrolno telo broj 001, dok DE-ÖKO-006 označava nemačko telo broj 006.
+
+**Q: Da li 'prirodno' i 'domaće' znače isto što i 'organski'?**
+
+Ne. Reči 'prirodno', 'domaće', 'tradicionalno' i 'sa farme' nisu pravno regulisane i bilo ko ih može staviti na pakovanje. Samo oznaka 'organski', 'bio' ili 'eko' uz zvaničan sertifikat garantuje kontrolisanu proizvodnju.
+
+**Q: Ko u Srbiji izdaje sertifikat za organske proizvode?**
+
+Sertifikate izdaju kontrolne organizacije koje je ovlastilo Ministarstvo poljoprivrede Republike Srbije. Aktuelna lista akreditovanih tela dostupna je na sajtu minpolj.gov.rs, a sertifikat se obnavlja svake godine nakon nove kontrole.
+
+---
+
 ## Letnja tabule salata sa kinoom, paradajzom i paprikom
 
 https://unazdravahrana.com/recepti/letnja-tabule-salata-sa-kinoom-paradajzom-i-paprikom
@@ -661,30 +685,6 @@ Da, quinoa i svi ostali sastojci u receptu su prirodno bez glutena. Ipak, uvek p
 ## 6 vitamina i suplemenata koje ne treba piti nagladno
 
 https://unazdravahrana.com/blog/6-vitamina-i-suplemenata-koje-ne-treba-piti-nagladno
-
----
-
-## Letnja salata sa heljdom, malinama i tostiranim bademima
-
-https://unazdravahrana.com/recepti/letnja-salata-sa-heljdom-malinama-i-tostiranim-bademima
-
-Osvežavajuća letnja salata sa heljdom, malinama i tostiranim bademima — bez glutena, gotova za 35 minuta. Lagan i sit obrok za tople dane.
-
-**Q: Da li salata odgovara osobama sa intolerancijom na gluten?**
-
-Da, heljda uprkos imenu nije žitarica i prirodno je bez glutena. Proverite samo da je pakovanje označeno kao 'bez glutena' jer se ponekad prerađuje u pogonima gde ima i pšenice.
-
-**Q: Mogu li da koristim smrznute maline?**
-
-Možete, ali ih ne odmrzavajte potpuno — dodajte ih poluzaleđene tik pred serviranje da ne puste previše soka i ne ofarbaju heljdu u ružičasto.
-
-**Q: Koliko dugo salata ostaje sveža za poneti na posao?**
-
-U dobro zatvorenoj posudi u frižideru do 48 sati. Ako je nosite na posao, dresing držite odvojeno i prelijte je tek pred jelo — heljda će ostati rastresita.
-
-**Q: Da li mogu da zamenim med nečim drugim?**
-
-Naravno — javorov sirup ili sirup od agave dobro funkcionišu. Ako želite potpuno bez zaslađivača, dodajte pola zrele breskve iseckane sitno, ona će uneti prirodnu slatkoću u dresing.
 
 ---
 
