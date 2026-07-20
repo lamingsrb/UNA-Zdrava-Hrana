@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Voće i povrće u istoj salati? 6 letnjih ideja
+
+https://unazdravahrana.com/blog/voce-i-povrce-u-istoj-salati-6-letnjih-ideja
+
+Vodič kroz šest letnjih salata koje spajaju voće i povrće u istoj činiji, uz osnovno pravilo balansa slatkog, slanog, kiselog i hrskavog. Kombinacije poput lubenice sa fetom, paradajza sa breskvom i kinoe sa mangom hidriraju i hrane bez kuvanja.
+
+**Q: Da li se voće i povrće smeju kombinovati u istoj salati?**
+
+Da, voće i povrće se odlično slažu u istoj salati. Voće daje prirodnu slatkoću pa nije potreban šećer u prelivu, povrće daje strukturu i vlakna, a kombinacija boja donosi širi spektar vitamina u jednom obroku.
+
+**Q: Koje je osnovno pravilo za dobru letnju salatu?**
+
+Dobra letnja salata treba da sadrži četiri elementa: slatko (voće), slano (sir ili maslina), kiselo (limun ili sirće) i hrskavo (orašasti plodovi ili semenke). Ako su sva četiri prisutna, salata je uravnotežena i sita.
+
+**Q: Zašto se lubenica soli pre serviranja?**
+
+Ako lubenicu posolite 5 minuta pre serviranja, pustiće sok koji pomešan sa maslinovim uljem postaje prirodan preliv. So takođe pojačava slatkoću lubenice i pravi bolju ravnotežu ukusa.
+
+**Q: Da li je salata dovoljan obrok leti?**
+
+Uz dodatak kinoe, leblebija, jajeta ili grilovane piletine, salata sa voćem i povrćem postaje pun obrok sa vlaknima, dobrim mastima i belančevinama. Bez dodataka je odličan lagan ručak ili prilog.
+
+---
+
 ## Šta nutricionisti retko jedu — i šta rade umesto toga
 
 https://unazdravahrana.com/blog/sta-nutricionisti-retko-jedu-i-sta-rade-umesto-toga
@@ -664,28 +688,4 @@ Sveže maline najbolje je pojesti u roku od 1-2 dana. Ne perite ih dok ih ne bud
 
 ---
 
-## Celijakija i nadutost: kada je vreme za pregled
-
-https://unazdravahrana.com/blog/celijakija-i-nadutost-kada-je-vreme-za-pregled
-
-Celijakija je autoimuna bolest koja oštećuje tanko crevo posle unosa glutena, a nadutost, umor i problemi sa stolicom su česti znaci. Dijagnoza počinje krvnim testom na anti-tTG IgA antitela, i ključno je ne izbacivati gluten pre testiranja.
-
-**Q: Kako da znam da li imam celijakiju ili samo osetljivost na gluten?**
-
-Celijakija se potvrđuje krvnim testom na anti-tTG IgA antitela i biopsijom tankog creva, dok kod neceljakijske osetljivosti nema antitela ni oštećenja creva. Ako imate nadutost, anemiju ili umor duže od 4-6 nedelja, obratite se lekaru pre nego što sami izbacite gluten.
-
-**Q: Zašto ne smem da izbacim gluten pre testa na celijakiju?**
-
-Ako izbacite gluten mesec dana pre analize, antitela padaju i test može biti lažno negativan, pa se dijagnoza propušta. Gluten treba nastaviti da unosite normalno sve do završetka krvnog testa i eventualne biopsije.
-
-**Q: Koliko brzo se trbuh naduva posle glutena kod celijakije?**
-
-Nadutost se obično javlja 30 minuta do 2 sata posle obroka sa hlebom, testeninom ili pivom, i jača je uveče nego ujutru. Često je prati umor posle ručka i osećaj magle u glavi.
-
-**Q: Da li je bezglutenska ishrana automatski zdrava?**
-
-Nije — industrijski bezglutenski proizvodi često sadrže mnogo šećera, škroba i loših masti. Osnova zdrave bezglutenske ishrane su povrće, mahunarke, jaja, meso, riba, pirinač, heljda, proso i kvinoa.
-
----
-
-Last updated: 2026-07-19
+Last updated: 2026-07-20
