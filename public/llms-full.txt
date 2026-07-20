@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja salata od spelte sa paradajzom i breskvom
+
+https://unazdravahrana.com/recepti/letnja-salata-od-spelte-sa-paradajzom-i-breskvom
+
+Sveža letnja salata od spelte sa paradajzom, breskvom i bademima. Zasitan i lagan obrok gotov za 45 minuta.
+
+**Q: Da li spelta mora da se namače pre kuvanja?**
+
+Nije obavezno, ali ako je namočite 2–3 sata skratićete vreme kuvanja za oko 10 minuta i zrna će biti mekša.
+
+**Q: Mogu li da koristim konzervirane breskve?**
+
+Preporučujemo svežu, sezonsku breskvu jer daje najbolji ukus i teksturu. Konzervirane su preslatke i menjaju karakter salate.
+
+**Q: Da li je spelta pogodna za osobe sa intolerancijom na gluten?**
+
+Ne. Spelta sadrži gluten, pa nije pogodna za osobe sa celijakijom ili osetljivošću na gluten. Kao zamenu možete koristiti heljdu ili proso.
+
+**Q: Kako da znam da je spelta dobro skuvana?**
+
+Kuvana spelta treba da bude mekana spolja, ali sa laganim otporom pri zagrizu — slično kao al dente testenina.
+
+---
+
 ## Mislite da pravilno perete voće i povrće? Evo grešaka
 
 https://unazdravahrana.com/blog/mislite-da-pravilno-perete-voce-i-povrce-evo-gresaka
@@ -661,30 +685,6 @@ Jeste — blaga je, hranljiva i lako se jede rukama u kockicama. Za mlađu decu 
 **Q: Mogu li da je pripremim unapred za sutrašnji ručak?**
 
 Naravno. Napravite je uveče, ohladite i čuvajte u frižideru. Sutradan podgrejte kratko u rerni ili jedite hladnu uz salatu od svežeg paradajza.
-
----
-
-## Letnji rižoto sa ječmom, paradajzom i paprikom
-
-https://unazdravahrana.com/recepti/letnji-rizoto-sa-jecmom-paradajzom-i-paprikom
-
-Kremast letnji rižoto od integralnog ječma sa zrelim paradajzom, paprikom i bosiljkom — sit, zdrav i jednostavan za pripremu.
-
-**Q: Da li se ječam mora prethodno namakati?**
-
-Perlirani (oljušteni) ječam ne mora — dovoljno je da ga isperete. Ako imate integralni ječam sa ljuskom, namakanje preko noći ubrzava kuvanje.
-
-**Q: Mogu li da napravim rižoto bez glutena?**
-
-Ječam sadrži gluten, pa nije pogodan za osobe sa celijakijom. Kao zamenu možete koristiti proso ili kinou uz kraće vreme kuvanja.
-
-**Q: Koliko dugo se čuva u frižideru?**
-
-Do 3 dana u zatvorenoj posudi. Prilikom podgrevanja dodajte malo tople vode i sveže листове bosiljka.
-
-**Q: Da li deca vole ovo jelo?**
-
-Da, kremasta tekstura i blagi ukus paradajza i paprike prijaju deci. Ako ne vole komadiće, paradajz malo izblendujте pre dodavanja.
 
 ---
 
