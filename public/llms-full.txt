@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Mislite da pravilno perete voće i povrće? Evo grešaka
+
+https://unazdravahrana.com/blog/mislite-da-pravilno-perete-voce-i-povrce-evo-gresaka
+
+Tekst objašnjava zašto brzo ispiranje pod slavinom nije dovoljno i navodi najčešće greške pri pranju voća i povrća. Daje konkretan sistem po grupama plodova i osvrće se na efikasnost sirćeta i sode bikarbone.
+
+**Q: Da li treba prati voće koje se guli?**
+
+Da. Kada sečete lubenicu, dinju ili agrume, nož prenosi bakterije i tragove prskanja sa kore u sredinu ploda, pa uvek operite spoljašnjost pre sečenja.
+
+**Q: Kada treba prati voće i povrće — odmah po kupovini ili pred jelo?**
+
+Pred jelo. Vlaga ubrzava kvarenje, posebno kod jagoda i malina, koje oprane unapred plesnive za par dana.
+
+**Q: Da li soda bikarbona uklanja pesticide?**
+
+Delimično. Studija Univerziteta Massachusetts Amherst pokazala je da 15-minutno potapanje u razblažen rastvor sode bikarbone uklanja više ostataka pesticida nego obična voda, ali ne u potpunosti.
+
+**Q: Kako pravilno oprati pečurke?**
+
+Pečurke ne treba držati pod jakim mlazom niti dugo potapati jer upijaju vodu i postaju gumene. Obrišite ih vlažnom krpom ili ih kratko isperite neposredno pre kuvanja.
+
+---
+
 ## Voće i povrće u istoj salati? 6 letnjih ideja
 
 https://unazdravahrana.com/blog/voce-i-povrce-u-istoj-salati-6-letnjih-ideja
@@ -661,30 +685,6 @@ Do 3 dana u zatvorenoj posudi. Prilikom podgrevanja dodajte malo tople vode i sv
 **Q: Da li deca vole ovo jelo?**
 
 Da, kremasta tekstura i blagi ukus paradajza i paprike prijaju deci. Ako ne vole komadiće, paradajz malo izblendujте pre dodavanja.
-
----
-
-## Letnja bowl činija sa prosom, paprikom i malinama
-
-https://unazdravahrana.com/recepti/letnja-bowl-cinija-sa-prosom-paprikom-i-malinama
-
-Letnja bowl činija sa prosom, pečenom paprikom, paradajzom i prelivom od malina — lagan i hranljiv obrok bez glutena za 40 minuta.
-
-**Q: Da li je proso pogodno za osobe sa intolerancijom na gluten?**
-
-Da, proso je prirodno bez glutena i predstavlja odličnu alternativu pšenici. Ako ste osetljivi, proverite na pakovanju oznaku 'bez glutena' — u UNA radnji imamo takve varijante.
-
-**Q: Mogu li da pripremim ovu činiju unapred za posao?**
-
-Da, možete skuvati proso i ispeći papriku dan ranije. Ujutru samo sklopite sve u činiju, a preliv i sveže maline dodajte pred jelo da ostanu sveži.
-
-**Q: Šta ako mi je proso gorko?**
-
-Proso ima prirodnu blagu gorčinu koja se skoro potpuno uklanja ispiranjem pod hladnom vodom pre kuvanja. Ispirajte dok voda ne postane bistra.
-
-**Q: Koliko dugo mogu da čuvam maline u frižideru?**
-
-Sveže maline najbolje je pojesti u roku od 1-2 dana. Ne perite ih dok ih ne budete koristili, jer brže omekšaju.
 
 ---
 
