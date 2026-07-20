@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja tabule salata sa kinoom, paradajzom i paprikom
+
+https://unazdravahrana.com/recepti/letnja-tabule-salata-sa-kinoom-paradajzom-i-paprikom
+
+Osvežavajuća letnja tabule salata sa kinoom, paradajzom, paprikom i svežim začinskim biljem. Gotova za 30 minuta, bez glutena i puna ukusa.
+
+**Q: Mogu li da pripremim salatu dan ranije?**
+
+Možete pripremiti kinou i iseckati povrće, ali preliv i sveže začinsko bilje dodajte tek pred serviranje da salata ostane sveža i hrskava.
+
+**Q: Da li je ova salata bez glutena?**
+
+Da, kinoa prirodno ne sadrži gluten, pa je salata pogodna za osobe sa intolerancijom. Proverite deklaracije svih sastojaka.
+
+**Q: Kako da kinoa ne bude gorka?**
+
+Obavezno je isperite pod hladnom vodom pre kuvanja — tako uklanjate saponine koji daju gorak ukus.
+
+**Q: Šta mogu da dodam za više proteina?**
+
+Odlično se slaže sa kuvanim leblebijama, tofuom na roštilju ili grilovanom piletinom — dobijate kompletan obrok.
+
+---
+
 ## Letnja salata od spelte sa paradajzom i breskvom
 
 https://unazdravahrana.com/recepti/letnja-salata-od-spelte-sa-paradajzom-i-breskvom
@@ -661,30 +685,6 @@ U dobro zatvorenoj posudi u frižideru do 48 sati. Ako je nosite na posao, dresi
 **Q: Da li mogu da zamenim med nečim drugim?**
 
 Naravno — javorov sirup ili sirup od agave dobro funkcionišu. Ako želite potpuno bez zaslađivača, dodajte pola zrele breskve iseckane sitno, ona će uneti prirodnu slatkoću u dresing.
-
----
-
-## Letnja frittata sa paprikom, paradajzom i bosiljkom
-
-https://unazdravahrana.com/recepti/letnja-frittata-sa-paprikom-paradajzom-i-bosiljkom
-
-Letnja frittata sa paprikom, paradajzom, bosiljkom i semenkama suncokreta — zdrav, brz recept za 40 minuta, idealan za ručak ili užinu.
-
-**Q: Mogu li da napravim frittatu bez tiganja koji ide u rernu?**
-
-Da. Povrće propržite u običnom tiganju, pa sve prebacite u nauljenu vatrostalnu posudu, prelijte jajima i pecite u rerni 18–20 minuta na 190°C.
-
-**Q: Kako da frittata ostane sočna, a ne suva?**
-
-Ključ je da je ne prepečete — čim se sredina stegne i lagano zatalasa na dodir, izvadite je iz rerne. Kašika mleka u smesi takođe pomaže mekoći.
-
-**Q: Da li je pogodna za decu?**
-
-Jeste — blaga je, hranljiva i lako se jede rukama u kockicama. Za mlađu decu smanjite biber i beli luk, a bosiljak dodajte sitno iseckan.
-
-**Q: Mogu li da je pripremim unapred za sutrašnji ručak?**
-
-Naravno. Napravite je uveče, ohladite i čuvajte u frižideru. Sutradan podgrejte kratko u rerni ili jedite hladnu uz salatu od svežeg paradajza.
 
 ---
 
