@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zeleni smoothie: izvor gvožđa i vitamina C
+
+https://unazdravahrana.com/blog/zeleni-smoothie-izvor-gvozdja-i-vitamina-c
+
+Zeleni smoothie kombinuje lisnato povrće bogato gvožđem i voće sa vitaminom C, čime se prirodno povećava apsorpcija gvožđa iz biljne hrane. Tekst nudi formulu 1-1-1-1 plus tečnost, pregled najkorisnijih sastojaka i tri gotove kombinacije za različite profile korisnika.
+
+**Q: Zašto se u zeleni smoothie kombinuju spanać i voće bogato vitaminom C?**
+
+Vitamin C značajno povećava apsorpciju non-heme gvožđa iz biljne hrane, pa spanać uz kivi, jagode ili pomorandžu daje mnogo bolji efekat nego samostalno konzumiran.
+
+**Q: Koja je osnovna formula za pripremu zelenog smoothieja?**
+
+Formula 1-1-1-1 plus tečnost: šaka lisnatog povrća, šoljica voća, kremasta baza poput banane ili avokada, kašika superhrane i 200-300 ml tečnosti.
+
+**Q: Da li deca mogu da piju zeleni smoothie?**
+
+Mogu, jer kombinacija banane i smrznutih jagoda sa spanaćem daje ružičastu boju i sladak ukus, tako da deca ni ne primete zeleno povrće.
+
+**Q: Koliko spiruline se stavlja u smoothie?**
+
+Dovoljno je pola do jedne kašičice dnevno, a početnicima se preporučuje pola kašičice uz bananu i bobice koje maskiraju izražen ukus alge.
+
+---
+
 ## Letnja hladna činija sa jogurtom, breskvom i chia
 
 https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-jogurtom-breskvom-i-chia
@@ -679,30 +703,6 @@ Prema mediteranskom obrascu ishrane, preporučuje se 2 do 4 supene kašike masli
 **Q: Kako prepoznati kvalitetno maslinovo ulje pri degustaciji?**
 
 Kvalitetno ekstra devičansko ulje ima svež miris na travu, paradajz ili zelenu jabuku i blago zapeče u grlu zbog oleokantala. Gorčina i pikantnost su znak kvaliteta, dok miris na užeglu mast, karton ili plastelin znači da je ulje pokvareno.
-
----
-
-## 4 vrste voća koje mogu smanjiti rizik od raka dojke
-
-https://unazdravahrana.com/blog/4-vrste-voca-koje-mogu-smanjiti-rizik-od-raka-dojke
-
-Tekst predstavlja četiri vrste voća — bobičasto voće, nar, citruse i jabuke sa kruškama — koje se u istraživanjima povezuju sa manjim rizikom od raka dojke zahvaljujući vlaknima i antioksidansima. Daje praktične savete o količinama, oblicima i načinu uklapanja u svakodnevnu ishranu.
-
-**Q: Koje voće najviše pomaže u smanjenju rizika od raka dojke?**
-
-Bobičasto voće (borovnice, maline, kupine, jagode), nar, citrusi i jabuke sa kruškama najčešće se pominju u istraživanjima jer sadrže antocijane, elagičnu kiselinu, flavanone i vlakna koja podržavaju zdravlje ćelija dojke.
-
-**Q: Koliko voća dnevno treba jesti za zdravlje dojke?**
-
-Svetska zdravstvena organizacija preporučuje najmanje 400 g voća i povrća dnevno. Za bobičasto voće to je 1–2 šake, za citruse jedan ceo plod, a za jabuke ili kruške jedan komad sa korom.
-
-**Q: Da li smrznuto bobičasto voće ima istu vrednost kao sveže?**
-
-Da, smrznute bobice zadržavaju antocijane i često imaju višu nutritivnu vrednost od svežih koje danima stoje u frižideru. Praktične su za smutije, ovsenu kašu i jogurt tokom cele godine.
-
-**Q: Može li voće samo po sebi sprečiti rak dojke?**
-
-Ne. Voće doprinosi smanjenju rizika kao deo uravnotežene ishrane, ali ne zamenjuje redovne preglede, fizičku aktivnost, kontrolu težine i izbegavanje alkohola, koji su jači faktori zaštite.
 
 ---
 
