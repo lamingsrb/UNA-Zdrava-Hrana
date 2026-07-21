@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji hladni tabuli sa krastavcem, paradajzom i mentom
+
+https://unazdravahrana.com/recepti/letnji-hladni-tabuli-sa-krastavcem-paradajzom-i-mentom
+
+Osvežavajući letnji tabuli sa integralnim kus-kusom, paradajzom, krastavcem i mentom. Gotov za 30 minuta, idealan za vruće dane.
+
+**Q: Mogu li da pripremim salatu dan ranije?**
+
+Da, čak je i bolja sledećeg dana. Preporučujemo da bundevine semenke dodate tek pred serviranje da ostanu hrskave.
+
+**Q: Čime da zamenim mentu ako je nemam?**
+
+Odličan izbor je i sveži bosiljak ili kombinacija peršuna i malo korijandera. Menta ipak daje najosvežavajući ton u letnjim danima.
+
+**Q: Da li je recept pogodan za decu?**
+
+Jeste, samo smanjite količinu mente i luka ako deca nisu navikla na intenzivnije ukuse. Bundevine semenke sitnije iseckajte za najmlađe.
+
+**Q: Kako da salata ne bude vodenasta?**
+
+Nakon sečenja paradajza i krastavca ocedite višak soka. Krastavac možete i posoliti pa ostaviti 10 minuta u cediljki da pusti vodu.
+
+---
+
 ## 5 razloga zašto vam magnezijum glicinat ne pomaže da spavate
 
 https://unazdravahrana.com/blog/5-razloga-zasto-vam-magnezijum-glicinat-ne-pomaze-da-spavate
@@ -679,30 +703,6 @@ Odlično idu i borovnice, ribizle ili sitno seckana breskva — svaka od ovih va
 **Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
 
 Uz zamenu pšeničnog brašna heljdinim ili pirinčanim, recept postaje bez glutena. Za konkretne zdravstvene potrebe uvek se posavetujte sa lekarom ili nutricionistom.
-
----
-
-## Letnja quinoa salata sa breskvom, paprikom i čia semenkama
-
-https://unazdravahrana.com/recepti/letnja-quinoa-salata-sa-breskvom-paprikom-i-cia-semenkama
-
-Osvežavajuća letnja salata sa quinoom, sočnom breskvom, pečenom paprikom i čia semenkama — lagan i sit obrok bez glutena za 35 minuta.
-
-**Q: Da li mogu da pripremim salatu dan ranije?**
-
-Možete pripremiti quinou, pečenu papriku i preliv dan ranije i držati odvojeno u frižideru. Breskvu, rukolu i bosiljak dodajte tek pred serviranje da ostanu sveži.
-
-**Q: Čime da zamenim breskvu ako je ne volim?**
-
-Odlično funkcionišu kajsije, nektarine ili čak zrele kruške. Za slaniju verziju možete dodati i pola avokada isečenog na kockice.
-
-**Q: Da li je ova salata pogodna za osobe sa intolerancijom na gluten?**
-
-Da, quinoa i svi ostali sastojci u receptu su prirodno bez glutena. Ipak, uvek proverite deklaraciju na pakovanju quinoe da nije rađena u pogonu sa žitaricama koje sadrže gluten.
-
-**Q: Koliko dugo čia semenke ostaju hrskave u salati?**
-
-Čia semenke apsorbuju vlagu, pa ako želite hrskavu teksturu, pospite ih neposredno pred serviranje. Ako vam ne smeta mekša tekstura, možete ih dodati i ranije — tada preliv postaje malo gušći.
 
 ---
 
