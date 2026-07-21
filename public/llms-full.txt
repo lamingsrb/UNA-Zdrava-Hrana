@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja hladna činija sa jogurtom, breskvom i chia
+
+https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-jogurtom-breskvom-i-chia
+
+Osvežavajuća letnja činija sa jogurtom, breskvom, chia semenkama i bademima. Bez pečenja, gotova za 15 minuta — idealna za vruće dane.
+
+**Q: Mogu li chia semenke da zamenim nekim drugim semenkama?**
+
+Da, lanene semenke (mlevene) daju sličan gel efekat. Semenke bosiljka takođe bubre u vodi i osvežavajuće su za leto.
+
+**Q: Da li je ovaj recept prigodan za decu?**
+
+Jeste — prirodno sladak od voća i meda, bez rafinisanog šećera. Za mlađu decu smanjite količinu chia semenki i dobro ih namočite da budu mekše.
+
+**Q: Koliko dugo mogu da čuvam gotovu činiju?**
+
+Najbolje je pojesti odmah, ali može stajati u frižideru do 12 sati. Listiće badema dodajte tek pred serviranje da ostanu hrskavi.
+
+**Q: Da li je ovo dovoljno za pun doručak?**
+
+Za lakši doručak jeste, oko 340 kcal po porciji sa proteinima i mastima. Ako trenirate ujutru, dodajte kašiku putera od kikirikija ili integralni tost sa strane.
+
+---
+
 ## Letnji hladni tabuli sa krastavcem, paradajzom i mentom
 
 https://unazdravahrana.com/recepti/letnji-hladni-tabuli-sa-krastavcem-paradajzom-i-mentom
@@ -679,30 +703,6 @@ Da, smrznute bobice zadržavaju antocijane i često imaju višu nutritivnu vredn
 **Q: Može li voće samo po sebi sprečiti rak dojke?**
 
 Ne. Voće doprinosi smanjenju rizika kao deo uravnotežene ishrane, ali ne zamenjuje redovne preglede, fizičku aktivnost, kontrolu težine i izbegavanje alkohola, koji su jači faktori zaštite.
-
----
-
-## Letnje pljeskavice od proje sa paprikom i malinama
-
-https://unazdravahrana.com/recepti/letnje-pljeskavice-od-proje-sa-paprikom-i-malinama
-
-Letnje pljeskavice od integralne proje sa paprikom, uz svežu salsu od paradajza i malina. Lagan sezonski recept za 45 minuta.
-
-**Q: Mogu li pljeskavice da pržim umesto da pečem u rerni?**
-
-Možete, ali pečenje u rerni znatno smanjuje količinu masnoće i olakšava varenje. Ako ipak birate tiganj, koristite minimum ulja i pecite na srednjoj vatri.
-
-**Q: Da li deca vole ovaj recept?**
-
-Uglavnom da, jer je kukuruzno brašno prirodno blago slatkasto. Ako deca ne vole komade paprike, sitno je izrendajte pre nego što je dodate u smesu.
-
-**Q: Čime da zamenim maline ako ih nemam?**
-
-Odlično idu i borovnice, ribizle ili sitno seckana breskva — svaka od ovih varijanti daje svežinu i blagu slatkoću koja se lepo slaže sa paradajzom.
-
-**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
-
-Uz zamenu pšeničnog brašna heljdinim ili pirinčanim, recept postaje bez glutena. Za konkretne zdravstvene potrebe uvek se posavetujte sa lekarom ili nutricionistom.
 
 ---
 
