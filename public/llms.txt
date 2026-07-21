@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [5 razloga zašto vam magnezijum glicinat ne pomaže da spavate](https://unazdravahrana.com/blog/5-razloga-zasto-vam-magnezijum-glicinat-ne-pomaze-da-spavate)
 - [Organske oznake u Srbiji: kako prepoznati pravi bio proizvod](https://unazdravahrana.com/blog/organske-oznake-u-srbiji-kako-prepoznati-pravi-bio-proizvod)
 - [Letnja tabule salata sa kinoom, paradajzom i paprikom](https://unazdravahrana.com/recepti/letnja-tabule-salata-sa-kinoom-paradajzom-i-paprikom)
 - [Letnja salata od spelte sa paradajzom i breskvom](https://unazdravahrana.com/recepti/letnja-salata-od-spelte-sa-paradajzom-i-breskvom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Letnja salata od pira sa paradajzom i breskvom](https://unazdravahrana.com/recepti/letnja-salata-od-pira-sa-paradajzom-i-breskvom)
 - [Letnja proso kaša sa paradajzom i bosiljkom](https://unazdravahrana.com/recepti/letnja-proso-kasa-sa-paradajzom-i-bosiljkom)
 - [Zdrav doručak, ručak i večera: dnevni jelovnik](https://unazdravahrana.com/blog/zdrav-dorucak-rucak-i-vecera-dnevni-jelovnik)
-- [5 dodataka koje kombinovati sa magnezijumom](https://unazdravahrana.com/blog/5-dodataka-koje-kombinovati-sa-magnezijumom)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-20
+Last updated: 2026-07-21

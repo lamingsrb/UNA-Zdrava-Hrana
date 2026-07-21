@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 razloga zašto vam magnezijum glicinat ne pomaže da spavate
+
+https://unazdravahrana.com/blog/5-razloga-zasto-vam-magnezijum-glicinat-ne-pomaze-da-spavate
+
+Tekst objašnjava pet najčešćih razloga zašto magnezijum glicinat ne daje efekat na san: premala doza elementarnog magnezijuma, pogrešno vreme uzimanja, uzrok nesanice koji nije u manjku minerala, neodgovarajući oblik magnezijuma i nedostatak kofaktora poput B6 i vitamina D. Nudi praktične savete i tabelu poređenja oblika magnezijuma.
+
+**Q: Koliko magnezijum glicinata treba popiti za san?**
+
+Bitna je količina elementarnog magnezijuma na deklaraciji, ne ukupna masa glicinata. Dnevni unos iz hrane i suplementa zajedno kreće se oko 300–400 mg, a jedna kapsula od 100 mg često nije dovoljna. Tačnu dozu potvrdite sa lekarom ili farmaceutom.
+
+**Q: Kada je najbolje vreme za uzimanje magnezijum glicinata?**
+
+Za san se najčešće uzima 30 do 60 minuta pre spavanja, uz laganu užinu. Neki ga cepaju u dve doze - jedna posle podne, jedna pred spavanje - za mirniji ulazak u san.
+
+**Q: Zašto magnezijum glicinat ne deluje na moju nesanicu?**
+
+Ako je uzrok nesanice stres, plava svetlost sa telefona, kofein, alkohol ili zdravstveno stanje poput apneje ili anksioznosti, magnezijum ima ograničen domet. On pomaže kada je san narušen napetošću mišića, grčevima ili stvarnim manjkom minerala.
+
+**Q: Koji oblik magnezijuma je najbolji za spavanje?**
+
+Glicinat (bisglicinat) i treonat se najčešće preporučuju za san jer smiruju nervni sistem i blagi su za stomak. Ako glicinat ne radi za vas, možda vam odgovara drugi oblik ili kombinacija, što je najbolje odabrati uz konsultaciju u apoteci ili prodavnici zdrave hrane.
+
+---
+
 ## Organske oznake u Srbiji: kako prepoznati pravi bio proizvod
 
 https://unazdravahrana.com/blog/organske-oznake-u-srbiji-kako-prepoznati-pravi-bio-proizvod
@@ -682,10 +706,4 @@ Da, quinoa i svi ostali sastojci u receptu su prirodno bez glutena. Ipak, uvek p
 
 ---
 
-## 6 vitamina i suplemenata koje ne treba piti nagladno
-
-https://unazdravahrana.com/blog/6-vitamina-i-suplemenata-koje-ne-treba-piti-nagladno
-
----
-
-Last updated: 2026-07-20
+Last updated: 2026-07-21
