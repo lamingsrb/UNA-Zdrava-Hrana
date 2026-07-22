@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja hladna činija sa paradajzom, malinama i heljdom
+
+https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-paradajzom-malinama-i-heljdom
+
+Osvežavajuća letnja činija sa heljdom, paradajzom, malinama i bademima — lagan i sitan obrok bez glutena, gotov za 35 minuta.
+
+**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
+
+Da, heljda je prirodno bez glutena. Ako ste osetljivi, proverite na deklaraciji da je heljda iz pogona koji garantuje odsustvo unakrsne kontaminacije.
+
+**Q: Mogu li da izostavim med?**
+
+Naravno. Preliv će biti nešto oštriji, pa možete dodati koju krišku dodatne breskve za prirodnu slatkoću ili zameniti med javorovim sirupom.
+
+**Q: Koliko dugo mogu da čuvam obrok u frižideru?**
+
+Osnova sa heljdom i povrćem drži se do 24 sata u zatvorenoj posudi. Sveže voće i orašaste plodove najbolje je dodati neposredno pre serviranja.
+
+**Q: Da li je ovaj obrok dovoljan kao ručak?**
+
+Za lakši letnji ručak jeste — kombinuje složene ugljene hidrate, biljne masti i vlakna. Ako trenirate, dodajte kuvano jaje, tofu ili komad piletine za više proteina.
+
+---
+
 ## Letnja hladna činija od kefira, krastavca i badema
 
 https://unazdravahrana.com/recepti/letnja-hladna-cinija-od-kefira-krastavca-i-badema
@@ -679,30 +703,6 @@ Jeste, deca obično vole slatkast ukus breskve i cimeta. Za mlađu decu iseckaj 
 **Q: Mogu li da koristim instant ovsene pahuljice?**
 
 Bolje su krupne, integralne pahuljice jer zadržavaju teksturu i daju duže osećaj sitosti. Instant pahuljice će postati previše meke i kašaste.
-
----
-
-## Letnja kaša od heljde sa breskvom i malinama
-
-https://unazdravahrana.com/recepti/letnja-kasa-od-heljde-sa-breskvom-i-malinama
-
-Kremasta letnja kaša od heljde sa sočnom breskvom, malinama i bademima. Zdrav doručak bez glutena, gotov za 30 minuta.
-
-**Q: Mogu li da koristim smrznute maline umesto svežih?**
-
-Da, smrznute maline su odlična zamena van sezone. Ostavite ih 10-15 minuta na sobnoj temperaturi da se malo otkrave pre serviranja, ili ih umešajte u toplu kašu da puste sok.
-
-**Q: Da li je ova kaša pogodna za osobe sa intolerancijom na gluten?**
-
-Heljda je prirodno bez glutena uprkos imenu. Ako imate potvrđenu celijakiju, obavezno birajte heljdu sa oznakom „bez glutena" jer može doći do unakrsne kontaminacije tokom prerade.
-
-**Q: Kako da smanjim količinu šećera u receptu?**
-
-Zrela breskva i maline daju dovoljno prirodne slatkoće, pa slobodno izostavite med ili ga smanjite na kašičicu. Cimet dodatno pojačava utisak slatkoće bez šećera.
-
-**Q: Da li mogu unapred da pripremim kašu za celu radnu nedelju?**
-
-Preporučujemo pripremu za 2-3 dana unapred. Kašu čuvajte u frižideru u staklenim teglama, a voće i orašaste plodove dodajte tek pre serviranja da ostanu sveži i hrskavi.
 
 ---
 
