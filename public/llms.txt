@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Manuka med: šta ga izdvaja i kako se koristi](https://unazdravahrana.com/blog/manuka-med-sta-ga-izdvaja-i-kako-se-koristi)
 - [Zeleni smoothie: izvor gvožđa i vitamina C](https://unazdravahrana.com/blog/zeleni-smoothie-izvor-gvozdja-i-vitamina-c)
 - [Letnja hladna činija sa jogurtom, breskvom i chia](https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-jogurtom-breskvom-i-chia)
 - [Letnji hladni tabuli sa krastavcem, paradajzom i mentom](https://unazdravahrana.com/recepti/letnji-hladni-tabuli-sa-krastavcem-paradajzom-i-mentom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Letnja hladna supa od paradajza i breskve sa bademima](https://unazdravahrana.com/recepti/letnja-hladna-supa-od-paradajza-i-breskve-sa-bademima)
 - [Letnja salata od amaranta sa paprikom i breskvom](https://unazdravahrana.com/recepti/letnja-salata-od-amaranta-sa-paprikom-i-breskvom)
 - [Topli čaj bolje hladi telo od ledenih napitaka](https://unazdravahrana.com/blog/topli-caj-bolje-hladi-telo-od-ledenih-napitaka)
-- [Crni beli luk: fermentisani superheroj koji nije ljut](https://unazdravahrana.com/blog/crni-beli-luk-fermentisani-superheroj-koji-nije-ljut)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-21
+Last updated: 2026-07-22

@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Manuka med: šta ga izdvaja i kako se koristi
+
+https://unazdravahrana.com/blog/manuka-med-sta-ga-izdvaja-i-kako-se-koristi
+
+Manuka med sa Novog Zelanda sadrži visok nivo metilglioksala (MGO), a oznake MGO i UMF pokazuju njegovu koncentraciju i kvalitet. Koristi se u ishrani i nezi kože, ali samo hladan, jer visoke temperature uništavaju njegova aktivna jedinjenja.
+
+**Q: Šta je manuka med i po čemu se razlikuje od običnog?**
+
+Manuka med potiče sa Novog Zelanda i Australije, gde pčele skupljaju nektar sa cveta manuka žbuna. Razlikuje se od običnog meda po visokom sadržaju metilglioksala (MGO), gušćoj karamelastoj teksturi i specifičnom zemljanom ukusu.
+
+**Q: Šta znače oznake MGO i UMF na manuka medu?**
+
+MGO označava koncentraciju metilglioksala u miligramima po kilogramu meda, dok je UMF novozelandski sistem ocenjivanja koji uzima više sastojaka u obzir. UMF 10+ otprilike odgovara MGO 260+, a UMF 15+ vrednosti MGO 514+.
+
+**Q: Koji MGO manuka med da izaberem za svakodnevnu upotrebu?**
+
+Za većinu domaćinstava koja žele da isprobaju manuku, MGO 100–250 je razuman i ekonomičan izbor. Nema smisla plaćati MGO 800 ako ga stavljate u čaj ili jogurt.
+
+**Q: Da li se manuka med sme stavljati u vruć čaj?**
+
+Ne, jer visoke temperature razgrađuju osetljiva jedinjenja i uništavaju enzime. Sačekajte da se piće ohladi do oko 40°C, pa tek onda dodajte manuka med.
+
+---
+
 ## Zeleni smoothie: izvor gvožđa i vitamina C
 
 https://unazdravahrana.com/blog/zeleni-smoothie-izvor-gvozdja-i-vitamina-c
@@ -682,28 +706,4 @@ Realni okvir je od 3 do 6 nedelja doslednog uključivanja fermentisane hrane u i
 
 ---
 
-## Maslinovo ulje: od tanjira do kože, vodič bez mistifikacije
-
-https://unazdravahrana.com/blog/maslinovo-ulje-od-tanjira-do-koze-vodic-bez-mistifikacije
-
-Praktičan vodič za izbor, degustaciju, upotrebu i čuvanje ekstra devičanskog maslinovog ulja u domaćoj kuhinji. Objašnjava oznake na etiketi, razliku između sirove i termičke upotrebe i preporučeni dnevni unos od 2 do 4 kašike.
-
-**Q: Šta znači oznaka ekstra devičansko maslinovo ulje?**
-
-Ekstra devičansko (extra virgin) je najviši kvalitet maslinovog ulja, dobijen hladnim ceđenjem, sa slobodnim masnim kiselinama ispod 0,8%. Ima punu aromu i najviše polifenola, za razliku od rafinisanog ulja koje se često prodaje pod nazivom samo maslinovo ulje.
-
-**Q: Sme li se pržiti na maslinovom ulju?**
-
-Sme, jer ekstra devičansko ima tačku dimljenja između 190 i 210°C, što je više od uobičajenih temperatura kućne pripreme. Međutim, za duboko prženje bolje je koristiti jednostavnije ulje, a dobru flašu čuvati za salate i završne prelive.
-
-**Q: Koliko maslinovog ulja dnevno je dovoljno?**
-
-Prema mediteranskom obrascu ishrane, preporučuje se 2 do 4 supene kašike maslinovog ulja dnevno, ukupno iz svih izvora. Jedna kašika ima oko 13–14 grama i približno 120 kalorija.
-
-**Q: Kako prepoznati kvalitetno maslinovo ulje pri degustaciji?**
-
-Kvalitetno ekstra devičansko ulje ima svež miris na travu, paradajz ili zelenu jabuku i blago zapeče u grlu zbog oleokantala. Gorčina i pikantnost su znak kvaliteta, dok miris na užeglu mast, karton ili plastelin znači da je ulje pokvareno.
-
----
-
-Last updated: 2026-07-21
+Last updated: 2026-07-22
