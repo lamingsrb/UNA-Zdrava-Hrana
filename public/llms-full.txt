@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja hladna činija od kefira, krastavca i badema
+
+https://unazdravahrana.com/recepti/letnja-hladna-cinija-od-kefira-krastavca-i-badema
+
+Osvežavajuća letnja činija sa kefirom, krastavcem, breskvom i bademima — gotova za 20 minuta, savršena za vrele dane.
+
+**Q: Mogu li ovu činiju jesti deca?**
+
+Naravno, deca je obično vole zbog slatkoće breskve i meda. Za najmlađe smanjite količinu semenki i dobro sitno iseckajte bademe kako biste izbegli rizik od gušenja.
+
+**Q: Da li je pogodna posle treninga?**
+
+Jeste — kombinuje proteine iz kefira, zdrave masti iz badema i lako svarljive ugljene hidrate iz voća, što podržava oporavak posle letnjih treninga.
+
+**Q: Koliko dugo mogu držati chia semenke otvorene?**
+
+U dobro zatvorenoj tegli, na suvom i tamnom mestu, chia semenke ostaju sveže i do godinu dana. U UNA ih možete kupiti u manjim količinama pa uvek imate sveže zalihe.
+
+**Q: Mogu li koristiti smrznute maline umesto breskve?**
+
+Da, maline se odlično slažu sa kefirom. Sačekajte da se malo odmrznu pa ih dodajte na vrh — daće činiji lepu ružičastu boju i blagu kiselost.
+
+---
+
 ## Manuka med: šta ga izdvaja i kako se koristi
 
 https://unazdravahrana.com/blog/manuka-med-sta-ga-izdvaja-i-kako-se-koristi
@@ -679,30 +703,6 @@ Zrela breskva i maline daju dovoljno prirodne slatkoće, pa slobodno izostavite 
 **Q: Da li mogu unapred da pripremim kašu za celu radnu nedelju?**
 
 Preporučujemo pripremu za 2-3 dana unapred. Kašu čuvajte u frižideru u staklenim teglama, a voće i orašaste plodove dodajte tek pre serviranja da ostanu sveži i hrskavi.
-
----
-
-## Postbiotici: šta su, čemu služe i kako ih uneti
-
-https://unazdravahrana.com/blog/postbiotici-sta-su-cemu-sluze-i-kako-ih-uneti
-
-Postbiotici su korisna jedinjenja koja nastaju kada probiotičke bakterije fermentišu vlakna u crevima i podržavaju sluznicu, probavu i imunitet. Najlakše ih unosimo kroz fermentisanu hranu poput jogurta, kefira, kiselog kupusa i kombuhe, uz dovoljno vlakana iz zobi, mahunarki i povrća.
-
-**Q: Šta su postbiotici jednostavnim rečima?**
-
-Postbiotici su korisne materije koje nastaju kada dobre bakterije u crevima razgrade vlakna i fermentišu hranu. To su kratkolančane masne kiseline (poput butirata), peptidi i drugi metaboliti koji hrane sluznicu creva i podržavaju ravnotežu mikrobioma.
-
-**Q: Koja je razlika između probiotika, prebiotika i postbiotika?**
-
-Probiotici su žive korisne bakterije, prebiotici su vlakna kojima se te bakterije hrane, a postbiotici su korisna jedinjenja koja bakterije proizvedu kao rezultat svog rada. Sva tri deluju zajedno na zdravlje creva.
-
-**Q: U kojoj hrani se nalaze postbiotici?**
-
-Postbiotike unosimo kroz fermentisanu hranu: kiselo mleko, jogurt, kefir, zrele sireve, nepasterizovan kiseli kupus, kisele paprike, kimči, kombuhu, kvas od cvekle, miso, tempeh i hleb sa prirodnim kvascem.
-
-**Q: Za koliko vremena se osete efekti fermentisane hrane?**
-
-Realni okvir je od 3 do 6 nedelja doslednog uključivanja fermentisane hrane u ishranu. Tada se najčešće primeti redovnija probava, manji osećaj težine posle jela i bolje podnošenje vlakana.
 
 ---
 
