@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Rashlađujuća letnja činija sa kokosom i malinama
+
+https://unazdravahrana.com/recepti/rashladjujuca-letnja-cinija-sa-kokosom-i-malinama
+
+Rashlađujuća letnja činija sa chia semenkama, breskvom, malinama i bademima. Zdrav doručak ili užina bez pečenja — gotovo za 20 minuta.
+
+**Q: Mogu li da pripremim činiju veče ranije?**
+
+Da, chia baza se pravi i preko noći — čak je i bolja jer se semenke potpuno rašire. Sveže voće, bademe i mentu dodajte tek pred serviranje.
+
+**Q: Šta ako nemam sveže maline?**
+
+Zamrznute maline sasvim lepo rade — samo ih ostavite 10-15 minuta na sobnoj temperaturi da omekšaju. Prirodni sok koji puste dodatno će obojiti prеliv.
+
+**Q: Da li je recept pogodan za decu?**
+
+Jeste, ali chia semenke uvek dobro potopite (bar 2 sata) da omekšaju. Kod manje dece iseckajte bademe sitnije ili ih izostavite.
+
+**Q: Koliko dugo se čuva u frižideru?**
+
+Sastavljena činija najbolja je odmah, ali chia baza bez voća ostaje sveža do 3 dana u zatvorenoj posudi u frižideru.
+
+---
+
 ## Letnja hladna činija sa jogurtom, paradajzom i chia
 
 https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-jogurtom-paradajzom-i-chia
@@ -679,30 +703,6 @@ Najčešće greške su premalo povrća na tanjiru, dodavanje bele pekarske robe 
 ## 5 dodataka koje kombinovati sa magnezijumom
 
 https://unazdravahrana.com/blog/5-dodataka-koje-kombinovati-sa-magnezijumom
-
----
-
-## Vitamini i minerali za mršavljenje: šta stvarno radi
-
-https://unazdravahrana.com/blog/vitamini-i-minerali-za-mrsavljenje-sta-stvarno-radi
-
-Tekst objašnjava koji vitamini i minerali mogu podržati mršavljenje kada ishrana ne pokriva sve potrebe, sa fokusom na magnezijum, hrom, B kompleks i vitamin D. Navodi konkretne oblike, doze i vreme uzimanja, uz jasnu poruku da suplementi nisu zamena za tanjir i savet lekara.
-
-**Q: Koji je najbolji vitamin za mršavljenje?**
-
-Ne postoji jedan vitamin koji topi kilograme. Magnezijum, hrom, B kompleks i vitamin D najčešće se pominju jer podržavaju metabolizam, san i regulaciju šećera, ali samo kada ishrana ne pokriva potrebe.
-
-**Q: Da li magnezijum pomaže kod mršavljenja?**
-
-Magnezijum ne sagoreva masti direktno, ali poboljšava san, smanjuje grčeve i pomaže energetski metabolizam. Bolji san znači manje žudnje za brzim šećerima sledećeg dana, što indirektno olakšava mršavljenje.
-
-**Q: Kako hrom utiče na žudnju za slatkim?**
-
-Hrom učestvuje u načinu na koji telo koristi insulin i stabilizuje šećer u krvi. Stabilniji šećer znači manje naglih kriza za slatkim, obično poslepodne, ali efekat je postepen i traje nekoliko nedelja.
-
-**Q: Kada uzimati B kompleks za metabolizam?**
-
-B kompleks se uzima ujutru uz doručak jer može delovati blago stimulativno i ometati san. Ne pijte ga na prazan stomak da ne bi izazvao mučninu, i birajte uravnotežene doze sa aktivnim oblicima vitamina.
 
 ---
 
