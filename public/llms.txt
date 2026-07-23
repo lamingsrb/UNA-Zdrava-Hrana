@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Tajna savršenog smutija krije se u ovih 5 sastojaka](https://unazdravahrana.com/blog/tajna-savrsenog-smutija-krije-se-u-ovih-5-sastojaka)
 - [Letnja hladna činija sa paradajzom, malinama i heljdom](https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-paradajzom-malinama-i-heljdom)
 - [Letnja hladna činija od kefira, krastavca i badema](https://unazdravahrana.com/recepti/letnja-hladna-cinija-od-kefira-krastavca-i-badema)
 - [Manuka med: šta ga izdvaja i kako se koristi](https://unazdravahrana.com/blog/manuka-med-sta-ga-izdvaja-i-kako-se-koristi)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Pčelinji polen: vodič od žlice pre doručka](https://unazdravahrana.com/blog/pcelinji-polen-vodic-od-zlice-pre-dorucka)
 - [5 brzih i laganih letnjih recepata za doručak](https://unazdravahrana.com/blog/5-brzih-i-laganih-letnjih-recepata-za-dorucak)
 - [Piti kolagen – da ili ne? Iskren vodič bez fensi obećanja](https://unazdravahrana.com/blog/piti-kolagen-da-ili-ne-iskren-vodic-bez-fensi-obecanja)
-- [Letnja hladna supa od paradajza i breskve sa bademima](https://unazdravahrana.com/recepti/letnja-hladna-supa-od-paradajza-i-breskve-sa-bademima)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-22
+Last updated: 2026-07-23

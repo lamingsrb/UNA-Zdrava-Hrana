@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Tajna savršenog smutija krije se u ovih 5 sastojaka
+
+https://unazdravahrana.com/blog/tajna-savrsenog-smutija-krije-se-u-ovih-5-sastojaka
+
+Voćni smuti sam po sebi nije doručak jer bez vlakana, proteina i masti brzo diže i spušta energiju. Uz chia i lanene semenke, proteinski prah, bobičasto voće i biljna mleka postaje uravnotežen obrok koji dugo drži sitost.
+
+**Q: Zašto me voćni smuti brzo ogladni?**
+
+Jer je čaša samo od voća i soka koncentrisan izvor prirodnih šećera bez vlakana, proteina i masti. Telo ga brzo obradi, energija skoči pa padne, i za sat-dva ste ponovo gladni. Dodavanje chia semenki, proteina i masti usporava varenje i produžava sitost.
+
+**Q: Koliko chia semenki staviti u smuti?**
+
+Jedna do dve supene kašike (10–20 g) po čaši je sasvim dovoljno. Početnicima se savetuje da krenu sa jednom kašikom dnevno kako bi se stomak postepeno privikao na povećan unos vlakana.
+
+**Q: Da li lanene semenke moraju biti mlevene?**
+
+Da, cele lanene semenke uglavnom prođu kroz probavni sistem neisprobavljene. Da biste iskoristili omega-3 masne kiseline i vlakna, semenke morate samleti u mlinu ili kupiti već mlevene, a čuvati ih u frižideru u zatvorenoj tegli.
+
+**Q: Koji proteinski prah je najbolji za smuti?**
+
+Zavisi od potreba: surutkin (whey) je klasik za rekreativce, biljni (grašak, pirinač, konoplja) je odličan za vegane i osetljive stomake, a kolagen se lako meša ali nije kompletan protein. Bitno je da ima 18+ g proteina, manje od 3 g šećera i kratku listu sastojaka.
+
+---
+
 ## Letnja hladna činija sa paradajzom, malinama i heljdom
 
 https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-paradajzom-malinama-i-heljdom
@@ -682,28 +706,4 @@ Ne. Vitamini A, D, E i K su rastvorljivi u mastima, pa ih telo apsorbuje tek uz 
 
 ---
 
-## Letnja kremasta ovsena kaša sa breskvom i chia semenkama (hl
-
-https://unazdravahrana.com/recepti/letnja-kremasta-ovsena-kasa-sa-breskvom-i-chia-semenkama-hl
-
-Hladna ovsena kaša sa breskvom, chia semenkama i bademima — kremasti letnji doručak koji se priprema uveče. Bez kuvanja, gotov za 10 minuta.
-
-**Q: Mogu li da pripremim kašu bez chia semenki?**
-
-Možeš, ali chia daje kremastu, pudingastu teksturu jer upija tečnost. Ako je izostaviš, smanji količinu mleka za oko 50 ml da kaša ne bude previše retka.
-
-**Q: Koliko dugo kaša može da stoji u frižideru?**
-
-Do 3 dana u zatvorenoj tegli. Voće dodaj tek pre posluživanja da ostane sveže i sočno.
-
-**Q: Da li je ovaj recept pogodan za decu?**
-
-Jeste, deca obično vole slatkast ukus breskve i cimeta. Za mlađu decu iseckaj bademe sitnije ili ih izostavi zbog rizika od gušenja.
-
-**Q: Mogu li da koristim instant ovsene pahuljice?**
-
-Bolje su krupne, integralne pahuljice jer zadržavaju teksturu i daju duže osećaj sitosti. Instant pahuljice će postati previše meke i kašaste.
-
----
-
-Last updated: 2026-07-22
+Last updated: 2026-07-23
