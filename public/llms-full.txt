@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja hladna činija sa jogurtom, paradajzom i chia
+
+https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-jogurtom-paradajzom-i-chia
+
+Hladna letnja činija sa jogurtom, chia semenkama, paradajzom i breskvom — osvežavajući ručak gotov za 15 minuta, bez šporeta.
+
+**Q: Mogu li chia semenke da ostavim da bubre preko noći?**
+
+Da, to je čak i praktičnije. U jogurtu će chia semenke preko noći napraviti kremastu, puding teksturu koja je odlična za doručak sledećeg dana.
+
+**Q: Da li je ova činija dovoljna kao pun obrok?**
+
+Za lagani letnji ručak jeste — nudi belančevine iz jogurta, zdrave masti iz badema i chia semenki, i vlakna iz voća i povrća. Ako ste veoma aktivni, dodajte kuvane žitarice ili parče integralnog hleba.
+
+**Q: Kako da izaberem najbolji paradajz za ovaj recept?**
+
+Birajte zreo, mirisan paradajz iz sezone — domaći ili sa pijace. Čeri sorte daju slađi ukus, dok krupniji paradajz nosi više sokova. Izbegavajte hladan paradajz iz frižidera jer gubi aromu.
+
+**Q: Da li deca vole ovakvu kombinaciju?**
+
+Većina dece prihvata slatku notu breskve i kremast jogurt. Ako ne vole vidljive semenke, izmiksajte chia sa jogurtom štapnim mikserom pre dodavanja voća.
+
+---
+
 ## Tajna savršenog smutija krije se u ovih 5 sastojaka
 
 https://unazdravahrana.com/blog/tajna-savrsenog-smutija-krije-se-u-ovih-5-sastojaka
@@ -679,30 +703,6 @@ Hrom učestvuje u načinu na koji telo koristi insulin i stabilizuje šećer u k
 **Q: Kada uzimati B kompleks za metabolizam?**
 
 B kompleks se uzima ujutru uz doručak jer može delovati blago stimulativno i ometati san. Ne pijte ga na prazan stomak da ne bi izazvao mučninu, i birajte uravnotežene doze sa aktivnim oblicima vitamina.
-
----
-
-## 7 grešaka zbog kojih vaša salata i nije baš zdrava
-
-https://unazdravahrana.com/blog/7-gresaka-zbog-kojih-vasa-salata-i-nije-bas-zdrava
-
-Tekst objašnjava sedam najčešćih grešaka pri pripremi salate: siromašna baza od zelene salate, nedostatak proteina, kalorični kupovni prelivi, rafinisani hrskavi dodaci i izostavljanje zdravih masti. Uz svaku grešku data su konkretna rešenja, proporcije i zamene kojima se salata pretvara u pravi obrok.
-
-**Q: Zašto sam gladan sat vremena posle salate?**
-
-Najčešći razlog je nedostatak proteina. Salata bez izvora proteina telo tretira kao predjelo, a ne kao obrok. Dodajte 20–30 g proteina — dva kuvana jajeta, 150 g slanutka ili sočiva, tofu, piletinu ili tunjevinu — i sitost će trajati znatno duže.
-
-**Q: Koje je lisnato povrće najzdravije za salatu?**
-
-Tamnije vrste su nutritivno bogatije od ledene i klasične zelene salate. Spanać nudi gvožđe i folate, rukola vitamin K i kalcijum, radič vlakna, a baby kelj vitamine C i K. Najbolje je mešati nekoliko vrsta u istoj činiji.
-
-**Q: Kako se pravi zdrav preliv za salatu?**
-
-Osnovna proporcija je 3 dela ulja i 1 deo kiseline, uz so, biber i začin po izboru. Na primer: 3 kašike maslinovog ulja, 1 kašika jabukovog sirćeta ili limunovog soka, prstohvat soli i kašičica senfa. Gotovo za dva minuta i bez skrivenih šećera.
-
-**Q: Da li je salata bez ulja zdravija?**
-
-Ne. Vitamini A, D, E i K su rastvorljivi u mastima, pa ih telo apsorbuje tek uz malo masti. Dovoljne su 1–2 kašike hladno ceđenog ulja, šaka orašastih plodova ili pola avokada da iskoristite nutrijente iz povrća.
 
 ---
 
