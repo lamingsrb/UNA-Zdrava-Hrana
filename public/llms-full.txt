@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnje paprike punjene prosom i orasima
+
+https://unazdravahrana.com/recepti/letnje-paprike-punjene-prosom-i-orasima
+
+Letnje paprike punjene prosom, orasima i paradajzom: jednostavan, lagan i mirisan ručak iz rerne.
+
+**Q: Da li proso treba potapati pre kuvanja?**
+
+Nije neophodno, ali ga je važno dobro isprati u nekoliko voda. Tako će ukus biti prijatniji, a zrna rastresitija nakon kuvanja.
+
+**Q: Mogu li paprike da se pripreme unapred?**
+
+Da. Možete ih napuniti nekoliko sati ranije i držati pokrivene u frižideru, a zatim ispeći pred ručak.
+
+**Q: Da li je recept pogodan bez glutena?**
+
+Proso prirodno ne sadrži gluten, ali proverite deklaracije svih dodataka koje koristite ako pripremate obrok za osobu sa posebnom ishranom.
+
+**Q: Čime mogu zameniti svež paradajz?**
+
+Možete upotrebiti 200 g pasiranog paradajza bez dodatog šećera, pa ga dodajte direktno u smesu i na dno posude.
+
+---
+
 ## Kimči: fermentisana namirnica koja hrani vaša creva
 
 https://unazdravahrana.com/blog/kimci-fermentisana-namirnica-koja-hrani-vasa-creva
@@ -697,30 +721,6 @@ Možete, ali će izgubiti svežinu i vitamine. Ideja recepta je da topla kaša s
 **Q: Kako da recept učinim još sitijim za sportiste?**
 
 Dodajte 150 g kuvanog slanutka ili šaku bundevinih semenki uz suncokretove. Time povećavate udeo proteina i minerala, a jelo ostaje lagano za varenje.
-
----
-
-## Zdrav doručak, ručak i večera: dnevni jelovnik
-
-https://unazdravahrana.com/blog/zdrav-dorucak-rucak-i-vecera-dnevni-jelovnik
-
-Tekst predstavlja jednostavan plan zdrave ishrane zasnovan na pravilu tanjira: pola povrća, četvrtina proteina, četvrtina složenih ugljenih hidrata. Nudi konkretne predloge doručka, užine i ručka prilagođene porodicama, rekreativcima i osobama sa posebnim potrebama.
-
-**Q: Šta je pravilo tanjira u zdravoj ishrani?**
-
-Pravilo tanjira znači da pola tanjira treba da bude povrće (sveže ili termički obrađeno), četvrtina kvalitetan izvor proteina, četvrtina složeni ugljeni hidrati poput integralnih žitarica, mahunarki ili krompira, uz kašiku dobre masti kao što je maslinovo ulje, orasi ili avokado.
-
-**Q: Kako izgleda stabilan zdrav doručak?**
-
-Stabilan doručak sadrži proteine, vlakna i malo dobre masti — na primer ovsenu kašu sa orašastim plodovima i voćem, dva jajeta sa integralnim hlebom i povrćem, ili kiselo mleko sa ovsem i voćem. Takav obrok drži energiju tri do četiri sata bez pada šećera.
-
-**Q: Šta jesti za užinu da ne pojedemo previše na ručku?**
-
-Najjednostavnija užina je šaka orašastih plodova i jedno voće. Dobre alternative su kockica sira sa integralnim krekerima, kuvano jaje, kašika kikirikijevog putera na kriški hleba ili kvalitetna pločica sa orasima gde šećer nije među prva tri sastojka.
-
-**Q: Koje su najčešće greške tokom ručka?**
-
-Najčešće greške su premalo povrća na tanjiru, dodavanje bele pekarske robe uz svaki obrok umesto jedne kriške integralnog hleba, i svakodnevno prženje na dubokom ulju umesto pečenja u rerni ili kuvanja.
 
 ---
 
