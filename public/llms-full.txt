@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kimči: fermentisana namirnica koja hrani vaša creva
+
+https://unazdravahrana.com/blog/kimci-fermentisana-namirnica-koja-hrani-vasa-creva
+
+Kimči je korejsko fermentisano povrće bogato probiotskim bakterijama mlečne kiseline, vlaknima i vitaminima koji podržavaju raznovrsnost crevnog mikrobioma. Preporučena količina za odrasle je 2–3 kašike dnevno uz obrok, uz oprez kod osoba sa refluksom ili visokim pritiskom.
+
+**Q: Šta je kimči?**
+
+Kimči je tradicionalna korejska fermentisana namirnica napravljena od kineskog kupusa, belog luka, đumbira, mladog luka i korejske paprike gochugaru. Fermentacijom se razvijaju bakterije mlečne kiseline koje deluju kao prirodni probiotici.
+
+**Q: Koliko kimčija treba jesti dnevno?**
+
+Za većinu zdravih odraslih osoba preporučuje se 2–3 kašike (30–50 g) dnevno uz obrok. Početnici treba da krenu od jedne kašike dnevno i postepeno povećavaju količinu kako bi se creva prilagodila.
+
+**Q: Da li je kimči dobar za creva?**
+
+Da, kimči podržava zdravlje creva jer istovremeno donosi žive probiotske bakterije i vlakna koja te bakterije hrane. Studije pokazuju da redovna konzumacija fermentisane hrane povećava raznovrsnost mikrobioma i smanjuje markere upale.
+
+**Q: Ko ne bi trebalo da jede kimči?**
+
+Oprez se preporučuje osobama sa gastritisom, refluksom ili čirevima jer ljuti i kiseli sastojci mogu iritirati sluzokožu. Takođe, osobe na dijeti sa malo soli treba da vode računa jer kimči sadrži 500–800 mg natrijuma na 100 g.
+
+---
+
 ## Rashlađujuća letnja činija sa kokosom i malinama
 
 https://unazdravahrana.com/recepti/rashladjujuca-letnja-cinija-sa-kokosom-i-malinama
@@ -700,10 +724,4 @@ Najčešće greške su premalo povrća na tanjiru, dodavanje bele pekarske robe 
 
 ---
 
-## 5 dodataka koje kombinovati sa magnezijumom
-
-https://unazdravahrana.com/blog/5-dodataka-koje-kombinovati-sa-magnezijumom
-
----
-
-Last updated: 2026-07-23
+Last updated: 2026-07-24

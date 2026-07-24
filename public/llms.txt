@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Kimči: fermentisana namirnica koja hrani vaša creva](https://unazdravahrana.com/blog/kimci-fermentisana-namirnica-koja-hrani-vasa-creva)
 - [Rashlađujuća letnja činija sa kokosom i malinama](https://unazdravahrana.com/recepti/rashladjujuca-letnja-cinija-sa-kokosom-i-malinama)
 - [Letnja hladna činija sa jogurtom, paradajzom i chia](https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-jogurtom-paradajzom-i-chia)
 - [Tajna savršenog smutija krije se u ovih 5 sastojaka](https://unazdravahrana.com/blog/tajna-savrsenog-smutija-krije-se-u-ovih-5-sastojaka)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Letnji farro sa pečenom paprikom i malinama](https://unazdravahrana.com/recepti/letnji-farro-sa-pecenom-paprikom-i-malinama)
 - [Letnja kaša od ječma sa paprikom i malinama](https://unazdravahrana.com/recepti/letnja-kasa-od-jecma-sa-paprikom-i-malinama)
 - [Superhrana u prahu: spirulina, chlorella i maca](https://unazdravahrana.com/blog/superhrana-u-prahu-spirulina-chlorella-i-maca)
-- [Pčelinji polen: vodič od žlice pre doručka](https://unazdravahrana.com/blog/pcelinji-polen-vodic-od-zlice-pre-dorucka)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-23
+Last updated: 2026-07-24
