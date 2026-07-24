@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zelena mediteranska ishrana: šta je i kako početi
+
+https://unazdravahrana.com/blog/zelena-mediteranska-ishrana-sta-je-i-kako-poceti
+
+Zelena mediteranska ishrana je unapređena verzija klasične mediteranske ishrane koja naglašava biljne namirnice bogate polifenolima, poput zelenog lisnatog povrća, orašastih plodova i zelenog čaja. Ovaj pristup pruža telu više zaštitnih jedinjenja po kaloriji i može doprineti boljem zdravlju srca, krvnih sudova i metabolizma.
+
+**Q: Šta je zelena mediteranska ishrana?**
+
+Zelena mediteranska ishrana je varijanta klasičnog mediteranskog načina ishrane koja stavlja veći naglasak na biljne namirnice bogate polifenolima — prirodnim jedinjenjima koja doprinose zaštiti ćelija od oksidativnog stresa i imaju protivupalna svojstva.
+
+**Q: Koja je razlika između klasične i zelene mediteranske ishrane?**
+
+Zelena verzija sadrži više zelenog lisnatog povrća, orašastih plodova i zelenog čaja, a manje crvenog mesa i sira. Takođe često uključuje dodatak superhrane poput chia semenki, spiruline ili lanenog semena, s fokusom na veću gustinu hranljivih sastojaka i zaštitnih jedinjenja po kaloriji.
+
+**Q: Koje su ključne namirnice zelene mediteranske ishrane?**
+
+Ključne namirnice uključuju ekstra devičansko maslinovo ulje, zeleno lisnato povrće (rukola, kelj, spanać, blitva), orašaste plodove (posebno orahe i bademe), mahunarke (leblebija, soja, sočivo), integralne žitarice, zeleni čaj i semenke poput chia i lanenog semena.
+
+**Q: Koje su zdravstvene koristi zelene mediteranske ishrane?**
+
+Novija istraživanja sugerišu da ova ishrana može doprineti boljem profilu masti u krvi, zdravlju krvnih sudova, osetljivosti na insulin i zaštiti ćelija zahvaljujući visokom unosu polifenola i drugih zaštitnih jedinjenja.
+
+---
+
 ## Zapečena palenta sa paprikom i paradajzom
 
 https://unazdravahrana.com/recepti/zapecena-palenta-sa-paprikom-i-paradajzom
@@ -697,30 +721,6 @@ Crni beli luk može doprineti održavanju normalnog nivoa holesterola kao deo ur
 **Q: Kako prepoznati kvalitetan crni beli luk?**
 
 Kvalitetan crni beli luk je iznutra tamno smeđ do crn, mekan poput suve šljive, blagog sladunjavog mirisa sa notama balzamika. Na deklaraciji treba da piše samo beli luk, bez konzervansa, šećera i aroma.
-
----
-
-## Letnja salata od pira sa paradajzom i breskvom
-
-https://unazdravahrana.com/recepti/letnja-salata-od-pira-sa-paradajzom-i-breskvom
-
-Letnja salata od pira sa paradajzom, breskvom i bosiljkom — lagan i zdrav obrok gotov za 40 minuta. Recept i sastojci iz UNA radnje.
-
-**Q: Mogu li pir zameniti drugom žitaricom?**
-
-Da, odlično funkcionišu ječam, farro ili bulgur. Za bržu pripremu koristite kinou (kuva se 15 minuta) ili već kuvanu heljdu.
-
-**Q: Da li salata može da se pripremi unapred?**
-
-Može, i zapravo je ukusnija posle sat vremena stajanja. Preporuka je da bosiljak i tostirane bademe dodate tik pred služenje da zadrže svežinu i hrskavost.
-
-**Q: Da li je pir pogodan za osobe sa osetljivošću na gluten?**
-
-Pir sadrži gluten, iako u drugačijem obliku od moderne pšenice. Osobe sa celijakijom treba da ga izbegavaju i koriste bezglutenske žitarice poput kinoe ili heljde. Za zdravstvena pitanja konsultujte lekara.
-
-**Q: Koje breskve su najbolje za ovu salatu?**
-
-Zrele, čvrste breskve srednje slatkoće — ne prezrele jer se raspadnu. Nektarine su odlična alternativa, a jesu i praktičnije jer se ne moraju ljuštiti.
 
 ---
 
