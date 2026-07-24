@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zapečena palenta sa paprikom i paradajzom
+
+https://unazdravahrana.com/recepti/zapecena-palenta-sa-paprikom-i-paradajzom
+
+Zapečena organska palenta sa letnjom paprikom, paradajzom, mladim sirom i semenkama bundeve. Gotova za 45 minuta.
+
+**Q: Da li mogu da koristim instant palentu?**
+
+Možete. Pratite odnos vode i palente naveden na pakovanju, ali zadržite gustu teksturu kako bi se jelo lepo seklo nakon pečenja.
+
+**Q: Koja paprika je najbolja za ovaj recept?**
+
+Crvena paprika daje najviše slatkoće, ali možete koristiti i žutu ili kombinaciju više boja.
+
+**Q: Da li se palenta može pripremiti unapred?**
+
+Palentu možete skuvati i rasporediti u posudu nekoliko sati ranije. Povrće i ostale dodatke stavite neposredno pre pečenja.
+
+**Q: Čime mogu da zamenim mladi sir?**
+
+Možete koristiti sitni sir, blagi kozji sir ili jednostavno povećati količinu jogurta.
+
+---
+
 ## Letnje paprike punjene prosom i orasima
 
 https://unazdravahrana.com/recepti/letnje-paprike-punjene-prosom-i-orasima
@@ -697,30 +721,6 @@ Pir sadrži gluten, iako u drugačijem obliku od moderne pšenice. Osobe sa celi
 **Q: Koje breskve su najbolje za ovu salatu?**
 
 Zrele, čvrste breskve srednje slatkoće — ne prezrele jer se raspadnu. Nektarine su odlična alternativa, a jesu i praktičnije jer se ne moraju ljuštiti.
-
----
-
-## Letnja proso kaša sa paradajzom i bosiljkom
-
-https://unazdravahrana.com/recepti/letnja-proso-kasa-sa-paradajzom-i-bosiljkom
-
-Letnja proso kaša sa svežim paradajzom, bosiljkom i tostiranim semenkama — lagan i zasitan ručak bez glutena, gotov za 35 minuta.
-
-**Q: Da li je proso zaista bez glutena?**
-
-Da, proso je prirodno bez glutena i odlična je opcija za osobe sa celijakijom ili osetljivošću na gluten. Ipak, ako imate strogu dijetu, proverite da na pakovanju piše da je proizvedeno u pogonu bez unakrsne kontaminacije.
-
-**Q: Zašto isprati proso pre kuvanja?**
-
-Zrna prosa imaju tanak spoljašnji sloj koji može dati blago gorak ukus. Ispiranjem pod hladnom vodom taj sloj se uklanja, a gotova kaša ima blaži i prijatniji ukus.
-
-**Q: Mogu li paradajz dodati tokom kuvanja umesto na kraju?**
-
-Možete, ali će izgubiti svežinu i vitamine. Ideja recepta je da topla kaša samo malo zagreje sirov paradajz — tako ostaje sočan i letnji.
-
-**Q: Kako da recept učinim još sitijim za sportiste?**
-
-Dodajte 150 g kuvanog slanutka ili šaku bundevinih semenki uz suncokretove. Time povećavate udeo proteina i minerala, a jelo ostaje lagano za varenje.
 
 ---
 
