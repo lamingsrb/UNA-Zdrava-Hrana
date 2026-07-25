@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Hladna pirinača sa malinama i bademima
+
+https://unazdravahrana.com/recepti/hladna-pirinaca-sa-malinama-i-bademima
+
+Kremasta hladna pirinača sa malinama, bademima i chia — letnji doručak koji hladi i daje energiju. Recept za 45 min, 4 porcije.
+
+**Q: Mogu li koristiti običan beli pirinač?**
+
+Možete, ali integralni pirinač zadržava više vlakana i minerala, što ovom obroku daje veću hranljivu vrednost i duži osećaj sitosti. Beli pirinač će dati kremastiju teksturu, pa ako to voliše — probajte sa pola-pola.
+
+**Q: Da li smrznute maline odgovaraju?**
+
+Sasvim. Odmrznite ih na sobnoj temperaturi oko 30 minuta pre služenja, ili koristite rashlađene direktno iz frižidera. Smrznute maline su često brže ubrane i zadržavaju odličnu hranljivu vrednost.
+
+**Q: Koliko dugo se može držati u frižideru?**
+
+Osnovna smesa bez voća i prelive može stajati do 3 dana u zatvorenoj posudi. Sa dodacima na vrhu je najbolje jesti isti dan, jer bademi gube hrskavost, a maline puštaju sok.
+
+**Q: Da li je ovo jelo pogodno za decu?**
+
+Da, deca obično vole kremastu teksturu i slatkoću koju daju urme i maline. Za mlađu decu smanjite količinu kardamoma, a bademe možete samleti u prah radi lakše konzumacije.
+
+---
+
 ## Najbolje vreme za doručak pri visokom holesterolu
 
 https://unazdravahrana.com/blog/najbolje-vreme-za-dorucak-pri-visokom-holesterolu
@@ -697,30 +721,6 @@ Naravno. Ako ne volite intenzivan ukus, koristite samo pola čena ili ga potpuno
 **Q: Koje breskve su najbolje za ovaj recept?**
 
 Zrele, mirišljave breskve sa sočnim mesom — što slađe to bolje, jer prirodna slatkoća balansira kiselost paradajza. Ako su nedozrele, dodajte kašičicu meda više.
-
----
-
-## Letnja salata od amaranta sa paprikom i breskvom
-
-https://unazdravahrana.com/recepti/letnja-salata-od-amaranta-sa-paprikom-i-breskvom
-
-Letnja salata od amaranta sa breskvom, paprikom i bademima — lagan, bezglutenski recept gotov za 30 minuta. Osvežavajuć ručak za tople dane.
-
-**Q: Da li je amarant bez glutena?**
-
-Da, amarant je prirodno bez glutena, pa je odličan izbor za osobe sa intolerancijom na gluten ili one koji žele raznovrsniju ishranu bez pšenice.
-
-**Q: Mogu li da pripremim salatu unapred za posao?**
-
-Možete. Skuvajte amarant i iseckajte povrće veče ranije, a preliv i bademe dodajte tek pred jelo da salata ostane sveža.
-
-**Q: Čime da zamenim bademe ako imam alergiju?**
-
-Umesto badema koristite semenke suncokreta ili bundeve — takođe ih kratko tostirajte u suvom tiganju da pojačate ukus.
-
-**Q: Da li salata odgovara deci?**
-
-Da, ukusi su blagi i slatkasti zahvaljujući breskvi. Za mlađu decu možete izostaviti biber i sitnije iseckati sastojke.
 
 ---
 
