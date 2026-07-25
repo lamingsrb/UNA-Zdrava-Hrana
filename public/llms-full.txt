@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja pazarišna činija sa pirinčom i breskvom
+
+https://unazdravahrana.com/recepti/letnja-pazarisna-cinija-sa-pirincom-i-breskvom
+
+Osvežavajuća letnja činija sa integralnim pirinčem, breskvom i paradajzom — brz, zdrav i lak obrok za vrele dane.
+
+**Q: Da li mogu da koristim beli pirinač umesto integralnog?**
+
+Možete, ali integralni pirinač daje više vlakana i minerala, a lepo upija preliv i ukuse. Ako koristite beli, skratite vreme kuvanja na 15 minuta.
+
+**Q: Kada je najbolje služiti ovu činiju?**
+
+Idealna je za lak ručak u vrelim danima ili kao ranu večeru. Rashlađena je najukusnija, a može poslužiti i kao prilog uz pečeno meso ili ribu.
+
+**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
+
+Da — pirinač, breskve, paradajz i chia su prirodno bez glutena. Proverite samo oznaku na pakovanju pirinča ako ste posebno osetljivi.
+
+**Q: Mogu li dodati orašaste plodove za hrskavost?**
+
+Naravno — pečeni bademi ili orasi odlično idu uz ovu kombinaciju. Dobar začin su i sjemenke suncokreta ili buče za dodatnu teksturu.
+
+---
+
 ## Hladna pirinača sa malinama i bademima
 
 https://unazdravahrana.com/recepti/hladna-pirinaca-sa-malinama-i-bademima
@@ -697,30 +721,6 @@ Za opšti efekat na kožu, kosu i nokte najbolji je hidrolizovani tip I ili komb
 **Q: Kada je najbolje piti kolagen?**
 
 Nema stroge dogme — može ujutru na prazan stomak, u kafi, smutiju ili čaju uveče. Ključno je da bude svakodnevna navika i da se uzima uz vitamin C, koji je neophodan za sintezu novog kolagena.
-
----
-
-## Letnja hladna supa od paradajza i breskve sa bademima
-
-https://unazdravahrana.com/recepti/letnja-hladna-supa-od-paradajza-i-breskve-sa-bademima
-
-Osvežavajuća hladna supa od paradajza i breskve sa tostiranim bademima i chia semenkama — letnji recept gotov za 30 minuta.
-
-**Q: Mogu li da napravim supu unapred za goste?**
-
-Da, čak je i preporučljivo. Napravite je jutro ranije i držite u frižideru — ukusi se prožmu i supa dobija na dubini. Bademe za dekoraciju dodajte tek pred serviranje da ostanu hrskavi.
-
-**Q: Šta ako mi je supa previše gusta ili previše retka?**
-
-Ako je gusta, dodajte malo hladne vode ili kockicu leda pri blendanju. Ako je retka, dodajte krišku integralnog hleba natopljenu u supu i ponovo izblendajte — to je klasičan trik iz gaspaho tradicije.
-
-**Q: Da li mogu da izostavim beli luk?**
-
-Naravno. Ako ne volite intenzivan ukus, koristite samo pola čena ili ga potpuno izostavite. Supa će biti blaža i pogodnija za decu.
-
-**Q: Koje breskve su najbolje za ovaj recept?**
-
-Zrele, mirišljave breskve sa sočnim mesom — što slađe to bolje, jer prirodna slatkoća balansira kiselost paradajza. Ako su nedozrele, dodajte kašičicu meda više.
 
 ---
 
