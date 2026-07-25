@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Šećer je najprihvaćenija zavisnost današnjice
+
+https://unazdravahrana.com/blog/secer-je-najprihvacenija-zavisnost-danasnjice
+
+Šećer deluje na isti sistem nagrađivanja u mozgu kao i druge navike, stvarajući ciklus žudnje i pada energije koji je teško prekinuti pukom voljom. Postupno uvlačenje prirodnih zamena poput eritritola, ksilitola, stevije i urma paste omogućava očuvanje slatkog ukusa bez skokova glukoze i zdravstvenih rizika.
+
+**Q: Da li šećer zaista stvara zavisnost?**
+
+Da — kada pojedete nešto slatko, mozak oslobađa dopamin, neurotransmiter povezan sa sistemom nagrađivanja. Industrijski prerađena hrana sadrži količine šećera koje prirodne namirnice nemaju, što dovodi do bržeg i intenzivnijeg oslobađanja dopamina nego što bi ga voće ili drugi prirodni izvori izazvali.
+
+**Q: Kako da znam da li jedem previše šećera?**
+
+Najčešći znaci su popodnevni pad energije između 14 i 16h kada vam treba nešto slatko, nemogućnost da zaustavite nakon jednog komada, obavezan sladak doručak te blaga razdražljivost ili nemir kada preskočite uobičajenu poslasticu. Ako prepoznate nekoliko ovih signala, vredi osvestiti unos i razmotriti pametnije izbore.
+
+**Q: Koja je najbolja prirodna zamena za šećer?**
+
+Eritritol je odličan izbor jer nema kalorija i ne diže glukozu u krvi, što ga čini pogodnim za pića i keto recepte. Stevia je 200 do 300 puta slađa od šećera bez kalorija, dok urma pasta pruža karamelast ukus uz vlakna i minerale. Izbor zavisi od namene — za pečenje, ksilitol se najviše približava ukusu šećera, ali je važno znati da je otrovan za pse.
+
+**Q: Koliko šećera dnevno je bezbedno unositi?**
+
+Svetska zdravstvena organizacija preporučuje da dodatni šećer čini manje od 10% ukupnog kalorijskog unosa, a idealno ispod 5%, što iznosi oko 25 grama dnevno za odraslu osobu prosečne potrošnje. Na primer, jedna limenka gaziranog pića sadrži oko 35 grama — što već prelazi dnevnu preporuku.
+
+---
+
 ## Letnja pazarišna činija sa pirinčom i breskvom
 
 https://unazdravahrana.com/recepti/letnja-pazarisna-cinija-sa-pirincom-i-breskvom
@@ -697,30 +721,6 @@ Spirulina se preporučuje u malim količinama (1/2 kašičice), ali osobe na ter
 **Q: Koji doručak je najbolji pre jutarnjeg treninga?**
 
 Ovsena kaša preko noći sa chia semenkama i voćem je idealna 45 minuta pre treninga jer daje sporo oslobađanje energije bez težine u stomaku.
-
----
-
-## Piti kolagen – da ili ne? Iskren vodič bez fensi obećanja
-
-https://unazdravahrana.com/blog/piti-kolagen-da-ili-ne-iskren-vodic-bez-fensi-obecanja
-
-Vodič objašnjava šta su hidrolizovani kolagenski peptidi, koji tipovi postoje i za koga su namenjeni. Navode se realne doze, trajanje uzimanja od 8-12 nedelja i najčešće greške kupaca.
-
-**Q: Da li kolagen zaista deluje na kožu?**
-
-Ozbiljne studije pokazuju blagi do umereni pozitivan efekat na elastičnost i hidrataciju kože posle 8-12 nedelja svakodnevnog uzimanja hidrolizovanog kolagena. Efekat nije trenutan i kolagen doprinosi, ali ne leči.
-
-**Q: Koja je pravilna dnevna doza kolagena?**
-
-Za kožu, kosu i nokte preporučuje se oko 2,5-10 g hidrolizovanog kolagena dnevno, za zglobove oko 10 g dnevno, a nedenaturisani UC-II za zglobove uzima se u dozi od oko 40 mg dnevno.
-
-**Q: Koji tip kolagena da izaberem?**
-
-Za opšti efekat na kožu, kosu i nokte najbolji je hidrolizovani tip I ili kombinacija tipova I i III, goveđeg ili morskog porekla. Rekreativci sa tegobama u zglobovima biraju nedenaturisani tip II (UC-II).
-
-**Q: Kada je najbolje piti kolagen?**
-
-Nema stroge dogme — može ujutru na prazan stomak, u kafi, smutiju ili čaju uveče. Ključno je da bude svakodnevna navika i da se uzima uz vitamin C, koji je neophodan za sintezu novog kolagena.
 
 ---
 
