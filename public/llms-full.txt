@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zašto je pečeni batat najbolji prirodni eliksir za kožu
+
+https://unazdravahrana.com/blog/zasto-je-peceni-batat-najbolji-prirodni-eliksir-za-kozu
+
+Batat je korenasto povrće koje se ističe po visokom sadržaju beta-karotena, vitamina C i vlakana, čime podržava zdravlje kože, vida i imunog sistema. Najbolji način pripreme je pečenje sa koricom, jer zadržava hranljive materije i pruža jednostavan način da se unese maksimum koristi u svakodnevnu ishranu.
+
+**Q: Za šta je sve batat dobar?**
+
+Batat je bogat beta-karotenom koji telo pretvara u vitamin A, te doprinosi zdravlju kože, sluzokože i normalnom vidu. Takođe sadrži vitamin C koji podržava imunitet, kalijum za regulaciju krvnog pritiska i vlakna koja podržavaju varenje.
+
+**Q: Kako se pravilno sprema pečeni batat?**
+
+Operite batat sa koricom, isecite na kriške debljine oko 1,5 cm, posolite ga i dodajte kašičicu maslinovog ulja. Pecite u rerni na 200°C između 25 i 35 minuta dok sredina ne postane meka, a ivice blago karamelizovane.
+
+**Q: Da li se batat jede sa koricom?**
+
+Da, preporučuje se jesti batat sa koricom, jer ona štiti unutrašnjost, sadrži značajnu količinu vlakana i pomaže u zadržavanju hranljivih materija tokom termičke obrade. Samo je potrebno dobro oprati pre pripreme.
+
+**Q: Kako se čuva batat kod kuće?**
+
+Batat treba čuvati na tamnom, suvom i prohladnom mestu na temperaturi od oko 12 do 15°C, poput podruma ili ostave. Ne čuva se u frižideru jer hladnoća menja teksturu, niti se pere pre čuvanja kako vlaga ne bi izazvala kvarenje.
+
+---
+
 ## Zelena mediteranska ishrana: šta je i kako početi
 
 https://unazdravahrana.com/blog/zelena-mediteranska-ishrana-sta-je-i-kako-poceti
@@ -700,28 +724,4 @@ Ne, zaslađeni ledeni čajevi iz flaše sa velikom količinom šećera nemaju ra
 
 ---
 
-## Crni beli luk: fermentisani superheroj koji nije ljut
-
-https://unazdravahrana.com/blog/crni-beli-luk-fermentisani-superheroj-koji-nije-ljut
-
-Crni beli luk je obični beli luk fermentisan 30-90 dana na 60-70°C, sladak i bez ljutine, bogat antioksidansima i S-alil-cisteinom (SAC). Preporučuje se 1-3 čena dnevno kao dodatak ishrani za podršku srcu i imunitetu, uz konsultaciju lekara ako se uzimaju lekovi za pritisak ili razređivači krvi.
-
-**Q: Šta je crni beli luk?**
-
-Crni beli luk je obični beli luk koji je 30-90 dana fermentisan na kontrolisanoj temperaturi od 60-70°C i visokoj vlažnosti. Rezultat je mekan, sladak, tamno smeđ do crn proizvod bez ljutine i tipičnog mirisa belog luka.
-
-**Q: Koliko crnog belog luka dnevno treba jesti?**
-
-Uobičajena preporuka za odrasle je 1-3 čena dnevno. Konzistentnost je važnija od tajminga – može se uzimati ujutru na prazan stomak, uz doručak ili uveče uz obrok.
-
-**Q: Da li crni beli luk snižava holesterol?**
-
-Crni beli luk može doprineti održavanju normalnog nivoa holesterola kao deo uravnotežene ishrane, zahvaljujući S-alil-cisteinu (SAC) i antioksidansima. On nije zamena za terapiju i ne leči povišen holesterol samostalno.
-
-**Q: Kako prepoznati kvalitetan crni beli luk?**
-
-Kvalitetan crni beli luk je iznutra tamno smeđ do crn, mekan poput suve šljive, blagog sladunjavog mirisa sa notama balzamika. Na deklaraciji treba da piše samo beli luk, bez konzervansa, šećera i aroma.
-
----
-
-Last updated: 2026-07-24
+Last updated: 2026-07-25
