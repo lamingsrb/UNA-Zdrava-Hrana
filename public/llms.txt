@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Integralna testenina u sosu od paprike i oraha](https://unazdravahrana.com/recepti/integralna-testenina-u-sosu-od-paprike-i-oraha)
 - [Šećer je najprihvaćenija zavisnost današnjice](https://unazdravahrana.com/blog/secer-je-najprihvacenija-zavisnost-danasnjice)
 - [Letnja pazarišna činija sa pirinčom i breskvom](https://unazdravahrana.com/recepti/letnja-pazarisna-cinija-sa-pirincom-i-breskvom)
 - [Hladna pirinača sa malinama i bademima](https://unazdravahrana.com/recepti/hladna-pirinaca-sa-malinama-i-bademima)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Letnja hladna činija sa jogurtom, breskvom i chia](https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-jogurtom-breskvom-i-chia)
 - [Letnji hladni tabuli sa krastavcem, paradajzom i mentom](https://unazdravahrana.com/recepti/letnji-hladni-tabuli-sa-krastavcem-paradajzom-i-mentom)
 - [5 razloga zašto vam magnezijum glicinat ne pomaže da spavate](https://unazdravahrana.com/blog/5-razloga-zasto-vam-magnezijum-glicinat-ne-pomaze-da-spavate)
-- [Organske oznake u Srbiji: kako prepoznati pravi bio proizvod](https://unazdravahrana.com/blog/organske-oznake-u-srbiji-kako-prepoznati-pravi-bio-proizvod)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-07-25
+Last updated: 2026-07-26

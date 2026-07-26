@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Integralna testenina u sosu od paprike i oraha
+
+https://unazdravahrana.com/recepti/integralna-testenina-u-sosu-od-paprike-i-oraha
+
+Brz letnji recept za integralnu testeninu u kremastom sosu od pečene paprike, paradajza i oraha.
+
+**Q: Da li može obična testenina umesto integralne?**
+
+Može, ali integralna testenina daje izraženiji ukus i puniju teksturu. Kuvajte je prema vremenu navedenom na pakovanju.
+
+**Q: Mogu li koristiti papriku iz tegle?**
+
+Možete kada žurite. Dobro je ocedite pre blendanja, a količinu soli u sosu prilagodite jer paprika iz tegle često već sadrži so.
+
+**Q: Da li je sos ljut?**
+
+Nije, jer se pravi od slatke crvene paprike. Ako volite pikantniji ukus, dodajte malo ljute paprike po želji.
+
+**Q: Kako da obrok bude još zasitniji?**
+
+Uz testeninu poslužite sezonsku salatu ili dodajte više oraha. Po želji možete ubaciti i šaku kuvanog pasulja u gotov sos.
+
+---
+
 ## Šećer je najprihvaćenija zavisnost današnjice
 
 https://unazdravahrana.com/blog/secer-je-najprihvacenija-zavisnost-danasnjice
@@ -700,28 +724,4 @@ Temperature iznad 40°C razgrađuju enzime i deo vitamina u polenu. Ako ga dodaj
 
 ---
 
-## 5 brzih i laganih letnjih recepata za doručak
-
-https://unazdravahrana.com/blog/5-brzih-i-laganih-letnjih-recepata-za-dorucak
-
-Tekst predstavlja pet brzih letnjih recepata za doručak koji se pripremaju za 5 do 15 minuta i ne opterećuju stomak po vrućini. Recepti kombinuju kompleksne ugljene hidrate, zdrave masti i proteine kroz namirnice poput ovsa, chia semenki, avokada, feta sira, spiruline i bobičastog voća.
-
-**Q: Šta znači lagan letnji doručak?**
-
-Lagan letnji doručak je kombinacija kompleksnih ugljenih hidrata sa vlaknima, malo kvalitetnih masti i dovoljno proteina, bez teških, masnih ili prženih namirnica koje po vrućini traže dugu digestiju.
-
-**Q: Koliko dugo se priprema ovsena kaša preko noći?**
-
-Priprema traje samo 5 minuta uveče: sastojci se sipaju u staklenu teglu, promešaju i ostave u frižideru do jutra, kada se dodaju sveže voće i orašasti plodovi.
-
-**Q: Da li je spirulina bezbedna za svakoga?**
-
-Spirulina se preporučuje u malim količinama (1/2 kašičice), ali osobe na terapiji za štitnu žlezdu ili sa autoimunim oboljenjima treba da se posavetuju sa lekarom pre redovnog uzimanja.
-
-**Q: Koji doručak je najbolji pre jutarnjeg treninga?**
-
-Ovsena kaša preko noći sa chia semenkama i voćem je idealna 45 minuta pre treninga jer daje sporo oslobađanje energije bez težine u stomaku.
-
----
-
-Last updated: 2026-07-25
+Last updated: 2026-07-26
