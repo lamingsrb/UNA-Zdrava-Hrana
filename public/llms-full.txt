@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Heljdine ćuftice u sosu od paradajza i paprike
+
+https://unazdravahrana.com/recepti/heljdine-cuftice-u-sosu-od-paradajza-i-paprike
+
+Pečene heljdine ćuftice u domaćem sosu od letnjeg paradajza i paprike. Jednostavan, ukusan ručak za 50 minuta.
+
+**Q: Da li ćuftice mogu bez jajeta?**
+
+Mogu. Umesto jajeta dodajte još 1 kašiku mlevenog lana pomešanu sa 3 kašike vode i ostavite 10 minuta da nabubri.
+
+**Q: Da li mogu da koristim kupovni paradajz sos?**
+
+Možete, ali birajte jednostavan sos bez dodatog šećera. Za letnji ukus, svež paradajz i paprika daju najlepšu aromu.
+
+**Q: Kako da ćuftice budu čvrste?**
+
+Najvažnije je dobro ocediti tikvicu i ostaviti smesu nekoliko minuta pre oblikovanja. Tako ovsene pahuljice upiju višak vlage.
+
+**Q: Uz šta mogu da poslužim ovo jelo?**
+
+Odlično ide uz salatu od krastavca, kupusa ili svežeg paradajza, kao i uz krišku integralnog hleba.
+
+---
+
 ## Integralna testenina u sosu od paprike i oraha
 
 https://unazdravahrana.com/recepti/integralna-testenina-u-sosu-od-paprike-i-oraha
@@ -697,30 +721,6 @@ Uobičajena doza je 1 kašičica (3–5 grama) dnevno, najbolje ujutru. Neki lju
 **Q: Kada je najbolje uzimati spirulinu?**
 
 Spirulinu je najbolje uzeti ujutru ili pre treninga, jer neki ljudi osete blagi porast energije. Izbegavajte je uveče. Najlakše se pije umešana u smuti od voća koje prikrije morski ukus.
-
----
-
-## Pčelinji polen: vodič od žlice pre doručka
-
-https://unazdravahrana.com/blog/pcelinji-polen-vodic-od-zlice-pre-dorucka
-
-Vodič o pčelinjem polenu objašnjava kako prepoznati kvalitetan proizvod po boji, mirisu i vlazi granula, te preporučuje postepeno uvođenje od pola kašičice do jedne kašike dnevno. Ističe najčešće greške poput izlaganja toploti, lošeg čuvanja i nepravilne pripreme koje poništavaju nutritivnu vrednost.
-
-**Q: Koliko pčelinjeg polena treba uzimati dnevno?**
-
-Odrasla osoba počinje sa pola kašičice prvih 3–5 dana, pa postepeno povećava do jedne kašike (10–15 g) dnevno, najbolje ujutru 15–20 minuta pre doručka.
-
-**Q: Da li deca smeju da jedu pčelinji polen?**
-
-Deca od 6 do 12 godina mogu uzimati 1/4 do 1/2 kašičice, ali samo uz saglasnost pedijatra. Deci mlađoj od 3 godine se ne preporučuje.
-
-**Q: Kako prepoznati kvalitetan pčelinji polen?**
-
-Kvalitetan polen ima najmanje 4–5 različitih boja granula, suv je na dodir, granule 'šuškaju' u tegli, a miris je cvetno-medni i blago slatkast.
-
-**Q: Zašto se pčelinji polen ne sme stavljati u vreo čaj?**
-
-Temperature iznad 40°C razgrađuju enzime i deo vitamina u polenu. Ako ga dodajete u napitak, sačekajte da se ohladi pre mešanja.
 
 ---
 
