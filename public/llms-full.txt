@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Prirodni suplementi za gvožđe: biljni izvori i saveti
+
+https://unazdravahrana.com/blog/prirodni-suplementi-za-gvozdje-biljni-izvori-i-saveti
+
+Vodič kroz biljne izvore gvožđa i prirodne suplemente poput spiruline i koprive, sa savetima kako da povećate apsorpciju uz vitamin C. Objašnjava koje namirnice i navike koče usvajanje gvožđa i zašto su feritin i krvna slika ključni pre svake suplementacije.
+
+**Q: Koji biljni izvori sadrže najviše gvožđa?**
+
+Najbogatiji biljni izvori gvožđa su bundevine semenke, susam i tahini, mahunarke poput sočiva, slanutka i belog pasulja, kuvani spanać, ovsene pahuljice, sušene kajsije, kopriva i spirulina u prahu.
+
+**Q: Kako da povećam apsorpciju gvožđa iz biljne hrane?**
+
+Uz svaki obrok sa gvožđem dodajte izvor vitamina C — limun, svežu papriku, paradajz, kivi, jagode ili narandžu. Vitamin C višestruko povećava apsorpciju nehem-gvožđa iz biljaka.
+
+**Q: Šta smanjuje apsorpciju gvožđa?**
+
+Kafa i crni čaj zbog tanina, mleko i mlečni proizvodi zbog kalcijuma, kalcijumovi suplementi i fitati iz mahunarki i žitarica. Kafu i čaj popijte sat pre ili dva sata posle obroka, a pasulj i sočivo namačite preko noći.
+
+**Q: Da li mogu da uzimam suplement gvožđa bez analize krvi?**
+
+Ne. Pre suplementacije uradite krvnu sliku, feritin i serumsko gvožđe i posavetujte se sa lekarom, jer višak gvožđa može biti štetan kao i manjak.
+
+---
+
 ## Heljdine ćuftice u sosu od paradajza i paprike
 
 https://unazdravahrana.com/recepti/heljdine-cuftice-u-sosu-od-paradajza-i-paprike
@@ -700,28 +724,4 @@ Možete, ali ih dodajte na toplu kašu odmah da se blago otope. Sveže maline sa
 
 ---
 
-## Superhrana u prahu: spirulina, chlorella i maca
-
-https://unazdravahrana.com/blog/superhrana-u-prahu-spirulina-chlorella-i-maca
-
-Vodič kroz tri najpopularnije superhrane u prahu — spirulinu, chlorellu i macu — sa jasnim dozama, ukusom i praktičnim savetima za uvođenje. Objašnjava kome koja odgovara i na šta obratiti pažnju pri kupovini.
-
-**Q: Koja superhrana u prahu je najbolja za početnike?**
-
-Spirulina se najčešće preporučuje početnicima jer ima podnošljiviji ukus od chlorelle, lako se meša u smuti od banane i borovnica, i donosi biljne proteine, gvožđe i B vitamine. Početna doza je 1–3 grama dnevno.
-
-**Q: Koja je razlika između spiruline i chlorelle?**
-
-Obe su zelene mikroalge, ali spirulina je bogatija proteinima (oko 60%) i lakša za piti, dok chlorella ima više vlakana i hlorofila. Chlorella mora imati oznaku 'broken cell wall' da bi je telo iskoristilo.
-
-**Q: Koliko maca praha se uzima dnevno?**
-
-Uobičajena doza je 1 kašičica (3–5 grama) dnevno, najbolje ujutru. Neki ljudi je uzimaju u ciklusima 5 dana da, 2 dana pauze. Osobe sa problemima štitne žlezde treba prvo da se posavetuju sa lekarom.
-
-**Q: Kada je najbolje uzimati spirulinu?**
-
-Spirulinu je najbolje uzeti ujutru ili pre treninga, jer neki ljudi osete blagi porast energije. Izbegavajte je uveče. Najlakše se pije umešana u smuti od voća koje prikrije morski ukus.
-
----
-
-Last updated: 2026-07-26
+Last updated: 2026-07-27
