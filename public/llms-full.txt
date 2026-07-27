@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnja salata od leblebija sa breskvom i paprikom
+
+https://unazdravahrana.com/recepti/letnja-salata-od-leblebija-sa-breskvom-i-paprikom
+
+Letnja salata od leblebija sa breskvom, paprikom i chia semenkama — svež, brz i hranljiv obrok bez glutena, gotov za 30 minuta.
+
+**Q: Mogu li da koristim leblebije iz konzerve?**
+
+Naravno, samo ih dobro isperite pod mlazom hladne vode da uklonite višak soli i tečnosti iz konzerve. Za 400 g kuvanih leblebija potrebne su vam dve manje konzerve.
+
+**Q: Da li je recept prikladan za osobe sa intolerancijom na gluten?**
+
+Da, svi navedeni sastojci su prirodno bez glutena. Ako imate izraženu osetljivost, proverite da su leblebije i semenke pakovane u pogonu bez unakrsne kontaminacije.
+
+**Q: Šta ako ne volim sirov crveni luk?**
+
+Možete ga zameniti mladim lukom ili vlašcem, ili ga potpuno izostaviti. Trik sa potapanjem u hladnu vodu ublažava oštrinu, pa ga vredi probati.
+
+**Q: Kako da salatu pretvorim u puniji obrok?**
+
+Dodajte kuvanu kinou ili heljdu (oko 150 g kuvano), ili je poslužite uz integralni hleb. Za više proteina odgovaraju feta, tofu ili kuvano jaje.
+
+---
+
 ## Prirodni suplementi za gvožđe: biljni izvori i saveti
 
 https://unazdravahrana.com/blog/prirodni-suplementi-za-gvozdje-biljni-izvori-i-saveti
@@ -697,30 +721,6 @@ Odlično idu semenke suncokreta ili bundeve, prethodno kratko tostirane. Daju sl
 **Q: Da li je ovo jelo dovoljno kao glavni obrok?**
 
 Jeste — farro donosi vlakna i biljne proteine, a bademi zdrave masti. Za veće apetite dodajte kuvano jaje ili sir za dodatne proteine.
-
----
-
-## Letnja kaša od ječma sa paprikom i malinama
-
-https://unazdravahrana.com/recepti/letnja-kasa-od-jecma-sa-paprikom-i-malinama
-
-Letnja kaša od ječma sa pečenom paprikom, malinama i semenkama — jednostavan, zasitan i sezonski recept sa sastojcima iz UNA radnje.
-
-**Q: Da li ječam mora da se namače pre kuvanja?**
-
-Integralni ječam ne mora obavezno da se namače, ali ako imate vremena, potapanje 2-3 sata skratiće kuvanje za oko 10 minuta i olakšati varenje.
-
-**Q: Mogu li deca da jedu ovu kašu?**
-
-Da, recept je prijateljski nastrojen prema deci. Za mlađu decu smanjite biber i belog luka, a maline i pečena paprika obično postignu odličan utisak zbog boje i slatkoće.
-
-**Q: Šta ako sam osetljiv na gluten?**
-
-Ječam sadrži gluten, pa nije pogodan za osobe sa celijakijom ili osetljivošću na gluten. Umesto njega koristite heljdu ili proso — donesite bezglutensku alternativu iz UNA radnje.
-
-**Q: Mogu li smrznute maline umesto svežih?**
-
-Možete, ali ih dodajte na toplu kašu odmah da se blago otope. Sveže maline sa pijace u sezoni ipak daju najbolju aromu i teksturu.
 
 ---
 
