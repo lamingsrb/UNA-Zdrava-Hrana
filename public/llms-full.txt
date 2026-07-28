@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Bio i lek bilje u Kragujevcu: gde tražiti i kako birati
+
+https://unazdravahrana.com/blog/bio-i-lek-bilje-u-kragujevcu-gde-traziti-i-kako-birati
+
+---
+
 ## Letnja salata od leblebija sa breskvom i paprikom
 
 https://unazdravahrana.com/recepti/letnja-salata-od-leblebija-sa-breskvom-i-paprikom
@@ -700,28 +706,4 @@ Ne dozvolite da postanete preterano gladni — jedite redovne obroke sa proteini
 
 ---
 
-## Letnji farro sa pečenom paprikom i malinama
-
-https://unazdravahrana.com/recepti/letnji-farro-sa-pecenom-paprikom-i-malinama
-
-Letnja salata sa farro žitaricom, pečenom paprikom, paradajzom, malinama i bademima. Lagan i sit obrok za 45 minuta.
-
-**Q: Da li se farro mora prethodno potapati?**
-
-Perlirani (oljušteni) farro ne mora — kuva se za 25-30 minuta. Ako imate integralnu, celu varijantu, potopite je u hladnu vodu 4-6 sati radi bržeg kuvanja.
-
-**Q: Mogu li salatu pripremiti unapred za goste?**
-
-Da. Skuvajte farro i ispecite papriku dan ranije i držite u frižideru odvojeno. Sve sastojke sjedinite 15-20 minuta pre serviranja, a maline i bosiljak dodajte na kraju.
-
-**Q: Čime da zamenim bademe ako imam alergiju?**
-
-Odlično idu semenke suncokreta ili bundeve, prethodno kratko tostirane. Daju sličnu hrskavost bez orašastih plodova.
-
-**Q: Da li je ovo jelo dovoljno kao glavni obrok?**
-
-Jeste — farro donosi vlakna i biljne proteine, a bademi zdrave masti. Za veće apetite dodajte kuvano jaje ili sir za dodatne proteine.
-
----
-
-Last updated: 2026-07-27
+Last updated: 2026-07-28
