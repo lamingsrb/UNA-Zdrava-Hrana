@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji chia puding sa breskvom i malinama
+
+https://unazdravahrana.com/recepti/letnji-chia-puding-sa-breskvom-i-malinama
+
+Kremasti chia puding sa sočnom breskvom i malinama — brz letnji doručak bez pečenja. Recept i sastojci u UNA radnji u Kragujevcu.
+
+**Q: Mogu li da koristim kravlje mleko umesto bademovog?**
+
+Naravno. Recept radi sa bilo kojim mlekom — kravljim, sojinim, ovsenim ili kokosovim. Ukus i gustina se malo razlikuju, ali chia će uvek napraviti kremastu strukturu.
+
+**Q: Zašto mi je chia puding ostao tečan?**
+
+Najčešće je razlog premalo vremena u frižideru ili neujednačeno mešanje. Obavezno promešajte dva puta u prvih 15 minuta i ostavite najmanje 4 sata da se semenke potpuno napiju tečnosti.
+
+**Q: Da li je pogodan za decu?**
+
+Jeste, deca ga obično vole zbog voća i blage slatkoće. Za najmlađe možete izostaviti med i osloniti se samo na slatkoću zrele breskve.
+
+**Q: Koliko dugo se čuva?**
+
+Osnovni puding bez svežeg voća stoji u frižideru do 3 dana. Sveže voće i pržene bademe dodajte tek neposredno pre serviranja.
+
+---
+
 ## Letnja salata od prosa sa paradajzom i breskvom
 
 https://unazdravahrana.com/recepti/letnja-salata-od-prosa-sa-paradajzom-i-breskvom
@@ -682,28 +706,4 @@ Pečurke ne treba držati pod jakim mlazom niti dugo potapati jer upijaju vodu i
 
 ---
 
-## Voće i povrće u istoj salati? 6 letnjih ideja
-
-https://unazdravahrana.com/blog/voce-i-povrce-u-istoj-salati-6-letnjih-ideja
-
-Vodič kroz šest letnjih salata koje spajaju voće i povrće u istoj činiji, uz osnovno pravilo balansa slatkog, slanog, kiselog i hrskavog. Kombinacije poput lubenice sa fetom, paradajza sa breskvom i kinoe sa mangom hidriraju i hrane bez kuvanja.
-
-**Q: Da li se voće i povrće smeju kombinovati u istoj salati?**
-
-Da, voće i povrće se odlično slažu u istoj salati. Voće daje prirodnu slatkoću pa nije potreban šećer u prelivu, povrće daje strukturu i vlakna, a kombinacija boja donosi širi spektar vitamina u jednom obroku.
-
-**Q: Koje je osnovno pravilo za dobru letnju salatu?**
-
-Dobra letnja salata treba da sadrži četiri elementa: slatko (voće), slano (sir ili maslina), kiselo (limun ili sirće) i hrskavo (orašasti plodovi ili semenke). Ako su sva četiri prisutna, salata je uravnotežena i sita.
-
-**Q: Zašto se lubenica soli pre serviranja?**
-
-Ako lubenicu posolite 5 minuta pre serviranja, pustiće sok koji pomešan sa maslinovim uljem postaje prirodan preliv. So takođe pojačava slatkoću lubenice i pravi bolju ravnotežu ukusa.
-
-**Q: Da li je salata dovoljan obrok leti?**
-
-Uz dodatak kinoe, leblebija, jajeta ili grilovane piletine, salata sa voćem i povrćem postaje pun obrok sa vlaknima, dobrim mastima i belančevinama. Bez dodataka je odličan lagan ručak ili prilog.
-
----
-
-Last updated: 2026-07-28
+Last updated: 2026-07-29
