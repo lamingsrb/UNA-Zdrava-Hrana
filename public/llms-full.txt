@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Superhrana za svaki dan: kako je uklopiti u obroke
+
+https://unazdravahrana.com/blog/superhrana-za-svaki-dan-kako-je-uklopiti-u-obroke
+
+Tekst objašnjava kako uklopiti chia semenke, spirulinu, macu i druge superhrane u svakodnevnu ishranu kroz male, redovne količine. Daje praktične savete o količinama, kombinacijama i greškama koje treba izbeći.
+
+**Q: Koliko chia semenki treba jesti dnevno?**
+
+Za odraslu osobu koja tek počinje preporučuje se jedna kašičica dnevno (oko 5–7 g), a kasnije se količina može povećati do jedne kašike. Chiu uvek potopite u tečnost jer upija vodu do 10 puta svoje težine.
+
+**Q: Kako koristiti spirulinu da ne bude neprijatnog ukusa?**
+
+Spirulinu ne treba piti u vodi. Najbolje je dodati je u zeleni smuti sa bananom i limunom, u guacamole, humus, testo za palačinke ili preliv za salatu na bazi tahinija. Preporučena dnevna količina je 1–3 g.
+
+**Q: Šta radi maca prah i kada ga uzimati?**
+
+Maca je koren iz Perua koji podržava energiju i izdržljivost. Uzima se pola do jedne kašičice dnevno, najbolje ujutru u smutiju, ovsenim pahuljicama ili energetskim kuglicama. Osobe sa problemima štitne žlezde treba prvo da se konsultuju sa lekarom.
+
+**Q: Da li superhrana može zameniti povrće i mahunarke?**
+
+Ne. Superhrana je dodatak, a ne zamena za osnovne namirnice poput povrća, mahunarki i integralnih žitarica. Ako u ishrani nedostaju osnove, spirulina ili chia neće popuniti tu prazninu.
+
+---
+
 ## Letnji tart od smokava sa bademima i medom
 
 https://unazdravahrana.com/recepti/letnji-tart-od-smokava-sa-bademima-i-medom
@@ -679,30 +703,6 @@ Obavezno je isperite pod hladnom vodom pre kuvanja — tako uklanjate saponine k
 **Q: Šta mogu da dodam za više proteina?**
 
 Odlično se slaže sa kuvanim leblebijama, tofuom na roštilju ili grilovanom piletinom — dobijate kompletan obrok.
-
----
-
-## Letnja salata od spelte sa paradajzom i breskvom
-
-https://unazdravahrana.com/recepti/letnja-salata-od-spelte-sa-paradajzom-i-breskvom
-
-Sveža letnja salata od spelte sa paradajzom, breskvom i bademima. Zasitan i lagan obrok gotov za 45 minuta.
-
-**Q: Da li spelta mora da se namače pre kuvanja?**
-
-Nije obavezno, ali ako je namočite 2–3 sata skratićete vreme kuvanja za oko 10 minuta i zrna će biti mekša.
-
-**Q: Mogu li da koristim konzervirane breskve?**
-
-Preporučujemo svežu, sezonsku breskvu jer daje najbolji ukus i teksturu. Konzervirane su preslatke i menjaju karakter salate.
-
-**Q: Da li je spelta pogodna za osobe sa intolerancijom na gluten?**
-
-Ne. Spelta sadrži gluten, pa nije pogodna za osobe sa celijakijom ili osetljivošću na gluten. Kao zamenu možete koristiti heljdu ili proso.
-
-**Q: Kako da znam da je spelta dobro skuvana?**
-
-Kuvana spelta treba da bude mekana spolja, ali sa laganim otporom pri zagrizu — slično kao al dente testenina.
 
 ---
 
