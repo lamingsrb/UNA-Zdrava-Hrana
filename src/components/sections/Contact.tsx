@@ -49,6 +49,11 @@ export default function Contact() {
           Telefon: phone || '—',
           Poruka: message,
           _subject: `Nova poruka sa sajta — ${name}`,
+          // Kopija na centralni sink: ContentStudio (scripts/lead_ingest.py) cita taj
+          // mailbox preko IMAP-a i upisuje kontakt u `leads`. Bez ovoga poruka stize
+          // samo na una.zdravahrana@gmail.com i nigde se ne evidentira — tako je
+          // 29.07.2026 jedan stvarni kontakt odlezao neevidentiran.
+          _cc: 'office@bizflowai.io',
           _template: 'table',
           _captcha: 'false',
           _honey: honey, // FormSubmit odbaci server-side ako je popunjen
