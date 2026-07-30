@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Letnji tart od smokava sa bademima i medom
+
+https://unazdravahrana.com/recepti/letnji-tart-od-smokava-sa-bademima-i-medom
+
+Letnji tart od svežih smokava sa bademima, integralnim brašnom i medom — lagan i mirisan dezert za sezonu. Recept za 45 minuta.
+
+**Q: Mogu li da koristim suve smokve umesto svežih?**
+
+Sveže smokve daju najlepšu teksturu i sočnost. Ako imate samo suve, potopite ih 20 minuta u toplu vodu ili čaj, pa ih iseckajte i rasporedite po kremu — biće slađe, pa smanjite med u filu.
+
+**Q: Kako da znam da je smokva zrela?**
+
+Zrela smokva je mekana na dodir, blago popušta pod prstima i ima intenzivan sladak miris na peteljci. Kora može biti blago naborana — to je znak pune slasti, a ne kvarenja.
+
+**Q: Da li recept može bez meda?**
+
+Može, zamenite ga javorovim sirupom ili agavom u istoj količini. Ukus će biti malo drugačiji, ali podjednako lep. Uvek imamo prirodne zaslađivače u radnji.
+
+**Q: Koliko dugo se tart čuva?**
+
+Najbolje ga je pojesti istog dana kada je spremljen. U frižideru u zatvorenoj posudi izdrži do 2 dana, ali kora vremenom omekša od vlage iz kreama.
+
+---
+
 ## Letnji chia puding sa breskvom i malinama
 
 https://unazdravahrana.com/recepti/letnji-chia-puding-sa-breskvom-i-malinama
@@ -682,28 +706,4 @@ Kuvana spelta treba da bude mekana spolja, ali sa laganim otporom pri zagrizu �
 
 ---
 
-## Mislite da pravilno perete voće i povrće? Evo grešaka
-
-https://unazdravahrana.com/blog/mislite-da-pravilno-perete-voce-i-povrce-evo-gresaka
-
-Tekst objašnjava zašto brzo ispiranje pod slavinom nije dovoljno i navodi najčešće greške pri pranju voća i povrća. Daje konkretan sistem po grupama plodova i osvrće se na efikasnost sirćeta i sode bikarbone.
-
-**Q: Da li treba prati voće koje se guli?**
-
-Da. Kada sečete lubenicu, dinju ili agrume, nož prenosi bakterije i tragove prskanja sa kore u sredinu ploda, pa uvek operite spoljašnjost pre sečenja.
-
-**Q: Kada treba prati voće i povrće — odmah po kupovini ili pred jelo?**
-
-Pred jelo. Vlaga ubrzava kvarenje, posebno kod jagoda i malina, koje oprane unapred plesnive za par dana.
-
-**Q: Da li soda bikarbona uklanja pesticide?**
-
-Delimično. Studija Univerziteta Massachusetts Amherst pokazala je da 15-minutno potapanje u razblažen rastvor sode bikarbone uklanja više ostataka pesticida nego obična voda, ali ne u potpunosti.
-
-**Q: Kako pravilno oprati pečurke?**
-
-Pečurke ne treba držati pod jakim mlazom niti dugo potapati jer upijaju vodu i postaju gumene. Obrišite ih vlažnom krpom ili ih kratko isperite neposredno pre kuvanja.
-
----
-
-Last updated: 2026-07-29
+Last updated: 2026-07-30
