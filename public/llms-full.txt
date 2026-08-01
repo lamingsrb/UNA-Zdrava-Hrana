@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni patlidžan sa smokvama, grožđem i orasima
+
+https://unazdravahrana.com/recepti/peceni-patlidzan-sa-smokvama-grozdjem-i-orasima
+
+Pečeni patlidžan sa smokvama, grožđem i orasima — sezonski recept kasnog leta, gotov za 45 minuta. Bez brašna, pun ukusa i lako se pravi.
+
+**Q: Mogu li da pripremim jelo unapred?**
+
+Patlidžan možete ispeći i nekoliko sati ranije, a smokve, grožđe i sir dodati neposredno pre završnog zapecanja. Tako će jelo ostati sveže i sočno.
+
+**Q: Koje grožđe je najbolje za ovaj recept?**
+
+Najlepše stoji crno grožđe bez semenki jer je slađe i sočnije, ali i zeleno stono grožđe daje odličan rezultat. Bitno je da je zrelo i čvrsto.
+
+**Q: Da li mogu da koristim suve smokve umesto svežih?**
+
+U sezoni je bolje koristiti sveže smokve zbog sočnosti. Ako baš morate, potopite suve smokve 15 minuta u toploj vodi i prepolovite ih pre stavljanja na patlidžan.
+
+**Q: Uz šta se najbolje slaže ovo jelo?**
+
+Odlično ide uz krišku integralnog hleba, kuvani bulgur ili laganu zelenu salatu. Za gušći obrok dodajte porciju kinoe ili spelte.
+
+---
+
 ## Letnja pita od smokava i badema sa speltom
 
 https://unazdravahrana.com/recepti/letnja-pita-od-smokava-i-badema-sa-speltom
@@ -682,28 +706,4 @@ Glicinat (bisglicinat) i treonat se najčešće preporučuju za san jer smiruju 
 
 ---
 
-## Organske oznake u Srbiji: kako prepoznati pravi bio proizvod
-
-https://unazdravahrana.com/blog/organske-oznake-u-srbiji-kako-prepoznati-pravi-bio-proizvod
-
-Tekst objašnjava koje organske oznake postoje u Srbiji i kako ih razlikovati od marketinških termina poput 'prirodno' ili 'domaće'. Kupci uče da traže logo sertifikacionog tela, kodni broj (npr. RS-BIO-001) i poreklo sirovine na deklaraciji.
-
-**Q: Šta znači oznaka 'organski' na proizvodu u Srbiji?**
-
-Znači da je proizvod napravljen po strogim pravilima organske poljoprivrede, bez sintetičkih pesticida, veštačkih đubriva i GMO semena, i da poseduje sertifikat akreditovanog kontrolnog tela. Termin je pravno zaštićen i mora biti praćen logom sertifikatora i kodnim brojem.
-
-**Q: Kako izgleda kodni broj organskog sertifikata?**
-
-Kodni broj ima format: dva slova zemlje – BIO – tri cifre kontrolnog tela. Na primer, RS-BIO-001 označava Srbiju i kontrolno telo broj 001, dok DE-ÖKO-006 označava nemačko telo broj 006.
-
-**Q: Da li 'prirodno' i 'domaće' znače isto što i 'organski'?**
-
-Ne. Reči 'prirodno', 'domaće', 'tradicionalno' i 'sa farme' nisu pravno regulisane i bilo ko ih može staviti na pakovanje. Samo oznaka 'organski', 'bio' ili 'eko' uz zvaničan sertifikat garantuje kontrolisanu proizvodnju.
-
-**Q: Ko u Srbiji izdaje sertifikat za organske proizvode?**
-
-Sertifikate izdaju kontrolne organizacije koje je ovlastilo Ministarstvo poljoprivrede Republike Srbije. Aktuelna lista akreditovanih tela dostupna je na sajtu minpolj.gov.rs, a sertifikat se obnavlja svake godine nakon nove kontrole.
-
----
-
-Last updated: 2026-07-31
+Last updated: 2026-08-01
