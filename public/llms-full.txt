@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 ideja za zdrave obroke kad nemate vremena za komplikovanje
+
+https://unazdravahrana.com/blog/5-ideja-za-zdrave-obroke-kad-nemate-vremena-za-komplikovanje
+
+Članak nudi pet praktičnih ideja za zdrave obroke koji se pripremaju sa minimalnim brojem sastojaka i vremena. Pokriva doručak, ručak i večeru koristeći dostupne namirnice poput integralnih žitarica, chia semenki i sezonskog povrća.
+
+**Q: Koji je najbrži zdrav doručak za zauzeta jutra?**
+
+Chia puding je najbolji izbor za haotična jutra jer se priprema naveče — dve kašike chia semenki potopite u 150 ml mleka, a ujutru samo dodate voće. Integralna zob kaša sa orasima je druga opcija koja se kuva za samo pet minuta.
+
+**Q: Kako se pravilno priprema kvinoa pre kuvanja?**
+
+Kvinoa je prekrivena saponinima, prirodnim gorkim spojevima, pa je obavezno isprati hladnom vodom u sitnom cedilu oko 30 sekundi pre kuvanja. Preskakanje ovog koraka rezultira gorkim ukusom.
+
+**Q: Koje je jelo od tri sastojka dobro za zdrav ručak?**
+
+Pečeni patlidžan sa integralnim kuskusom i tahini sosom je jednostavan ručak koji izgleda kao iz restorana. Patlidžan se peče u rerni, kuskus se potopi u vrućoj vodi, a tahini se razmuti sa limunom i belim lukom za kremasti sos.
+
+**Q: Da li je heljda pogodna za osobe sa intolerancijom na gluten?**
+
+Da, heljda prirodno ne sadrži gluten i bogata je biljnim proteinima — oko 12-13 grama na 100 grama. Pre kuvanja je preporučljivo popržiti na suvom tiganju 2-3 minuta kako bi se uklonio gorak ukus.
+
+---
+
 ## Karpaćo od patlidžana sa smokvama i chia prelivom
 
 https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-smokvama-i-chia-prelivom
@@ -679,30 +703,6 @@ Mogu, jer kombinacija banane i smrznutih jagoda sa spanaćem daje ružičastu bo
 **Q: Koliko spiruline se stavlja u smoothie?**
 
 Dovoljno je pola do jedne kašičice dnevno, a početnicima se preporučuje pola kašičice uz bananu i bobice koje maskiraju izražen ukus alge.
-
----
-
-## Letnja hladna činija sa jogurtom, breskvom i chia
-
-https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-jogurtom-breskvom-i-chia
-
-Osvežavajuća letnja činija sa jogurtom, breskvom, chia semenkama i bademima. Bez pečenja, gotova za 15 minuta — idealna za vruće dane.
-
-**Q: Mogu li chia semenke da zamenim nekim drugim semenkama?**
-
-Da, lanene semenke (mlevene) daju sličan gel efekat. Semenke bosiljka takođe bubre u vodi i osvežavajuće su za leto.
-
-**Q: Da li je ovaj recept prigodan za decu?**
-
-Jeste — prirodno sladak od voća i meda, bez rafinisanog šećera. Za mlađu decu smanjite količinu chia semenki i dobro ih namočite da budu mekše.
-
-**Q: Koliko dugo mogu da čuvam gotovu činiju?**
-
-Najbolje je pojesti odmah, ali može stajati u frižideru do 12 sati. Listiće badema dodajte tek pred serviranje da ostanu hrskavi.
-
-**Q: Da li je ovo dovoljno za pun doručak?**
-
-Za lakši doručak jeste, oko 340 kcal po porciji sa proteinima i mastima. Ako trenirate ujutru, dodajte kašiku putera od kikirikija ili integralni tost sa strane.
 
 ---
 
