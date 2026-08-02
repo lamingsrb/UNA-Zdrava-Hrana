@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Zdrava ishrana u Kragujevcu: gde kupiti namirnice](https://unazdravahrana.com/blog/zdrava-ishrana-u-kragujevcu-gde-kupiti-namirnice)
 - [Pečeni patlidžan sa smokvama, grožđem i orasima](https://unazdravahrana.com/recepti/peceni-patlidzan-sa-smokvama-grozdjem-i-orasima)
 - [Letnja pita od smokava i badema sa speltom](https://unazdravahrana.com/recepti/letnja-pita-od-smokava-i-badema-sa-speltom)
 - [Superhrana za svaki dan: kako je uklopiti u obroke](https://unazdravahrana.com/blog/superhrana-za-svaki-dan-kako-je-uklopiti-u-obroke)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Zelena mediteranska ishrana: šta je i kako početi](https://unazdravahrana.com/blog/zelena-mediteranska-ishrana-sta-je-i-kako-poceti)
 - [Zapečena palenta sa paprikom i paradajzom](https://unazdravahrana.com/recepti/zapecena-palenta-sa-paprikom-i-paradajzom)
 - [Letnje paprike punjene prosom i orasima](https://unazdravahrana.com/recepti/letnje-paprike-punjene-prosom-i-orasima)
-- [Kimči: fermentisana namirnica koja hrani vaša creva](https://unazdravahrana.com/blog/kimci-fermentisana-namirnica-koja-hrani-vasa-creva)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-01
+Last updated: 2026-08-02

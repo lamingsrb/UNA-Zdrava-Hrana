@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdrava ishrana u Kragujevcu: gde kupiti namirnice
+
+https://unazdravahrana.com/blog/zdrava-ishrana-u-kragujevcu-gde-kupiti-namirnice
+
+Tekst je praktičan vodič za kupovinu zdravih namirnica u Kragujevcu koji objašnjava kako prepoznati pravu zdravu hranu i zašto specijalizovane radnje imaju prednost. Obrađuje pet ključnih kategorija — od integralnih žitarica do superhrane i orašastih plodova — sa konkretnim savetima za korišćenje.
+
+**Q: Gde kupiti zdrave namirnice u Kragujevcu?**
+
+Specijalizovane prodavnice zdrave hrane u Kragujevcu nude proizvode sa poznatim poreklom i kraćim spiskom sastojaka. Prednost ovih radnji jeste što prodavci poznaju asortiman i mogu dati konkretne savete za kombinacije koje vam trebaju, što je posebno korisno pri prelasku na zdraviju ishranu.
+
+**Q: Kako prepoznati pravu zdravu namirnicu na polici?**
+
+Prava zdrava namirnica ima kratak spisak sastojaka koje možete izgovoriti, jasno označeno poreklo sa imenom proizvođača i rok trajanja koji nije beskonačan. Ako na deklaraciji stoji više hemikalija pre samog sastojka, to je industrijski proizvod, ne namirnica.
+
+**Q: Šta je superhrana i kako se koristi?**
+
+Superhrana su namirnice sa visokom gustinom hranljivih materija — čia semena, lan, spirulina, goji bobice i sirov kakao. Nisu magične, ali u malim količinama donose puno korisnih sastojaka. Najbolje ih je uvoditi jednu po jednu, u malim količinama, i pratiti kako telo reaguje.
+
+**Q: Koje integralne žitarice su najbolje za početnike?**
+
+Za početnike se preporučuje integralni pirinač kao najlakši korak — razlika u ukusu prema belom je blaga, a priprema identična. Kasnije se mogu uvesti heljda, kvinoja, raž i ovas. Za decu su odlične integralne testenine od pirinča ili kukuruza koje su bez glutena.
+
+---
+
 ## Pečeni patlidžan sa smokvama, grožđem i orasima
 
 https://unazdravahrana.com/recepti/peceni-patlidzan-sa-smokvama-grozdjem-i-orasima
@@ -682,28 +706,4 @@ Nakon sečenja paradajza i krastavca ocedite višak soka. Krastavac možete i po
 
 ---
 
-## 5 razloga zašto vam magnezijum glicinat ne pomaže da spavate
-
-https://unazdravahrana.com/blog/5-razloga-zasto-vam-magnezijum-glicinat-ne-pomaze-da-spavate
-
-Tekst objašnjava pet najčešćih razloga zašto magnezijum glicinat ne daje efekat na san: premala doza elementarnog magnezijuma, pogrešno vreme uzimanja, uzrok nesanice koji nije u manjku minerala, neodgovarajući oblik magnezijuma i nedostatak kofaktora poput B6 i vitamina D. Nudi praktične savete i tabelu poređenja oblika magnezijuma.
-
-**Q: Koliko magnezijum glicinata treba popiti za san?**
-
-Bitna je količina elementarnog magnezijuma na deklaraciji, ne ukupna masa glicinata. Dnevni unos iz hrane i suplementa zajedno kreće se oko 300–400 mg, a jedna kapsula od 100 mg često nije dovoljna. Tačnu dozu potvrdite sa lekarom ili farmaceutom.
-
-**Q: Kada je najbolje vreme za uzimanje magnezijum glicinata?**
-
-Za san se najčešće uzima 30 do 60 minuta pre spavanja, uz laganu užinu. Neki ga cepaju u dve doze - jedna posle podne, jedna pred spavanje - za mirniji ulazak u san.
-
-**Q: Zašto magnezijum glicinat ne deluje na moju nesanicu?**
-
-Ako je uzrok nesanice stres, plava svetlost sa telefona, kofein, alkohol ili zdravstveno stanje poput apneje ili anksioznosti, magnezijum ima ograničen domet. On pomaže kada je san narušen napetošću mišića, grčevima ili stvarnim manjkom minerala.
-
-**Q: Koji oblik magnezijuma je najbolji za spavanje?**
-
-Glicinat (bisglicinat) i treonat se najčešće preporučuju za san jer smiruju nervni sistem i blagi su za stomak. Ako glicinat ne radi za vas, možda vam odgovara drugi oblik ili kombinacija, što je najbolje odabrati uz konsultaciju u apoteci ili prodavnici zdrave hrane.
-
----
-
-Last updated: 2026-08-01
+Last updated: 2026-08-02
