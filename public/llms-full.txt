@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Karpaćo od patlidžana sa grožđem i tahini prelivom
+
+https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-grozdjem-i-tahini-prelivom
+
+Karpaćo od pečenog patlidžana sa slatkim grožđem, kremastim tahini prelivom i orasima — laka letnja poslastica za 35 minuta.
+
+**Q: Mogu li patlidžan da spremim u tiganju umesto u rerni?**
+
+Da, kolutove možeš ispržiti u grill tiganju 2-3 minuta sa svake strane na srednjoj vatri. Rerna daje ravnomerniju teksturu, ali tiganj brže i sa lepim tragovima.
+
+**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
+
+Da, svi sastojci su prirodno bez glutena. Proveri samo etiketu tahinija ako kupuješ nov brend, mada je tahini po pravilu bez glutena.
+
+**Q: Koje grožđe je najbolje?**
+
+Crno grožđe bez semenki daje najlepšu boju i slatkoću, ali može i zeleno ili muskatno. Bitno je da bude zrelo i sočno.
+
+**Q: Mogu li unapred da spremim za goste?**
+
+Patlidžan ispeci ranije tokom dana i ostavi na sobnoj temperaturi, a preliv umuti i drži u frižideru. Sklopi tanjir 10 minuta pre serviranja.
+
+---
+
 ## 5 ideja za zdrave obroke kad nemate vremena za komplikovanje
 
 https://unazdravahrana.com/blog/5-ideja-za-zdrave-obroke-kad-nemate-vremena-za-komplikovanje
@@ -682,28 +706,4 @@ Ne, jer visoke temperature razgrađuju osetljiva jedinjenja i uništavaju enzime
 
 ---
 
-## Zeleni smoothie: izvor gvožđa i vitamina C
-
-https://unazdravahrana.com/blog/zeleni-smoothie-izvor-gvozdja-i-vitamina-c
-
-Zeleni smoothie kombinuje lisnato povrće bogato gvožđem i voće sa vitaminom C, čime se prirodno povećava apsorpcija gvožđa iz biljne hrane. Tekst nudi formulu 1-1-1-1 plus tečnost, pregled najkorisnijih sastojaka i tri gotove kombinacije za različite profile korisnika.
-
-**Q: Zašto se u zeleni smoothie kombinuju spanać i voće bogato vitaminom C?**
-
-Vitamin C značajno povećava apsorpciju non-heme gvožđa iz biljne hrane, pa spanać uz kivi, jagode ili pomorandžu daje mnogo bolji efekat nego samostalno konzumiran.
-
-**Q: Koja je osnovna formula za pripremu zelenog smoothieja?**
-
-Formula 1-1-1-1 plus tečnost: šaka lisnatog povrća, šoljica voća, kremasta baza poput banane ili avokada, kašika superhrane i 200-300 ml tečnosti.
-
-**Q: Da li deca mogu da piju zeleni smoothie?**
-
-Mogu, jer kombinacija banane i smrznutih jagoda sa spanaćem daje ružičastu boju i sladak ukus, tako da deca ni ne primete zeleno povrće.
-
-**Q: Koliko spiruline se stavlja u smoothie?**
-
-Dovoljno je pola do jedne kašičice dnevno, a početnicima se preporučuje pola kašičice uz bananu i bobice koje maskiraju izražen ukus alge.
-
----
-
-Last updated: 2026-08-02
+Last updated: 2026-08-03

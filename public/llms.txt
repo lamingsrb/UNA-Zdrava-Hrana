@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Karpaćo od patlidžana sa grožđem i tahini prelivom](https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-grozdjem-i-tahini-prelivom)
 - [5 ideja za zdrave obroke kad nemate vremena za komplikovanje](https://unazdravahrana.com/blog/5-ideja-za-zdrave-obroke-kad-nemate-vremena-za-komplikovanje)
 - [Karpaćo od patlidžana sa smokvama i chia prelivom](https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-smokvama-i-chia-prelivom)
 - [Zdrava ishrana u Kragujevcu: gde kupiti namirnice](https://unazdravahrana.com/blog/zdrava-ishrana-u-kragujevcu-gde-kupiti-namirnice)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Hladna pirinača sa malinama i bademima](https://unazdravahrana.com/recepti/hladna-pirinaca-sa-malinama-i-bademima)
 - [Najbolje vreme za doručak pri visokom holesterolu](https://unazdravahrana.com/blog/najbolje-vreme-za-dorucak-pri-visokom-holesterolu)
 - [Zašto je pečeni batat najbolji prirodni eliksir za kožu](https://unazdravahrana.com/blog/zasto-je-peceni-batat-najbolji-prirodni-eliksir-za-kozu)
-- [Zelena mediteranska ishrana: šta je i kako početi](https://unazdravahrana.com/blog/zelena-mediteranska-ishrana-sta-je-i-kako-poceti)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-02
+Last updated: 2026-08-03
