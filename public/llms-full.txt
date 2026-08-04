@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Koliko vode treba piti uz zdravu ishranu
+
+https://unazdravahrana.com/blog/koliko-vode-treba-piti-uz-zdravu-ishranu
+
+Zdravim odraslim osobama potrebno je oko 30 ml vode po kilogramu telesne težine dnevno, uz prilagođavanje za vrućine, trening i zdravstveno stanje. U dnevni unos računaju se voda, čajevi, supe i voće, dok kod većeg gubitka tečnosti treba obratiti pažnju i na elektrolite.
+
+**Q: Koliko vode dnevno treba piti odrasla osoba?**
+
+Opšta preporuka je oko 30 ml po kilogramu telesne težine, odnosno 2 do 2,5 litra za žene i 2,5 do 3 litra za muškarce, uključujući i tečnost iz hrane.
+
+**Q: Kako da znam da ne pijem dovoljno vode?**
+
+Najpouzdaniji znak je tamno žuta boja urina, a prate ga i suva usta, popodnevna glavobolja, umor, grčevi u listovima i zatvor. Žeđ je već zakasneli signal blage dehidracije.
+
+**Q: Da li se čaj i kafa računaju u dnevni unos vode?**
+
+Da, biljni čajevi se računaju u potpunosti, a kafa do tri šolje dnevno takođe doprinosi hidrataciji jer ne dehidrira kao što se ranije mislilo. Slatki gazirani sokovi i alkohol se ne računaju pozitivno.
+
+**Q: Kada su potrebni elektroliti pored obične vode?**
+
+Elektroliti su ključni posle treninga dužih od sat vremena, na velikoj vrućini, posle proliva ili povraćanja i kod niskougljenih režima. Pomaže domaći napitak od 500 ml vode, prstohvata soli, soka pola limuna i kašičice meda.
+
+---
+
 ## Karpaćo od luka sa smokvama i orasima
 
 https://unazdravahrana.com/recepti/karpaco-od-luka-sa-smokvama-i-orasima
@@ -679,30 +703,6 @@ Osnova sa heljdom i povrćem drži se do 24 sata u zatvorenoj posudi. Sveže vo�
 **Q: Da li je ovaj obrok dovoljan kao ručak?**
 
 Za lakši letnji ručak jeste — kombinuje složene ugljene hidrate, biljne masti i vlakna. Ako trenirate, dodajte kuvano jaje, tofu ili komad piletine za više proteina.
-
----
-
-## Letnja hladna činija od kefira, krastavca i badema
-
-https://unazdravahrana.com/recepti/letnja-hladna-cinija-od-kefira-krastavca-i-badema
-
-Osvežavajuća letnja činija sa kefirom, krastavcem, breskvom i bademima — gotova za 20 minuta, savršena za vrele dane.
-
-**Q: Mogu li ovu činiju jesti deca?**
-
-Naravno, deca je obično vole zbog slatkoće breskve i meda. Za najmlađe smanjite količinu semenki i dobro sitno iseckajte bademe kako biste izbegli rizik od gušenja.
-
-**Q: Da li je pogodna posle treninga?**
-
-Jeste — kombinuje proteine iz kefira, zdrave masti iz badema i lako svarljive ugljene hidrate iz voća, što podržava oporavak posle letnjih treninga.
-
-**Q: Koliko dugo mogu držati chia semenke otvorene?**
-
-U dobro zatvorenoj tegli, na suvom i tamnom mestu, chia semenke ostaju sveže i do godinu dana. U UNA ih možete kupiti u manjim količinama pa uvek imate sveže zalihe.
-
-**Q: Mogu li koristiti smrznute maline umesto breskve?**
-
-Da, maline se odlično slažu sa kefirom. Sačekajte da se malo odmrznu pa ih dodajte na vrh — daće činiji lepu ružičastu boju i blagu kiselost.
 
 ---
 
