@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Karpaćo od luka sa smokvama i orasima
+
+https://unazdravahrana.com/recepti/karpaco-od-luka-sa-smokvama-i-orasima
+
+Karpaćo od crvenog luka sa smokvama, grožđem i orasima — lagano letnje predjelo gotovo za 20 minuta. Sveže, zdravo i jednostavno.
+
+**Q: Mogu li da koristim beli luk umesto crvenog?**
+
+Može, ali crveni luk je blaži i lepše izgleda u karpaćou. Ako koristite beli, obavezno ga prelijte hladnom vodom pre mariniranja.
+
+**Q: Koliko unapred mogu da pripremim jelo?**
+
+Luk možete marinirati do 24 sata unapred, ali smokve, grožđe i orahe dodajte tek pred serviranje da ostanu sveži i hrskavi.
+
+**Q: Da li je recept pogodan za vegane?**
+
+Jeste, samo zamenite med javorovim sirupom ili agavom i imate potpuno biljno predjelo.
+
+**Q: Uz šta se najbolje slaže ovaj karpaćo?**
+
+Odlično ide uz integralni ili raženi hleb, kremaste sireve i čašu hladnog biljnog čaja ili domaće limunade.
+
+---
+
 ## Karpaćo od patlidžana sa grožđem i tahini prelivom
 
 https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-grozdjem-i-tahini-prelivom
@@ -682,28 +706,4 @@ Da, maline se odlično slažu sa kefirom. Sačekajte da se malo odmrznu pa ih do
 
 ---
 
-## Manuka med: šta ga izdvaja i kako se koristi
-
-https://unazdravahrana.com/blog/manuka-med-sta-ga-izdvaja-i-kako-se-koristi
-
-Manuka med sa Novog Zelanda sadrži visok nivo metilglioksala (MGO), a oznake MGO i UMF pokazuju njegovu koncentraciju i kvalitet. Koristi se u ishrani i nezi kože, ali samo hladan, jer visoke temperature uništavaju njegova aktivna jedinjenja.
-
-**Q: Šta je manuka med i po čemu se razlikuje od običnog?**
-
-Manuka med potiče sa Novog Zelanda i Australije, gde pčele skupljaju nektar sa cveta manuka žbuna. Razlikuje se od običnog meda po visokom sadržaju metilglioksala (MGO), gušćoj karamelastoj teksturi i specifičnom zemljanom ukusu.
-
-**Q: Šta znače oznake MGO i UMF na manuka medu?**
-
-MGO označava koncentraciju metilglioksala u miligramima po kilogramu meda, dok je UMF novozelandski sistem ocenjivanja koji uzima više sastojaka u obzir. UMF 10+ otprilike odgovara MGO 260+, a UMF 15+ vrednosti MGO 514+.
-
-**Q: Koji MGO manuka med da izaberem za svakodnevnu upotrebu?**
-
-Za većinu domaćinstava koja žele da isprobaju manuku, MGO 100–250 je razuman i ekonomičan izbor. Nema smisla plaćati MGO 800 ako ga stavljate u čaj ili jogurt.
-
-**Q: Da li se manuka med sme stavljati u vruć čaj?**
-
-Ne, jer visoke temperature razgrađuju osetljiva jedinjenja i uništavaju enzime. Sačekajte da se piće ohladi do oko 40°C, pa tek onda dodajte manuka med.
-
----
-
-Last updated: 2026-08-03
+Last updated: 2026-08-04
