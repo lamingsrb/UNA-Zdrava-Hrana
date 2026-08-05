@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Salata sa lubenicom i feta sirom: recept za celo leto
+
+https://unazdravahrana.com/blog/salata-sa-lubenicom-i-feta-sirom-recept-za-celo-leto
+
+Salata sa lubenicom i feta sirom je klasična mediteranska kombinacija slatkog i slanog, idealna za vruće letnje dane zbog visoke hidratacije i lakoće pripreme. Recept za 4 osobe traje 10 minuta i može se varirati dodacima poput mente, krastavca, avokada ili balzamiko krema.
+
+**Q: Kako da prepoznam zrelu lubenicu?**
+
+Zrela lubenica ima izraženo žutu ili narandžastu mrlju na kori, teža je od drugih iste veličine, duboko i šuplje odzvanja kada je kucnete, a peteljka joj je suva i braon.
+
+**Q: Koja feta je najbolja za salatu sa lubenicom?**
+
+Prava grčka feta od ovčijeg mleka (ili mešavine ovčijeg i kozjeg do 30%) sa zaštićenim geografskim poreklom. Kremasta je, mrvljiva i čuva se u salamuri - izbegavajte sireve 'tipa feta' od kravljeg mleka.
+
+**Q: Može li se salata sa lubenicom i fetom pripremiti unapred?**
+
+Ne, ova salata se poslužuje odmah nakon pripreme. Već posle 30 minuta lubenica počinje da pušta vodu i salata postaje mlaka i mlitava, gubeći svežinu.
+
+**Q: Šta ako mi je feta preslana?**
+
+Potopite fetu 10 do 15 minuta u hladnu vodu pre serviranja. Zadržaće svoj karakterističan ukus, ali će biti blaža i prijatnija za nepce u kombinaciji sa slatkom lubenicom.
+
+---
+
 ## Slani tart sa patlidžanom, smokvama i speltom
 
 https://unazdravahrana.com/recepti/slani-tart-sa-patlidzanom-smokvama-i-speltom
@@ -679,30 +703,6 @@ Birajte zreo, mirisan paradajz iz sezone — domaći ili sa pijace. Čeri sorte 
 **Q: Da li deca vole ovakvu kombinaciju?**
 
 Većina dece prihvata slatku notu breskve i kremast jogurt. Ako ne vole vidljive semenke, izmiksajte chia sa jogurtom štapnim mikserom pre dodavanja voća.
-
----
-
-## Tajna savršenog smutija krije se u ovih 5 sastojaka
-
-https://unazdravahrana.com/blog/tajna-savrsenog-smutija-krije-se-u-ovih-5-sastojaka
-
-Voćni smuti sam po sebi nije doručak jer bez vlakana, proteina i masti brzo diže i spušta energiju. Uz chia i lanene semenke, proteinski prah, bobičasto voće i biljna mleka postaje uravnotežen obrok koji dugo drži sitost.
-
-**Q: Zašto me voćni smuti brzo ogladni?**
-
-Jer je čaša samo od voća i soka koncentrisan izvor prirodnih šećera bez vlakana, proteina i masti. Telo ga brzo obradi, energija skoči pa padne, i za sat-dva ste ponovo gladni. Dodavanje chia semenki, proteina i masti usporava varenje i produžava sitost.
-
-**Q: Koliko chia semenki staviti u smuti?**
-
-Jedna do dve supene kašike (10–20 g) po čaši je sasvim dovoljno. Početnicima se savetuje da krenu sa jednom kašikom dnevno kako bi se stomak postepeno privikao na povećan unos vlakana.
-
-**Q: Da li lanene semenke moraju biti mlevene?**
-
-Da, cele lanene semenke uglavnom prođu kroz probavni sistem neisprobavljene. Da biste iskoristili omega-3 masne kiseline i vlakna, semenke morate samleti u mlinu ili kupiti već mlevene, a čuvati ih u frižideru u zatvorenoj tegli.
-
-**Q: Koji proteinski prah je najbolji za smuti?**
-
-Zavisi od potreba: surutkin (whey) je klasik za rekreativce, biljni (grašak, pirinač, konoplja) je odličan za vegane i osetljive stomake, a kolagen se lako meša ali nije kompletan protein. Bitno je da ima 18+ g proteina, manje od 3 g šećera i kratku listu sastojaka.
 
 ---
 
