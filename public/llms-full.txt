@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Slani tart sa patlidžanom, smokvama i speltom
+
+https://unazdravahrana.com/recepti/slani-tart-sa-patlidzanom-smokvama-i-speltom
+
+Slani tart sa patlidžanom, smokvama i integralnom speltom — jednostavan kasnoletnji recept za porodični ručak. Gotov za 50 minuta.
+
+**Q: Mogu li da pripremim testo dan ranije?**
+
+Da, testo od spelte može stajati u frižideru do 24 sata, umotano u foliju. Pre razvlačenja ostavite ga 10 minuta na sobnoj temperaturi.
+
+**Q: Koje smokve su najbolje za ovaj recept?**
+
+Zrele, mekane smokve tamnoljubičaste kore daju najlepšu boju i slatkoću. Ako su malo tvrđe, dodatno će omekšati u rerni.
+
+**Q: Mogu li tart zamrznuti?**
+
+Preporučujemo da se jede svež, jer patlidžan i smokve nakon odmrzavanja gube teksturu. Sirovo testo možete zamrznuti do 30 dana.
+
+**Q: Čime da zamenim orahe ako ih neko u porodici ne voli?**
+
+Odlično stoje i seckani bademi ili lešnici, a za dodatnu hrskavost možete posuti kašiku semenki suncokreta pre pečenja.
+
+---
+
 ## Koliko vode treba piti uz zdravu ishranu
 
 https://unazdravahrana.com/blog/koliko-vode-treba-piti-uz-zdravu-ishranu
@@ -682,28 +706,4 @@ Zavisi od potreba: surutkin (whey) je klasik za rekreativce, biljni (grašak, pi
 
 ---
 
-## Letnja hladna činija sa paradajzom, malinama i heljdom
-
-https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-paradajzom-malinama-i-heljdom
-
-Osvežavajuća letnja činija sa heljdom, paradajzom, malinama i bademima — lagan i sitan obrok bez glutena, gotov za 35 minuta.
-
-**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
-
-Da, heljda je prirodno bez glutena. Ako ste osetljivi, proverite na deklaraciji da je heljda iz pogona koji garantuje odsustvo unakrsne kontaminacije.
-
-**Q: Mogu li da izostavim med?**
-
-Naravno. Preliv će biti nešto oštriji, pa možete dodati koju krišku dodatne breskve za prirodnu slatkoću ili zameniti med javorovim sirupom.
-
-**Q: Koliko dugo mogu da čuvam obrok u frižideru?**
-
-Osnova sa heljdom i povrćem drži se do 24 sata u zatvorenoj posudi. Sveže voće i orašaste plodove najbolje je dodati neposredno pre serviranja.
-
-**Q: Da li je ovaj obrok dovoljan kao ručak?**
-
-Za lakši letnji ručak jeste — kombinuje složene ugljene hidrate, biljne masti i vlakna. Ako trenirate, dodajte kuvano jaje, tofu ili komad piletine za više proteina.
-
----
-
-Last updated: 2026-08-04
+Last updated: 2026-08-05
