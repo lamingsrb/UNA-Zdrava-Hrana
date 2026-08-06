@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Tart sa tikvicama i rikotom: letnji recept iz bistroa
+
+https://unazdravahrana.com/blog/tart-sa-tikvicama-i-rikotom-letnji-recept-iz-bistroa
+
+Recept za letnji slani tart sa mladim tikvicama i rikotom, sa hrskavom korom od spelte i kremastim filom bez pavlake. Uključuje detaljan postupak, izbor brašna i tri najčešće greške koje kvare rezultat.
+
+**Q: Zašto je moj tart sa tikvicama vodenast?**
+
+Zato što tikvice nisu prethodno posoljene i iscedjene. Narendajte ih, posolite i ostavite u cediljci 15 minuta, pa rukama iscedite vodu — iz 400 g tikvica izađe skoro pola šolje tečnosti.
+
+**Q: Koje brašno je najbolje za koru tarta?**
+
+Mešavina 150 g bele spelte i 50 g integralne spelte daje najbolji balans: kora ostaje puterasta i hrskava, uz više vlakana i blago orašast ukus u odnosu na klasično belo brašno T-400.
+
+**Q: Mogu li da zamenim rikotu drugim sirom?**
+
+Da, možete koristiti mladi domaći sir, ali ga obavezno iscedite kroz gazu da uklonite višak surutke. Rikota ima oko 170 kcal na 100 g i prirodno je kremasta, pa je prva preporuka za tart.
+
+**Q: Zašto se kora tarta skuplja i puca u rerni?**
+
+Zato što testo nije dovoljno rashlađeno pre pečenja. Umotajte testo u foliju i držite u frižideru najmanje 30 minuta, a zatim uradite slepo pečenje sa težinom (pasulj ili pirinač) 12-15 minuta na 180°C.
+
+---
+
 ## Salata sa lubenicom i feta sirom: recept za celo leto
 
 https://unazdravahrana.com/blog/salata-sa-lubenicom-i-feta-sirom-recept-za-celo-leto
@@ -682,28 +706,4 @@ Sastavljena činija najbolja je odmah, ali chia baza bez voća ostaje sveža do 
 
 ---
 
-## Letnja hladna činija sa jogurtom, paradajzom i chia
-
-https://unazdravahrana.com/recepti/letnja-hladna-cinija-sa-jogurtom-paradajzom-i-chia
-
-Hladna letnja činija sa jogurtom, chia semenkama, paradajzom i breskvom — osvežavajući ručak gotov za 15 minuta, bez šporeta.
-
-**Q: Mogu li chia semenke da ostavim da bubre preko noći?**
-
-Da, to je čak i praktičnije. U jogurtu će chia semenke preko noći napraviti kremastu, puding teksturu koja je odlična za doručak sledećeg dana.
-
-**Q: Da li je ova činija dovoljna kao pun obrok?**
-
-Za lagani letnji ručak jeste — nudi belančevine iz jogurta, zdrave masti iz badema i chia semenki, i vlakna iz voća i povrća. Ako ste veoma aktivni, dodajte kuvane žitarice ili parče integralnog hleba.
-
-**Q: Kako da izaberem najbolji paradajz za ovaj recept?**
-
-Birajte zreo, mirisan paradajz iz sezone — domaći ili sa pijace. Čeri sorte daju slađi ukus, dok krupniji paradajz nosi više sokova. Izbegavajte hladan paradajz iz frižidera jer gubi aromu.
-
-**Q: Da li deca vole ovakvu kombinaciju?**
-
-Većina dece prihvata slatku notu breskve i kremast jogurt. Ako ne vole vidljive semenke, izmiksajte chia sa jogurtom štapnim mikserom pre dodavanja voća.
-
----
-
-Last updated: 2026-08-05
+Last updated: 2026-08-06

@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Tart sa tikvicama i rikotom: letnji recept iz bistroa](https://unazdravahrana.com/blog/tart-sa-tikvicama-i-rikotom-letnji-recept-iz-bistroa)
 - [Salata sa lubenicom i feta sirom: recept za celo leto](https://unazdravahrana.com/blog/salata-sa-lubenicom-i-feta-sirom-recept-za-celo-leto)
 - [Slani tart sa patlidžanom, smokvama i speltom](https://unazdravahrana.com/recepti/slani-tart-sa-patlidzanom-smokvama-i-speltom)
 - [Koliko vode treba piti uz zdravu ishranu](https://unazdravahrana.com/blog/koliko-vode-treba-piti-uz-zdravu-ishranu)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Prirodni suplementi za gvožđe: biljni izvori i saveti](https://unazdravahrana.com/blog/prirodni-suplementi-za-gvozdje-biljni-izvori-i-saveti)
 - [Heljdine ćuftice u sosu od paradajza i paprike](https://unazdravahrana.com/recepti/heljdine-cuftice-u-sosu-od-paradajza-i-paprike)
 - [Integralna testenina u sosu od paprike i oraha](https://unazdravahrana.com/recepti/integralna-testenina-u-sosu-od-paprike-i-oraha)
-- [Šećer je najprihvaćenija zavisnost današnjice](https://unazdravahrana.com/blog/secer-je-najprihvacenija-zavisnost-danasnjice)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-05
+Last updated: 2026-08-06
