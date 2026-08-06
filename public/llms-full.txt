@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Topla salata od patlidžana sa grožđem i heljdom
+
+https://unazdravahrana.com/recepti/topla-salata-od-patlidzana-sa-grozdjem-i-heljdom
+
+Topla salata sa pečenim patlidžanom, slatkim grožđem i heljdom — zasitan kasnoletnji recept bez glutena, gotov za 45 minuta.
+
+**Q: Mogu li recept pripremiti unapred?**
+
+Da, sve komponente možete ispeći i skuvati dan ranije. Sastojke spojite sa dresingom neposredno pre serviranja da heljda ostane rastresita.
+
+**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Jeste, heljda je prirodno bez glutena. Ako ste osetljivi, proverite na deklaraciji oznaku 'bez glutena' jer se ponekad prerađuje u pogonima sa pšenicom.
+
+**Q: Koje grožđe je najbolje za ovaj recept?**
+
+Slatke sorte bez semenki najbolje se slažu sa pečenim patlidžanom — crno grožđe daje intenzivniju boju, dok belo daje svežiji ukus.
+
+**Q: Mogu li patlidžan pripremiti u tiganju umesto u rerni?**
+
+Možete, na jačoj vatri u širokom tiganju sa 2 kašike ulja, uz povremeno mešanje, oko 12–15 minuta dok ne omekša i porumeni.
+
+---
+
 ## Tart sa tikvicama i rikotom: letnji recept iz bistroa
 
 https://unazdravahrana.com/blog/tart-sa-tikvicama-i-rikotom-letnji-recept-iz-bistroa
@@ -679,30 +703,6 @@ Da, kimči podržava zdravlje creva jer istovremeno donosi žive probiotske bakt
 **Q: Ko ne bi trebalo da jede kimči?**
 
 Oprez se preporučuje osobama sa gastritisom, refluksom ili čirevima jer ljuti i kiseli sastojci mogu iritirati sluzokožu. Takođe, osobe na dijeti sa malo soli treba da vode računa jer kimči sadrži 500–800 mg natrijuma na 100 g.
-
----
-
-## Rashlađujuća letnja činija sa kokosom i malinama
-
-https://unazdravahrana.com/recepti/rashladjujuca-letnja-cinija-sa-kokosom-i-malinama
-
-Rashlađujuća letnja činija sa chia semenkama, breskvom, malinama i bademima. Zdrav doručak ili užina bez pečenja — gotovo za 20 minuta.
-
-**Q: Mogu li da pripremim činiju veče ranije?**
-
-Da, chia baza se pravi i preko noći — čak je i bolja jer se semenke potpuno rašire. Sveže voće, bademe i mentu dodajte tek pred serviranje.
-
-**Q: Šta ako nemam sveže maline?**
-
-Zamrznute maline sasvim lepo rade — samo ih ostavite 10-15 minuta na sobnoj temperaturi da omekšaju. Prirodni sok koji puste dodatno će obojiti prеliv.
-
-**Q: Da li je recept pogodan za decu?**
-
-Jeste, ali chia semenke uvek dobro potopite (bar 2 sata) da omekšaju. Kod manje dece iseckajte bademe sitnije ili ih izostavite.
-
-**Q: Koliko dugo se čuva u frižideru?**
-
-Sastavljena činija najbolja je odmah, ali chia baza bez voća ostaje sveža do 3 dana u zatvorenoj posudi u frižideru.
 
 ---
 
