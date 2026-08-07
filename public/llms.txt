@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Ishrana bez i sa manje ugljenih hidrata: vodič](https://unazdravahrana.com/blog/ishrana-bez-i-sa-manje-ugljenih-hidrata-vodic)
 - [Nedeljni jelovnik zdrave ishrane za celu porodicu](https://unazdravahrana.com/blog/nedeljni-jelovnik-zdrave-ishrane-za-celu-porodicu)
 - [Topla salata od patlidžana sa grožđem i heljdom](https://unazdravahrana.com/recepti/topla-salata-od-patlidzana-sa-grozdjem-i-heljdom)
 - [Tart sa tikvicama i rikotom: letnji recept iz bistroa](https://unazdravahrana.com/blog/tart-sa-tikvicama-i-rikotom-letnji-recept-iz-bistroa)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Letnja salata od prosa sa paradajzom i breskvom](https://unazdravahrana.com/recepti/letnja-salata-od-prosa-sa-paradajzom-i-breskvom)
 - [Bio i lek bilje u Kragujevcu: gde tražiti i kako birati](https://unazdravahrana.com/blog/bio-i-lek-bilje-u-kragujevcu-gde-traziti-i-kako-birati)
 - [Letnja salata od leblebija sa breskvom i paprikom](https://unazdravahrana.com/recepti/letnja-salata-od-leblebija-sa-breskvom-i-paprikom)
-- [Prirodni suplementi za gvožđe: biljni izvori i saveti](https://unazdravahrana.com/blog/prirodni-suplementi-za-gvozdje-biljni-izvori-i-saveti)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-06
+Last updated: 2026-08-07

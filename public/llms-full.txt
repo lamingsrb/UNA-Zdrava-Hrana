@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ishrana bez i sa manje ugljenih hidrata: vodič
+
+https://unazdravahrana.com/blog/ishrana-bez-i-sa-manje-ugljenih-hidrata-vodic
+
+Vodič objašnjava razliku između umerenog, low-carb i keto pristupa ishrani i navodi namirnice koje se slobodno jedu, ograničavaju ili izbacuju. Donosi i praktičnu tabelu zamena, uz uputstva za korišćenje alternativnih brašna kao što su bademovo i kokosovo.
+
+**Q: Koliko ugljenih hidrata dnevno se smatra low-carb ishranom?**
+
+Umereno smanjena ishrana podrazumeva 100–150 g dnevno, klasičan low-carb pristup 50–100 g, a keto ispod 30–50 g dnevno. Za većinu ljudi najlakši i najodrživiji početak je umereno smanjenje.
+
+**Q: Koje namirnice mogu jesti bez brojanja ugljenih hidrata?**
+
+Povrće koje raste iznad zemlje (tikvice, brokoli, karfiol, spanać, salate), jaja, riba i morski plodovi, meso, mlečni proizvodi sa punom masnoćom bez šećera, orašasti plodovi, semenke i zdrave masnoće poput maslinovog ulja i avokada.
+
+**Q: Čime da zamenim beli pirinač i testeninu?**
+
+Beli pirinač zamenite rendanim i propрженим karfiolom, a testeninu spiraliziranim tikvicama uz sos od paradajza i mesa. Za pire umesto krompira koristite pire od karfiola sa puterom.
+
+**Q: Kako se koristi kokosovo brašno u pečenju?**
+
+Kokosovo brašno upija mnogo tečnosti, pa se koristi oko trećine količine koju biste stavili pšeničnog brašna, uz dodatak više jaja i tečnosti. Bademovo brašno takođe nije zamena 1:1 – tražite recepte pisane baš za ta brašna.
+
+---
+
 ## Nedeljni jelovnik zdrave ishrane za celu porodicu
 
 https://unazdravahrana.com/blog/nedeljni-jelovnik-zdrave-ishrane-za-celu-porodicu
@@ -682,28 +706,4 @@ Možete koristiti sitni sir, blagi kozji sir ili jednostavno povećati količinu
 
 ---
 
-## Letnje paprike punjene prosom i orasima
-
-https://unazdravahrana.com/recepti/letnje-paprike-punjene-prosom-i-orasima
-
-Letnje paprike punjene prosom, orasima i paradajzom: jednostavan, lagan i mirisan ručak iz rerne.
-
-**Q: Da li proso treba potapati pre kuvanja?**
-
-Nije neophodno, ali ga je važno dobro isprati u nekoliko voda. Tako će ukus biti prijatniji, a zrna rastresitija nakon kuvanja.
-
-**Q: Mogu li paprike da se pripreme unapred?**
-
-Da. Možete ih napuniti nekoliko sati ranije i držati pokrivene u frižideru, a zatim ispeći pred ručak.
-
-**Q: Da li je recept pogodan bez glutena?**
-
-Proso prirodno ne sadrži gluten, ali proverite deklaracije svih dodataka koje koristite ako pripremate obrok za osobu sa posebnom ishranom.
-
-**Q: Čime mogu zameniti svež paradajz?**
-
-Možete upotrebiti 200 g pasiranog paradajza bez dodatog šećera, pa ga dodajte direktno u smesu i na dno posude.
-
----
-
-Last updated: 2026-08-06
+Last updated: 2026-08-07
