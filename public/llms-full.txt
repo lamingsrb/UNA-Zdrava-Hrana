@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni patlidžan sa smokvama i orasima uz kus-kus
+
+https://unazdravahrana.com/recepti/peceni-patlidzan-sa-smokvama-i-orasima-uz-kus-kus
+
+Pečeni patlidžan sa svežim smokvama, orasima i integralnim kus-kusom — lagan sezonski recept gotov za 45 minuta. Idealan za porodični ručak.
+
+**Q: Mogu li da pripremim jelo unapred?**
+
+Možete. Patlidžan i kus-kus ispecite/skuvajte ranije, a smokve, orahe i preliv dodajte neposredno pre serviranja da tekstura ostane sveža.
+
+**Q: Da li recept odgovara veganima?**
+
+Da, samo zamenite med javorovim sirupom ili agavom. Ostali sastojci su biljnog porekla.
+
+**Q: Kako da izaberem dobar patlidžan?**
+
+Birajte čvrst patlidžan sa sjajnom, glatkom korom i zelenom peteljkom. Treba da bude lagan u ruci — težak često znači previše semenki i gorčinu.
+
+**Q: Mogu li da koristim suve smokve umesto svežih?**
+
+Naravno. Potopite ih 10 minuta u toploj vodi da omekšaju, pa iseckajte. Ukus će biti intenzivniji i malo slađi.
+
+---
+
 ## Ishrana bez i sa manje ugljenih hidrata: vodič
 
 https://unazdravahrana.com/blog/ishrana-bez-i-sa-manje-ugljenih-hidrata-vodic
@@ -679,30 +703,6 @@ Ključne namirnice uključuju ekstra devičansko maslinovo ulje, zeleno lisnato 
 **Q: Koje su zdravstvene koristi zelene mediteranske ishrane?**
 
 Novija istraživanja sugerišu da ova ishrana može doprineti boljem profilu masti u krvi, zdravlju krvnih sudova, osetljivosti na insulin i zaštiti ćelija zahvaljujući visokom unosu polifenola i drugih zaštitnih jedinjenja.
-
----
-
-## Zapečena palenta sa paprikom i paradajzom
-
-https://unazdravahrana.com/recepti/zapecena-palenta-sa-paprikom-i-paradajzom
-
-Zapečena organska palenta sa letnjom paprikom, paradajzom, mladim sirom i semenkama bundeve. Gotova za 45 minuta.
-
-**Q: Da li mogu da koristim instant palentu?**
-
-Možete. Pratite odnos vode i palente naveden na pakovanju, ali zadržite gustu teksturu kako bi se jelo lepo seklo nakon pečenja.
-
-**Q: Koja paprika je najbolja za ovaj recept?**
-
-Crvena paprika daje najviše slatkoće, ali možete koristiti i žutu ili kombinaciju više boja.
-
-**Q: Da li se palenta može pripremiti unapred?**
-
-Palentu možete skuvati i rasporediti u posudu nekoliko sati ranije. Povrće i ostale dodatke stavite neposredno pre pečenja.
-
-**Q: Čime mogu da zamenim mladi sir?**
-
-Možete koristiti sitni sir, blagi kozji sir ili jednostavno povećati količinu jogurta.
 
 ---
 
