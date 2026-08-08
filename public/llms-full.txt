@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kremasta polenta sa pečenim patlidžanom i smokvama
+
+https://unazdravahrana.com/recepti/kremasta-polenta-sa-pecenim-patlidzanom-i-smokvama
+
+Kremasta polenta sa pečenim patlidžanom, smokvama i orasima — sezonsko jelo bez glutena, gotovo za 45 minuta. Recept iz UNA Zdrave Hrane.
+
+**Q: Da li je ovo jelo bez glutena?**
+
+Da, kukuruzni griz je prirodno bez glutena. Proverite samo na deklaraciji da je griz proizveden u pogonu bez unakrsne kontaminacije ako imate celijakiju.
+
+**Q: Mogu li polentu spremiti unapred?**
+
+Možete. Skuvajte je, prelijte u pleh i ostavite da se stegne. Pred serviranje isecite na kriške i zapecite u tiganju ili rerni — dobija hrskavu koricu.
+
+**Q: Čime da zamenim smokve van sezone?**
+
+Zrelom kruškom, pečenom jabukom ili suvim smokvama koje ste kratko potopili u toploj vodi da omekšaju.
+
+**Q: Da li je jelo dovoljno sito za glavni obrok?**
+
+Jeste — polenta i patlidžan daju osećaj sitosti, a orasi zdrave masnoće. Ako želite više proteina, dodajte kuvani slanutak ili komad feta sira.
+
+---
+
 ## Cena organske hrane: zašto je viša i kako birati
 
 https://unazdravahrana.com/blog/cena-organske-hrane-zasto-je-visa-i-kako-birati
@@ -661,30 +685,6 @@ Da, istraživanja pokazuju da osobe koje preskaču doručak i obroke pomeraju ka
 **Q: Koje greške poništavaju zdrav doručak za holesterol?**
 
 Glavna greška je doručkovanje kasno, oko 11 sati, kada je insulinska osetljivost već niža. Takođe, preskakanje doručka vikendom i nepravilnost u ritmu obroka smanjuje efikasnost kojom telo obrađuje unete masti i vlakna.
-
----
-
-## Zašto je pečeni batat najbolji prirodni eliksir za kožu
-
-https://unazdravahrana.com/blog/zasto-je-peceni-batat-najbolji-prirodni-eliksir-za-kozu
-
-Batat je korenasto povrće koje se ističe po visokom sadržaju beta-karotena, vitamina C i vlakana, čime podržava zdravlje kože, vida i imunog sistema. Najbolji način pripreme je pečenje sa koricom, jer zadržava hranljive materije i pruža jednostavan način da se unese maksimum koristi u svakodnevnu ishranu.
-
-**Q: Za šta je sve batat dobar?**
-
-Batat je bogat beta-karotenom koji telo pretvara u vitamin A, te doprinosi zdravlju kože, sluzokože i normalnom vidu. Takođe sadrži vitamin C koji podržava imunitet, kalijum za regulaciju krvnog pritiska i vlakna koja podržavaju varenje.
-
-**Q: Kako se pravilno sprema pečeni batat?**
-
-Operite batat sa koricom, isecite na kriške debljine oko 1,5 cm, posolite ga i dodajte kašičicu maslinovog ulja. Pecite u rerni na 200°C između 25 i 35 minuta dok sredina ne postane meka, a ivice blago karamelizovane.
-
-**Q: Da li se batat jede sa koricom?**
-
-Da, preporučuje se jesti batat sa koricom, jer ona štiti unutrašnjost, sadrži značajnu količinu vlakana i pomaže u zadržavanju hranljivih materija tokom termičke obrade. Samo je potrebno dobro oprati pre pripreme.
-
-**Q: Kako se čuva batat kod kuće?**
-
-Batat treba čuvati na tamnom, suvom i prohladnom mestu na temperaturi od oko 12 do 15°C, poput podruma ili ostave. Ne čuva se u frižideru jer hladnoća menja teksturu, niti se pere pre čuvanja kako vlaga ne bi izazvala kvarenje.
 
 ---
 
