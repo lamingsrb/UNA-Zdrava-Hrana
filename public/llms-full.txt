@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kukuruzne popečke sa patlidžanom i smokvama
+
+https://unazdravahrana.com/recepti/kukuruzne-popecke-sa-patlidzanom-i-smokvama
+
+Kukuruzni popečci sa pečenim patlidžanom i smokvama: jednostavan kasnoletnji obrok sa speltinim brašnom i semenkama.
+
+**Q: Mogu li da koristim zamrznuti kukuruz?**
+
+Možete. Pre upotrebe ga odmrznite i dobro ocedite, kako smesa za popečke ne bi postala previše vlažna.
+
+**Q: Da li mogu da pripremim popečke bez jaja?**
+
+Možete pokušati sa 2 kašike mlevenog lana pomešane sa 6 kašika vode. Ostavite mešavinu 10 minuta da se zgusne, pa je dodajte umesto jaja.
+
+**Q: Čime mogu da zamenim sveže smokve?**
+
+Ako nema svežih smokava, uz pečeni patlidžan lepo se uklapa šaka prepolovljenog grožđa. Dodajte ga pred samo služenje.
+
+**Q: Da li su popečci pogodni za užinu?**
+
+Da, manji popečci mogu biti zasitna užina. Spakujte ih u posudu i ponesite uz sveže povrće ili laganu salatu.
+
+---
+
 ## Ishrana pre i posle treninga bez komplikovanja
 
 https://unazdravahrana.com/blog/ishrana-pre-i-posle-treninga-bez-komplikovanja
@@ -661,30 +685,6 @@ Da — pirinač, breskve, paradajz i chia su prirodno bez glutena. Proverite sam
 **Q: Mogu li dodati orašaste plodove za hrskavost?**
 
 Naravno — pečeni bademi ili orasi odlično idu uz ovu kombinaciju. Dobar začin su i sjemenke suncokreta ili buče za dodatnu teksturu.
-
----
-
-## Hladna pirinača sa malinama i bademima
-
-https://unazdravahrana.com/recepti/hladna-pirinaca-sa-malinama-i-bademima
-
-Kremasta hladna pirinača sa malinama, bademima i chia — letnji doručak koji hladi i daje energiju. Recept za 45 min, 4 porcije.
-
-**Q: Mogu li koristiti običan beli pirinač?**
-
-Možete, ali integralni pirinač zadržava više vlakana i minerala, što ovom obroku daje veću hranljivu vrednost i duži osećaj sitosti. Beli pirinač će dati kremastiju teksturu, pa ako to voliše — probajte sa pola-pola.
-
-**Q: Da li smrznute maline odgovaraju?**
-
-Sasvim. Odmrznite ih na sobnoj temperaturi oko 30 minuta pre služenja, ili koristite rashlađene direktno iz frižidera. Smrznute maline su često brže ubrane i zadržavaju odličnu hranljivu vrednost.
-
-**Q: Koliko dugo se može držati u frižideru?**
-
-Osnovna smesa bez voća i prelive može stajati do 3 dana u zatvorenoj posudi. Sa dodacima na vrhu je najbolje jesti isti dan, jer bademi gube hrskavost, a maline puštaju sok.
-
-**Q: Da li je ovo jelo pogodno za decu?**
-
-Da, deca obično vole kremastu teksturu i slatkoću koju daju urme i maline. Za mlađu decu smanjite količinu kardamoma, a bademe možete samleti u prah radi lakše konzumacije.
 
 ---
 
