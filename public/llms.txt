@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Ishrana pre i posle treninga bez komplikovanja](https://unazdravahrana.com/blog/ishrana-pre-i-posle-treninga-bez-komplikovanja)
 - [Kremasta polenta sa pečenim patlidžanom i smokvama](https://unazdravahrana.com/recepti/kremasta-polenta-sa-pecenim-patlidzanom-i-smokvama)
 - [Cena organske hrane: zašto je viša i kako birati](https://unazdravahrana.com/blog/cena-organske-hrane-zasto-je-visa-i-kako-birati)
 - [Pečeni patlidžan sa smokvama i orasima uz kus-kus](https://unazdravahrana.com/recepti/peceni-patlidzan-sa-smokvama-i-orasima-uz-kus-kus)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Letnja pita od smokava i badema sa speltom](https://unazdravahrana.com/recepti/letnja-pita-od-smokava-i-badema-sa-speltom)
 - [Superhrana za svaki dan: kako je uklopiti u obroke](https://unazdravahrana.com/blog/superhrana-za-svaki-dan-kako-je-uklopiti-u-obroke)
 - [Letnji tart od smokava sa bademima i medom](https://unazdravahrana.com/recepti/letnji-tart-od-smokava-sa-bademima-i-medom)
-- [Letnji chia puding sa breskvom i malinama](https://unazdravahrana.com/recepti/letnji-chia-puding-sa-breskvom-i-malinama)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-08
+Last updated: 2026-08-09

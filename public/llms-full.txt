@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ishrana pre i posle treninga bez komplikovanja
+
+https://unazdravahrana.com/blog/ishrana-pre-i-posle-treninga-bez-komplikovanja
+
+Pre treninga birajte lagane ugljene hidrate uz malo proteina, prilagođene vremenu do aktivnosti. Posle treninga pojedite raznovrstan obrok sa energijom i proteinima, a vodu pijte redovno tokom dana.
+
+**Q: Šta jesti pre treninga?**
+
+Pre treninga birajte lagan obrok sa ugljenim hidratima i manjom količinom proteina, poput kaše sa voćem, banane ili voćne pločice sa orasima.
+
+**Q: Koliko vremena pre treninga treba jesti?**
+
+Puniji, lagan obrok možete pojesti 2–3 sata pre treninga, manju užinu 60–90 minuta ranije, a bananu ili pločicu 20–45 minuta pre aktivnosti.
+
+**Q: Šta jesti posle treninga?**
+
+Posle treninga u narednih nekoliko sati pojedite običan, raznovrstan obrok koji sadrži izvor proteina, žitarice ili druge ugljene hidrate i povrće.
+
+**Q: Da li su elektroliti potrebni posle svakog treninga?**
+
+Za kraće i umerene treninge voda je uglavnom dovoljna. Elektroliti mogu imati smisla kod dužeg napora, velike vrućine ili izraženog znojenja.
+
+---
+
 ## Kremasta polenta sa pečenim patlidžanom i smokvama
 
 https://unazdravahrana.com/recepti/kremasta-polenta-sa-pecenim-patlidzanom-i-smokvama
@@ -664,28 +688,4 @@ Da, deca obično vole kremastu teksturu i slatkoću koju daju urme i maline. Za 
 
 ---
 
-## Najbolje vreme za doručak pri visokom holesterolu
-
-https://unazdravahrana.com/blog/najbolje-vreme-za-dorucak-pri-visokom-holesterolu
-
-Vreme doručka utiče na to kako organizam obrađuje masti i holesterol — jutarnji obrok pre 8:30 iskorišćava vršnu insulinsku osetljivost i lučenje žuči. Uz pravilan tajming i kombinaciju rastvorljivih vlakana, zdravih masti i proteina, doručak postaje ključan saveznik u regulaciji LDL-a.
-
-**Q: Kada je najbolje vreme za doručak pri visokom holesterolu?**
-
-Idealno vreme za doručak je između buđenja i 8:30 ujutru. Organizam je tada najosetljiviji na insulin i najefikasnije obrađuje masti. Takođe je važno ostaviti 10 do 14 sati između večere i doručka kako bi jetra imala vremena za prirodan reset.
-
-**Q: Šta treba da sadrži doručak za snižavanje holesterola?**
-
-Doručak treba da sadrži tri ključne komponente: rastvorljiva vlakna (ovas, lan, integralne žitarice), zdrave nezasićene masti (orasi, maslinovo ulje, semenke) i proteinsku bazu (jogurt, kefir, jaja). Ovas je posebno važan jer sadrži beta-glukan koji dokazano snižava LDL holesterol.
-
-**Q: Da li preskakanje doručka utiče na holesterol?**
-
-Da, istraživanja pokazuju da osobe koje preskaču doručak i obroke pomeraju kasnije u dan imaju manje stabilne nivoe LDL-a. Telo ujutru bolje reguliše šećer i masti, a redovan ran obrok pomaže jetri da optimalno upravlja sintezom holesterola tokom dana.
-
-**Q: Koje greške poništavaju zdrav doručak za holesterol?**
-
-Glavna greška je doručkovanje kasno, oko 11 sati, kada je insulinska osetljivost već niža. Takođe, preskakanje doručka vikendom i nepravilnost u ritmu obroka smanjuje efikasnost kojom telo obrađuje unete masti i vlakna.
-
----
-
-Last updated: 2026-08-08
+Last updated: 2026-08-09
