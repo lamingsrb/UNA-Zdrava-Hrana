@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Bezglutenska ishrana: 7 koraka za početak
+
+https://unazdravahrana.com/blog/bezglutenska-ishrana-7-koraka-za-pocetak
+
+Bezglutenska ishrana zahteva pažljivo čitanje deklaracija, proveru oznaka i izbegavanje kontakta sa glutenom kada je to medicinski neophodno. Početak je lakši uz nekoliko proverenih namirnica za doručak, ručak i užinu.
+
+**Q: Šta je gluten?**
+
+Gluten je protein koji se prirodno nalazi u pšenici, ječmu i raži, pa može biti prisutan u hlebu, pecivu, testenini i drugim prerađenim proizvodima.
+
+**Q: Ko treba da drži bezglutensku ishranu?**
+
+Osobe sa potvrđenom celijakijom moraju strogo izbegavati gluten, dok kod sumnje na celijakiju ili drugih tegoba promenu ishrane treba prvo proceniti sa lekarom.
+
+**Q: Kako prepoznati bezglutenski proizvod?**
+
+Proverite sastojke, upozorenja o alergenima i jasnu bezglutensku oznaku na deklaraciji. Ne oslanjajte se samo na izraze poput prirodno, fit ili organsko.
+
+**Q: Koje namirnice kupiti za početak bezglutenske ishrane?**
+
+Za početak izaberite po jednu proverenu opciju za doručak, ručak i užinu, na primer bezglutensko brašno, testeninu i praktičnu užinu sa jasnom deklaracijom.
+
+---
+
 ## Kukuruzne popečke sa patlidžanom i smokvama
 
 https://unazdravahrana.com/recepti/kukuruzne-popecke-sa-patlidzanom-i-smokvama
@@ -661,30 +685,6 @@ Eritritol je odličan izbor jer nema kalorija i ne diže glukozu u krvi, što ga
 **Q: Koliko šećera dnevno je bezbedno unositi?**
 
 Svetska zdravstvena organizacija preporučuje da dodatni šećer čini manje od 10% ukupnog kalorijskog unosa, a idealno ispod 5%, što iznosi oko 25 grama dnevno za odraslu osobu prosečne potrošnje. Na primer, jedna limenka gaziranog pića sadrži oko 35 grama — što već prelazi dnevnu preporuku.
-
----
-
-## Letnja pazarišna činija sa pirinčom i breskvom
-
-https://unazdravahrana.com/recepti/letnja-pazarisna-cinija-sa-pirincom-i-breskvom
-
-Osvežavajuća letnja činija sa integralnim pirinčem, breskvom i paradajzom — brz, zdrav i lak obrok za vrele dane.
-
-**Q: Da li mogu da koristim beli pirinač umesto integralnog?**
-
-Možete, ali integralni pirinač daje više vlakana i minerala, a lepo upija preliv i ukuse. Ako koristite beli, skratite vreme kuvanja na 15 minuta.
-
-**Q: Kada je najbolje služiti ovu činiju?**
-
-Idealna je za lak ručak u vrelim danima ili kao ranu večeru. Rashlađena je najukusnija, a može poslužiti i kao prilog uz pečeno meso ili ribu.
-
-**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
-
-Da — pirinač, breskve, paradajz i chia su prirodno bez glutena. Proverite samo oznaku na pakovanju pirinča ako ste posebno osetljivi.
-
-**Q: Mogu li dodati orašaste plodove za hrskavost?**
-
-Naravno — pečeni bademi ili orasi odlično idu uz ovu kombinaciju. Dobar začin su i sjemenke suncokreta ili buče za dodatnu teksturu.
 
 ---
 
