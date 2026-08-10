@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 bezglutenskih recepata sa namirnicama iz naše radnje
+
+https://unazdravahrana.com/blog/5-bezglutenskih-recepata-sa-namirnicama-iz-nase-radnje
+
+Praktični vodič kroz pet bezglutenskih recepata sa savetima o kombinovanju brašna (heljda, pirinač, kukuruz) i izbegavanju unakrsne kontaminacije. Recepti uključuju heljdine palačinke sa bananom, salatu sa pirinčanom testeninom i feta sirom, kukuruzne popečke i druge svakodnevne obroke.
+
+**Q: Da li je heljda bez glutena?**
+
+Heljda je prirodno bez glutena, ali pakovanja koja nisu deklarisana kao 'bez glutena' mogu biti mlevena u mlinovima gde se melje i pšenica, pa uvek proverite deklaraciju ako kuvate za osobu sa celijakijom.
+
+**Q: Može li se bezglutensko brašno koristiti kao zamena 1:1 za pšenično?**
+
+Ne. Bezglutenska brašna upijaju različito vlage i drugačije se ponašaju u pečenju, pa je najbolje koristiti gotove mešavine ili kombinovati više vrsta brašna (heljda, pirinač, kukuruz) prilagođeno receptu.
+
+**Q: Kako da izbegnem unakrsnu kontaminaciju glutenom u kuhinji?**
+
+Koristite čistu dasku i nož, poseban toster ili aluminijumsku foliju u rerni, i pazite na zajedničke začine u koje je mogla upasti kašika iz pšeničnog brašna. Kontaminacija je često važnija od samih sastojaka.
+
+**Q: Zašto se bezglutenska testenina lako raskuva?**
+
+Testenina od pirinča ili kukuruza prelazi iz al dente u raskuvano stanje za oko 60 sekundi, pa je važno pratiti vreme sa pakovanja i isprati je hladnom vodom da se ne slepi — posebno ako je koristite za hladne salate.
+
+---
+
 ## Bezglutenska ishrana: 7 koraka za početak
 
 https://unazdravahrana.com/blog/bezglutenska-ishrana-7-koraka-za-pocetak
@@ -664,28 +688,4 @@ Uz testeninu poslužite sezonsku salatu ili dodajte više oraha. Po želji može
 
 ---
 
-## Šećer je najprihvaćenija zavisnost današnjice
-
-https://unazdravahrana.com/blog/secer-je-najprihvacenija-zavisnost-danasnjice
-
-Šećer deluje na isti sistem nagrađivanja u mozgu kao i druge navike, stvarajući ciklus žudnje i pada energije koji je teško prekinuti pukom voljom. Postupno uvlačenje prirodnih zamena poput eritritola, ksilitola, stevije i urma paste omogućava očuvanje slatkog ukusa bez skokova glukoze i zdravstvenih rizika.
-
-**Q: Da li šećer zaista stvara zavisnost?**
-
-Da — kada pojedete nešto slatko, mozak oslobađa dopamin, neurotransmiter povezan sa sistemom nagrađivanja. Industrijski prerađena hrana sadrži količine šećera koje prirodne namirnice nemaju, što dovodi do bržeg i intenzivnijeg oslobađanja dopamina nego što bi ga voće ili drugi prirodni izvori izazvali.
-
-**Q: Kako da znam da li jedem previše šećera?**
-
-Najčešći znaci su popodnevni pad energije između 14 i 16h kada vam treba nešto slatko, nemogućnost da zaustavite nakon jednog komada, obavezan sladak doručak te blaga razdražljivost ili nemir kada preskočite uobičajenu poslasticu. Ako prepoznate nekoliko ovih signala, vredi osvestiti unos i razmotriti pametnije izbore.
-
-**Q: Koja je najbolja prirodna zamena za šećer?**
-
-Eritritol je odličan izbor jer nema kalorija i ne diže glukozu u krvi, što ga čini pogodnim za pića i keto recepte. Stevia je 200 do 300 puta slađa od šećera bez kalorija, dok urma pasta pruža karamelast ukus uz vlakna i minerale. Izbor zavisi od namene — za pečenje, ksilitol se najviše približava ukusu šećera, ali je važno znati da je otrovan za pse.
-
-**Q: Koliko šećera dnevno je bezbedno unositi?**
-
-Svetska zdravstvena organizacija preporučuje da dodatni šećer čini manje od 10% ukupnog kalorijskog unosa, a idealno ispod 5%, što iznosi oko 25 grama dnevno za odraslu osobu prosečne potrošnje. Na primer, jedna limenka gaziranog pića sadrži oko 35 grama — što već prelazi dnevnu preporuku.
-
----
-
-Last updated: 2026-08-09
+Last updated: 2026-08-10

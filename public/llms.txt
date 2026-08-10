@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [5 bezglutenskih recepata sa namirnicama iz naše radnje](https://unazdravahrana.com/blog/5-bezglutenskih-recepata-sa-namirnicama-iz-nase-radnje)
 - [Bezglutenska ishrana: 7 koraka za početak](https://unazdravahrana.com/blog/bezglutenska-ishrana-7-koraka-za-pocetak)
 - [Kukuruzne popečke sa patlidžanom i smokvama](https://unazdravahrana.com/recepti/kukuruzne-popecke-sa-patlidzanom-i-smokvama)
 - [Ishrana pre i posle treninga bez komplikovanja](https://unazdravahrana.com/blog/ishrana-pre-i-posle-treninga-bez-komplikovanja)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Karpaćo od patlidžana sa smokvama i chia prelivom](https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-smokvama-i-chia-prelivom)
 - [Zdrava ishrana u Kragujevcu: gde kupiti namirnice](https://unazdravahrana.com/blog/zdrava-ishrana-u-kragujevcu-gde-kupiti-namirnice)
 - [Pečeni patlidžan sa smokvama, grožđem i orasima](https://unazdravahrana.com/recepti/peceni-patlidzan-sa-smokvama-grozdjem-i-orasima)
-- [Letnja pita od smokava i badema sa speltom](https://unazdravahrana.com/recepti/letnja-pita-od-smokava-i-badema-sa-speltom)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-09
+Last updated: 2026-08-10
