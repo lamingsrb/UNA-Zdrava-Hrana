@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Rolnice od patlidžana sa smokvama i orasima
+
+https://unazdravahrana.com/recepti/rolnice-od-patlidzana-sa-smokvama-i-orasima
+
+Rolnice od patlidžana sa svežim smokvama, orasima i sirom — lagano letnje jelo iz rerne, gotovo za 40 minuta. Bez glutena.
+
+**Q: Mogu li patlidžan da pripremim ranije?**
+
+Da, ploške možete ispeći dan pre i držati u frižideru. Pre serviranja samo napunite i vratite u rernu da se zagreju i spoje ukusi.
+
+**Q: Da li je jelo bez glutena?**
+
+Jeste, svi sastojci u osnovnoj verziji su prirodno bez glutena. Ako ste osetljivi, uvek proverite deklaracije na siru i medu.
+
+**Q: Kako da patlidžan ne bude gorak?**
+
+Birajte mlađe, čvrste plodove i obavezno posolite ploške pa ih ostavite 10 minuta — so izvlači gorčinu i višak vode.
+
+**Q: Čime mogu da zamenim orahe?**
+
+Odlično rade bademi, lešnici ili suncokretove semenke — sve to imamo u radnji, pa možete probati različite kombinacije.
+
+---
+
 ## 5 bezglutenskih recepata sa namirnicama iz naše radnje
 
 https://unazdravahrana.com/blog/5-bezglutenskih-recepata-sa-namirnicama-iz-nase-radnje
@@ -661,30 +685,6 @@ Najvažnije je dobro ocediti tikvicu i ostaviti smesu nekoliko minuta pre obliko
 **Q: Uz šta mogu da poslužim ovo jelo?**
 
 Odlično ide uz salatu od krastavca, kupusa ili svežeg paradajza, kao i uz krišku integralnog hleba.
-
----
-
-## Integralna testenina u sosu od paprike i oraha
-
-https://unazdravahrana.com/recepti/integralna-testenina-u-sosu-od-paprike-i-oraha
-
-Brz letnji recept za integralnu testeninu u kremastom sosu od pečene paprike, paradajza i oraha.
-
-**Q: Da li može obična testenina umesto integralne?**
-
-Može, ali integralna testenina daje izraženiji ukus i puniju teksturu. Kuvajte je prema vremenu navedenom na pakovanju.
-
-**Q: Mogu li koristiti papriku iz tegle?**
-
-Možete kada žurite. Dobro je ocedite pre blendanja, a količinu soli u sosu prilagodite jer paprika iz tegle često već sadrži so.
-
-**Q: Da li je sos ljut?**
-
-Nije, jer se pravi od slatke crvene paprike. Ako volite pikantniji ukus, dodajte malo ljute paprike po želji.
-
-**Q: Kako da obrok bude još zasitniji?**
-
-Uz testeninu poslužite sezonsku salatu ili dodajte više oraha. Po želji možete ubaciti i šaku kuvanog pasulja u gotov sos.
 
 ---
 
