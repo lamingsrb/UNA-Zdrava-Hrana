@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Salata od tikvica sa grožđem, orasima i medom
+
+https://unazdravahrana.com/recepti/salata-od-tikvica-sa-grozdjem-orasima-i-medom
+
+Osvežavajuća salata od tikvica sa grožđem, orasima i medom — gotova za 20 minuta, savršena kao lagan letnji obrok ili prilog.
+
+**Q: Mogu li koristiti veće tikvice umesto mladih?**
+
+Možete, ali izvadite semenke iz sredine ako su previše meke i ostavite ih malo duže u cediljki sa soli — puštaju više vode.
+
+**Q: Koje grožđe je najbolje za ovu salatu?**
+
+Sitno grožđe bez semenki je najpraktičnije. Crno grožđe daje slađi ukus, belo je osvežavajuće — probajte i mešano za lepši izgled.
+
+**Q: Da li je ovo pogodno kao večera?**
+
+Da, kao lagana večera je odlična. Ako želite više sitosti, dodajte kuvanu kinou, heljdu ili integralni kus-kus i par kašika leblebija.
+
+**Q: Mogu li unapred pripremiti dresing?**
+
+Naravno — dresing možete napraviti dan ranije i čuvati u frižideru u tegli. Pre upotrebe protresite.
+
+---
+
 ## Zdrava ishrana i fizička aktivnost: činjenice za
 
 https://unazdravahrana.com/blog/zdrava-ishrana-i-fizicka-aktivnost-cinjenice-za
@@ -661,30 +685,6 @@ Možete ga zameniti mladim lukom ili vlašcem, ili ga potpuno izostaviti. Trik s
 **Q: Kako da salatu pretvorim u puniji obrok?**
 
 Dodajte kuvanu kinou ili heljdu (oko 150 g kuvano), ili je poslužite uz integralni hleb. Za više proteina odgovaraju feta, tofu ili kuvano jaje.
-
----
-
-## Prirodni suplementi za gvožđe: biljni izvori i saveti
-
-https://unazdravahrana.com/blog/prirodni-suplementi-za-gvozdje-biljni-izvori-i-saveti
-
-Vodič kroz biljne izvore gvožđa i prirodne suplemente poput spiruline i koprive, sa savetima kako da povećate apsorpciju uz vitamin C. Objašnjava koje namirnice i navike koče usvajanje gvožđa i zašto su feritin i krvna slika ključni pre svake suplementacije.
-
-**Q: Koji biljni izvori sadrže najviše gvožđa?**
-
-Najbogatiji biljni izvori gvožđa su bundevine semenke, susam i tahini, mahunarke poput sočiva, slanutka i belog pasulja, kuvani spanać, ovsene pahuljice, sušene kajsije, kopriva i spirulina u prahu.
-
-**Q: Kako da povećam apsorpciju gvožđa iz biljne hrane?**
-
-Uz svaki obrok sa gvožđem dodajte izvor vitamina C — limun, svežu papriku, paradajz, kivi, jagode ili narandžu. Vitamin C višestruko povećava apsorpciju nehem-gvožđa iz biljaka.
-
-**Q: Šta smanjuje apsorpciju gvožđa?**
-
-Kafa i crni čaj zbog tanina, mleko i mlečni proizvodi zbog kalcijuma, kalcijumovi suplementi i fitati iz mahunarki i žitarica. Kafu i čaj popijte sat pre ili dva sata posle obroka, a pasulj i sočivo namačite preko noći.
-
-**Q: Da li mogu da uzimam suplement gvožđa bez analize krvi?**
-
-Ne. Pre suplementacije uradite krvnu sliku, feritin i serumsko gvožđe i posavetujte se sa lekarom, jer višak gvožđa može biti štetan kao i manjak.
 
 ---
 
