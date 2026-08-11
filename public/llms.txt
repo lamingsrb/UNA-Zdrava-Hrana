@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Zdrava ishrana i fizička aktivnost: činjenice za](https://unazdravahrana.com/blog/zdrava-ishrana-i-fizicka-aktivnost-cinjenice-za)
 - [Rolnice od patlidžana sa smokvama i orasima](https://unazdravahrana.com/recepti/rolnice-od-patlidzana-sa-smokvama-i-orasima)
 - [5 bezglutenskih recepata sa namirnicama iz naše radnje](https://unazdravahrana.com/blog/5-bezglutenskih-recepata-sa-namirnicama-iz-nase-radnje)
 - [Bezglutenska ishrana: 7 koraka za početak](https://unazdravahrana.com/blog/bezglutenska-ishrana-7-koraka-za-pocetak)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Karpaćo od patlidžana sa grožđem i tahini prelivom](https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-grozdjem-i-tahini-prelivom)
 - [5 ideja za zdrave obroke kad nemate vremena za komplikovanje](https://unazdravahrana.com/blog/5-ideja-za-zdrave-obroke-kad-nemate-vremena-za-komplikovanje)
 - [Karpaćo od patlidžana sa smokvama i chia prelivom](https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-smokvama-i-chia-prelivom)
-- [Zdrava ishrana u Kragujevcu: gde kupiti namirnice](https://unazdravahrana.com/blog/zdrava-ishrana-u-kragujevcu-gde-kupiti-namirnice)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-10
+Last updated: 2026-08-11

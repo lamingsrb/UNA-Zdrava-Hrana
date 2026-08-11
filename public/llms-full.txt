@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdrava ishrana i fizička aktivnost: činjenice za
+
+https://unazdravahrana.com/blog/zdrava-ishrana-i-fizicka-aktivnost-cinjenice-za
+
+Tekst objašnjava zašto ishrana i kretanje idu zajedno i donosi proverljive preporuke Svetske zdravstvene organizacije o unosu voća, povrća i nedeljnoj fizičkoj aktivnosti. Nudi praktičan model 'tanjira u tri dela' i konkretne primere za porodice, rekreativce, početnike i starije osobe.
+
+**Q: Koliko fizičke aktivnosti nedeljno preporučuje WHO za odrasle?**
+
+Svetska zdravstvena organizacija preporučuje odraslima 150 do 300 minuta umerene ili 75 do 150 minuta intenzivne aktivnosti nedeljno, uz dva treninga snage.
+
+**Q: Šta znači uravnotežena ishrana u praksi?**
+
+Uravnotežena ishrana znači da polovinu tanjira čine povrće i voće, četvrtinu izvor proteina (jaja, riba, meso, mahunarke), a četvrtinu integralne žitarice ili krompir, uz malo zdravih masti.
+
+**Q: Koliko voća i povrća treba jesti dnevno?**
+
+WHO preporučuje najmanje 400 grama voća i povrća dnevno, što je otprilike pet porcija, uz ograničenje slobodnih šećera i soli.
+
+**Q: Da li je dovoljno samo vežbati ako se loše hranim?**
+
+Nije. Vežbanje ne poništava efekte loše ishrane, jer ishrana daje gorivo i gradivni materijal, a kretanje odlučuje kako će telo to gorivo iskoristiti.
+
+---
+
 ## Rolnice od patlidžana sa smokvama i orasima
 
 https://unazdravahrana.com/recepti/rolnice-od-patlidzana-sa-smokvama-i-orasima
@@ -664,28 +688,4 @@ Ne. Pre suplementacije uradite krvnu sliku, feritin i serumsko gvožđe i posave
 
 ---
 
-## Heljdine ćuftice u sosu od paradajza i paprike
-
-https://unazdravahrana.com/recepti/heljdine-cuftice-u-sosu-od-paradajza-i-paprike
-
-Pečene heljdine ćuftice u domaćem sosu od letnjeg paradajza i paprike. Jednostavan, ukusan ručak za 50 minuta.
-
-**Q: Da li ćuftice mogu bez jajeta?**
-
-Mogu. Umesto jajeta dodajte još 1 kašiku mlevenog lana pomešanu sa 3 kašike vode i ostavite 10 minuta da nabubri.
-
-**Q: Da li mogu da koristim kupovni paradajz sos?**
-
-Možete, ali birajte jednostavan sos bez dodatog šećera. Za letnji ukus, svež paradajz i paprika daju najlepšu aromu.
-
-**Q: Kako da ćuftice budu čvrste?**
-
-Najvažnije je dobro ocediti tikvicu i ostaviti smesu nekoliko minuta pre oblikovanja. Tako ovsene pahuljice upiju višak vlage.
-
-**Q: Uz šta mogu da poslužim ovo jelo?**
-
-Odlično ide uz salatu od krastavca, kupusa ili svežeg paradajza, kao i uz krišku integralnog hleba.
-
----
-
-Last updated: 2026-08-10
+Last updated: 2026-08-11
