@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ribane tikvice sa grožđem, orasima i speltom
+
+https://unazdravahrana.com/recepti/ribane-tikvice-sa-grozdjem-orasima-i-speltom
+
+Ribane tikvice sa grožđem, orasima i speltom — lagan letnji obrok gotov za 40 minuta. Zdrav recept sa sezonskim namirnicama.
+
+**Q: Mogu li recept da spremim unapred za sutradan?**
+
+Možete, ali preporučujemo da orahe i preliv dodate tek pred serviranje kako bi orasi ostali hrskavi, a tikvice zadržale svežinu.
+
+**Q: Koje grožđe je najbolje za ovaj recept?**
+
+Bilo koje sezonsko grožđe bez semenki — belo daje blaži, a crno intenzivniji ukus. Ako je grožđe sa semenkama, samo ga prepolovite i izvadite ih.
+
+**Q: Da li recept odgovara vegetarijancima i veganima?**
+
+Da, potpuno je biljni. Za vegansku varijantu zamenite med javorovim sirupom ili agavom.
+
+**Q: Šta ako mi tikvice puste previše vode?**
+
+To je normalno — zato ih posolimo pre prženja i dobro iscedimo rukama. Prženje na jačoj vatri kratko vreme takođe pomaže da ostanu čvrste.
+
+---
+
 ## Koliko koštaju kvalitetni suplementi i šta plaćate
 
 https://unazdravahrana.com/blog/koliko-kostaju-kvalitetni-suplementi-i-sta-placate
@@ -679,12 +703,6 @@ Odlično funkcionišu kruška, jabuka ili nar u jesen, a leti možete probati i 
 **Q: Da li je ovaj obrok dovoljan kao ručak?**
 
 Kao lagan letnji ručak jeste — porcija daje oko 340 kcal. Za izdašniji obrok dodajte izvor proteina poput leblebija, tofua ili kuvanog jajeta.
-
----
-
-## Bio i lek bilje u Kragujevcu: gde tražiti i kako birati
-
-https://unazdravahrana.com/blog/bio-i-lek-bilje-u-kragujevcu-gde-traziti-i-kako-birati
 
 ---
 
