@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Koliko koštaju kvalitetni suplementi i šta plaćate
+
+https://unazdravahrana.com/blog/koliko-kostaju-kvalitetni-suplementi-i-sta-placate
+
+Cena suplementa zavisi od oblika aktivne materije, doze, pomoćnih sastojaka i sertifikata proizvođača, pri čemu skuplji oblici (bisglicinat, metilkobalamin, D3) često imaju znatno veću biodostupnost. Da biste izbegli bacanje novca, uporedite oblik jedinjenja, stvarnu dozu po kapsuli i prisustvo GMP/ISO sertifikata, a ne samo broj miligrama na kutiji.
+
+**Q: Zašto je magnezijum bisglicinat skuplji od oksida?**
+
+Bisglicinat je kompleksniji za proizvodnju, ali telo ga bolje apsorbuje i ne izaziva stomačne tegobe, dok se magnezijum oksid iskoristi samo delimično iako na deklaraciji piše ista miligraža.
+
+**Q: Koji sertifikati na suplementima su zaista važni?**
+
+Najvažniji su GMP (standard proizvodnje), ISO 22000 ili HACCP (bezbednost hrane), Non-GMO i oznaka third-party tested koja potvrđuje da je nezavisna laboratorija proverila sadržaj kapsule.
+
+**Q: Šta je biodostupnost suplementa?**
+
+Biodostupnost je procenat unete doze koji telo zaista može da apsorbuje i iskoristi. Zbog nje 500 mg kvalitetnog oblika često daje veći efekat od 1000 mg jeftinog oblika sa slabom apsorpcijom.
+
+**Q: Zašto kurkumu treba uzimati sa piperinom?**
+
+Kurkuma se sama za sebe veoma slabo apsorbuje u organizmu, a dodatak piperina iz crnog bibera višestruko povećava iskorišćenje aktivne materije, pa je kurkuma bez piperina najčešće bačen novac.
+
+---
+
 ## Salata od tikvica sa grožđem, orasima i medom
 
 https://unazdravahrana.com/recepti/salata-od-tikvica-sa-grozdjem-orasima-i-medom
@@ -664,28 +688,4 @@ https://unazdravahrana.com/blog/bio-i-lek-bilje-u-kragujevcu-gde-traziti-i-kako-
 
 ---
 
-## Letnja salata od leblebija sa breskvom i paprikom
-
-https://unazdravahrana.com/recepti/letnja-salata-od-leblebija-sa-breskvom-i-paprikom
-
-Letnja salata od leblebija sa breskvom, paprikom i chia semenkama — svež, brz i hranljiv obrok bez glutena, gotov za 30 minuta.
-
-**Q: Mogu li da koristim leblebije iz konzerve?**
-
-Naravno, samo ih dobro isperite pod mlazom hladne vode da uklonite višak soli i tečnosti iz konzerve. Za 400 g kuvanih leblebija potrebne su vam dve manje konzerve.
-
-**Q: Da li je recept prikladan za osobe sa intolerancijom na gluten?**
-
-Da, svi navedeni sastojci su prirodno bez glutena. Ako imate izraženu osetljivost, proverite da su leblebije i semenke pakovane u pogonu bez unakrsne kontaminacije.
-
-**Q: Šta ako ne volim sirov crveni luk?**
-
-Možete ga zameniti mladim lukom ili vlašcem, ili ga potpuno izostaviti. Trik sa potapanjem u hladnu vodu ublažava oštrinu, pa ga vredi probati.
-
-**Q: Kako da salatu pretvorim u puniji obrok?**
-
-Dodajte kuvanu kinou ili heljdu (oko 150 g kuvano), ili je poslužite uz integralni hleb. Za više proteina odgovaraju feta, tofu ili kuvano jaje.
-
----
-
-Last updated: 2026-08-11
+Last updated: 2026-08-12
