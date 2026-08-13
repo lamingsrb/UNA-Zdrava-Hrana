@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Salata za jake kosti: kelj, smokve i susam
+
+https://unazdravahrana.com/recepti/salata-za-jake-kosti-kelj-smokve-i-susam
+
+Salata od kelja, smokava i susama sa kremastim tahini prelivom — jednostavan biljni recept bogat kalcijumom, gotov za 25 minuta.
+
+**Q: Da li se ova salata može pripremiti unapred?**
+
+Sastojke možete pripremiti odvojeno nekoliko sati ranije, ali salatu preporučujemo da sklopite neposredno pre serviranja kako bi kelj ostao svež, a smokve sočne.
+
+**Q: Čime da zamenim tahini ako ga nemam?**
+
+Odličan izbor je puter od badema ili puter od susama. Dobićete nešto drugačiji ukus, ali kremastu teksturu preliva i sličnu nutritivnu vrednost.
+
+**Q: Da li je jelo pogodno za osobe sa intolerancijom na laktozu?**
+
+Da, recept je u potpunosti biljni i ne sadrži mlečne proizvode, pa je pogodan za osobe koje izbegavaju laktozu.
+
+**Q: Koliko dugo mogu da čuvam salatu u frižideru?**
+
+Ako je već zamešana sa prelivom, najbolje je pojesti je u toku istog dana. Bez preliva, sastojci se mogu čuvati u zatvorenoj posudi do 2 dana.
+
+---
+
 ## Organska hrana u Kragujevcu: odakle da krenete
 
 https://unazdravahrana.com/blog/organska-hrana-u-kragujevcu-odakle-da-krenete
@@ -664,28 +688,4 @@ Najbolje ga je pojesti istog dana kada je spremljen. U frižideru u zatvorenoj p
 
 ---
 
-## Letnji chia puding sa breskvom i malinama
-
-https://unazdravahrana.com/recepti/letnji-chia-puding-sa-breskvom-i-malinama
-
-Kremasti chia puding sa sočnom breskvom i malinama — brz letnji doručak bez pečenja. Recept i sastojci u UNA radnji u Kragujevcu.
-
-**Q: Mogu li da koristim kravlje mleko umesto bademovog?**
-
-Naravno. Recept radi sa bilo kojim mlekom — kravljim, sojinim, ovsenim ili kokosovim. Ukus i gustina se malo razlikuju, ali chia će uvek napraviti kremastu strukturu.
-
-**Q: Zašto mi je chia puding ostao tečan?**
-
-Najčešće je razlog premalo vremena u frižideru ili neujednačeno mešanje. Obavezno promešajte dva puta u prvih 15 minuta i ostavite najmanje 4 sata da se semenke potpuno napiju tečnosti.
-
-**Q: Da li je pogodan za decu?**
-
-Jeste, deca ga obično vole zbog voća i blage slatkoće. Za najmlađe možete izostaviti med i osloniti se samo na slatkoću zrele breskve.
-
-**Q: Koliko dugo se čuva?**
-
-Osnovni puding bez svežeg voća stoji u frižideru do 3 dana. Sveže voće i pržene bademe dodajte tek neposredno pre serviranja.
-
----
-
-Last updated: 2026-08-12
+Last updated: 2026-08-13
