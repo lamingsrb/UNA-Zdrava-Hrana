@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Topla salata od pečenog patlidžana i grožđa sa prosom
+
+https://unazdravahrana.com/recepti/topla-salata-od-pecenog-patlidzana-i-grozdja-sa-prosom
+
+Topla salata od pečenog patlidžana, karamelizovanog grožđa i prosa sa orasima — lagan sezonski obrok bez glutena, gotov za 45 minuta.
+
+**Q: Mogu li da pripremim salatu unapred?**
+
+Da, možete skuvati proso i ispeći patlidžan sa grožđem dan ranije, a sve sjediniti sa dresingom neposredno pre serviranja. Tako će tekstura ostati najlepša.
+
+**Q: Da li je jelo prikladno za osobe sa intolerancijom na gluten?**
+
+Jeste — proso je prirodno bez glutena. Ako ste posebno osetljivi, birajte proso sa oznakom 'bez glutena' da izbegnete unakrsnu kontaminaciju.
+
+**Q: Koje grožđe je najbolje za pečenje?**
+
+Bez semenki, čvršće bobice (crno ili crveno) najbolje se ponašaju u rerni — zadrže oblik i lepo karamelizuju. Muskatno grožđe daje najlepšu aromu.
+
+**Q: Čime da zamenim med za veganu verziju?**
+
+Javorov sirup ili agavin sirup u istoj količini rade savršeno. Recept ostaje potpuno biljni.
+
+---
+
 ## Biljni kalcijum: salata koja čuva kosti bez mleka
 
 https://unazdravahrana.com/blog/biljni-kalcijum-salata-koja-cuva-kosti-bez-mleka
@@ -661,30 +685,6 @@ Može i otopljeno kokosovo ulje u istoj količini — daće blago tropski ton, d
 **Q: Koliko dugo pita ostaje sveža?**
 
 Na sobnoj temperaturi izdrži do jedan dan pokrivena krpom, a u frižideru do 2 dana. Zagrejte je pre serviranja za najbolji ukus.
-
----
-
-## Superhrana za svaki dan: kako je uklopiti u obroke
-
-https://unazdravahrana.com/blog/superhrana-za-svaki-dan-kako-je-uklopiti-u-obroke
-
-Tekst objašnjava kako uklopiti chia semenke, spirulinu, macu i druge superhrane u svakodnevnu ishranu kroz male, redovne količine. Daje praktične savete o količinama, kombinacijama i greškama koje treba izbeći.
-
-**Q: Koliko chia semenki treba jesti dnevno?**
-
-Za odraslu osobu koja tek počinje preporučuje se jedna kašičica dnevno (oko 5–7 g), a kasnije se količina može povećati do jedne kašike. Chiu uvek potopite u tečnost jer upija vodu do 10 puta svoje težine.
-
-**Q: Kako koristiti spirulinu da ne bude neprijatnog ukusa?**
-
-Spirulinu ne treba piti u vodi. Najbolje je dodati je u zeleni smuti sa bananom i limunom, u guacamole, humus, testo za palačinke ili preliv za salatu na bazi tahinija. Preporučena dnevna količina je 1–3 g.
-
-**Q: Šta radi maca prah i kada ga uzimati?**
-
-Maca je koren iz Perua koji podržava energiju i izdržljivost. Uzima se pola do jedne kašičice dnevno, najbolje ujutru u smutiju, ovsenim pahuljicama ili energetskim kuglicama. Osobe sa problemima štitne žlezde treba prvo da se konsultuju sa lekarom.
-
-**Q: Da li superhrana može zameniti povrće i mahunarke?**
-
-Ne. Superhrana je dodatak, a ne zamena za osnovne namirnice poput povrća, mahunarki i integralnih žitarica. Ako u ishrani nedostaju osnove, spirulina ili chia neće popuniti tu prazninu.
 
 ---
 
