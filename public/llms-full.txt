@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Biljni kalcijum: salata koja čuva kosti bez mleka
+
+https://unazdravahrana.com/blog/biljni-kalcijum-salata-koja-cuva-kosti-bez-mleka
+
+Biljni kalcijum se lako unosi kroz susam, tahini, chia, bademe, kelj i tofu, ali je važno znati kako pripremiti namirnice da bi telo iskoristilo minerale. Tekst donosi tabelu izvora, savete o oksalatima i fitatima, i recept za salatu sa keljom, leblebijom i tahini dresingom.
+
+**Q: Kako uneti dovoljno kalcijuma bez mleka?**
+
+Kombinujte biljne izvore tokom dana: kašika susama ili tahinija, šaka badema, chia semenke, kuvani kelj, tofu sa kalcijumom i suve smokve zajedno lako pokrivaju dnevnu potrebu od oko 1000 mg.
+
+**Q: Koje biljke imaju najviše kalcijuma?**
+
+Susam nosi oko 975 mg na 100 g, chia semenke oko 630 mg, tahini oko 420 mg, bademi oko 265 mg, a tofu sa kalcijumom između 200 i 350 mg na 100 g.
+
+**Q: Zašto spanać nije najbolji izvor kalcijuma?**
+
+Spanać sadrži oksalate koji vezuju kalcijum i smanjuju njegovu apsorpciju. Kelj, brokoli i kineski kupus imaju malo oksalata pa se njihov kalcijum mnogo bolje iskorišćava.
+
+**Q: Kako povećati apsorpciju kalcijuma iz semenki i mahunarki?**
+
+Namačite pasulj i leblebiju preko noći, meljite lanene semenke i lagano pržite susam. Dodajte vitamin D, magnezijum i vitamin K2 kroz sunce i raznoliku ishranu da kalcijum završi u kostima.
+
+---
+
 ## Salata za jake kosti: kelj, smokve i susam
 
 https://unazdravahrana.com/recepti/salata-za-jake-kosti-kelj-smokve-i-susam
@@ -664,28 +688,4 @@ Ne. Superhrana je dodatak, a ne zamena za osnovne namirnice poput povrća, mahun
 
 ---
 
-## Letnji tart od smokava sa bademima i medom
-
-https://unazdravahrana.com/recepti/letnji-tart-od-smokava-sa-bademima-i-medom
-
-Letnji tart od svežih smokava sa bademima, integralnim brašnom i medom — lagan i mirisan dezert za sezonu. Recept za 45 minuta.
-
-**Q: Mogu li da koristim suve smokve umesto svežih?**
-
-Sveže smokve daju najlepšu teksturu i sočnost. Ako imate samo suve, potopite ih 20 minuta u toplu vodu ili čaj, pa ih iseckajte i rasporedite po kremu — biće slađe, pa smanjite med u filu.
-
-**Q: Kako da znam da je smokva zrela?**
-
-Zrela smokva je mekana na dodir, blago popušta pod prstima i ima intenzivan sladak miris na peteljci. Kora može biti blago naborana — to je znak pune slasti, a ne kvarenja.
-
-**Q: Da li recept može bez meda?**
-
-Može, zamenite ga javorovim sirupom ili agavom u istoj količini. Ukus će biti malo drugačiji, ali podjednako lep. Uvek imamo prirodne zaslađivače u radnji.
-
-**Q: Koliko dugo se tart čuva?**
-
-Najbolje ga je pojesti istog dana kada je spremljen. U frižideru u zatvorenoj posudi izdrži do 2 dana, ali kora vremenom omekša od vlage iz kreama.
-
----
-
-Last updated: 2026-08-13
+Last updated: 2026-08-14

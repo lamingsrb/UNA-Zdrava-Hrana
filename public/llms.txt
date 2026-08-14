@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Biljni kalcijum: salata koja čuva kosti bez mleka](https://unazdravahrana.com/blog/biljni-kalcijum-salata-koja-cuva-kosti-bez-mleka)
 - [Salata za jake kosti: kelj, smokve i susam](https://unazdravahrana.com/recepti/salata-za-jake-kosti-kelj-smokve-i-susam)
 - [Organska hrana u Kragujevcu: odakle da krenete](https://unazdravahrana.com/blog/organska-hrana-u-kragujevcu-odakle-da-krenete)
 - [Ribane tikvice sa grožđem, orasima i speltom](https://unazdravahrana.com/recepti/ribane-tikvice-sa-grozdjem-orasima-i-speltom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Topla salata od patlidžana sa grožđem i heljdom](https://unazdravahrana.com/recepti/topla-salata-od-patlidzana-sa-grozdjem-i-heljdom)
 - [Tart sa tikvicama i rikotom: letnji recept iz bistroa](https://unazdravahrana.com/blog/tart-sa-tikvicama-i-rikotom-letnji-recept-iz-bistroa)
 - [Salata sa lubenicom i feta sirom: recept za celo leto](https://unazdravahrana.com/blog/salata-sa-lubenicom-i-feta-sirom-recept-za-celo-leto)
-- [Slani tart sa patlidžanom, smokvama i speltom](https://unazdravahrana.com/recepti/slani-tart-sa-patlidzanom-smokvama-i-speltom)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-13
+Last updated: 2026-08-14
