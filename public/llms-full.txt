@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Šargarepa, kokosova voda i limun: hit letnji napitak
+
+https://unazdravahrana.com/blog/sargarepa-kokosova-voda-i-limun-hit-letnji-napitak
+
+Napitak od sveže šargarepe, kokosove vode i limuna je osvežavajuća letnja kombinacija bogata beta-karotenom, kalijumom i vitaminom C. Nije čarobni eliksir za kožu, ali je pametan izbor uz kvalitetne, sezonske i neprerađene sastojke.
+
+**Q: Da li napitak od šargarepe zaista poboljšava izgled kože?**
+
+Podržava zdrav izgled kože iznutra zahvaljujući beta-karotenu i vitaminu C, ali efekat se vidi kroz nedelje i mesece, a ne za tri dana kako tvrde viralni snimci.
+
+**Q: Koja je razlika između kokosove vode i kokosovog mleka?**
+
+Kokosova voda je bistra, blago slatkasta tečnost iz mladog kokosa bogata kalijumom, dok je kokosovo mleko gušće, masnije i dobija se ceđenjem mesa zrelog kokosa.
+
+**Q: Mogu li da napravim napitak bez sokovnika?**
+
+Da, naribajte šargarepu, prelijte malom količinom vode, izblendajte i procedite kroz gazu ili gustu cediljku pre mešanja sa kokosovom vodom i limunom.
+
+**Q: Kako da najbolje iskoristim beta-karoten iz šargarepe?**
+
+Beta-karoten je liposolubilan, pa uz sok pojedite nešto sa malo masti — kašiku jogurta, šaku badema ili komad avokada za bolju apsorpciju.
+
+---
+
 ## Topla salata od pečenog patlidžana i grožđa sa prosom
 
 https://unazdravahrana.com/recepti/topla-salata-od-pecenog-patlidzana-i-grozdja-sa-prosom
@@ -661,30 +685,6 @@ U sezoni je bolje koristiti sveže smokve zbog sočnosti. Ako baš morate, potop
 **Q: Uz šta se najbolje slaže ovo jelo?**
 
 Odlično ide uz krišku integralnog hleba, kuvani bulgur ili laganu zelenu salatu. Za gušći obrok dodajte porciju kinoe ili spelte.
-
----
-
-## Letnja pita od smokava i badema sa speltom
-
-https://unazdravahrana.com/recepti/letnja-pita-od-smokava-i-badema-sa-speltom
-
-Rustična letnja pita od svežih smokava i badema sa korom od spelta brašna. Zdrav dezert bez belog šećera, gotov za 50 minuta.
-
-**Q: Mogu li da napravim pitu bez glutena?**
-
-Da, zamenite spelta brašno kombinacijom heljdinog i pirinčanog brašna (150 g + 100 g) uz dodatnu kašiku mlevenih badema za bolju strukturu.
-
-**Q: Šta ako nemam sveže smokve?**
-
-Suve smokve prethodno potopite u toploj vodi 20 minuta, isecite na četvrtine i koristite upola manju količinu jer su koncentrovanije po slasti.
-
-**Q: Da li mogu da zamenim maslinovo ulje?**
-
-Može i otopljeno kokosovo ulje u istoj količini — daće blago tropski ton, dok maslinovo zadržava rustičan mediteranski karakter.
-
-**Q: Koliko dugo pita ostaje sveža?**
-
-Na sobnoj temperaturi izdrži do jedan dan pokrivena krpom, a u frižideru do 2 dana. Zagrejte je pre serviranja za najbolji ukus.
 
 ---
 
