@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Patlidžan čamci sa leblebijama i grožđem
+
+https://unazdravahrana.com/recepti/patlidzan-camci-sa-leblebijama-i-grozdjem
+
+Zapečeni patlidžan punjen leblebijama, grožđem, orasima i čia semenkama – zdrav kasnoletnji ručak za 45 minuta.
+
+**Q: Da li patlidžan treba prethodno soliti?**
+
+Nije obavezno, naročito kod mlađih patlidžana. Ako želite blaži ukus i čvršću teksturu, posolite ga 10 minuta pre pečenja, pa obrišite višak vlage.
+
+**Q: Mogu li da koristim drugo voće umesto grožđa?**
+
+Možete probati sa sitno seckanim svežim smokvama, ali ih dodajte tek pred kraj pečenja jer su veoma nežne.
+
+**Q: Da li je recept pogodan za pripremu unapred?**
+
+Nadev možete pripremiti nekoliko sati unapred i čuvati u frižideru. Patlidžan je najbolje ispeći neposredno pre serviranja.
+
+**Q: Čime mogu da zamenim čia semenke?**
+
+Ako ih nemate, upotrebite susam ili mleveno laneno seme. Dodaće prijatnu teksturu i blagu orašastu notu.
+
+---
+
 ## Saw palmetto i 3 sastojka za zdravlje prostate
 
 https://unazdravahrana.com/blog/saw-palmetto-i-3-sastojka-za-zdravlje-prostate
@@ -661,30 +685,6 @@ Bademi, lešnici ili pečeni pinjoli su odlične zamene. Isekani badem na listi�
 **Q: Da li mogu pripremiti chia preliv dan ranije?**
 
 Da — chia preliv se može napraviti i dan ranije i čuvati u frižideru u zatvorenoj posudi. Pre upotrebe dobro promešaj, jer se može malo razdvojiti.
-
----
-
-## Zdrava ishrana u Kragujevcu: gde kupiti namirnice
-
-https://unazdravahrana.com/blog/zdrava-ishrana-u-kragujevcu-gde-kupiti-namirnice
-
-Tekst je praktičan vodič za kupovinu zdravih namirnica u Kragujevcu koji objašnjava kako prepoznati pravu zdravu hranu i zašto specijalizovane radnje imaju prednost. Obrađuje pet ključnih kategorija — od integralnih žitarica do superhrane i orašastih plodova — sa konkretnim savetima za korišćenje.
-
-**Q: Gde kupiti zdrave namirnice u Kragujevcu?**
-
-Specijalizovane prodavnice zdrave hrane u Kragujevcu nude proizvode sa poznatim poreklom i kraćim spiskom sastojaka. Prednost ovih radnji jeste što prodavci poznaju asortiman i mogu dati konkretne savete za kombinacije koje vam trebaju, što je posebno korisno pri prelasku na zdraviju ishranu.
-
-**Q: Kako prepoznati pravu zdravu namirnicu na polici?**
-
-Prava zdrava namirnica ima kratak spisak sastojaka koje možete izgovoriti, jasno označeno poreklo sa imenom proizvođača i rok trajanja koji nije beskonačan. Ako na deklaraciji stoji više hemikalija pre samog sastojka, to je industrijski proizvod, ne namirnica.
-
-**Q: Šta je superhrana i kako se koristi?**
-
-Superhrana su namirnice sa visokom gustinom hranljivih materija — čia semena, lan, spirulina, goji bobice i sirov kakao. Nisu magične, ali u malim količinama donose puno korisnih sastojaka. Najbolje ih je uvoditi jednu po jednu, u malim količinama, i pratiti kako telo reaguje.
-
-**Q: Koje integralne žitarice su najbolje za početnike?**
-
-Za početnike se preporučuje integralni pirinač kao najlakši korak — razlika u ukusu prema belom je blaga, a priprema identična. Kasnije se mogu uvesti heljda, kvinoja, raž i ovas. Za decu su odlične integralne testenine od pirinča ili kukuruza koje su bez glutena.
 
 ---
 
