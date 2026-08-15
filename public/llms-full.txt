@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Saw palmetto i 3 sastojka za zdravlje prostate
+
+https://unazdravahrana.com/blog/saw-palmetto-i-3-sastojka-za-zdravlje-prostate
+
+Saw palmetto, cink, tikvine semenke i kopriva mogu biti deo rutine nutritivne podrške zdravlju prostate, ali nisu zamena za pregled, dijagnozu ili terapiju. Kod upornih, novih ili izraženih tegoba pri mokrenju potrebno je obratiti se lekaru, posebno pre kombinovanja suplemenata i lekova.
+
+**Q: Da li saw palmetto pomaže kod uvećane prostate?**
+
+Saw palmetto je popularan biljni suplement, ali istraživanja koja navodi NCCIH nisu pokazala pouzdanu korist za urinarne simptome povezane sa uvećanom prostatom. Ne treba ga koristiti kao zamenu za urološki pregled ili propisanu terapiju.
+
+**Q: Da li cink treba uzimati za zdravlje prostate?**
+
+Cink ima važne uloge u organizmu, ali dodatni unos nije automatski potreban niti rešava tegobe sa prostatom. Pre suplementacije proverite ishranu, deklaraciju multivitamina i savetujte se sa lekarom ili farmaceutom.
+
+**Q: Koje simptome prostate ne treba ignorisati?**
+
+Ne odlažite pregled kod pojave krvi u urinu, temperature, jeze, jakog bola, nemogućnosti mokrenja ili naglog pogoršanja tegoba. Učestalo mokrenje i slabiji mlaz mogu imati različite uzroke, ne samo promene prostate.
+
+**Q: Mogu li se kombinovati saw palmetto, cink i drugi suplementi?**
+
+Suplementi slične namene ne bi trebalo da se kombinuju nasumično. Uvodite jednu promenu odjednom, proverite ukupne doze i moguće interakcije sa lekovima uz savet stručnog lica.
+
+---
+
 ## Šargarepa, kokosova voda i limun: hit letnji napitak
 
 https://unazdravahrana.com/blog/sargarepa-kokosova-voda-i-limun-hit-letnji-napitak
@@ -664,28 +688,4 @@ Za početnike se preporučuje integralni pirinač kao najlakši korak — razlik
 
 ---
 
-## Pečeni patlidžan sa smokvama, grožđem i orasima
-
-https://unazdravahrana.com/recepti/peceni-patlidzan-sa-smokvama-grozdjem-i-orasima
-
-Pečeni patlidžan sa smokvama, grožđem i orasima — sezonski recept kasnog leta, gotov za 45 minuta. Bez brašna, pun ukusa i lako se pravi.
-
-**Q: Mogu li da pripremim jelo unapred?**
-
-Patlidžan možete ispeći i nekoliko sati ranije, a smokve, grožđe i sir dodati neposredno pre završnog zapecanja. Tako će jelo ostati sveže i sočno.
-
-**Q: Koje grožđe je najbolje za ovaj recept?**
-
-Najlepše stoji crno grožđe bez semenki jer je slađe i sočnije, ali i zeleno stono grožđe daje odličan rezultat. Bitno je da je zrelo i čvrsto.
-
-**Q: Da li mogu da koristim suve smokve umesto svežih?**
-
-U sezoni je bolje koristiti sveže smokve zbog sočnosti. Ako baš morate, potopite suve smokve 15 minuta u toploj vodi i prepolovite ih pre stavljanja na patlidžan.
-
-**Q: Uz šta se najbolje slaže ovo jelo?**
-
-Odlično ide uz krišku integralnog hleba, kuvani bulgur ili laganu zelenu salatu. Za gušći obrok dodajte porciju kinoe ili spelte.
-
----
-
-Last updated: 2026-08-14
+Last updated: 2026-08-15
