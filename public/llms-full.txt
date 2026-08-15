@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 4 koraka da prestanete da jedete preko mere
+
+https://unazdravahrana.com/blog/4-koraka-da-prestanete-da-jedete-preko-mere
+
+Prejedanje često nastaje kada navika da se tanjir isprazni nadjača prirodan osećaj sitosti. Manje početne porcije, kratka pauza tokom jela i pravilno čuvanje ostataka pomažu da jedete onoliko koliko vam zaista prija.
+
+**Q: Kako da prestanem da jedem preko mere?**
+
+Počnite manjom porcijom, jedite bez žurbe i napravite kratku pauzu pre dosipanja. Zatim se zapitajte da li ste i dalje gladni ili vam je samo žao da hrana ostane.
+
+**Q: Da li je loše ostaviti hranu u tanjiru?**
+
+Nije loše stati kada ste siti. Ostatak hrane možete rashladiti, sačuvati za naredni obrok, poneti na posao ili iskoristiti u novom jelu.
+
+**Q: Kako roditelji mogu da nauče decu da slušaju osećaj sitosti?**
+
+Ponudite detetu manju početnu porciju i recite mu da može da dobije još ako je gladno. Tako se izbegava pritisak da mora da pojede sve iz tanjira.
+
+**Q: Koliko dugo kuvana hrana sme da stoji van frižidera?**
+
+Kvarljivu hranu treba rashladiti u roku od dva sata, a kada su temperature visoke i ranije. Brzo pakovanje ostataka olakšava kontrolu porcija i smanjuje bacanje hrane.
+
+---
+
 ## Patlidžan čamci sa leblebijama i grožđem
 
 https://unazdravahrana.com/recepti/patlidzan-camci-sa-leblebijama-i-grozdjem
@@ -661,30 +685,6 @@ Pečeni patlidžan sa integralnim kuskusom i tahini sosom je jednostavan ručak 
 **Q: Da li je heljda pogodna za osobe sa intolerancijom na gluten?**
 
 Da, heljda prirodno ne sadrži gluten i bogata je biljnim proteinima — oko 12-13 grama na 100 grama. Pre kuvanja je preporučljivo popržiti na suvom tiganju 2-3 minuta kako bi se uklonio gorak ukus.
-
----
-
-## Karpaćo od patlidžana sa smokvama i chia prelivom
-
-https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-smokvama-i-chia-prelivom
-
-Karpaćo od tanko sečenog patlidžana sa svežim smokvama i chia prelivom — brz, sezonski i zdrav recept od 6 sastojaka.
-
-**Q: Mogu li koristiti beli patlidžan umesto plavog?**
-
-Naravno. Beli patlidžan je nešto blaži i ima tanju koru, pa će rezultat biti podjednako ukusan. Sečenje i priprema su identični.
-
-**Q: Da li je ovo jelo dovoljno zasitno za glavni obrok?**
-
-Jelo je lagano i najbolje radi kao predjelo ili laka večera. Za obilniji obrok, služi ga uz kvinoju, integralni hleb ili pomesaj sa koštanjem od leblebija.
-
-**Q: Šta mogu umesto oraha?**
-
-Bademi, lešnici ili pečeni pinjoli su odlične zamene. Isekani badem na listiće je najbliža tekstura originalu.
-
-**Q: Da li mogu pripremiti chia preliv dan ranije?**
-
-Da — chia preliv se može napraviti i dan ranije i čuvati u frižideru u zatvorenoj posudi. Pre upotrebe dobro promešaj, jer se može malo razdvojiti.
 
 ---
 
