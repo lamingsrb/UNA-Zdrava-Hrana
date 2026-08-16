@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 grupa koje ne bi trebalo da preskaču doručak
+
+https://unazdravahrana.com/blog/5-grupa-koje-ne-bi-trebalo-da-preskacu-dorucak
+
+Redovan doručak može biti posebno koristan deci i tinejdžerima, osobama na terapiji za šećer u krvi, trudnicama i dojiljama, kao i jutarnjim rekreativcima. Najpraktičniji izbor kombinuje složene ugljene hidrate, vlakna, zdrave masti i izvor proteina, uz savet lekara kada postoji zdravstveno stanje ili terapija.
+
+**Q: Ko ne bi trebalo često da preskače doručak?**
+
+Doručak je naročito važan za decu i tinejdžere, osobe koje koriste terapiju za šećer u krvi, trudnice i dojilje, kao i ljude koji treniraju rano ujutru.
+
+**Q: Šta čini uravnotežen doručak?**
+
+Uravnotežen doručak može da sadrži složene ugljene hidrate, izvor vlakana i zdravih masti, voće i po potrebi protein, na primer ovsene pahuljice, jabuku, orahe i jogurt.
+
+**Q: Da li osobe sa dijabetesom smeju da preskaču doručak?**
+
+Osobe sa dijabetesom, insulinskom rezistencijom ili terapijom koja utiče na šećer u krvi ne bi trebalo da menjaju ritam obroka bez saveta lekara ili dijetetičara.
+
+**Q: Šta jesti za doručak kada postoji jutarnja mučnina u trudnoći?**
+
+Ako jutarnja mučnina otežava veći obrok, nekima više odgovara nekoliko laganih zalogaja pre ustajanja i manji doručak kasnije, uz konsultaciju sa lekarom kod izraženih tegoba.
+
+---
+
 ## Heljdine palačinke s patlidžanom i smokvama
 
 https://unazdravahrana.com/recepti/heljdine-palacinke-s-patlidzanom-i-smokvama
@@ -661,30 +685,6 @@ Jeste, samo zamenite med javorovim sirupom ili agavom i imate potpuno biljno pre
 **Q: Uz šta se najbolje slaže ovaj karpaćo?**
 
 Odlično ide uz integralni ili raženi hleb, kremaste sireve i čašu hladnog biljnog čaja ili domaće limunade.
-
----
-
-## Karpaćo od patlidžana sa grožđem i tahini prelivom
-
-https://unazdravahrana.com/recepti/karpaco-od-patlidzana-sa-grozdjem-i-tahini-prelivom
-
-Karpaćo od pečenog patlidžana sa slatkim grožđem, kremastim tahini prelivom i orasima — laka letnja poslastica za 35 minuta.
-
-**Q: Mogu li patlidžan da spremim u tiganju umesto u rerni?**
-
-Da, kolutove možeš ispržiti u grill tiganju 2-3 minuta sa svake strane na srednjoj vatri. Rerna daje ravnomerniju teksturu, ali tiganj brže i sa lepim tragovima.
-
-**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
-
-Da, svi sastojci su prirodno bez glutena. Proveri samo etiketu tahinija ako kupuješ nov brend, mada je tahini po pravilu bez glutena.
-
-**Q: Koje grožđe je najbolje?**
-
-Crno grožđe bez semenki daje najlepšu boju i slatkoću, ali može i zeleno ili muskatno. Bitno je da bude zrelo i sočno.
-
-**Q: Mogu li unapred da spremim za goste?**
-
-Patlidžan ispeci ranije tokom dana i ostavi na sobnoj temperaturi, a preliv umuti i drži u frižideru. Sklopi tanjir 10 minuta pre serviranja.
 
 ---
 
