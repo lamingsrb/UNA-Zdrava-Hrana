@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Heljdine palačinke s patlidžanom i smokvama
+
+https://unazdravahrana.com/recepti/heljdine-palacinke-s-patlidzanom-i-smokvama
+
+Slane heljdine palačinke sa patlidžanom, smokvama i grožđem – zdrav kasnoletnji ručak gotov za 45 minuta.
+
+**Q: Da li mogu da pripremim palačinke samo od heljdinog brašna?**
+
+Možete, ali će biti lomljivije. Za lakše okretanje dodajte još jedno jaje ili zamenite 30 g heljdinog brašna integralnim speltinim brašnom.
+
+**Q: Da li se koriste zelene ili tamne sorte grožđa?**
+
+Obe sorte su dobre. Birajte čvrsto grožđe bez koštica, a krupnija zrna obavezno prepolovite.
+
+**Q: Mogu li se palačinke pripremiti unapred?**
+
+Palačinke možete ispeći nekoliko sati ranije i pokriti čistom krpom. Punjenje pripremite unapred, ali ih sastavite neposredno pre služenja da ostanu najbolje teksture.
+
+**Q: Čime mogu da zamenim sir?**
+
+Za blaži ukus koristite mladi sir, a za izraženiji feta sir. Ako ne koristite mlečne proizvode, odgovaraće gušći biljni namaz sa malo limunovog soka.
+
+---
+
 ## 4 koraka da prestanete da jedete preko mere
 
 https://unazdravahrana.com/blog/4-koraka-da-prestanete-da-jedete-preko-mere
@@ -664,28 +688,4 @@ Patlidžan ispeci ranije tokom dana i ostavi na sobnoj temperaturi, a preliv umu
 
 ---
 
-## 5 ideja za zdrave obroke kad nemate vremena za komplikovanje
-
-https://unazdravahrana.com/blog/5-ideja-za-zdrave-obroke-kad-nemate-vremena-za-komplikovanje
-
-Članak nudi pet praktičnih ideja za zdrave obroke koji se pripremaju sa minimalnim brojem sastojaka i vremena. Pokriva doručak, ručak i večeru koristeći dostupne namirnice poput integralnih žitarica, chia semenki i sezonskog povrća.
-
-**Q: Koji je najbrži zdrav doručak za zauzeta jutra?**
-
-Chia puding je najbolji izbor za haotična jutra jer se priprema naveče — dve kašike chia semenki potopite u 150 ml mleka, a ujutru samo dodate voće. Integralna zob kaša sa orasima je druga opcija koja se kuva za samo pet minuta.
-
-**Q: Kako se pravilno priprema kvinoa pre kuvanja?**
-
-Kvinoa je prekrivena saponinima, prirodnim gorkim spojevima, pa je obavezno isprati hladnom vodom u sitnom cedilu oko 30 sekundi pre kuvanja. Preskakanje ovog koraka rezultira gorkim ukusom.
-
-**Q: Koje je jelo od tri sastojka dobro za zdrav ručak?**
-
-Pečeni patlidžan sa integralnim kuskusom i tahini sosom je jednostavan ručak koji izgleda kao iz restorana. Patlidžan se peče u rerni, kuskus se potopi u vrućoj vodi, a tahini se razmuti sa limunom i belim lukom za kremasti sos.
-
-**Q: Da li je heljda pogodna za osobe sa intolerancijom na gluten?**
-
-Da, heljda prirodno ne sadrži gluten i bogata je biljnim proteinima — oko 12-13 grama na 100 grama. Pre kuvanja je preporučljivo popržiti na suvom tiganju 2-3 minuta kako bi se uklonio gorak ukus.
-
----
-
-Last updated: 2026-08-15
+Last updated: 2026-08-16
