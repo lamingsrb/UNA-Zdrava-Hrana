@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Musaka od patlidžana sa smokvama i heljdom](https://unazdravahrana.com/recepti/musaka-od-patlidzana-sa-smokvama-i-heljdom)
 - [5 grupa koje ne bi trebalo da preskaču doručak](https://unazdravahrana.com/blog/5-grupa-koje-ne-bi-trebalo-da-preskacu-dorucak)
 - [Heljdine palačinke s patlidžanom i smokvama](https://unazdravahrana.com/recepti/heljdine-palacinke-s-patlidzanom-i-smokvama)
 - [4 koraka da prestanete da jedete preko mere](https://unazdravahrana.com/blog/4-koraka-da-prestanete-da-jedete-preko-mere)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Bezglutenska ishrana: 7 koraka za početak](https://unazdravahrana.com/blog/bezglutenska-ishrana-7-koraka-za-pocetak)
 - [Kukuruzne popečke sa patlidžanom i smokvama](https://unazdravahrana.com/recepti/kukuruzne-popecke-sa-patlidzanom-i-smokvama)
 - [Ishrana pre i posle treninga bez komplikovanja](https://unazdravahrana.com/blog/ishrana-pre-i-posle-treninga-bez-komplikovanja)
-- [Kremasta polenta sa pečenim patlidžanom i smokvama](https://unazdravahrana.com/recepti/kremasta-polenta-sa-pecenim-patlidzanom-i-smokvama)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-16
+Last updated: 2026-08-17

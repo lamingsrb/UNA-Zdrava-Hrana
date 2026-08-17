@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Musaka od patlidžana sa smokvama i heljdom
+
+https://unazdravahrana.com/recepti/musaka-od-patlidzana-sa-smokvama-i-heljdom
+
+Musaka od patlidžana sa smokvama i heljdom — lagan i zasitan letnji ručak bez glutena, gotov za 55 minuta.
+
+**Q: Mogu li da pripremim musaku unapred?**
+
+Možete je sastaviti do koraka pečenja i držati u frižideru do 6 sati. Pre serviranja samo je pecite po receptu — sveže smokve dodajte tek pred pečenje da ne omekšaju previše.
+
+**Q: Da li je jelo bez glutena?**
+
+Da, heljda ne sadrži gluten. Ako imate potvrđenu intoleranciju, proverite da su heljda i susam iz pakovanja sa oznakom bez glutena — u radnji vam rado pokažemo takve varijante.
+
+**Q: Koje smokve su najbolje za pečenje?**
+
+Zrele, ali još uvek čvrste smokve — meke se raspadnu u rerni. Ako su vam smokve još tvrđe, iseckajte ih na tanje kriške da omekšaju u toploti.
+
+**Q: Šta uz ovu musaku kao prilog?**
+
+Prija joj jednostavna zelena salata sa limunom i maslinovim uljem, ili kašika gustog jogurta sa strane za one koji vole kremaste kombinacije.
+
+---
+
 ## 5 grupa koje ne bi trebalo da preskaču doručak
 
 https://unazdravahrana.com/blog/5-grupa-koje-ne-bi-trebalo-da-preskacu-dorucak
@@ -664,28 +688,4 @@ Elektroliti su ključni posle treninga dužih od sat vremena, na velikoj vrućin
 
 ---
 
-## Karpaćo od luka sa smokvama i orasima
-
-https://unazdravahrana.com/recepti/karpaco-od-luka-sa-smokvama-i-orasima
-
-Karpaćo od crvenog luka sa smokvama, grožđem i orasima — lagano letnje predjelo gotovo za 20 minuta. Sveže, zdravo i jednostavno.
-
-**Q: Mogu li da koristim beli luk umesto crvenog?**
-
-Može, ali crveni luk je blaži i lepše izgleda u karpaćou. Ako koristite beli, obavezno ga prelijte hladnom vodom pre mariniranja.
-
-**Q: Koliko unapred mogu da pripremim jelo?**
-
-Luk možete marinirati do 24 sata unapred, ali smokve, grožđe i orahe dodajte tek pred serviranje da ostanu sveži i hrskavi.
-
-**Q: Da li je recept pogodan za vegane?**
-
-Jeste, samo zamenite med javorovim sirupom ili agavom i imate potpuno biljno predjelo.
-
-**Q: Uz šta se najbolje slaže ovaj karpaćo?**
-
-Odlično ide uz integralni ili raženi hleb, kremaste sireve i čašu hladnog biljnog čaja ili domaće limunade.
-
----
-
-Last updated: 2026-08-16
+Last updated: 2026-08-17
