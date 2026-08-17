@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Organska hrana za bebe: siguran početak od 6. meseca
+
+https://unazdravahrana.com/blog/organska-hrana-za-bebe-siguran-pocetak-od-6-meseca
+
+Praktičan vodič za roditelje o uvođenju organske čvrste hrane bebama od 6. meseca, sa znacima spremnosti, redosledom namirnica i tabelom po uzrastu. Uključuje jednostavne recepte za domaće kašice i savete šta prioritizovati kao organsko.
+
+**Q: Kada beba može da počne da jede čvrstu hranu?**
+
+Svetska zdravstvena organizacija preporučuje uvođenje čvrste hrane oko 6. meseca, uz nastavak dojenja. Beba treba da sedi uspravno uz minimalnu podršku, drži glavu, pokazuje interes za hranu i da je izgubila refleks izbacivanja jezika.
+
+**Q: Zašto birati organsku hranu za bebe?**
+
+Bebe proporcionalno unose više hrane po kilogramu telesne težine nego odrasli, pa svaki gram ima veći uticaj. Organski proizvodi se gaje bez sintetičkih pesticida, veštačkih đubriva i GMO sirovina, što roditeljima daje dodatni sloj sigurnosti tokom najosetljivijeg perioda razvoja.
+
+**Q: Kojim redosledom uvoditi namirnice bebi?**
+
+Počnite povrćem blagog ukusa (šargarepa, tikvica, batat), zatim voćem (jabuka, kruška, banana), pa bezglutenskim žitaricama (pirinač, proso, heljda). Sledi gluten (ovas, spelta), mahunarke od 7-8. meseca, a jaja, riba i meso postepeno uz konsultaciju sa pedijatrom.
+
+**Q: Koje namirnice se ne daju bebama do godinu dana?**
+
+Do 12. meseca izbegavajte so, šećer i med. Med posebno može izazvati botulizam kod beba mlađih od godinu dana. Takođe budite oprezni sa alergenima poput jaja, ribe i mlečnih proizvoda i uvodite ih postepeno uz savet pedijatra.
+
+---
+
 ## Musaka od patlidžana sa smokvama i heljdom
 
 https://unazdravahrana.com/recepti/musaka-od-patlidzana-sa-smokvama-i-heljdom
@@ -661,30 +685,6 @@ Preporučujemo da se jede svež, jer patlidžan i smokve nakon odmrzavanja gube 
 **Q: Čime da zamenim orahe ako ih neko u porodici ne voli?**
 
 Odlično stoje i seckani bademi ili lešnici, a za dodatnu hrskavost možete posuti kašiku semenki suncokreta pre pečenja.
-
----
-
-## Koliko vode treba piti uz zdravu ishranu
-
-https://unazdravahrana.com/blog/koliko-vode-treba-piti-uz-zdravu-ishranu
-
-Zdravim odraslim osobama potrebno je oko 30 ml vode po kilogramu telesne težine dnevno, uz prilagođavanje za vrućine, trening i zdravstveno stanje. U dnevni unos računaju se voda, čajevi, supe i voće, dok kod većeg gubitka tečnosti treba obratiti pažnju i na elektrolite.
-
-**Q: Koliko vode dnevno treba piti odrasla osoba?**
-
-Opšta preporuka je oko 30 ml po kilogramu telesne težine, odnosno 2 do 2,5 litra za žene i 2,5 do 3 litra za muškarce, uključujući i tečnost iz hrane.
-
-**Q: Kako da znam da ne pijem dovoljno vode?**
-
-Najpouzdaniji znak je tamno žuta boja urina, a prate ga i suva usta, popodnevna glavobolja, umor, grčevi u listovima i zatvor. Žeđ je već zakasneli signal blage dehidracije.
-
-**Q: Da li se čaj i kafa računaju u dnevni unos vode?**
-
-Da, biljni čajevi se računaju u potpunosti, a kafa do tri šolje dnevno takođe doprinosi hidrataciji jer ne dehidrira kao što se ranije mislilo. Slatki gazirani sokovi i alkohol se ne računaju pozitivno.
-
-**Q: Kada su potrebni elektroliti pored obične vode?**
-
-Elektroliti su ključni posle treninga dužih od sat vremena, na velikoj vrućini, posle proliva ili povraćanja i kod niskougljenih režima. Pomaže domaći napitak od 500 ml vode, prstohvata soli, soka pola limuna i kašičice meda.
 
 ---
 
