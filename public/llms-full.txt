@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Keto recepti s avokadom: 5 brzih ideja za ceo dan
+
+https://unazdravahrana.com/blog/keto-recepti-s-avokadom-5-brzih-ideja-za-ceo-dan
+
+Vodič kroz pet jednostavnih keto recepata sa avokadom, od jaja pečenih u avokadu i kremaste tuna salate, do keto toasta na hlebu od semenki i zelenog smutija sa kokosom. Uz svaki recept dati su makro pregled, saveti za izbor zrelog avokada i objašnjenje zašto je avokado ključna namirnica u keto ishrani.
+
+**Q: Da li je avokado dozvoljen u keto ishrani?**
+
+Da, avokado je jedna od najpreporučenijih namirnica u keto ishrani. Bogat je jednostruko nezasićenim mastima, a jedan srednji avokado ima svega 2–3 g neto ugljenih hidrata uz oko 15 g masti i puno vlakana i kalijuma.
+
+**Q: Kako da prepoznam zreo avokado u radnji?**
+
+Nežno pritisnite avokado prstom kod drške — ako lagano popušta, zreo je za danas. Boja kore nije pouzdan pokazatelj jer mnoge sorte ostaju zelene i kad su zrele. Čvrst avokado ostavite 2–3 dana na sobnoj temperaturi pored banane ili jabuke.
+
+**Q: Koliko dugo se peku jaja u avokadu?**
+
+Jaja u avokadu se peku 12–15 minuta na 200°C, dok se belance ne stegne a žumance ostane meko. Jedna porcija (avokado + dva jaja) ima oko 380 kcal, 32 g masti, 14 g proteina i samo 3 g neto ugljenih hidrata.
+
+**Q: Da li mogu da jedem hleb u keto ishrani?**
+
+Klasičan hleb od pšeničnog brašna nije keto jer sadrži previše ugljenih hidrata. Alternativa je keto hleb od lanenih, susamovih, bundevinih i suncokretovih semenki, koji ima svega 2–4 g neto ugljenih hidrata po porciji i puno vlakana.
+
+---
+
 ## Avokado krem sa smokvama i grožđem na tostu
 
 https://unazdravahrana.com/recepti/avokado-krem-sa-smokvama-i-grozdjem-na-tostu
@@ -661,30 +685,6 @@ Da, možete koristiti mladi domaći sir, ali ga obavezno iscedite kroz gazu da u
 **Q: Zašto se kora tarta skuplja i puca u rerni?**
 
 Zato što testo nije dovoljno rashlađeno pre pečenja. Umotajte testo u foliju i držite u frižideru najmanje 30 minuta, a zatim uradite slepo pečenje sa težinom (pasulj ili pirinač) 12-15 minuta na 180°C.
-
----
-
-## Salata sa lubenicom i feta sirom: recept za celo leto
-
-https://unazdravahrana.com/blog/salata-sa-lubenicom-i-feta-sirom-recept-za-celo-leto
-
-Salata sa lubenicom i feta sirom je klasična mediteranska kombinacija slatkog i slanog, idealna za vruće letnje dane zbog visoke hidratacije i lakoće pripreme. Recept za 4 osobe traje 10 minuta i može se varirati dodacima poput mente, krastavca, avokada ili balzamiko krema.
-
-**Q: Kako da prepoznam zrelu lubenicu?**
-
-Zrela lubenica ima izraženo žutu ili narandžastu mrlju na kori, teža je od drugih iste veličine, duboko i šuplje odzvanja kada je kucnete, a peteljka joj je suva i braon.
-
-**Q: Koja feta je najbolja za salatu sa lubenicom?**
-
-Prava grčka feta od ovčijeg mleka (ili mešavine ovčijeg i kozjeg do 30%) sa zaštićenim geografskim poreklom. Kremasta je, mrvljiva i čuva se u salamuri - izbegavajte sireve 'tipa feta' od kravljeg mleka.
-
-**Q: Može li se salata sa lubenicom i fetom pripremiti unapred?**
-
-Ne, ova salata se poslužuje odmah nakon pripreme. Već posle 30 minuta lubenica počinje da pušta vodu i salata postaje mlaka i mlitava, gubeći svežinu.
-
-**Q: Šta ako mi je feta preslana?**
-
-Potopite fetu 10 do 15 minuta u hladnu vodu pre serviranja. Zadržaće svoj karakterističan ukus, ali će biti blaža i prijatnija za nepce u kombinaciji sa slatkom lubenicom.
 
 ---
 
