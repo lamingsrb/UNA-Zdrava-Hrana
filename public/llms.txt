@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Avokado krem sa smokvama i grožđem na tostu](https://unazdravahrana.com/recepti/avokado-krem-sa-smokvama-i-grozdjem-na-tostu)
 - [Organska hrana za bebe: siguran početak od 6. meseca](https://unazdravahrana.com/blog/organska-hrana-za-bebe-siguran-pocetak-od-6-meseca)
 - [Musaka od patlidžana sa smokvama i heljdom](https://unazdravahrana.com/recepti/musaka-od-patlidzana-sa-smokvama-i-heljdom)
 - [5 grupa koje ne bi trebalo da preskaču doručak](https://unazdravahrana.com/blog/5-grupa-koje-ne-bi-trebalo-da-preskacu-dorucak)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Rolnice od patlidžana sa smokvama i orasima](https://unazdravahrana.com/recepti/rolnice-od-patlidzana-sa-smokvama-i-orasima)
 - [5 bezglutenskih recepata sa namirnicama iz naše radnje](https://unazdravahrana.com/blog/5-bezglutenskih-recepata-sa-namirnicama-iz-nase-radnje)
 - [Bezglutenska ishrana: 7 koraka za početak](https://unazdravahrana.com/blog/bezglutenska-ishrana-7-koraka-za-pocetak)
-- [Kukuruzne popečke sa patlidžanom i smokvama](https://unazdravahrana.com/recepti/kukuruzne-popecke-sa-patlidzanom-i-smokvama)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-17
+Last updated: 2026-08-18
