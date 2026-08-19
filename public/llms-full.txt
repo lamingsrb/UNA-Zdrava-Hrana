@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Grilovani patlidžan sa smokvama i tahini prelivom
+
+https://unazdravahrana.com/recepti/grilovani-patlidzan-sa-smokvama-i-tahini-prelivom
+
+Grilovani patlidžan sa smokvama, grožđem i kremastim tahini prelivom — lagan sezonski obrok gotov za 35 minuta. Bez glutena, jednostavno i ukusno.
+
+**Q: Da li mogu da pripremim jelo unapred?**
+
+Preliv i grožđe možete pripremiti dan ranije, ali patlidžan i smokve najbolje je grilovati neposredno pre serviranja da zadrže teksturu.
+
+**Q: Čime da zamenim tahini ako ga nemam?**
+
+Može domaći puter od badema ili kikirikija razblažen sa malo vode i limunom — dobićete sličnu kremastu strukturu.
+
+**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
+
+Da, svi sastojci su prirodno bez glutena. Ako služite uz hleb, birajte hleb sa oznakom „bez glutena“.
+
+**Q: Kako da izaberem zrele smokve?**
+
+Zrele smokve su mekane na dodir, blago popuštaju pod prstima i imaju intenzivan sladak miris. Izbegavajte one sa smežuranom korom ili tamnim tačkama.
+
+---
+
 ## Trnjenje ruku: vitamini, vežbe i biljni gelovi
 
 https://unazdravahrana.com/blog/trnjenje-ruku-vitamini-vezbe-i-biljni-gelovi
@@ -661,30 +685,6 @@ Rotirajte dva do tri fiksna doručka: ovsenu kašu sa voćem i cimetom, chia pud
 **Q: Kako zameniti nezdrave užine kod dece?**
 
 Pripremite užine u nedelju uveče — sečeno voće u kutijicama, šake oraha i badema, humus sa povrćem i domaće voćne pločice. Ako je hrana već isečena i vidljiva, deca će je uzeti umesto keksa i grickalica.
-
----
-
-## Topla salata od patlidžana sa grožđem i heljdom
-
-https://unazdravahrana.com/recepti/topla-salata-od-patlidzana-sa-grozdjem-i-heljdom
-
-Topla salata sa pečenim patlidžanom, slatkim grožđem i heljdom — zasitan kasnoletnji recept bez glutena, gotov za 45 minuta.
-
-**Q: Mogu li recept pripremiti unapred?**
-
-Da, sve komponente možete ispeći i skuvati dan ranije. Sastojke spojite sa dresingom neposredno pre serviranja da heljda ostane rastresita.
-
-**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
-
-Jeste, heljda je prirodno bez glutena. Ako ste osetljivi, proverite na deklaraciji oznaku 'bez glutena' jer se ponekad prerađuje u pogonima sa pšenicom.
-
-**Q: Koje grožđe je najbolje za ovaj recept?**
-
-Slatke sorte bez semenki najbolje se slažu sa pečenim patlidžanom — crno grožđe daje intenzivniju boju, dok belo daje svežiji ukus.
-
-**Q: Mogu li patlidžan pripremiti u tiganju umesto u rerni?**
-
-Možete, na jačoj vatri u širokom tiganju sa 2 kašike ulja, uz povremeno mešanje, oko 12–15 minuta dok ne omekša i porumeni.
 
 ---
 
