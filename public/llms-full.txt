@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Trnjenje ruku: vitamini, vežbe i biljni gelovi
+
+https://unazdravahrana.com/blog/trnjenje-ruku-vitamini-vezbe-i-biljni-gelovi
+
+Trnjenje ruku najčešće nastaje zbog pritiska na nerv ili manjka B vitamina i magnezijuma. Kombinacija ciljanih vežbi, pravilne ishrane i biljnih preparata može značajno olakšati tegobe u blagim slučajevima.
+
+**Q: Koji vitamin nedostaje kada trnu ruke?**
+
+Najčešće nedostaje vitamin B12, zatim B6, B1 i magnezijum. Manjak B12 se razvija sporo mesecima i tipičan je kod vegana, vegetarijanaca i osoba starijih od 60 godina.
+
+**Q: Kako prirodno olakšati trnjenje ruku?**
+
+Pomažu redovne vežbe istezanja ručnog zgloba i vrata, promena položaja tokom rada, unos B kompleksa i magnezijuma kroz ishranu, omega-3 masne kiseline i lokalna primena biljnih gelova.
+
+**Q: Kada trnjenje ruku zahteva lekara?**
+
+Ako trnjenje traje danima, prati ga slabost mišića, gubitak snage u šaci, širi se ili se javlja posle povrede, obavezno se javite lekaru radi pregleda.
+
+**Q: Zašto ruke trnu noću?**
+
+Noćno trnjenje palca, kažiprsta i srednjeg prsta tipično je za sindrom karpalnog tunela, dok trnjenje malog i domalog prsta ukazuje na pritisak na ulnarni nerv u laktu.
+
+---
+
 ## Keto recepti s avokadom: 5 brzih ideja za ceo dan
 
 https://unazdravahrana.com/blog/keto-recepti-s-avokadom-5-brzih-ideja-za-ceo-dan
@@ -664,28 +688,4 @@ Možete, na jačoj vatri u širokom tiganju sa 2 kašike ulja, uz povremeno meš
 
 ---
 
-## Tart sa tikvicama i rikotom: letnji recept iz bistroa
-
-https://unazdravahrana.com/blog/tart-sa-tikvicama-i-rikotom-letnji-recept-iz-bistroa
-
-Recept za letnji slani tart sa mladim tikvicama i rikotom, sa hrskavom korom od spelte i kremastim filom bez pavlake. Uključuje detaljan postupak, izbor brašna i tri najčešće greške koje kvare rezultat.
-
-**Q: Zašto je moj tart sa tikvicama vodenast?**
-
-Zato što tikvice nisu prethodno posoljene i iscedjene. Narendajte ih, posolite i ostavite u cediljci 15 minuta, pa rukama iscedite vodu — iz 400 g tikvica izađe skoro pola šolje tečnosti.
-
-**Q: Koje brašno je najbolje za koru tarta?**
-
-Mešavina 150 g bele spelte i 50 g integralne spelte daje najbolji balans: kora ostaje puterasta i hrskava, uz više vlakana i blago orašast ukus u odnosu na klasično belo brašno T-400.
-
-**Q: Mogu li da zamenim rikotu drugim sirom?**
-
-Da, možete koristiti mladi domaći sir, ali ga obavezno iscedite kroz gazu da uklonite višak surutke. Rikota ima oko 170 kcal na 100 g i prirodno je kremasta, pa je prva preporuka za tart.
-
-**Q: Zašto se kora tarta skuplja i puca u rerni?**
-
-Zato što testo nije dovoljno rashlađeno pre pečenja. Umotajte testo u foliju i držite u frižideru najmanje 30 minuta, a zatim uradite slepo pečenje sa težinom (pasulj ili pirinač) 12-15 minuta na 180°C.
-
----
-
-Last updated: 2026-08-18
+Last updated: 2026-08-19
