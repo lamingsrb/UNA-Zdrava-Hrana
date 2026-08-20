@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ribane tikvice sa grožđem i heljdinim brašnom
+
+https://unazdravahrana.com/recepti/ribane-tikvice-sa-grozdjem-i-heljdinim-brasnom
+
+Lagani popečci od ribanih tikvica sa grožđem i heljdinim brašnom — sezonski recept bez glutena, gotov za 35 minuta.
+
+**Q: Mogu li da koristim integralno pšenično brašno umesto heljdinog?**
+
+Možete, ali će ukus biti drugačiji i popečci gušći. Heljdino brašno daje blago orašastu notu i čini recept prigodnim za osobe sa intolerancijom na gluten.
+
+**Q: Da li deca vole ovo jelo?**
+
+Slatkoća grožđa lepo balansira ukus tikvica, pa je recept odličan način da se povrće provuče kod mlađih koji ga inače izbegavaju. Poslužite uz jogurt.
+
+**Q: Mogu li testo pripremiti unapred?**
+
+Preporučujemo da testo pravite neposredno pre pečenja jer tikvice vremenom puštaju vodu. Ako morate ranije, dodajte brašno malo pred pečenje.
+
+**Q: Kako da popečci ne budu previše mekani?**
+
+Ključ je u ceđenju tikvica — rukama snažno istisnite svu vodu nakon soljenja. Što su suvlje, popečci će bolje držati oblik.
+
+---
+
 ## Salata koja izdrži vrućinu: crni pirinač i škampi
 
 https://unazdravahrana.com/blog/salata-koja-izdrzi-vrucinu-crni-pirinac-i-skampi
@@ -661,30 +685,6 @@ Birajte čvrst patlidžan sa sjajnom, glatkom korom i zelenom peteljkom. Treba d
 **Q: Mogu li da koristim suve smokve umesto svežih?**
 
 Naravno. Potopite ih 10 minuta u toploj vodi da omekšaju, pa iseckajte. Ukus će biti intenzivniji i malo slađi.
-
----
-
-## Ishrana bez i sa manje ugljenih hidrata: vodič
-
-https://unazdravahrana.com/blog/ishrana-bez-i-sa-manje-ugljenih-hidrata-vodic
-
-Vodič objašnjava razliku između umerenog, low-carb i keto pristupa ishrani i navodi namirnice koje se slobodno jedu, ograničavaju ili izbacuju. Donosi i praktičnu tabelu zamena, uz uputstva za korišćenje alternativnih brašna kao što su bademovo i kokosovo.
-
-**Q: Koliko ugljenih hidrata dnevno se smatra low-carb ishranom?**
-
-Umereno smanjena ishrana podrazumeva 100–150 g dnevno, klasičan low-carb pristup 50–100 g, a keto ispod 30–50 g dnevno. Za većinu ljudi najlakši i najodrživiji početak je umereno smanjenje.
-
-**Q: Koje namirnice mogu jesti bez brojanja ugljenih hidrata?**
-
-Povrće koje raste iznad zemlje (tikvice, brokoli, karfiol, spanać, salate), jaja, riba i morski plodovi, meso, mlečni proizvodi sa punom masnoćom bez šećera, orašasti plodovi, semenke i zdrave masnoće poput maslinovog ulja i avokada.
-
-**Q: Čime da zamenim beli pirinač i testeninu?**
-
-Beli pirinač zamenite rendanim i propрженим karfiolom, a testeninu spiraliziranim tikvicama uz sos od paradajza i mesa. Za pire umesto krompira koristite pire od karfiola sa puterom.
-
-**Q: Kako se koristi kokosovo brašno u pečenju?**
-
-Kokosovo brašno upija mnogo tečnosti, pa se koristi oko trećine količine koju biste stavili pšeničnog brašna, uz dodatak više jaja i tečnosti. Bademovo brašno takođe nije zamena 1:1 – tražite recepte pisane baš za ta brašna.
 
 ---
 
