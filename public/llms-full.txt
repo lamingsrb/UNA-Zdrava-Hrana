@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Salata koja izdrži vrućinu: crni pirinač i škampi
+
+https://unazdravahrana.com/blog/salata-koja-izdrzi-vrucinu-crni-pirinac-i-skampi
+
+Salata sa crnim Venere pirinčem i škampima je kompletan letnji obrok koji izdrži 2-3 dana u frižideru bez gubitka teksture. Ključ je u odvajanju stabilnih sastojaka od osetljivog povrća i čuvanju preliva odvojeno do serviranja.
+
+**Q: Koji pirinač je najbolji za hladnu salatu?**
+
+Crni Venere pirinač je najbolji izbor jer ostaje odvojen i drži teksturu do tri dana u frižideru. Alternativa su crveni Camargue ili integralni basmati. Izbegavajte beli, arborio i pirinač za rižoto jer se pretvaraju u kašu.
+
+**Q: Kako se pravilno prže škampi za salatu?**
+
+Odmrznute škampe dobro osušite, pržite na jakoj vatri 1,5 do 2 minuta sa svake strane u maslinovom ulju sa belim lukom. Gotovi su kada porumene i saviju se u slovo C — slovo O znači da su prekuvani i biće gumeni.
+
+**Q: Kako da salata ne postane kaša u frižideru?**
+
+Razdvojte stabilne sastojke (pirinač, škampi, pečena paprika, maslinke, kukuruz) od osetljivih (krastavac, paradajz, avokado, sveže začinsko bilje). Osetljivo povrće dodajte 30 minuta pre serviranja, a preliv sipajte tek na kraju.
+
+**Q: Čime mogu da zamenim škampe u ovoj salati?**
+
+Isti recept odlično radi sa pečenom piletinom isečenom na kockice, leblebijama iz konzerve ili feta sirom. Sve tri opcije obezbeđuju dovoljno proteina i uklapaju se sa ukusom crnog pirinča i limun-maslinovog preliva.
+
+---
+
 ## Grilovani patlidžan sa smokvama i tahini prelivom
 
 https://unazdravahrana.com/recepti/grilovani-patlidzan-sa-smokvama-i-tahini-prelivom
@@ -664,28 +688,4 @@ Kokosovo brašno upija mnogo tečnosti, pa se koristi oko trećine količine koj
 
 ---
 
-## Nedeljni jelovnik zdrave ishrane za celu porodicu
-
-https://unazdravahrana.com/blog/nedeljni-jelovnik-zdrave-ishrane-za-celu-porodicu
-
-Praktičan sedmodnevni plan zdrave ishrane za četvoročlanu porodicu zasnovan na integralnim žitaricama, mahunarkama i sezonskom povrću. Uključuje šablonske doručke, pripremljene užine i konkretne recepte za svaki dan u nedelji.
-
-**Q: Kako napraviti nedeljni jelovnik bez stresa?**
-
-Skuvajte nedeljom jednu šerpu integralnih žitarica (kinoa, heljda ili integralni pirinač) i jednu šerpu mahunarki (sočivo, leblebije ili pasulj). Ta dva lonca su osnova za tri do četiri obroka tokom nedelje uz promenu povrća i začina.
-
-**Q: Šta treba da imam u ostavi za zdravu nedeljnu ishranu?**
-
-Integralne žitarice (ovsene pahuljice, heljda, kinoa, pirinač), mahunarke (sočivo, leblebije, pasulj), orašaste plodove (bademi, orasi, susam), superhranu (chia, lanene semenke, spirulina) i osnove kao što su maslinovo ulje, tahini, jabukovo sirće i med.
-
-**Q: Koji je dobar zdrav doručak za decu?**
-
-Rotirajte dva do tri fiksna doručka: ovsenu kašu sa voćem i cimetom, chia puding pripremljen prethodno veče i kajganu sa povrćem. Manje odluka ujutru znači manje haosa i sigurno hranljiv obrok.
-
-**Q: Kako zameniti nezdrave užine kod dece?**
-
-Pripremite užine u nedelju uveče — sečeno voće u kutijicama, šake oraha i badema, humus sa povrćem i domaće voćne pločice. Ako je hrana već isečena i vidljiva, deca će je uzeti umesto keksa i grickalica.
-
----
-
-Last updated: 2026-08-19
+Last updated: 2026-08-20

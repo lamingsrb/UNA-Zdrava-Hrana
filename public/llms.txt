@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Salata koja izdrži vrućinu: crni pirinač i škampi](https://unazdravahrana.com/blog/salata-koja-izdrzi-vrucinu-crni-pirinac-i-skampi)
 - [Grilovani patlidžan sa smokvama i tahini prelivom](https://unazdravahrana.com/recepti/grilovani-patlidzan-sa-smokvama-i-tahini-prelivom)
 - [Trnjenje ruku: vitamini, vežbe i biljni gelovi](https://unazdravahrana.com/blog/trnjenje-ruku-vitamini-vezbe-i-biljni-gelovi)
 - [Keto recepti s avokadom: 5 brzih ideja za ceo dan](https://unazdravahrana.com/blog/keto-recepti-s-avokadom-5-brzih-ideja-za-ceo-dan)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Ribane tikvice sa grožđem, orasima i speltom](https://unazdravahrana.com/recepti/ribane-tikvice-sa-grozdjem-orasima-i-speltom)
 - [Koliko koštaju kvalitetni suplementi i šta plaćate](https://unazdravahrana.com/blog/koliko-kostaju-kvalitetni-suplementi-i-sta-placate)
 - [Salata od tikvica sa grožđem, orasima i medom](https://unazdravahrana.com/recepti/salata-od-tikvica-sa-grozdjem-orasima-i-medom)
-- [Zdrava ishrana i fizička aktivnost: činjenice za](https://unazdravahrana.com/blog/zdrava-ishrana-i-fizicka-aktivnost-cinjenice-za)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-19
+Last updated: 2026-08-20
