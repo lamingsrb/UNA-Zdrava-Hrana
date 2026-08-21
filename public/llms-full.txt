@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Bezglutenska hrana: vodič kroz proizvode i izbor
+
+https://unazdravahrana.com/blog/bezglutenska-hrana-vodic-kroz-proizvode-i-izbor
+
+Praktičan vodič za osobe sa celijakijom ili osetljivošću na gluten koji objašnjava koje su namirnice prirodno bez glutena i kako se brašna kombinuju. Donosi i savete za izbor testenine, hleba i keksa uz upozorenja na unakrsnu kontaminaciju.
+
+**Q: Šta je gluten i u kojim se žitaricama nalazi?**
+
+Gluten je grupa proteina koja se prirodno nalazi u pšenici, raži, ječmu, spelti, kamutu i tritikaleu. Kod osoba sa celijakijom njegov unos oštećuje sluzokožu tankog creva.
+
+**Q: Koje su žitarice prirodno bez glutena?**
+
+Prirodno bez glutena su pirinač, heljda, proso, kinoa, amarant i kukuruz, kao i semenke poput lana, susama, bundeve i čie. Ovas je bezbedan samo ako je posebno označen kao gluten-free.
+
+**Q: Kako kombinovati bezglutenska brašna za pečenje?**
+
+Proverena osnova je 40% pirinčanog, 30% sirkovog ili heljdinog i 30% tapioke ili kukuruznog škroba, uz kašičicu psilijuma na 100 g mešavine. Takva kombinacija zamenjuje obično brašno u većini recepata.
+
+**Q: Šta gledati na etiketi bezglutenskih proizvoda?**
+
+Tražite oznaku 'gluten-free' ili prekriženi klas, što potvrđuje testiranje na kontaminaciju. Kod hleba birajte proizvode sa kombinacijom više brašna, semenkama i psilijumom, a izbegavajte one gde je prvi sastojak samo skrob.
+
+---
+
 ## Lagana tepsija: patlidžan, grožđe i proso sa orasima
 
 https://unazdravahrana.com/recepti/lagana-tepsija-patlidzan-grozdje-i-proso-sa-orasima
@@ -679,30 +703,6 @@ Ako nema svežih smokava, uz pečeni patlidžan lepo se uklapa šaka prepolovlje
 **Q: Da li su popečci pogodni za užinu?**
 
 Da, manji popečci mogu biti zasitna užina. Spakujte ih u posudu i ponesite uz sveže povrće ili laganu salatu.
-
----
-
-## Ishrana pre i posle treninga bez komplikovanja
-
-https://unazdravahrana.com/blog/ishrana-pre-i-posle-treninga-bez-komplikovanja
-
-Pre treninga birajte lagane ugljene hidrate uz malo proteina, prilagođene vremenu do aktivnosti. Posle treninga pojedite raznovrstan obrok sa energijom i proteinima, a vodu pijte redovno tokom dana.
-
-**Q: Šta jesti pre treninga?**
-
-Pre treninga birajte lagan obrok sa ugljenim hidratima i manjom količinom proteina, poput kaše sa voćem, banane ili voćne pločice sa orasima.
-
-**Q: Koliko vremena pre treninga treba jesti?**
-
-Puniji, lagan obrok možete pojesti 2–3 sata pre treninga, manju užinu 60–90 minuta ranije, a bananu ili pločicu 20–45 minuta pre aktivnosti.
-
-**Q: Šta jesti posle treninga?**
-
-Posle treninga u narednih nekoliko sati pojedite običan, raznovrstan obrok koji sadrži izvor proteina, žitarice ili druge ugljene hidrate i povrće.
-
-**Q: Da li su elektroliti potrebni posle svakog treninga?**
-
-Za kraće i umerene treninge voda je uglavnom dovoljna. Elektroliti mogu imati smisla kod dužeg napora, velike vrućine ili izraženog znojenja.
 
 ---
 
