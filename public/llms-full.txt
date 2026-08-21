@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Lagana tepsija: patlidžan, grožđe i proso sa orasima
+
+https://unazdravahrana.com/recepti/lagana-tepsija-patlidzan-grozdje-i-proso-sa-orasima
+
+Lagana tepsija sa patlidžanom, pečenim grožđem i prosom uz orahe i bosiljak — sezonski, bezglutenski recept gotov za oko 50 minuta.
+
+**Q: Mogu li da koristim belo grožđe umesto crnog?**
+
+Može, ali crno grožđe daje dublji, slađi ukus posle pečenja. Belo je nešto svežije i kiselije — probajte oba i vidite šta vam više prija.
+
+**Q: Da li je proso teško za varenje?**
+
+Naprotiv, proso je lako svarljivo i ne sadrži gluten. Važno je dobro ga isprati pre kuvanja da izgubi gorčinu iz spoljnog omotača.
+
+**Q: Može li se ovo jelo pripremiti unapred?**
+
+Da, komponente možete pripremiti dan ranije i držati odvojeno u frižideru, pa sastaviti pred serviranje. Ukusi se čak i lepo prožmu.
+
+**Q: Čime da zamenim orahe ako imam alergiju?**
+
+Odlična zamena su semenke bundeve ili suncokreta — takođe ih kratko propržite radi hrskavosti i punog ukusa.
+
+---
+
 ## Prirodni suplementi za testosteron: šta radi
 
 https://unazdravahrana.com/blog/prirodni-suplementi-za-testosteron-sta-radi
@@ -679,30 +703,6 @@ Posle treninga u narednih nekoliko sati pojedite običan, raznovrstan obrok koji
 **Q: Da li su elektroliti potrebni posle svakog treninga?**
 
 Za kraće i umerene treninge voda je uglavnom dovoljna. Elektroliti mogu imati smisla kod dužeg napora, velike vrućine ili izraženog znojenja.
-
----
-
-## Kremasta polenta sa pečenim patlidžanom i smokvama
-
-https://unazdravahrana.com/recepti/kremasta-polenta-sa-pecenim-patlidzanom-i-smokvama
-
-Kremasta polenta sa pečenim patlidžanom, smokvama i orasima — sezonsko jelo bez glutena, gotovo za 45 minuta. Recept iz UNA Zdrave Hrane.
-
-**Q: Da li je ovo jelo bez glutena?**
-
-Da, kukuruzni griz je prirodno bez glutena. Proverite samo na deklaraciji da je griz proizveden u pogonu bez unakrsne kontaminacije ako imate celijakiju.
-
-**Q: Mogu li polentu spremiti unapred?**
-
-Možete. Skuvajte je, prelijte u pleh i ostavite da se stegne. Pred serviranje isecite na kriške i zapecite u tiganju ili rerni — dobija hrskavu koricu.
-
-**Q: Čime da zamenim smokve van sezone?**
-
-Zrelom kruškom, pečenom jabukom ili suvim smokvama koje ste kratko potopili u toploj vodi da omekšaju.
-
-**Q: Da li je jelo dovoljno sito za glavni obrok?**
-
-Jeste — polenta i patlidžan daju osećaj sitosti, a orasi zdrave masnoće. Ako želite više proteina, dodajte kuvani slanutak ili komad feta sira.
 
 ---
 
