@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Prirodni suplementi za testosteron: šta radi](https://unazdravahrana.com/blog/prirodni-suplementi-za-testosteron-sta-radi)
 - [Hrana bogata elektrolitima: kraj grčevima u mišićima](https://unazdravahrana.com/blog/hrana-bogata-elektrolitima-kraj-grcevima-u-misicima)
 - [Ribane tikvice sa grožđem i heljdinim brašnom](https://unazdravahrana.com/recepti/ribane-tikvice-sa-grozdjem-i-heljdinim-brasnom)
 - [Salata koja izdrži vrućinu: crni pirinač i škampi](https://unazdravahrana.com/blog/salata-koja-izdrzi-vrucinu-crni-pirinac-i-skampi)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Biljni kalcijum: salata koja čuva kosti bez mleka](https://unazdravahrana.com/blog/biljni-kalcijum-salata-koja-cuva-kosti-bez-mleka)
 - [Salata za jake kosti: kelj, smokve i susam](https://unazdravahrana.com/recepti/salata-za-jake-kosti-kelj-smokve-i-susam)
 - [Organska hrana u Kragujevcu: odakle da krenete](https://unazdravahrana.com/blog/organska-hrana-u-kragujevcu-odakle-da-krenete)
-- [Ribane tikvice sa grožđem, orasima i speltom](https://unazdravahrana.com/recepti/ribane-tikvice-sa-grozdjem-orasima-i-speltom)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-20
+Last updated: 2026-08-21

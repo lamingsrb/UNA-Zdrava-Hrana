@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Prirodni suplementi za testosteron: šta radi
+
+https://unazdravahrana.com/blog/prirodni-suplementi-za-testosteron-sta-radi
+
+Prirodni suplementi ne mogu zameniti terapiju, ali cink, magnezijum, tribulus i maca mogu podržati proizvodnju testosterona kroz bolji san, manji stres i pokriven deficit minerala. Efekat je najveći kada su temelji — san, ishrana i kretanje — već postavljeni.
+
+**Q: Da li prirodni suplementi zaista podižu testosteron?**
+
+Ne dižu ga direktno kao medicinska terapija, ali pomažu telu kroz bolji san, manji stres i pokrivanje deficita cinka i magnezijuma, što posredno podržava prirodnu proizvodnju testosterona.
+
+**Q: Koji je najbolji oblik magnezijuma za san i oporavak?**
+
+Magnezijum bisglicinat je najbolji za san i opuštanje jer ne draži stomak, dok je citrat dobar za grčeve. Uzima se uveče, sat pre spavanja, a efekat se oseti već posle nedelju dana.
+
+**Q: Kada uzimati cink i u kojoj dozi?**
+
+Oko 11 mg dnevno iz svih izvora, uveče uz obrok sa malo masti. Ne kombinovati sa kalcijumom ili gvožđem, a ako se koristi duže od 3 meseca, dodati bakar u odnosu 2:1 ili 3:1.
+
+**Q: Kako se pravilno koristi tribulus terrestris?**
+
+Bira se ekstrakt sa 40–60% saponina, uzima u ciklusima od 8 nedelja sa 2–4 nedelje pauze. Efekat na libido i energiju vidi se posle 3–4 nedelje redovnog uzimanja.
+
+---
+
 ## Hrana bogata elektrolitima: kraj grčevima u mišićima
 
 https://unazdravahrana.com/blog/hrana-bogata-elektrolitima-kraj-grcevima-u-misicima
@@ -682,10 +706,4 @@ Jeste — polenta i patlidžan daju osećaj sitosti, a orasi zdrave masnoće. Ak
 
 ---
 
-## Cena organske hrane: zašto je viša i kako birati
-
-https://unazdravahrana.com/blog/cena-organske-hrane-zasto-je-visa-i-kako-birati
-
----
-
-Last updated: 2026-08-20
+Last updated: 2026-08-21
