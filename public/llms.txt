@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [5 koraka do organske hrane u Kragujevcu](https://unazdravahrana.com/blog/5-koraka-do-organske-hrane-u-kragujevcu)
 - [Bezglutenska hrana: vodič kroz proizvode i izbor](https://unazdravahrana.com/blog/bezglutenska-hrana-vodic-kroz-proizvode-i-izbor)
 - [Lagana tepsija: patlidžan, grožđe i proso sa orasima](https://unazdravahrana.com/recepti/lagana-tepsija-patlidzan-grozdje-i-proso-sa-orasima)
 - [Prirodni suplementi za testosteron: šta radi](https://unazdravahrana.com/blog/prirodni-suplementi-za-testosteron-sta-radi)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Saw palmetto i 3 sastojka za zdravlje prostate](https://unazdravahrana.com/blog/saw-palmetto-i-3-sastojka-za-zdravlje-prostate)
 - [Šargarepa, kokosova voda i limun: hit letnji napitak](https://unazdravahrana.com/blog/sargarepa-kokosova-voda-i-limun-hit-letnji-napitak)
 - [Topla salata od pečenog patlidžana i grožđa sa prosom](https://unazdravahrana.com/recepti/topla-salata-od-pecenog-patlidzana-i-grozdja-sa-prosom)
-- [Biljni kalcijum: salata koja čuva kosti bez mleka](https://unazdravahrana.com/blog/biljni-kalcijum-salata-koja-cuva-kosti-bez-mleka)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-21
+Last updated: 2026-08-22

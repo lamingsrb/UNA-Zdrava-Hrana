@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 koraka do organske hrane u Kragujevcu
+
+https://unazdravahrana.com/blog/5-koraka-do-organske-hrane-u-kragujevcu
+
+Vodič objašnjava kako da u Kragujevcu prepoznate sertifikovanu organsku hranu po oznakama, deklaraciji i podacima o proizvođaču. Počnite od nekoliko namirnica koje redovno koristite, poput žitarica, brašna, testenine i orašastih plodova.
+
+**Q: Kako prepoznati organski proizvod?**
+
+Proverite da li pakovanje ima jasnu oznaku organske proizvodnje, podatke o proizvođaču i kontrolnom telu, kao i urednu deklaraciju na srpskom jeziku.
+
+**Q: Da li reč „prirodno“ znači da je proizvod organski?**
+
+Ne. Oznake poput „prirodno“, „domaće“ ili „bez dodataka“ same po sebi ne potvrđuju da je proizvod sertifikovano organski.
+
+**Q: Od kojih namirnica je najbolje početi kupovinu organske hrane?**
+
+Počnite od tri namirnice koje često koristite, na primer organskih žitarica, brašna ili testenine, kako biste izbegli nepotrebnu kupovinu.
+
+**Q: Da li je organska hrana automatski bez glutena?**
+
+Ne. Organska oznaka i oznaka bez glutena nisu isto; ako izbegavate gluten, uvek proverite sastav i jasnu bezglutensku deklaraciju.
+
+---
+
 ## Bezglutenska hrana: vodič kroz proizvode i izbor
 
 https://unazdravahrana.com/blog/bezglutenska-hrana-vodic-kroz-proizvode-i-izbor
@@ -682,28 +706,4 @@ Za početak izaberite po jednu proverenu opciju za doručak, ručak i užinu, na
 
 ---
 
-## Kukuruzne popečke sa patlidžanom i smokvama
-
-https://unazdravahrana.com/recepti/kukuruzne-popecke-sa-patlidzanom-i-smokvama
-
-Kukuruzni popečci sa pečenim patlidžanom i smokvama: jednostavan kasnoletnji obrok sa speltinim brašnom i semenkama.
-
-**Q: Mogu li da koristim zamrznuti kukuruz?**
-
-Možete. Pre upotrebe ga odmrznite i dobro ocedite, kako smesa za popečke ne bi postala previše vlažna.
-
-**Q: Da li mogu da pripremim popečke bez jaja?**
-
-Možete pokušati sa 2 kašike mlevenog lana pomešane sa 6 kašika vode. Ostavite mešavinu 10 minuta da se zgusne, pa je dodajte umesto jaja.
-
-**Q: Čime mogu da zamenim sveže smokve?**
-
-Ako nema svežih smokava, uz pečeni patlidžan lepo se uklapa šaka prepolovljenog grožđa. Dodajte ga pred samo služenje.
-
-**Q: Da li su popečci pogodni za užinu?**
-
-Da, manji popečci mogu biti zasitna užina. Spakujte ih u posudu i ponesite uz sveže povrće ili laganu salatu.
-
----
-
-Last updated: 2026-08-21
+Last updated: 2026-08-22
