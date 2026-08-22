@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćuftice od patlidžana i ovsa sa grožđem
+
+https://unazdravahrana.com/recepti/cuftice-od-patlidzana-i-ovsa-sa-grozdjem
+
+Pečene ćuftice od patlidžana i ovsa sa svežim grožđem: lagan kasnoletnji obrok gotov za 45 minuta.
+
+**Q: Da li mogu da pripremim ćuftice unapred?**
+
+Da. Smesu možete napraviti nekoliko sati ranije i čuvati pokrivenu u frižideru. Oblikujte i ispecite ćuftice neposredno pre obroka.
+
+**Q: Mogu li da koristim krupne ovsene pahuljice?**
+
+Možete, ali ih prethodno kratko usitnite u secku ili blenderu. Tako će se lakše povezati sa patlidžanom.
+
+**Q: Da li je grožđe obavezno?**
+
+Nije, ali lepo osvežava pečeni patlidžan. Kada nema grožđa, poslužite ćuftice uz nekoliko kapi limuna i sezonsku salatu.
+
+**Q: Uz šta još mogu da poslužim ovo jelo?**
+
+Odlično ide uz salatu od paradajza, krastavca i peršuna, uz jogurt po želji ili uz kuvanu organsku žitaricu poput prosa.
+
+---
+
 ## 5 koraka do organske hrane u Kragujevcu
 
 https://unazdravahrana.com/blog/5-koraka-do-organske-hrane-u-kragujevcu
@@ -679,30 +703,6 @@ Koristite čistu dasku i nož, poseban toster ili aluminijumsku foliju u rerni, 
 **Q: Zašto se bezglutenska testenina lako raskuva?**
 
 Testenina od pirinča ili kukuruza prelazi iz al dente u raskuvano stanje za oko 60 sekundi, pa je važno pratiti vreme sa pakovanja i isprati je hladnom vodom da se ne slepi — posebno ako je koristite za hladne salate.
-
----
-
-## Bezglutenska ishrana: 7 koraka za početak
-
-https://unazdravahrana.com/blog/bezglutenska-ishrana-7-koraka-za-pocetak
-
-Bezglutenska ishrana zahteva pažljivo čitanje deklaracija, proveru oznaka i izbegavanje kontakta sa glutenom kada je to medicinski neophodno. Početak je lakši uz nekoliko proverenih namirnica za doručak, ručak i užinu.
-
-**Q: Šta je gluten?**
-
-Gluten je protein koji se prirodno nalazi u pšenici, ječmu i raži, pa može biti prisutan u hlebu, pecivu, testenini i drugim prerađenim proizvodima.
-
-**Q: Ko treba da drži bezglutensku ishranu?**
-
-Osobe sa potvrđenom celijakijom moraju strogo izbegavati gluten, dok kod sumnje na celijakiju ili drugih tegoba promenu ishrane treba prvo proceniti sa lekarom.
-
-**Q: Kako prepoznati bezglutenski proizvod?**
-
-Proverite sastojke, upozorenja o alergenima i jasnu bezglutensku oznaku na deklaraciji. Ne oslanjajte se samo na izraze poput prirodno, fit ili organsko.
-
-**Q: Koje namirnice kupiti za početak bezglutenske ishrane?**
-
-Za početak izaberite po jednu proverenu opciju za doručak, ručak i užinu, na primer bezglutensko brašno, testeninu i praktičnu užinu sa jasnom deklaracijom.
 
 ---
 
