@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 3 superhrane za energičniji dan: spirulina, čia i maka
+
+https://unazdravahrana.com/blog/3-superhrane-za-energicniji-dan-spirulina-cia-i-maka
+
+Spirulina, čia semenke i maka mogu biti praktični dodaci raznovrsnom doručku ili užini, ali nisu zamena za redovne obroke, san i kretanje. Počnite malim količinama, uvodite ih jednu po jednu i kombinujte sa voćem, žitaricama, proteinima i tečnošću.
+
+**Q: Kako koristiti spirulinu u prahu?**
+
+Spirulinu dodajte neposredno pre blendanja u smuti, jogurt ili energetske kuglice. Za početak je dovoljno 1/4 do 1/2 kašičice, jer ima intenzivan ukus i boju.
+
+**Q: Koliko čia semenki staviti u doručak?**
+
+Za prvi put koristite jednu ravnu kašičicu čia semenki u jogurtu, kaši ili smutiju. Kada pravite čia puding, semenke ostavite u tečnosti da nabubre i vodite računa o unosu tečnosti tokom dana.
+
+**Q: Kako se koristi maka prah?**
+
+Maka prah lako se umeša u ovsenu kašu, smuti, jogurt ili kakao napitak. Počnite sa 1/2 kašičice, a u toplu kašu dodajte je pred kraj pripreme.
+
+**Q: Mogu li se spirulina, čia i maka kombinovati?**
+
+Mogu se kombinovati u istom obroku, ali je bolje prvo isprobati svaki sastojak zasebno. Tako ćete lakše prilagoditi ukus, teksturu i količinu koja vam odgovara.
+
+---
+
 ## Ćuftice od patlidžana i ovsa sa grožđem
 
 https://unazdravahrana.com/recepti/cuftice-od-patlidzana-i-ovsa-sa-grozdjem
@@ -679,30 +703,6 @@ Birajte mlađe, čvrste plodove i obavezno posolite ploške pa ih ostavite 10 mi
 **Q: Čime mogu da zamenim orahe?**
 
 Odlično rade bademi, lešnici ili suncokretove semenke — sve to imamo u radnji, pa možete probati različite kombinacije.
-
----
-
-## 5 bezglutenskih recepata sa namirnicama iz naše radnje
-
-https://unazdravahrana.com/blog/5-bezglutenskih-recepata-sa-namirnicama-iz-nase-radnje
-
-Praktični vodič kroz pet bezglutenskih recepata sa savetima o kombinovanju brašna (heljda, pirinač, kukuruz) i izbegavanju unakrsne kontaminacije. Recepti uključuju heljdine palačinke sa bananom, salatu sa pirinčanom testeninom i feta sirom, kukuruzne popečke i druge svakodnevne obroke.
-
-**Q: Da li je heljda bez glutena?**
-
-Heljda je prirodno bez glutena, ali pakovanja koja nisu deklarisana kao 'bez glutena' mogu biti mlevena u mlinovima gde se melje i pšenica, pa uvek proverite deklaraciju ako kuvate za osobu sa celijakijom.
-
-**Q: Može li se bezglutensko brašno koristiti kao zamena 1:1 za pšenično?**
-
-Ne. Bezglutenska brašna upijaju različito vlage i drugačije se ponašaju u pečenju, pa je najbolje koristiti gotove mešavine ili kombinovati više vrsta brašna (heljda, pirinač, kukuruz) prilagođeno receptu.
-
-**Q: Kako da izbegnem unakrsnu kontaminaciju glutenom u kuhinji?**
-
-Koristite čistu dasku i nož, poseban toster ili aluminijumsku foliju u rerni, i pazite na zajedničke začine u koje je mogla upasti kašika iz pšeničnog brašna. Kontaminacija je često važnija od samih sastojaka.
-
-**Q: Zašto se bezglutenska testenina lako raskuva?**
-
-Testenina od pirinča ili kukuruza prelazi iz al dente u raskuvano stanje za oko 60 sekundi, pa je važno pratiti vreme sa pakovanja i isprati je hladnom vodom da se ne slepi — posebno ako je koristite za hladne salate.
 
 ---
 
