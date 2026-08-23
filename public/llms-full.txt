@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Trening ujutru ili uveče: 5 pravila za izbor
+
+https://unazdravahrana.com/blog/trening-ujutru-ili-uvece-5-pravila-za-izbor
+
+Najbolje vreme za trening je ono koje možete redovno da održavate bez narušavanja sna, obroka i energije. Jutarnji trening pomaže rutini, dok večernji često pogoduje jačem učinku ako se završi dovoljno pre spavanja.
+
+**Q: Da li je bolje trenirati ujutru ili uveče?**
+
+Bolje je trenirati u terminu koji možete dosledno da ponavljate i koji ne kvari vaš san, obroke i dnevne obaveze.
+
+**Q: Da li jutarnji trening sagoreva više masti?**
+
+Ne nužno. Mršavljenje najviše zavisi od dugoročne ravnoteže ishrane, aktivnosti, sna i redovnosti, a ne samo od sata treninga.
+
+**Q: Šta jesti pre jutarnjeg treninga?**
+
+Za intenzivniji trening može prijati mali obrok 30 do 60 minuta ranije, poput voća, ovsenih pahuljica, tosta ili voćne pločice uz vodu.
+
+**Q: Da li večernji trening remeti san?**
+
+Kod nekih ljudi intenzivan trening neposredno pred spavanje može otežati uspavljivanje. Ostavite vreme za smirivanje, istezanje, tuširanje i laganiju večeru.
+
+---
+
 ## 3 superhrane za energičniji dan: spirulina, čia i maka
 
 https://unazdravahrana.com/blog/3-superhrane-za-energicniji-dan-spirulina-cia-i-maka
@@ -682,28 +706,4 @@ Nije. Vežbanje ne poništava efekte loše ishrane, jer ishrana daje gorivo i gr
 
 ---
 
-## Rolnice od patlidžana sa smokvama i orasima
-
-https://unazdravahrana.com/recepti/rolnice-od-patlidzana-sa-smokvama-i-orasima
-
-Rolnice od patlidžana sa svežim smokvama, orasima i sirom — lagano letnje jelo iz rerne, gotovo za 40 minuta. Bez glutena.
-
-**Q: Mogu li patlidžan da pripremim ranije?**
-
-Da, ploške možete ispeći dan pre i držati u frižideru. Pre serviranja samo napunite i vratite u rernu da se zagreju i spoje ukusi.
-
-**Q: Da li je jelo bez glutena?**
-
-Jeste, svi sastojci u osnovnoj verziji su prirodno bez glutena. Ako ste osetljivi, uvek proverite deklaracije na siru i medu.
-
-**Q: Kako da patlidžan ne bude gorak?**
-
-Birajte mlađe, čvrste plodove i obavezno posolite ploške pa ih ostavite 10 minuta — so izvlači gorčinu i višak vode.
-
-**Q: Čime mogu da zamenim orahe?**
-
-Odlično rade bademi, lešnici ili suncokretove semenke — sve to imamo u radnji, pa možete probati različite kombinacije.
-
----
-
-Last updated: 2026-08-22
+Last updated: 2026-08-23
