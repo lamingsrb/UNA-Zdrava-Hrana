@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Slani mafini s patlidžanom, smokvama i čia semenkama
+
+https://unazdravahrana.com/recepti/slani-mafini-s-patlidzanom-smokvama-i-cia-semenkama
+
+Sočni slani mafini sa patlidžanom, smokvama, integralnim brašnom i čia semenkama, gotovi za 45 minuta.
+
+**Q: Mogu li se mafini napraviti bez jaja?**
+
+Možete probati sa 2 kašike mlevenog lana pomešane sa 6 kašika vode, koje treba da odstoje 10 minuta pre dodavanja u smesu.
+
+**Q: Da li se patlidžan mora oljuštiti?**
+
+Ne mora, naročito ako je mlad i ima tanku koru. Dovoljno je da ga dobro operete i isečete na sitne kockice.
+
+**Q: Uz šta mogu da poslužim slane mafine?**
+
+Lepo se slažu uz sezonsku salatu, jogurt ili čašu prirodnog soka.
+
+**Q: Mogu li da zamrznem mafine?**
+
+Da. Kada se potpuno ohlade, spakujte ih u posudu ili kesu za zamrzavanje i čuvajte do mesec dana. Odmrzavajte ih na sobnoj temperaturi ili kratko u rerni.
+
+---
+
 ## Trening ujutru ili uveče: 5 pravila za izbor
 
 https://unazdravahrana.com/blog/trening-ujutru-ili-uvece-5-pravila-za-izbor
@@ -679,30 +703,6 @@ Da, kao lagana večera je odlična. Ako želite više sitosti, dodajte kuvanu ki
 **Q: Mogu li unapred pripremiti dresing?**
 
 Naravno — dresing možete napraviti dan ranije i čuvati u frižideru u tegli. Pre upotrebe protresite.
-
----
-
-## Zdrava ishrana i fizička aktivnost: činjenice za
-
-https://unazdravahrana.com/blog/zdrava-ishrana-i-fizicka-aktivnost-cinjenice-za
-
-Tekst objašnjava zašto ishrana i kretanje idu zajedno i donosi proverljive preporuke Svetske zdravstvene organizacije o unosu voća, povrća i nedeljnoj fizičkoj aktivnosti. Nudi praktičan model 'tanjira u tri dela' i konkretne primere za porodice, rekreativce, početnike i starije osobe.
-
-**Q: Koliko fizičke aktivnosti nedeljno preporučuje WHO za odrasle?**
-
-Svetska zdravstvena organizacija preporučuje odraslima 150 do 300 minuta umerene ili 75 do 150 minuta intenzivne aktivnosti nedeljno, uz dva treninga snage.
-
-**Q: Šta znači uravnotežena ishrana u praksi?**
-
-Uravnotežena ishrana znači da polovinu tanjira čine povrće i voće, četvrtinu izvor proteina (jaja, riba, meso, mahunarke), a četvrtinu integralne žitarice ili krompir, uz malo zdravih masti.
-
-**Q: Koliko voća i povrća treba jesti dnevno?**
-
-WHO preporučuje najmanje 400 grama voća i povrća dnevno, što je otprilike pet porcija, uz ograničenje slobodnih šećera i soli.
-
-**Q: Da li je dovoljno samo vežbati ako se loše hranim?**
-
-Nije. Vežbanje ne poništava efekte loše ishrane, jer ishrana daje gorivo i gradivni materijal, a kretanje odlučuje kako će telo to gorivo iskoristiti.
 
 ---
 
