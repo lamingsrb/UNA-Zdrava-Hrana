@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Bez glutena: 7 koraka za sigurnu kupovinu
+
+https://unazdravahrana.com/blog/bez-glutena-7-koraka-za-sigurnu-kupovinu
+
+Vodič objašnjava kako da bezbednije kupujete bezglutensku hranu, od čitanja deklaracija do provere upozorenja o mogućoj kontaminaciji. Saznajte koje namirnice su prirodno bez glutena i zašto su jasna oznaka i sastav važni kod strogog režima ishrane.
+
+**Q: Kako prepoznati proizvod bez glutena?**
+
+Proverite celu deklaraciju: jasnu oznaku „bez glutena“, listu sastojaka, alergene i upozorenja o mogućem prisustvu glutena.
+
+**Q: Koje namirnice su prirodno bez glutena?**
+
+Pirinač, kukuruz, proso, heljda, krompir, mahunarke, voće, povrće, meso, riba, jaja, orašasti plodovi i semenke prirodno ne sadrže gluten.
+
+**Q: Da li je ovas bez glutena?**
+
+Ovas prirodno ne sadrži gluten, ali može biti kontaminiran pšenicom, ječmom ili raži. Za strogo bezglutensku ishranu birajte samo ovas sa bezglutenskom oznakom.
+
+**Q: Na koje sastojke treba paziti kod kupovine bez glutena?**
+
+Izbegavajte pšenicu, ječam, raž, ječmeni slad, ekstrakt slada i pšenični skrob, a pažljivo proverite i mešavine začina, slatkiše i proteinske pločice.
+
+---
+
 ## Slani mafini s patlidžanom, smokvama i čia semenkama
 
 https://unazdravahrana.com/recepti/slani-mafini-s-patlidzanom-smokvama-i-cia-semenkama
@@ -679,30 +703,6 @@ Biodostupnost je procenat unete doze koji telo zaista može da apsorbuje i iskor
 **Q: Zašto kurkumu treba uzimati sa piperinom?**
 
 Kurkuma se sama za sebe veoma slabo apsorbuje u organizmu, a dodatak piperina iz crnog bibera višestruko povećava iskorišćenje aktivne materije, pa je kurkuma bez piperina najčešće bačen novac.
-
----
-
-## Salata od tikvica sa grožđem, orasima i medom
-
-https://unazdravahrana.com/recepti/salata-od-tikvica-sa-grozdjem-orasima-i-medom
-
-Osvežavajuća salata od tikvica sa grožđem, orasima i medom — gotova za 20 minuta, savršena kao lagan letnji obrok ili prilog.
-
-**Q: Mogu li koristiti veće tikvice umesto mladih?**
-
-Možete, ali izvadite semenke iz sredine ako su previše meke i ostavite ih malo duže u cediljki sa soli — puštaju više vode.
-
-**Q: Koje grožđe je najbolje za ovu salatu?**
-
-Sitno grožđe bez semenki je najpraktičnije. Crno grožđe daje slađi ukus, belo je osvežavajuće — probajte i mešano za lepši izgled.
-
-**Q: Da li je ovo pogodno kao večera?**
-
-Da, kao lagana večera je odlična. Ako želite više sitosti, dodajte kuvanu kinou, heljdu ili integralni kus-kus i par kašika leblebija.
-
-**Q: Mogu li unapred pripremiti dresing?**
-
-Naravno — dresing možete napraviti dan ranije i čuvati u frižideru u tegli. Pre upotrebe protresite.
 
 ---
 
