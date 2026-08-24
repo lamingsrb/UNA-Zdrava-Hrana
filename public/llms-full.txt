@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Fermentisani kupus sa smokvama i grožđem
+
+https://unazdravahrana.com/recepti/fermentisani-kupus-sa-smokvama-i-grozdjem
+
+Domaća brza fermentacija kupusa sa smokvama i grožđem — osvežavajući prilog kasnog leta, gotov za 20 minuta pripreme i 3–5 dana čekanja.
+
+**Q: Da li fermentisani kupus sa voćem može da se pokvari?**
+
+Ako je sve povrće ispod nivoa tečnosti i tegla je čista, fermentacija je bezbedna. Neprijatan, truli miris ili plesan na površini su znak da smesu treba baciti i početi ispočetka.
+
+**Q: Koliko soli je pravo za 500 g kupusa?**
+
+Oko 2% mase povrća, što je otprilike 10 g soli na 500 g kupusa. Manje soli ubrzava fermentaciju, ali povećava rizik od kvarenja.
+
+**Q: Mogu li da koristim staro grožđe sa semenkama?**
+
+Možete, samo ga prepolovite i uklonite semenke ako su tvrde. Slađe sorte grožđa daju izraženiji voćni ton prelivu.
+
+**Q: Da li je ovo jelo pogodno za osobe sa osetljivim stomakom?**
+
+Fermentisana hrana doprinosi raznovrsnoj ishrani, ali ako imate zdravstvene tegobe ili uzimate terapiju, konsultujte lekara pre uvođenja novih namirnica.
+
+---
+
 ## Đumbir za gorušicu: koliko piti i kada pomaže
 
 https://unazdravahrana.com/blog/djumbir-za-gorusicu-koliko-piti-i-kada-pomaze
@@ -679,30 +703,6 @@ Ako je već zamešana sa prelivom, najbolje je pojesti je u toku istog dana. Bez
 ## Organska hrana u Kragujevcu: odakle da krenete
 
 https://unazdravahrana.com/blog/organska-hrana-u-kragujevcu-odakle-da-krenete
-
----
-
-## Ribane tikvice sa grožđem, orasima i speltom
-
-https://unazdravahrana.com/recepti/ribane-tikvice-sa-grozdjem-orasima-i-speltom
-
-Ribane tikvice sa grožđem, orasima i speltom — lagan letnji obrok gotov za 40 minuta. Zdrav recept sa sezonskim namirnicama.
-
-**Q: Mogu li recept da spremim unapred za sutradan?**
-
-Možete, ali preporučujemo da orahe i preliv dodate tek pred serviranje kako bi orasi ostali hrskavi, a tikvice zadržale svežinu.
-
-**Q: Koje grožđe je najbolje za ovaj recept?**
-
-Bilo koje sezonsko grožđe bez semenki — belo daje blaži, a crno intenzivniji ukus. Ako je grožđe sa semenkama, samo ga prepolovite i izvadite ih.
-
-**Q: Da li recept odgovara vegetarijancima i veganima?**
-
-Da, potpuno je biljni. Za vegansku varijantu zamenite med javorovim sirupom ili agavom.
-
-**Q: Šta ako mi tikvice puste previše vode?**
-
-To je normalno — zato ih posolimo pre prženja i dobro iscedimo rukama. Prženje na jačoj vatri kratko vreme takođe pomaže da ostanu čvrste.
 
 ---
 
