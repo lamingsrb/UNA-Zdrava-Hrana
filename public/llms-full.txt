@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Đumbir za gorušicu: koliko piti i kada pomaže
+
+https://unazdravahrana.com/blog/djumbir-za-gorusicu-koliko-piti-i-kada-pomaze
+
+Đumbir može ublažiti povremenu gorušicu ubrzavanjem pražnjenja želuca, uz preporučenu dozu do 3–4 g dnevno. Najbolje deluje mlak, 20–30 minuta pre obroka ili posle jela, ali ne pred spavanje.
+
+**Q: Koliko đumbira dnevno je bezbedno kod gorušice?**
+
+Kod odraslih se dobro toleriše do 3–4 grama dnevno, raspoređeno u dve do tri porcije. To je oko parče svežeg korena veličine palca ili 1–2 kesice čaja. Više od 4–5 g može izazvati peckanje i pojačati gorušicu.
+
+**Q: Kada je najbolje popiti čaj od đumbira?**
+
+Najbolje je 20–30 minuta pre težeg obroka ili odmah posle jela ako se javi nadutost. Izbegavajte jak topao čaj pred spavanje — popijte ga bar 60–90 minuta pre lеganja da ne bi izazvao refluks.
+
+**Q: Može li đumbir da pogorša gorušicu?**
+
+Može, ako je doza prevelika, čaj prejak ili napitak previše vreo. U tom slučaju smanjite količinu, razblažite napitak ili probajte mlak umesto vrelog. Ako gorušicu imate više od dva puta nedeljno, obratite se lekaru.
+
+**Q: Koji oblik đumbira je najbolji za gorušicu?**
+
+Za većinu ljudi najbolja kombinacija je svež organski koren za kućni čaj i kvalitetne kesice čaja za brze prilike. Mleveni đumbir je jači i lako se predozira, a kandirani sadrži šećer i nije za svakodnevnu upotrebu.
+
+---
+
 ## Bez glutena: 7 koraka za sigurnu kupovinu
 
 https://unazdravahrana.com/blog/bez-glutena-7-koraka-za-sigurnu-kupovinu
@@ -682,28 +706,4 @@ To je normalno — zato ih posolimo pre prženja i dobro iscedimo rukama. Pržen
 
 ---
 
-## Koliko koštaju kvalitetni suplementi i šta plaćate
-
-https://unazdravahrana.com/blog/koliko-kostaju-kvalitetni-suplementi-i-sta-placate
-
-Cena suplementa zavisi od oblika aktivne materije, doze, pomoćnih sastojaka i sertifikata proizvođača, pri čemu skuplji oblici (bisglicinat, metilkobalamin, D3) često imaju znatno veću biodostupnost. Da biste izbegli bacanje novca, uporedite oblik jedinjenja, stvarnu dozu po kapsuli i prisustvo GMP/ISO sertifikata, a ne samo broj miligrama na kutiji.
-
-**Q: Zašto je magnezijum bisglicinat skuplji od oksida?**
-
-Bisglicinat je kompleksniji za proizvodnju, ali telo ga bolje apsorbuje i ne izaziva stomačne tegobe, dok se magnezijum oksid iskoristi samo delimično iako na deklaraciji piše ista miligraža.
-
-**Q: Koji sertifikati na suplementima su zaista važni?**
-
-Najvažniji su GMP (standard proizvodnje), ISO 22000 ili HACCP (bezbednost hrane), Non-GMO i oznaka third-party tested koja potvrđuje da je nezavisna laboratorija proverila sadržaj kapsule.
-
-**Q: Šta je biodostupnost suplementa?**
-
-Biodostupnost je procenat unete doze koji telo zaista može da apsorbuje i iskoristi. Zbog nje 500 mg kvalitetnog oblika često daje veći efekat od 1000 mg jeftinog oblika sa slabom apsorpcijom.
-
-**Q: Zašto kurkumu treba uzimati sa piperinom?**
-
-Kurkuma se sama za sebe veoma slabo apsorbuje u organizmu, a dodatak piperina iz crnog bibera višestruko povećava iskorišćenje aktivne materije, pa je kurkuma bez piperina najčešće bačen novac.
-
----
-
-Last updated: 2026-08-23
+Last updated: 2026-08-24
