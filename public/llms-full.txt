@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pita bez kore: patlidžan, smokve i spelta
+
+https://unazdravahrana.com/recepti/pita-bez-kore-patlidzan-smokve-i-spelta
+
+Slano-slatka pita bez kore sa patlidžanom, smokvama i grožđem na spelta brašnu. Lagana, sita i gotova za 55 minuta.
+
+**Q: Mogu li da koristim samo grožđe bez smokava?**
+
+Naravno. Ako nemate smokve, udvostručite količinu grožđa ili dodajte pola kruške isečene na kockice — kombinacija sa patlidžanom i dalje odlično funkcioniše.
+
+**Q: Da li se pita može zamrznuti?**
+
+Može, isečena na porcije. Odmrznite je preko noći u frižideru i podgrejte u rerni 10 minuta na 160°C da povrati teksturu.
+
+**Q: Čime da zamenim spelta brašno ako ga nemam?**
+
+Odlična zamena je integralno pšenično ili polubelo pšenično brašno. Za varijantu bez glutena koristite mešavinu heljdinog i pirinčanog brašna u odnosu 1:1.
+
+**Q: Uz šta ide ova pita?**
+
+Prija uz gust jogurt, zelenu salatu sa rukolom, ili kao deo mezea sa maslinama i svežim sirom. Odlična je i za lanč paket sledećeg dana.
+
+---
+
 ## Fermentisana hrana: vodič i recepti koji rade
 
 https://unazdravahrana.com/blog/fermentisana-hrana-vodic-i-recepti-koji-rade
@@ -697,30 +721,6 @@ Spanać sadrži oksalate koji vezuju kalcijum i smanjuju njegovu apsorpciju. Kel
 **Q: Kako povećati apsorpciju kalcijuma iz semenki i mahunarki?**
 
 Namačite pasulj i leblebiju preko noći, meljite lanene semenke i lagano pržite susam. Dodajte vitamin D, magnezijum i vitamin K2 kroz sunce i raznoliku ishranu da kalcijum završi u kostima.
-
----
-
-## Salata za jake kosti: kelj, smokve i susam
-
-https://unazdravahrana.com/recepti/salata-za-jake-kosti-kelj-smokve-i-susam
-
-Salata od kelja, smokava i susama sa kremastim tahini prelivom — jednostavan biljni recept bogat kalcijumom, gotov za 25 minuta.
-
-**Q: Da li se ova salata može pripremiti unapred?**
-
-Sastojke možete pripremiti odvojeno nekoliko sati ranije, ali salatu preporučujemo da sklopite neposredno pre serviranja kako bi kelj ostao svež, a smokve sočne.
-
-**Q: Čime da zamenim tahini ako ga nemam?**
-
-Odličan izbor je puter od badema ili puter od susama. Dobićete nešto drugačiji ukus, ali kremastu teksturu preliva i sličnu nutritivnu vrednost.
-
-**Q: Da li je jelo pogodno za osobe sa intolerancijom na laktozu?**
-
-Da, recept je u potpunosti biljni i ne sadrži mlečne proizvode, pa je pogodan za osobe koje izbegavaju laktozu.
-
-**Q: Koliko dugo mogu da čuvam salatu u frižideru?**
-
-Ako je već zamešana sa prelivom, najbolje je pojesti je u toku istog dana. Bez preliva, sastojci se mogu čuvati u zatvorenoj posudi do 2 dana.
 
 ---
 
