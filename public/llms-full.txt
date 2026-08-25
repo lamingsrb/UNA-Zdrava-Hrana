@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Fermentisana hrana: vodič i recepti koji rade
+
+https://unazdravahrana.com/blog/fermentisana-hrana-vodic-i-recepti-koji-rade
+
+Praktičan vodič za fermentaciju povrća kod kuće sa objašnjenjem razlike između fermentacije i kiseljenja, tabelom vremena i količine soli. Uključuje recepte za sauerkraut i domaći kimči prilagođen našem nepcu.
+
+**Q: Koja je razlika između fermentisanog i kiselog povrća iz turšije?**
+
+Turšija se konzerviše sirćetom spolja, dok fermentisano povrće samo stvara mlečnu kiselinu pomoću bakterija (Lactobacillus) i sadrži žive kulture, prebiotike i enzime. Zato se fermentisano povrće čuva u frižideru i ne pregreva.
+
+**Q: Koliko soli treba za 1 kg kupusa za fermentaciju?**
+
+Standard je 20 g nejodirane morske soli po kilogramu kupusa, odnosno 2% od težine povrća. Merite na vagi, jer premalo soli dovodi do omekšavanja i sluzi, a previše zaustavlja fermentaciju.
+
+**Q: Koliko dugo traje fermentacija kiselog kupusa?**
+
+Na sobnoj temperaturi 18–22°C kiseli kupus je gotov za 7–14 dana. Leti proces ide brže pa proveravajte već na 3. dan, zimi na 7. Kada je ukus po vašoj želji, prebacite teglu u frižider.
+
+**Q: Zašto se ne sme koristiti jodirana so za fermentaciju?**
+
+Jod u soli koči rad bakterija mlečne kiseline i usporava ili potpuno prekida fermentaciju. Koristite čistu morsku ili himalajsku so bez dodataka, a vodu odstajalu ili filtriranu jer i hlor smeta bakterijama.
+
+---
+
 ## Fermentisani kupus sa smokvama i grožđem
 
 https://unazdravahrana.com/recepti/fermentisani-kupus-sa-smokvama-i-grozdjem
@@ -700,10 +724,4 @@ Ako je već zamešana sa prelivom, najbolje je pojesti je u toku istog dana. Bez
 
 ---
 
-## Organska hrana u Kragujevcu: odakle da krenete
-
-https://unazdravahrana.com/blog/organska-hrana-u-kragujevcu-odakle-da-krenete
-
----
-
-Last updated: 2026-08-24
+Last updated: 2026-08-25
