@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Hrana koja izbacuje višak vode: 9 prirodnih diuretika
+
+https://unazdravahrana.com/blog/hrana-koja-izbacuje-visak-vode-9-prirodnih-diuretika
+
+Tekst objašnjava zašto telo zadržava vodu i predstavlja 9 namirnica koje prirodno deluju diuretski, uz preporučene količine i način upotrebe. Nudi konkretne kombinacije za porodicu, rekreativce i početnike, uz upozorenja kada je potreban lekar.
+
+**Q: Koja hrana najbrže izbacuje višak vode iz tela?**
+
+Najbrže deluju kopriva u vidu čaja, krastavac, lubenica, celer i peršun, jer sadrže malo natrijuma a puno vode i kalijuma. Vidljiva razlika se javlja za dva do četiri dana uz dovoljno vode i manje soli.
+
+**Q: Da li je čaj od koprive dobar diuretik?**
+
+Da, kopriva je jedan od najsnažnijih biljnih diuretika u našim krajevima. Pije se dve do tri šolje dnevno, deset dana, pa se pravi pauza, a uz to podržava unos gvožđa i minerala.
+
+**Q: Zašto se voda zadržava u telu?**
+
+Najčešći razlozi su neravnoteža natrijuma i kalijuma, previše prerađene hrane, dugo sedenje ili stajanje, hormonske promene i nedovoljan unos vode. Kada telu nedostaje tečnosti, ono je paradoksalno zadržava umesto da je propušta.
+
+**Q: Koliko vode treba piti da bi se smanjilo zadržavanje tečnosti?**
+
+Kod zdravih odraslih preporučuje se oko 30 ml vode po kilogramu telesne mase dnevno. Uz to je važno smanjiti so iz prerađene hrane i uneti više namirnica bogatih kalijumom poput krastavca, lubenice i peršuna.
+
+---
+
 ## Pita bez kore: patlidžan, smokve i spelta
 
 https://unazdravahrana.com/recepti/pita-bez-kore-patlidzan-smokve-i-spelta
@@ -697,30 +721,6 @@ Bez semenki, čvršće bobice (crno ili crveno) najbolje se ponašaju u rerni �
 **Q: Čime da zamenim med za veganu verziju?**
 
 Javorov sirup ili agavin sirup u istoj količini rade savršeno. Recept ostaje potpuno biljni.
-
----
-
-## Biljni kalcijum: salata koja čuva kosti bez mleka
-
-https://unazdravahrana.com/blog/biljni-kalcijum-salata-koja-cuva-kosti-bez-mleka
-
-Biljni kalcijum se lako unosi kroz susam, tahini, chia, bademe, kelj i tofu, ali je važno znati kako pripremiti namirnice da bi telo iskoristilo minerale. Tekst donosi tabelu izvora, savete o oksalatima i fitatima, i recept za salatu sa keljom, leblebijom i tahini dresingom.
-
-**Q: Kako uneti dovoljno kalcijuma bez mleka?**
-
-Kombinujte biljne izvore tokom dana: kašika susama ili tahinija, šaka badema, chia semenke, kuvani kelj, tofu sa kalcijumom i suve smokve zajedno lako pokrivaju dnevnu potrebu od oko 1000 mg.
-
-**Q: Koje biljke imaju najviše kalcijuma?**
-
-Susam nosi oko 975 mg na 100 g, chia semenke oko 630 mg, tahini oko 420 mg, bademi oko 265 mg, a tofu sa kalcijumom između 200 i 350 mg na 100 g.
-
-**Q: Zašto spanać nije najbolji izvor kalcijuma?**
-
-Spanać sadrži oksalate koji vezuju kalcijum i smanjuju njegovu apsorpciju. Kelj, brokoli i kineski kupus imaju malo oksalata pa se njihov kalcijum mnogo bolje iskorišćava.
-
-**Q: Kako povećati apsorpciju kalcijuma iz semenki i mahunarki?**
-
-Namačite pasulj i leblebiju preko noći, meljite lanene semenke i lagano pržite susam. Dodajte vitamin D, magnezijum i vitamin K2 kroz sunce i raznoliku ishranu da kalcijum završi u kostima.
 
 ---
 
