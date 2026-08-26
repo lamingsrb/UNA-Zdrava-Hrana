@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Keto dijeta: nove koristi koje nisu mršavljenje
+
+https://unazdravahrana.com/blog/keto-dijeta-nove-koristi-koje-nisu-mrsavljenje
+
+Tekst objašnjava keto ishranu izvan konteksta mršavljenja, fokusirajući se na koristi za šećer u krvi, mentalnu jasnoću, upale i PCOS. Nudi konkretan spisak namirnica, primere dnevnih jelovnika i upozorenja o čestim greškama i kome keto ne odgovara.
+
+**Q: Da li keto dijeta pomaže kod dijabetesa tipa 2?**
+
+Kod osoba sa insulinskom rezistencijom i dijabetesom tipa 2, smanjenje ugljenih hidrata može doprineti stabilnijim nivoima glukoze i nižem HbA1c, ali isključivo uz nadzor lekara koji će prilagoditi terapiju.
+
+**Q: Šta se jede na keto ishrani?**
+
+Osnovu čine jaja, masna riba, meso, avokado, maslinovo i kokosovo ulje, orašasti plodovi, semenke i lisnato povrće poput spanaća, brokolija i karfiola, uz umeren unos bobičastog voća i tamne čokolade preko 85%.
+
+**Q: Kome keto dijeta nije preporučljiva?**
+
+Keto nije za osobe sa dijabetesom tipa 1, trudnice, dojilje, ljude sa bolestima bubrega, jetre ili žučne kese, kao ni za one na terapiji za šećer ili pritisak bez prethodne konsultacije sa lekarom.
+
+**Q: Koje su koristi keto dijete osim mršavljenja?**
+
+Istraživanja pominju bolju kontrolu šećera u krvi, stabilniju energiju, mentalnu jasnoću, smanjenje upalnih markera i podršku ženama sa PCOS-om kroz bolju insulinsku osetljivost.
+
+---
+
 ## Punjeni patlidžan sa grožđem, prosom i orasima
 
 https://unazdravahrana.com/recepti/punjeni-patlidzan-sa-grozdjem-prosom-i-orasima
@@ -697,30 +721,6 @@ Ne odlažite pregled kod pojave krvi u urinu, temperature, jeze, jakog bola, nem
 **Q: Mogu li se kombinovati saw palmetto, cink i drugi suplementi?**
 
 Suplementi slične namene ne bi trebalo da se kombinuju nasumično. Uvodite jednu promenu odjednom, proverite ukupne doze i moguće interakcije sa lekovima uz savet stručnog lica.
-
----
-
-## Šargarepa, kokosova voda i limun: hit letnji napitak
-
-https://unazdravahrana.com/blog/sargarepa-kokosova-voda-i-limun-hit-letnji-napitak
-
-Napitak od sveže šargarepe, kokosove vode i limuna je osvežavajuća letnja kombinacija bogata beta-karotenom, kalijumom i vitaminom C. Nije čarobni eliksir za kožu, ali je pametan izbor uz kvalitetne, sezonske i neprerađene sastojke.
-
-**Q: Da li napitak od šargarepe zaista poboljšava izgled kože?**
-
-Podržava zdrav izgled kože iznutra zahvaljujući beta-karotenu i vitaminu C, ali efekat se vidi kroz nedelje i mesece, a ne za tri dana kako tvrde viralni snimci.
-
-**Q: Koja je razlika između kokosove vode i kokosovog mleka?**
-
-Kokosova voda je bistra, blago slatkasta tečnost iz mladog kokosa bogata kalijumom, dok je kokosovo mleko gušće, masnije i dobija se ceđenjem mesa zrelog kokosa.
-
-**Q: Mogu li da napravim napitak bez sokovnika?**
-
-Da, naribajte šargarepu, prelijte malom količinom vode, izblendajte i procedite kroz gazu ili gustu cediljku pre mešanja sa kokosovom vodom i limunom.
-
-**Q: Kako da najbolje iskoristim beta-karoten iz šargarepe?**
-
-Beta-karoten je liposolubilan, pa uz sok pojedite nešto sa malo masti — kašiku jogurta, šaku badema ili komad avokada za bolju apsorpciju.
 
 ---
 
