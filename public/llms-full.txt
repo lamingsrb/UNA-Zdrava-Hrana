@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Punjeni patlidžan sa grožđem, prosom i orasima
+
+https://unazdravahrana.com/recepti/punjeni-patlidzan-sa-grozdjem-prosom-i-orasima
+
+Punjeni patlidžan sa prosom, pečenim grožđem i orasima — sezonski, bezglutenski obrok gotov za 45 minuta. Sastojci iz UNA radnje u Kragujevcu.
+
+**Q: Mogu li da pripremim jelo unapred?**
+
+Možete. Nadev pripremite dan ranije i čuvajte u frižideru, a patlidžane napunite i pecite neposredno pre serviranja da ostanu sočni.
+
+**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
+
+Jeste — proso je prirodno bez glutena. Proverite samo da su začini i orasi iz sigurnog izvora bez unakrsne kontaminacije, što možete potvrditi kod nas u radnji.
+
+**Q: Čime da zamenim orahe ako imam alergiju?**
+
+Odlično rade suncokretove ili bundevine semenke — daju sličnu hrskavost i doprinose unosu minerala. Dodajte istu količinu (60 g).
+
+**Q: Koje grožđe je najbolje za pečenje?**
+
+Krupno crno grožđe bez semenki (npr. sorta cardinal ili slično) daje najlepšu boju i slatkoću. Ako koristite grožđe sa semenkama, prepolovite bobice i izvadite semenke pre nadeva.
+
+---
+
 ## Hrana koja izbacuje višak vode: 9 prirodnih diuretika
 
 https://unazdravahrana.com/blog/hrana-koja-izbacuje-visak-vode-9-prirodnih-diuretika
@@ -700,28 +724,4 @@ Beta-karoten je liposolubilan, pa uz sok pojedite nešto sa malo masti — kaši
 
 ---
 
-## Topla salata od pečenog patlidžana i grožđa sa prosom
-
-https://unazdravahrana.com/recepti/topla-salata-od-pecenog-patlidzana-i-grozdja-sa-prosom
-
-Topla salata od pečenog patlidžana, karamelizovanog grožđa i prosa sa orasima — lagan sezonski obrok bez glutena, gotov za 45 minuta.
-
-**Q: Mogu li da pripremim salatu unapred?**
-
-Da, možete skuvati proso i ispeći patlidžan sa grožđem dan ranije, a sve sjediniti sa dresingom neposredno pre serviranja. Tako će tekstura ostati najlepša.
-
-**Q: Da li je jelo prikladno za osobe sa intolerancijom na gluten?**
-
-Jeste — proso je prirodno bez glutena. Ako ste posebno osetljivi, birajte proso sa oznakom 'bez glutena' da izbegnete unakrsnu kontaminaciju.
-
-**Q: Koje grožđe je najbolje za pečenje?**
-
-Bez semenki, čvršće bobice (crno ili crveno) najbolje se ponašaju u rerni — zadrže oblik i lepo karamelizuju. Muskatno grožđe daje najlepšu aromu.
-
-**Q: Čime da zamenim med za veganu verziju?**
-
-Javorov sirup ili agavin sirup u istoj količini rade savršeno. Recept ostaje potpuno biljni.
-
----
-
-Last updated: 2026-08-25
+Last updated: 2026-08-26
