@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Suplementi i namirnice za zdrav pankreas
+
+https://unazdravahrana.com/blog/suplementi-i-namirnice-za-zdrav-pankreas
+
+Pankreas luči enzime za varenje i insulin za regulaciju šećera, a najbolju podršku dobija kroz ishranu bogatu lisnatim povrćem, ribom, mahunarkama i antioksidansima uz izbegavanje alkohola i prženog. Suplementi poput digestivnih enzima, kurkumina, magnezijuma, alfa-lipoične kiseline i omega-3 mogu pomoći kao dodatna podrška, ali ne zamenjuju zdrav obrok ni lekarsku konsultaciju.
+
+**Q: Koje namirnice su najbolje za zdrav pankreas?**
+
+Pankreasu prijaju lisnato povrće (spanać, kelj), brokoli i karfiol, bobičasto voće, slatki krompir, ovas i heljda, masna riba bogata omega-3, mahunarke poput sočiva i leblebija, te začini kurkuma i đumbir.
+
+**Q: Kada ima smisla uzimati digestivne enzime?**
+
+Digestivni enzimi mogu pomoći kada osećate težinu posle masnih obroka, na putovanjima kada jedete drugačije, kod osoba starijih od 60 godina i kod ljudi sa problemima žučne kese. Uzimaju se uz obrok, a kod hroničnih tegoba obavezno uz konsultaciju lekara.
+
+**Q: Šta najviše šteti pankreasu?**
+
+Najveći neprijatelji pankreasa su alkohol, duvan, prženo i industrijske trans-masti, gazirana pića sa mnogo šećera i ogromne porcije mesa. Neredovni obroci i preterivanje takođe opterećuju njegov rad.
+
+**Q: Koji oblik magnezijuma je najbolji za pankreas?**
+
+Najbolje se podnose magnezijum-bisglicinat i citrat jer se dobro apsorbuju i ne izazivaju probavne tegobe. Oksidni oblik je jeftiniji ali se slabije apsorbuje i može izazvati proliv.
+
+---
+
 ## Rižoto od proje sa patlidžanom i grožđem
 
 https://unazdravahrana.com/recepti/rizoto-od-proje-sa-patlidzanom-i-grozdjem
@@ -697,30 +721,6 @@ Palačinke možete ispeći nekoliko sati ranije i pokriti čistom krpom. Punjenj
 **Q: Čime mogu da zamenim sir?**
 
 Za blaži ukus koristite mladi sir, a za izraženiji feta sir. Ako ne koristite mlečne proizvode, odgovaraće gušći biljni namaz sa malo limunovog soka.
-
----
-
-## 4 koraka da prestanete da jedete preko mere
-
-https://unazdravahrana.com/blog/4-koraka-da-prestanete-da-jedete-preko-mere
-
-Prejedanje često nastaje kada navika da se tanjir isprazni nadjača prirodan osećaj sitosti. Manje početne porcije, kratka pauza tokom jela i pravilno čuvanje ostataka pomažu da jedete onoliko koliko vam zaista prija.
-
-**Q: Kako da prestanem da jedem preko mere?**
-
-Počnite manjom porcijom, jedite bez žurbe i napravite kratku pauzu pre dosipanja. Zatim se zapitajte da li ste i dalje gladni ili vam je samo žao da hrana ostane.
-
-**Q: Da li je loše ostaviti hranu u tanjiru?**
-
-Nije loše stati kada ste siti. Ostatak hrane možete rashladiti, sačuvati za naredni obrok, poneti na posao ili iskoristiti u novom jelu.
-
-**Q: Kako roditelji mogu da nauče decu da slušaju osećaj sitosti?**
-
-Ponudite detetu manju početnu porciju i recite mu da može da dobije još ako je gladno. Tako se izbegava pritisak da mora da pojede sve iz tanjira.
-
-**Q: Koliko dugo kuvana hrana sme da stoji van frižidera?**
-
-Kvarljivu hranu treba rashladiti u roku od dva sata, a kada su temperature visoke i ranije. Brzo pakovanje ostataka olakšava kontrolu porcija i smanjuje bacanje hrane.
 
 ---
 
