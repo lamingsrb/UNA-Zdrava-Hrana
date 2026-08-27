@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kimči, kefir i kombuha: šta stvarno rade telu
+
+https://unazdravahrana.com/blog/kimci-kefir-i-kombuha-sta-stvarno-rade-telu
+
+Tekst objašnjava šta su živi fermentisani proizvodi (kimči, kefir, kombuha, kiseli kupus) i kako mogu da podrže varenje i raznovrsnost crevne flore. Nudi sedmodnevni plan za početnike, poređenje namirnica i najčešće greške pri kupovini i konzumaciji.
+
+**Q: Da li kiseli kupus iz supermarketa ima žive kulture?**
+
+Uglavnom ne. Kiseli kupus koji stoji na sobnoj temperaturi je najčešće pasterizovan i nema žive bakterije. Žive kulture ima onaj koji se čuva u hladnom lancu, obično je zamućen i blago 'diše' u tegli.
+
+**Q: Koliko fermentisane hrane treba jesti dnevno?**
+
+Dovoljno je jedna do dve male porcije dnevno iz raznovrsnih izvora, na primer kašika kiselog kupusa uz ručak i pola čaše kefira ujutru. Više nije nužno bolje i može izazvati nadutost kod nespremnih creva.
+
+**Q: Da li se kefir i kimči smeju zagrevati?**
+
+Ne treba ih izlagati visokoj temperaturi jer se žive kulture uništavaju. Dodajte ih na kraju, u već ohlađeno jelo, ili konzumirajte sirove.
+
+**Q: Kada se očekuju prvi efekti fermentisane hrane na varenje?**
+
+Realan prozor za primetne promene u varenju je dve do četiri nedelje redovnog unosa. Crevna flora se ne menja preko noći i telu treba vreme da se navikne.
+
+---
+
 ## Keto dijeta: nove koristi koje nisu mršavljenje
 
 https://unazdravahrana.com/blog/keto-dijeta-nove-koristi-koje-nisu-mrsavljenje
@@ -700,28 +724,4 @@ Ako ih nemate, upotrebite susam ili mleveno laneno seme. Dodaće prijatnu tekstu
 
 ---
 
-## Saw palmetto i 3 sastojka za zdravlje prostate
-
-https://unazdravahrana.com/blog/saw-palmetto-i-3-sastojka-za-zdravlje-prostate
-
-Saw palmetto, cink, tikvine semenke i kopriva mogu biti deo rutine nutritivne podrške zdravlju prostate, ali nisu zamena za pregled, dijagnozu ili terapiju. Kod upornih, novih ili izraženih tegoba pri mokrenju potrebno je obratiti se lekaru, posebno pre kombinovanja suplemenata i lekova.
-
-**Q: Da li saw palmetto pomaže kod uvećane prostate?**
-
-Saw palmetto je popularan biljni suplement, ali istraživanja koja navodi NCCIH nisu pokazala pouzdanu korist za urinarne simptome povezane sa uvećanom prostatom. Ne treba ga koristiti kao zamenu za urološki pregled ili propisanu terapiju.
-
-**Q: Da li cink treba uzimati za zdravlje prostate?**
-
-Cink ima važne uloge u organizmu, ali dodatni unos nije automatski potreban niti rešava tegobe sa prostatom. Pre suplementacije proverite ishranu, deklaraciju multivitamina i savetujte se sa lekarom ili farmaceutom.
-
-**Q: Koje simptome prostate ne treba ignorisati?**
-
-Ne odlažite pregled kod pojave krvi u urinu, temperature, jeze, jakog bola, nemogućnosti mokrenja ili naglog pogoršanja tegoba. Učestalo mokrenje i slabiji mlaz mogu imati različite uzroke, ne samo promene prostate.
-
-**Q: Mogu li se kombinovati saw palmetto, cink i drugi suplementi?**
-
-Suplementi slične namene ne bi trebalo da se kombinuju nasumično. Uvodite jednu promenu odjednom, proverite ukupne doze i moguće interakcije sa lekovima uz savet stručnog lica.
-
----
-
-Last updated: 2026-08-26
+Last updated: 2026-08-27
