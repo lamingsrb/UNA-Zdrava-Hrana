@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Rižoto od proje sa patlidžanom i grožđem
+
+https://unazdravahrana.com/recepti/rizoto-od-proje-sa-patlidzanom-i-grozdjem
+
+Kremasti rižoto od kukuruzne krupice sa pečenim patlidžanom, grožđem i orasima — sezonski, bez glutena, gotov za 45 minuta.
+
+**Q: Mogu li da koristim belo grožđe umesto crnog?**
+
+Naravno. Belo grožđe je blaže i slađe, dok crno daje intenzivniju boju i blagu trpkost. Oba dobro funkcionišu — birajte ono što vam je pri ruci.
+
+**Q: Da li je recept zaista bez glutena?**
+
+Jeste, ukoliko koristite čistu kukuruznu krupicu i povrtnu supu bez glutena. Uvek proverite deklaraciju ako imate celijakiju.
+
+**Q: Šta ako nemam povrtnu supu?**
+
+Možete koristiti običnu toplu vodu uz malo više soli i kašičicu maslinovog ulja, ili napraviti brzu supu od šargarepe, luka i lovora za 15 minuta.
+
+**Q: Može li se pripremiti unapred?**
+
+Rižoto je najbolji svež, ali možete skuvati krupicu ranije, a patlidžan i grožđe dodati tik pred serviranje uz malo tople supe za osvežavanje teksture.
+
+---
+
 ## Kimči, kefir i kombuha: šta stvarno rade telu
 
 https://unazdravahrana.com/blog/kimci-kefir-i-kombuha-sta-stvarno-rade-telu
@@ -697,30 +721,6 @@ Ponudite detetu manju početnu porciju i recite mu da može da dobije još ako j
 **Q: Koliko dugo kuvana hrana sme da stoji van frižidera?**
 
 Kvarljivu hranu treba rashladiti u roku od dva sata, a kada su temperature visoke i ranije. Brzo pakovanje ostataka olakšava kontrolu porcija i smanjuje bacanje hrane.
-
----
-
-## Patlidžan čamci sa leblebijama i grožđem
-
-https://unazdravahrana.com/recepti/patlidzan-camci-sa-leblebijama-i-grozdjem
-
-Zapečeni patlidžan punjen leblebijama, grožđem, orasima i čia semenkama – zdrav kasnoletnji ručak za 45 minuta.
-
-**Q: Da li patlidžan treba prethodno soliti?**
-
-Nije obavezno, naročito kod mlađih patlidžana. Ako želite blaži ukus i čvršću teksturu, posolite ga 10 minuta pre pečenja, pa obrišite višak vlage.
-
-**Q: Mogu li da koristim drugo voće umesto grožđa?**
-
-Možete probati sa sitno seckanim svežim smokvama, ali ih dodajte tek pred kraj pečenja jer su veoma nežne.
-
-**Q: Da li je recept pogodan za pripremu unapred?**
-
-Nadev možete pripremiti nekoliko sati unapred i čuvati u frižideru. Patlidžan je najbolje ispeći neposredno pre serviranja.
-
-**Q: Čime mogu da zamenim čia semenke?**
-
-Ako ih nemate, upotrebite susam ili mleveno laneno seme. Dodaće prijatnu teksturu i blagu orašastu notu.
 
 ---
 
