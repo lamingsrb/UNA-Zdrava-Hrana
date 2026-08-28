@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Tost sa dimljenim lososom, smokvama i grožđem](https://unazdravahrana.com/recepti/tost-sa-dimljenim-lososom-smokvama-i-grozdjem)
 - [Suplementi i namirnice za zdrav pankreas](https://unazdravahrana.com/blog/suplementi-i-namirnice-za-zdrav-pankreas)
 - [Rižoto od proje sa patlidžanom i grožđem](https://unazdravahrana.com/recepti/rizoto-od-proje-sa-patlidzanom-i-grozdjem)
 - [Kimči, kefir i kombuha: šta stvarno rade telu](https://unazdravahrana.com/blog/kimci-kefir-i-kombuha-sta-stvarno-rade-telu)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Bezglutenska hrana: vodič kroz proizvode i izbor](https://unazdravahrana.com/blog/bezglutenska-hrana-vodic-kroz-proizvode-i-izbor)
 - [Lagana tepsija: patlidžan, grožđe i proso sa orasima](https://unazdravahrana.com/recepti/lagana-tepsija-patlidzan-grozdje-i-proso-sa-orasima)
 - [Prirodni suplementi za testosteron: šta radi](https://unazdravahrana.com/blog/prirodni-suplementi-za-testosteron-sta-radi)
-- [Hrana bogata elektrolitima: kraj grčevima u mišićima](https://unazdravahrana.com/blog/hrana-bogata-elektrolitima-kraj-grcevima-u-misicima)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-27
+Last updated: 2026-08-28

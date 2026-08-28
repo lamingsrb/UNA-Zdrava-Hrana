@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Tost sa dimljenim lososom, smokvama i grožđem
+
+https://unazdravahrana.com/recepti/tost-sa-dimljenim-lososom-smokvama-i-grozdjem
+
+Brzi tost sa dimljenim lososom, smokvama i grožđem na integralnom hlebu od spelte — sezonski recept gotov za 20 minuta.
+
+**Q: Mogu li da pripremim tostove unapred za goste?**
+
+Sve sastojke možete pripremiti sat ranije i držati u frižideru odvojeno, ali hleb tostirajte i sklapajte tek 5 minuta pre serviranja.
+
+**Q: Koji hleb je najbolji za ovaj recept?**
+
+Preporučujemo integralni hleb od spelte ili raženi hleb sa semenkama — dovoljno je čvrst da izdrži sočne dodatke i daje lep orašasti ukus.
+
+**Q: Da li je ovo pogodno za decu?**
+
+Jeste, deca obično vole slatko-slanu kombinaciju smokava i sira. Za mlađu decu izostavite biber i sečite tost na manje zalogaje.
+
+**Q: Kako da izaberem zrele smokve?**
+
+Zrela smokva je mekana na dodir, mirisna i blago popušta pod prstima. Ako je tvrda kao jabuka — sačekajte dan-dva na sobnoj temperaturi.
+
+---
+
 ## Suplementi i namirnice za zdrav pankreas
 
 https://unazdravahrana.com/blog/suplementi-i-namirnice-za-zdrav-pankreas
@@ -700,28 +724,4 @@ Ako jutarnja mučnina otežava veći obrok, nekima više odgovara nekoliko lagan
 
 ---
 
-## Heljdine palačinke s patlidžanom i smokvama
-
-https://unazdravahrana.com/recepti/heljdine-palacinke-s-patlidzanom-i-smokvama
-
-Slane heljdine palačinke sa patlidžanom, smokvama i grožđem – zdrav kasnoletnji ručak gotov za 45 minuta.
-
-**Q: Da li mogu da pripremim palačinke samo od heljdinog brašna?**
-
-Možete, ali će biti lomljivije. Za lakše okretanje dodajte još jedno jaje ili zamenite 30 g heljdinog brašna integralnim speltinim brašnom.
-
-**Q: Da li se koriste zelene ili tamne sorte grožđa?**
-
-Obe sorte su dobre. Birajte čvrsto grožđe bez koštica, a krupnija zrna obavezno prepolovite.
-
-**Q: Mogu li se palačinke pripremiti unapred?**
-
-Palačinke možete ispeći nekoliko sati ranije i pokriti čistom krpom. Punjenje pripremite unapred, ali ih sastavite neposredno pre služenja da ostanu najbolje teksture.
-
-**Q: Čime mogu da zamenim sir?**
-
-Za blaži ukus koristite mladi sir, a za izraženiji feta sir. Ako ne koristite mlečne proizvode, odgovaraće gušći biljni namaz sa malo limunovog soka.
-
----
-
-Last updated: 2026-08-27
+Last updated: 2026-08-28
