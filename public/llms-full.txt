@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Prirodni suplementi: kako izabrati kvalitetan proizvod
+
+https://unazdravahrana.com/blog/prirodni-suplementi-kako-izabrati-kvalitetan-proizvod
+
+Tekst objašnjava razliku između prirodnih i sintetičkih suplemenata i daje sedam konkretnih kriterijuma za proveru deklaracije pre kupovine. Predstavlja glavne kategorije suplemenata sa preporukama po životnoj situaciji i upozorava na najčešće greške poput kupovine po ceni ili megadoza.
+
+**Q: Koji oblik magnezijuma se najbolje apsorbuje?**
+
+Magnezijum-citrat, glicinat i malat imaju znatno bolju apsorpciju od jeftinog magnezijum-oksida, koji telo slabo iskorišćava.
+
+**Q: Šta znači oznaka d-alfa-tokoferol na deklaraciji vitamina E?**
+
+Oznaka d-alfa-tokoferol označava prirodni oblik vitamina E, dok dl-alfa-tokoferol označava sintetički oblik. Prirodni oblik telo bolje iskorišćava.
+
+**Q: Da li je vitamin D3 potreban tokom cele godine?**
+
+U našim krajevima suplementacija vitaminom D3 najviše koristi tokom zimskih meseci, otprilike od oktobra do aprila, kada je izloženost suncu mala.
+
+**Q: Koje su najčešće greške pri kupovini suplemenata?**
+
+Najčešće greške su kupovina isključivo po ceni bez provere oblika sastojka, uzimanje megadoza vitamina rastvorljivih u mastima i uzimanje previše proizvoda odjednom bez jasne potrebe.
+
+---
+
 ## Tost sa dimljenim lososom, smokvama i grožđem
 
 https://unazdravahrana.com/recepti/tost-sa-dimljenim-lososom-smokvama-i-grozdjem
@@ -700,28 +724,4 @@ Prija joj jednostavna zelena salata sa limunom i maslinovim uljem, ili kašika g
 
 ---
 
-## 5 grupa koje ne bi trebalo da preskaču doručak
-
-https://unazdravahrana.com/blog/5-grupa-koje-ne-bi-trebalo-da-preskacu-dorucak
-
-Redovan doručak može biti posebno koristan deci i tinejdžerima, osobama na terapiji za šećer u krvi, trudnicama i dojiljama, kao i jutarnjim rekreativcima. Najpraktičniji izbor kombinuje složene ugljene hidrate, vlakna, zdrave masti i izvor proteina, uz savet lekara kada postoji zdravstveno stanje ili terapija.
-
-**Q: Ko ne bi trebalo često da preskače doručak?**
-
-Doručak je naročito važan za decu i tinejdžere, osobe koje koriste terapiju za šećer u krvi, trudnice i dojilje, kao i ljude koji treniraju rano ujutru.
-
-**Q: Šta čini uravnotežen doručak?**
-
-Uravnotežen doručak može da sadrži složene ugljene hidrate, izvor vlakana i zdravih masti, voće i po potrebi protein, na primer ovsene pahuljice, jabuku, orahe i jogurt.
-
-**Q: Da li osobe sa dijabetesom smeju da preskaču doručak?**
-
-Osobe sa dijabetesom, insulinskom rezistencijom ili terapijom koja utiče na šećer u krvi ne bi trebalo da menjaju ritam obroka bez saveta lekara ili dijetetičara.
-
-**Q: Šta jesti za doručak kada postoji jutarnja mučnina u trudnoći?**
-
-Ako jutarnja mučnina otežava veći obrok, nekima više odgovara nekoliko laganih zalogaja pre ustajanja i manji doručak kasnije, uz konsultaciju sa lekarom kod izraženih tegoba.
-
----
-
-Last updated: 2026-08-28
+Last updated: 2026-08-29
