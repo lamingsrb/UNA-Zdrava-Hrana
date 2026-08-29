@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Topla kremasta salata: patlidžan, smokve i tahini
+
+https://unazdravahrana.com/recepti/topla-kremasta-salata-patlidzan-smokve-i-tahini
+
+Topla salata sa pečenim patlidžanom, smokvama i tahini prelivom — sezonski recept kasnog leta, gotov za 35 minuta.
+
+**Q: Mogu li tahini zameniti nečim drugim?**
+
+Da, umesto tahinija poslužiće i puter od badema ili susama. Ukus će biti nešto blaži, ali kremasta tekstura preliva ostaje ista.
+
+**Q: Da li se patlidžan mora soliti pre pečenja?**
+
+Ne mora, ali soljenje pomaže da pusti višak vode i da posle pečenja bude mekši iznutra, a bez gorčine. Kod mladih letnjih patlidžana ovaj korak možete i preskočiti.
+
+**Q: Je li ovo dovoljno kao glavni obrok?**
+
+Za laganu večeru — da, posebno uz parče integralnog hleba. Za izdašniji obrok dodajte kuvani slanutak ili proso da povećate udeo proteina i vlakana.
+
+**Q: Kako da odaberem zrele smokve?**
+
+Zrela smokva je mekana na dodir, blago pušta miris i koža joj je napeta, ponekad malo naprsla pri peteljci. Ako je čvrsta, ostavite je dan-dva na sobnoj temperaturi.
+
+---
+
 ## Prirodni suplementi: kako izabrati kvalitetan proizvod
 
 https://unazdravahrana.com/blog/prirodni-suplementi-kako-izabrati-kvalitetan-proizvod
@@ -697,30 +721,6 @@ Počnite povrćem blagog ukusa (šargarepa, tikvica, batat), zatim voćem (jabuk
 **Q: Koje namirnice se ne daju bebama do godinu dana?**
 
 Do 12. meseca izbegavajte so, šećer i med. Med posebno može izazvati botulizam kod beba mlađih od godinu dana. Takođe budite oprezni sa alergenima poput jaja, ribe i mlečnih proizvoda i uvodite ih postepeno uz savet pedijatra.
-
----
-
-## Musaka od patlidžana sa smokvama i heljdom
-
-https://unazdravahrana.com/recepti/musaka-od-patlidzana-sa-smokvama-i-heljdom
-
-Musaka od patlidžana sa smokvama i heljdom — lagan i zasitan letnji ručak bez glutena, gotov za 55 minuta.
-
-**Q: Mogu li da pripremim musaku unapred?**
-
-Možete je sastaviti do koraka pečenja i držati u frižideru do 6 sati. Pre serviranja samo je pecite po receptu — sveže smokve dodajte tek pred pečenje da ne omekšaju previše.
-
-**Q: Da li je jelo bez glutena?**
-
-Da, heljda ne sadrži gluten. Ako imate potvrđenu intoleranciju, proverite da su heljda i susam iz pakovanja sa oznakom bez glutena — u radnji vam rado pokažemo takve varijante.
-
-**Q: Koje smokve su najbolje za pečenje?**
-
-Zrele, ali još uvek čvrste smokve — meke se raspadnu u rerni. Ako su vam smokve još tvrđe, iseckajte ih na tanje kriške da omekšaju u toploti.
-
-**Q: Šta uz ovu musaku kao prilog?**
-
-Prija joj jednostavna zelena salata sa limunom i maslinovim uljem, ili kašika gustog jogurta sa strane za one koji vole kremaste kombinacije.
 
 ---
 
