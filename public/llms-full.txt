@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zapečeni patlidžan sa smokvama, grožđem i heljdom
+
+https://unazdravahrana.com/recepti/zapeceni-patlidzan-sa-smokvama-grozdjem-i-heljdom
+
+Zapečeni patlidžan sa smokvama, grožđem i heljdom — lagano sezonsko jelo bez glutena, gotovo za 50 minuta. Recept UNA Zdrave Hrane.
+
+**Q: Mogu li da koristim beli patlidžan?**
+
+Naravno, beli patlidžan je nešto blažeg ukusa i ne mora se soliti pre pečenja. Vreme pečenja ostaje isto.
+
+**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Jeste, heljda je prirodno bez glutena. Proverite deklaraciju na pakovanju da bi bilo sertifikovano bez glutena ako ste osetljivi.
+
+**Q: Mogu li da spremim recept unapred?**
+
+Možete skuvati heljdu i iseći patlidžan ranije, ali preporučujemo da smokve i grožđe pečete neposredno pre serviranja da zadrže sočnost.
+
+**Q: Čime da zamenim med?**
+
+Javorov sirup ili sirup od agave odlično funkcionišu ako pravite veganu verziju jela.
+
+---
+
 ## Bezglutenska hrana: Lidl ili specijalizovana radnja?
 
 https://unazdravahrana.com/blog/bezglutenska-hrana-lidl-ili-specijalizovana-radnja
@@ -697,30 +721,6 @@ Jaja u avokadu se peku 12–15 minuta na 200°C, dok se belance ne stegne a žum
 **Q: Da li mogu da jedem hleb u keto ishrani?**
 
 Klasičan hleb od pšeničnog brašna nije keto jer sadrži previše ugljenih hidrata. Alternativa je keto hleb od lanenih, susamovih, bundevinih i suncokretovih semenki, koji ima svega 2–4 g neto ugljenih hidrata po porciji i puno vlakana.
-
----
-
-## Avokado krem sa smokvama i grožđem na tostu
-
-https://unazdravahrana.com/recepti/avokado-krem-sa-smokvama-i-grozdjem-na-tostu
-
-Kremasti avokado, sveže smokve i grožđe na integralnom tostu — brz i zdrav doručak za 15 minuta. Sezonski recept iz UNA radnje.
-
-**Q: Da li je ovaj recept pogodan za mršavljenje?**
-
-Avokado sadrži zdrave masti koje daju osećaj sitosti, a integralni hleb i semenke doprinose stabilnijoj energiji. U okviru uravnotežene ishrane, ovaj obrok može biti dobar izbor. Za individualne savete konsultujte nutricionistu.
-
-**Q: Mogu li da koristim beli hleb umesto integralnog?**
-
-Može, ali integralni hleb od spelte donosi više vlakana i sporije oslobađa energiju. Ako birate zdraviju verziju, ostanite pri integralnom.
-
-**Q: Kako da izaberem zreo avokado?**
-
-Zreo avokado je blago mekan na dodir kada ga lagano pritisnete, ali ne i sunđerast. Ako je previše tvrd, ostavite ga 1-2 dana na sobnoj temperaturi da dozri.
-
-**Q: Da li deca vole ovaj doručak?**
-
-Kombinacija slatkih smokava, grožđa i kremastog avokada obično se dopada i mališanima. Možete izostaviti biber i bosiljak, a med zameniti kašičicom domaćeg pekmeza.
 
 ---
 
