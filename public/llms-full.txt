@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Bezglutenska hrana: Lidl ili specijalizovana radnja?
+
+https://unazdravahrana.com/blog/bezglutenska-hrana-lidl-ili-specijalizovana-radnja
+
+Tekst upoređuje bezglutensku ponudu velikih marketa poput Lidla (linija Free From) sa specijalizovanim prodavnicama zdrave hrane po asortimanu, ceni i kvalitetu saveta. Preporučuje kombinaciju: osnovne namirnice iz marketa, specijalizovane proizvode i stručan savet iz radnje zdrave hrane, uz obavezno pažljivo čitanje deklaracije.
+
+**Q: Da li Lidl ima bezglutensku hranu?**
+
+Da, Lidl ima liniju Free From koja obuhvata bezglutenski hleb, testeninu, kekse, pahuljice i brašno-mešavine, uz brendove poput Schär-a. Većina proizvoda nosi sertifikat prekrštenog klasa.
+
+**Q: Šta znači oznaka prekrštenog klasa?**
+
+Prekršteni klas (Crossed Grain) je međunarodni sertifikat koji garantuje da proizvod sadrži manje od 20 mg/kg glutena, što je zvanična EU granica za oznaku bez glutena.
+
+**Q: Da li osoba sa celijakijom sme jesti proizvod sa oznakom može sadržati tragove pšenice?**
+
+Ne preporučuje se. Ta oznaka upozorava na moguću unakrsnu kontaminaciju u fabrici i za osobe sa celijakijom obično znači da proizvod treba izbegavati, bez obzira na ostatak deklaracije.
+
+**Q: Gde je jeftinije kupovati bezglutensku hranu, u marketu ili specijalizovanoj radnji?**
+
+Osnovne namirnice (hleb, testenina) su jeftinije u velikim marketima poput Lidla, dok su specijalizovana brašna i testenine često konkurentnije u prodavnicama zdrave hrane. Kombinacija se najviše isplati.
+
+---
+
 ## Topla kremasta salata: patlidžan, smokve i tahini
 
 https://unazdravahrana.com/recepti/topla-kremasta-salata-patlidzan-smokve-i-tahini
@@ -700,28 +724,4 @@ Kombinacija slatkih smokava, grožđa i kremastog avokada obično se dopada i ma
 
 ---
 
-## Organska hrana za bebe: siguran početak od 6. meseca
-
-https://unazdravahrana.com/blog/organska-hrana-za-bebe-siguran-pocetak-od-6-meseca
-
-Praktičan vodič za roditelje o uvođenju organske čvrste hrane bebama od 6. meseca, sa znacima spremnosti, redosledom namirnica i tabelom po uzrastu. Uključuje jednostavne recepte za domaće kašice i savete šta prioritizovati kao organsko.
-
-**Q: Kada beba može da počne da jede čvrstu hranu?**
-
-Svetska zdravstvena organizacija preporučuje uvođenje čvrste hrane oko 6. meseca, uz nastavak dojenja. Beba treba da sedi uspravno uz minimalnu podršku, drži glavu, pokazuje interes za hranu i da je izgubila refleks izbacivanja jezika.
-
-**Q: Zašto birati organsku hranu za bebe?**
-
-Bebe proporcionalno unose više hrane po kilogramu telesne težine nego odrasli, pa svaki gram ima veći uticaj. Organski proizvodi se gaje bez sintetičkih pesticida, veštačkih đubriva i GMO sirovina, što roditeljima daje dodatni sloj sigurnosti tokom najosetljivijeg perioda razvoja.
-
-**Q: Kojim redosledom uvoditi namirnice bebi?**
-
-Počnite povrćem blagog ukusa (šargarepa, tikvica, batat), zatim voćem (jabuka, kruška, banana), pa bezglutenskim žitaricama (pirinač, proso, heljda). Sledi gluten (ovas, spelta), mahunarke od 7-8. meseca, a jaja, riba i meso postepeno uz konsultaciju sa pedijatrom.
-
-**Q: Koje namirnice se ne daju bebama do godinu dana?**
-
-Do 12. meseca izbegavajte so, šećer i med. Med posebno može izazvati botulizam kod beba mlađih od godinu dana. Takođe budite oprezni sa alergenima poput jaja, ribe i mlečnih proizvoda i uvodite ih postepeno uz savet pedijatra.
-
----
-
-Last updated: 2026-08-29
+Last updated: 2026-08-31
