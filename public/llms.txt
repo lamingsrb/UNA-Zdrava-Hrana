@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Proteini u hrani: prirodni izvori i dnevne potrebe](https://unazdravahrana.com/blog/proteini-u-hrani-prirodni-izvori-i-dnevne-potrebe)
 - [Zapečeni patlidžan sa smokvama, grožđem i heljdom](https://unazdravahrana.com/recepti/zapeceni-patlidzan-sa-smokvama-grozdjem-i-heljdom)
 - [Bezglutenska hrana: Lidl ili specijalizovana radnja?](https://unazdravahrana.com/blog/bezglutenska-hrana-lidl-ili-specijalizovana-radnja)
 - [Topla kremasta salata: patlidžan, smokve i tahini](https://unazdravahrana.com/recepti/topla-kremasta-salata-patlidzan-smokve-i-tahini)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Slani mafini s patlidžanom, smokvama i čia semenkama](https://unazdravahrana.com/recepti/slani-mafini-s-patlidzanom-smokvama-i-cia-semenkama)
 - [Trening ujutru ili uveče: 5 pravila za izbor](https://unazdravahrana.com/blog/trening-ujutru-ili-uvece-5-pravila-za-izbor)
 - [3 superhrane za energičniji dan: spirulina, čia i maka](https://unazdravahrana.com/blog/3-superhrane-za-energicniji-dan-spirulina-cia-i-maka)
-- [Ćuftice od patlidžana i ovsa sa grožđem](https://unazdravahrana.com/recepti/cuftice-od-patlidzana-i-ovsa-sa-grozdjem)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-08-31
+Last updated: 2026-09-01

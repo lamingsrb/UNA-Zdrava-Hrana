@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Proteini u hrani: prirodni izvori i dnevne potrebe
+
+https://unazdravahrana.com/blog/proteini-u-hrani-prirodni-izvori-i-dnevne-potrebe
+
+Vodič kroz prirodne izvore proteina životinjskog i biljnog porekla, sa preciznim tabelama sadržaja po namirnici i porciji. Objašnjava dnevne potrebe (0,83–2,0 g/kg zavisno od aktivnosti) i pravilan raspored unosa kroz obroke.
+
+**Q: Koliko proteina dnevno treba odrasla osoba?**
+
+Minimum je 0,83 g po kilogramu telesne mase, ali se većini preporučuje 1,0–1,2 g/kg. Aktivni rekreativci trebaju 1,2–1,6 g/kg, a osobe koje treniraju snagu 1,6–2,0 g/kg dnevno.
+
+**Q: Koje namirnice imaju najviše proteina?**
+
+Pileće belo meso ima 30 g na 100 g, tunjevina 26 g, skuša 24 g, tempeh 19 g, grčki jogurt 15 g na 150 g, a od biljnih izvora sočivo i pasulj imaju oko 9 g na 100 g kuvanih.
+
+**Q: Da li su biljni proteini kompletni?**
+
+Pojedinačno nisu, ali kombinovanjem mahunarki (pasulj, sočivo, leblebije) sa integralnim žitaricama (pirinač, kvinoja, ovas) dobija se kompletan protein sa svih devet esencijalnih aminokiselina. Ne mora u istom obroku, dovoljno je tokom dana.
+
+**Q: Kada proteinski suplementi imaju smisla?**
+
+Suplementi popunjavaju rupu u ishrani kada nema vremena za pravi obrok posle treninga ili kod starijih osoba sa slabim apetitom. Ne mogu zameniti loše obroke i nisu neophodni ako se jede raznovrsno.
+
+---
+
 ## Zapečeni patlidžan sa smokvama, grožđem i heljdom
 
 https://unazdravahrana.com/recepti/zapeceni-patlidzan-sa-smokvama-grozdjem-i-heljdom
@@ -700,28 +724,4 @@ Noćno trnjenje palca, kažiprsta i srednjeg prsta tipično je za sindrom karpal
 
 ---
 
-## Keto recepti s avokadom: 5 brzih ideja za ceo dan
-
-https://unazdravahrana.com/blog/keto-recepti-s-avokadom-5-brzih-ideja-za-ceo-dan
-
-Vodič kroz pet jednostavnih keto recepata sa avokadom, od jaja pečenih u avokadu i kremaste tuna salate, do keto toasta na hlebu od semenki i zelenog smutija sa kokosom. Uz svaki recept dati su makro pregled, saveti za izbor zrelog avokada i objašnjenje zašto je avokado ključna namirnica u keto ishrani.
-
-**Q: Da li je avokado dozvoljen u keto ishrani?**
-
-Da, avokado je jedna od najpreporučenijih namirnica u keto ishrani. Bogat je jednostruko nezasićenim mastima, a jedan srednji avokado ima svega 2–3 g neto ugljenih hidrata uz oko 15 g masti i puno vlakana i kalijuma.
-
-**Q: Kako da prepoznam zreo avokado u radnji?**
-
-Nežno pritisnite avokado prstom kod drške — ako lagano popušta, zreo je za danas. Boja kore nije pouzdan pokazatelj jer mnoge sorte ostaju zelene i kad su zrele. Čvrst avokado ostavite 2–3 dana na sobnoj temperaturi pored banane ili jabuke.
-
-**Q: Koliko dugo se peku jaja u avokadu?**
-
-Jaja u avokadu se peku 12–15 minuta na 200°C, dok se belance ne stegne a žumance ostane meko. Jedna porcija (avokado + dva jaja) ima oko 380 kcal, 32 g masti, 14 g proteina i samo 3 g neto ugljenih hidrata.
-
-**Q: Da li mogu da jedem hleb u keto ishrani?**
-
-Klasičan hleb od pšeničnog brašna nije keto jer sadrži previše ugljenih hidrata. Alternativa je keto hleb od lanenih, susamovih, bundevinih i suncokretovih semenki, koji ima svega 2–4 g neto ugljenih hidrata po porciji i puno vlakana.
-
----
-
-Last updated: 2026-08-31
+Last updated: 2026-09-01
