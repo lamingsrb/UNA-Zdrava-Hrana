@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Testenina ili krompir salata: šta je bolje za šećer?
+
+https://unazdravahrana.com/blog/testenina-ili-krompir-salata-sta-je-bolje-za-secer
+
+Obe salate mogu biti dobre za šećer u krvi ako se pravilno pripreme — integralna testenina 'al dente' i ohlađen kuvani krompir sadrže rezistentni skrob koji sporije diže glukozu. Ključ je u dodacima: sirće, maslinovo ulje, mahunarke i povrće stabilizuju šećer, dok majonez, kobasice i beli hleb kvare balans.
+
+**Q: Šta je bolje za šećer u krvi — krompir ili testenina salata?**
+
+Salata od integralne testenine kuvane 'al dente' obično ima blagu prednost, ali krompir salata od ohlađenog kuvanog krompira sa sirćetom može biti podjednako dobra. Ključ je u pripremi i dodacima, ne u samoj namirnici.
+
+**Q: Zašto je ohlađeni krompir bolji za dijabetičare?**
+
+Kada se kuvani krompir ohladi preko noći, deo skroba se pretvara u rezistentni skrob koji telo ne vari kao običan, pa se ponaša sličnije vlaknima. Rezultat je sporiji rast šećera u krvi i hrana za dobre bakterije u crevima.
+
+**Q: Kako sirće utiče na šećer u krvi posle obroka?**
+
+Jedna kašika jabukovog ili vinskog sirćeta u prelivu značajno ublažava skok šećera u krvi posle obroka sa skrobom. To je jedan od najbolje potvrđenih i praktično besplatnih trikova u ishrani kod dijabetesa.
+
+**Q: Da li je integralna testenina bolja od bele za dijabetes?**
+
+Da, integralna testenina sadrži vlakna koja usporavaju varenje i ublažavaju skok glukoze. Ako teško prelazite sa bele na integralnu, počnite od mešavine 50:50 da se ukućani lakše naviknu.
+
+---
+
 ## Kremasta supa od bundeve sa orasima i šljivama
 
 https://unazdravahrana.com/recepti/kremasta-supa-od-bundeve-sa-orasima-i-sljivama
@@ -697,30 +721,6 @@ Razdvojte stabilne sastojke (pirinač, škampi, pečena paprika, maslinke, kukur
 **Q: Čime mogu da zamenim škampe u ovoj salati?**
 
 Isti recept odlično radi sa pečenom piletinom isečenom na kockice, leblebijama iz konzerve ili feta sirom. Sve tri opcije obezbeđuju dovoljno proteina i uklapaju se sa ukusom crnog pirinča i limun-maslinovog preliva.
-
----
-
-## Grilovani patlidžan sa smokvama i tahini prelivom
-
-https://unazdravahrana.com/recepti/grilovani-patlidzan-sa-smokvama-i-tahini-prelivom
-
-Grilovani patlidžan sa smokvama, grožđem i kremastim tahini prelivom — lagan sezonski obrok gotov za 35 minuta. Bez glutena, jednostavno i ukusno.
-
-**Q: Da li mogu da pripremim jelo unapred?**
-
-Preliv i grožđe možete pripremiti dan ranije, ali patlidžan i smokve najbolje je grilovati neposredno pre serviranja da zadrže teksturu.
-
-**Q: Čime da zamenim tahini ako ga nemam?**
-
-Može domaći puter od badema ili kikirikija razblažen sa malo vode i limunom — dobićete sličnu kremastu strukturu.
-
-**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
-
-Da, svi sastojci su prirodno bez glutena. Ako služite uz hleb, birajte hleb sa oznakom „bez glutena“.
-
-**Q: Kako da izaberem zrele smokve?**
-
-Zrele smokve su mekane na dodir, blago popuštaju pod prstima i imaju intenzivan sladak miris. Izbegavajte one sa smežuranom korom ili tamnim tačkama.
 
 ---
 
