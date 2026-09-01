@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kremasta supa od bundeve sa orasima i šljivama
+
+https://unazdravahrana.com/recepti/kremasta-supa-od-bundeve-sa-orasima-i-sljivama
+
+Kremasta supa od pečene bundeve sa orasima i šljivama — jesenji recept bez glutena i mleka, gotov za 50 minuta. Topla, hranljiva i jednostavna.
+
+**Q: Mogu li koristiti smrznutu bundevu?**
+
+Da, samo je prethodno odmrznite i dobro ocedite pre pečenja. Ukus će biti nešto blaži, pa slobodno dodajte malo više đumbira i cimeta.
+
+**Q: Da li je supa pogodna za decu?**
+
+Jeste, ali za mlađu decu preskočite biber i smanjite đumbir. Blago slatkast ukus bundeve i šljiva obično im veoma prija.
+
+**Q: Kako da supa bude gušća?**
+
+Dodajte još pola krompira ili kašiku heljdinih pahuljica pri kuvanju — oboje prirodno zgušnjava bez brašna.
+
+**Q: Šta poslužiti uz ovu supu?**
+
+Krišku integralnog ili speltinog hleba, tost sa avokadom ili laganu zelenu salatu — supa je dovoljno hranljiva da bude glavno jelo.
+
+---
+
 ## Proteini u hrani: prirodni izvori i dnevne potrebe
 
 https://unazdravahrana.com/blog/proteini-u-hrani-prirodni-izvori-i-dnevne-potrebe
@@ -697,30 +721,6 @@ Da, svi sastojci su prirodno bez glutena. Ako služite uz hleb, birajte hleb sa 
 **Q: Kako da izaberem zrele smokve?**
 
 Zrele smokve su mekane na dodir, blago popuštaju pod prstima i imaju intenzivan sladak miris. Izbegavajte one sa smežuranom korom ili tamnim tačkama.
-
----
-
-## Trnjenje ruku: vitamini, vežbe i biljni gelovi
-
-https://unazdravahrana.com/blog/trnjenje-ruku-vitamini-vezbe-i-biljni-gelovi
-
-Trnjenje ruku najčešće nastaje zbog pritiska na nerv ili manjka B vitamina i magnezijuma. Kombinacija ciljanih vežbi, pravilne ishrane i biljnih preparata može značajno olakšati tegobe u blagim slučajevima.
-
-**Q: Koji vitamin nedostaje kada trnu ruke?**
-
-Najčešće nedostaje vitamin B12, zatim B6, B1 i magnezijum. Manjak B12 se razvija sporo mesecima i tipičan je kod vegana, vegetarijanaca i osoba starijih od 60 godina.
-
-**Q: Kako prirodno olakšati trnjenje ruku?**
-
-Pomažu redovne vežbe istezanja ručnog zgloba i vrata, promena položaja tokom rada, unos B kompleksa i magnezijuma kroz ishranu, omega-3 masne kiseline i lokalna primena biljnih gelova.
-
-**Q: Kada trnjenje ruku zahteva lekara?**
-
-Ako trnjenje traje danima, prati ga slabost mišića, gubitak snage u šaci, širi se ili se javlja posle povrede, obavezno se javite lekaru radi pregleda.
-
-**Q: Zašto ruke trnu noću?**
-
-Noćno trnjenje palca, kažiprsta i srednjeg prsta tipično je za sindrom karpalnog tunela, dok trnjenje malog i domalog prsta ukazuje na pritisak na ulnarni nerv u laktu.
 
 ---
 
