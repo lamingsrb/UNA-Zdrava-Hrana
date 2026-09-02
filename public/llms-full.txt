@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dimljeni losos: recepti za testeninu, salatu i omlet
+
+https://unazdravahrana.com/blog/dimljeni-losos-recepti-za-testeninu-salatu-i-omlet
+
+Vodič kroz izbor i pripremu dimljenog lososa sa savetima kako prepoznati kvalitetan proizvod i sa kojim namirnicama se najbolje slaže. Uključuje četiri brza recepta: kremastu testeninu za 15 minuta, salatu sa avokadom, omlet i namaz sa krem sirom.
+
+**Q: Kako prepoznati kvalitetan dimljeni losos?**
+
+Kvalitetan dimljeni losos ima ujednačenu narandžasto-ružičastu boju bez sivih fleka, kompaktnu i lagano vlažnu teksturu i miris na dim i more, nikad na amonijak. Na deklaraciji treba da piše samo losos, so i dim, bez boja i pojačivača ukusa, a sadržaj soli idealno 2–3 g na 100 g.
+
+**Q: Koja je razlika između hladno i toplo dimljenog lososa?**
+
+Hladno dimljeni losos je tanko sečen, svilenkaste teksture i idealan za sendviče, testeninu i omlet. Toplo dimljeni losos je čvršći, listasto se lomi i ima izraženiji ukus dima, pa je bolji za salate gde želite da se komadići vide.
+
+**Q: Koliko dugo se čuva dimljeni losos nakon otvaranja?**
+
+Nakon otvaranja pakovanja dimljeni losos treba iskoristiti u roku od dva dana i držati ga na najhladnijem delu frižidera, obično na najnižoj polici uz zadnji zid.
+
+**Q: Sa čim se dimljeni losos najbolje slaže?**
+
+Dimljeni losos se najbolje slaže sa limunom, mirođijom, vlašcem, kaparima, crvenim lukom, krem sirom, avokadom, jajima, krastavcem, rukolom i cveklom. Izbegavajte jake kari začine, mnogo belog luka, teške sosove od paradajza i sireve jakog ukusa poput rokfora.
+
+---
+
 ## Testenina ili krompir salata: šta je bolje za šećer?
 
 https://unazdravahrana.com/blog/testenina-ili-krompir-salata-sta-je-bolje-za-secer
@@ -700,28 +724,4 @@ Ključ je u ceđenju tikvica — rukama snažno istisnite svu vodu nakon soljenj
 
 ---
 
-## Salata koja izdrži vrućinu: crni pirinač i škampi
-
-https://unazdravahrana.com/blog/salata-koja-izdrzi-vrucinu-crni-pirinac-i-skampi
-
-Salata sa crnim Venere pirinčem i škampima je kompletan letnji obrok koji izdrži 2-3 dana u frižideru bez gubitka teksture. Ključ je u odvajanju stabilnih sastojaka od osetljivog povrća i čuvanju preliva odvojeno do serviranja.
-
-**Q: Koji pirinač je najbolji za hladnu salatu?**
-
-Crni Venere pirinač je najbolji izbor jer ostaje odvojen i drži teksturu do tri dana u frižideru. Alternativa su crveni Camargue ili integralni basmati. Izbegavajte beli, arborio i pirinač za rižoto jer se pretvaraju u kašu.
-
-**Q: Kako se pravilno prže škampi za salatu?**
-
-Odmrznute škampe dobro osušite, pržite na jakoj vatri 1,5 do 2 minuta sa svake strane u maslinovom ulju sa belim lukom. Gotovi su kada porumene i saviju se u slovo C — slovo O znači da su prekuvani i biće gumeni.
-
-**Q: Kako da salata ne postane kaša u frižideru?**
-
-Razdvojte stabilne sastojke (pirinač, škampi, pečena paprika, maslinke, kukuruz) od osetljivih (krastavac, paradajz, avokado, sveže začinsko bilje). Osetljivo povrće dodajte 30 minuta pre serviranja, a preliv sipajte tek na kraju.
-
-**Q: Čime mogu da zamenim škampe u ovoj salati?**
-
-Isti recept odlično radi sa pečenom piletinom isečenom na kockice, leblebijama iz konzerve ili feta sirom. Sve tri opcije obezbeđuju dovoljno proteina i uklapaju se sa ukusom crnog pirinča i limun-maslinovog preliva.
-
----
-
-Last updated: 2026-09-01
+Last updated: 2026-09-02

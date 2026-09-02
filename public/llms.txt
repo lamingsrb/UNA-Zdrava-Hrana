@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Dimljeni losos: recepti za testeninu, salatu i omlet](https://unazdravahrana.com/blog/dimljeni-losos-recepti-za-testeninu-salatu-i-omlet)
 - [Testenina ili krompir salata: šta je bolje za šećer?](https://unazdravahrana.com/blog/testenina-ili-krompir-salata-sta-je-bolje-za-secer)
 - [Kremasta supa od bundeve sa orasima i šljivama](https://unazdravahrana.com/recepti/kremasta-supa-od-bundeve-sa-orasima-i-sljivama)
 - [Proteini u hrani: prirodni izvori i dnevne potrebe](https://unazdravahrana.com/blog/proteini-u-hrani-prirodni-izvori-i-dnevne-potrebe)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Fermentisani kupus sa smokvama i grožđem](https://unazdravahrana.com/recepti/fermentisani-kupus-sa-smokvama-i-grozdjem)
 - [Đumbir za gorušicu: koliko piti i kada pomaže](https://unazdravahrana.com/blog/djumbir-za-gorusicu-koliko-piti-i-kada-pomaze)
 - [Bez glutena: 7 koraka za sigurnu kupovinu](https://unazdravahrana.com/blog/bez-glutena-7-koraka-za-sigurnu-kupovinu)
-- [Slani mafini s patlidžanom, smokvama i čia semenkama](https://unazdravahrana.com/recepti/slani-mafini-s-patlidzanom-smokvama-i-cia-semenkama)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-01
+Last updated: 2026-09-02
