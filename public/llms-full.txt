@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Proteinska činija sa bundevom, orasima i šljivama
+
+https://unazdravahrana.com/recepti/proteinska-cinija-sa-bundevom-orasima-i-sljivama
+
+Topla proteinska činija sa pečenom bundevom, kvinojom, šljivama i orasima — sezonski jesenji recept gotov za 45 minuta.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Može, ali je prvo odmrznite i dobro ocedite od viška tečnosti, pa produžite pečenje za 5–7 minuta da lepo porumeni.
+
+**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Jeste — kvinoja, bundeva, šljive, orasi i jogurt su prirodno bez glutena. Ako ste osetljivi, proverite deklaraciju kvinoje da bude sa oznakom bez glutena.
+
+**Q: Koliko proteina ima jedna porcija?**
+
+Uz grčki jogurt i orahe, porcija nosi oko 15–18 g proteina, što je solidan doprinos dnevnom unosu, posebno za osobe posle 50. godine.
+
+**Q: Mogu li da pripremim jelo bez rerne?**
+
+Bundevu možete i dinstati u dubljem tiganju 15–20 minuta uz malo vode i maslinovog ulja, poklopljeno, dok ne omekša.
+
+---
+
 ## Dimljeni losos: recepti za testeninu, salatu i omlet
 
 https://unazdravahrana.com/blog/dimljeni-losos-recepti-za-testeninu-salatu-i-omlet
@@ -697,30 +721,6 @@ Kokosova voda ima smisla posle dužeg treninga, sauna ili tokom oporavka od viro
 **Q: Zašto imam grčeve iako pijem puno vode?**
 
 Najčešći razlog je nedostatak natrijuma. Kada pijete samo vodu bez unosa soli, posebno leti ili tokom treninga, razblažujete elektrolite u telu i mišić lakše grči. Rešenje je uneti so uz obrok, pojesti krišku hleba sa sirom pre treninga ili posegnuti za kokosovom vodom posle napora.
-
----
-
-## Ribane tikvice sa grožđem i heljdinim brašnom
-
-https://unazdravahrana.com/recepti/ribane-tikvice-sa-grozdjem-i-heljdinim-brasnom
-
-Lagani popečci od ribanih tikvica sa grožđem i heljdinim brašnom — sezonski recept bez glutena, gotov za 35 minuta.
-
-**Q: Mogu li da koristim integralno pšenično brašno umesto heljdinog?**
-
-Možete, ali će ukus biti drugačiji i popečci gušći. Heljdino brašno daje blago orašastu notu i čini recept prigodnim za osobe sa intolerancijom na gluten.
-
-**Q: Da li deca vole ovo jelo?**
-
-Slatkoća grožđa lepo balansira ukus tikvica, pa je recept odličan način da se povrće provuče kod mlađih koji ga inače izbegavaju. Poslužite uz jogurt.
-
-**Q: Mogu li testo pripremiti unapred?**
-
-Preporučujemo da testo pravite neposredno pre pečenja jer tikvice vremenom puštaju vodu. Ako morate ranije, dodajte brašno malo pred pečenje.
-
-**Q: Kako da popečci ne budu previše mekani?**
-
-Ključ je u ceđenju tikvica — rukama snažno istisnite svu vodu nakon soljenja. Što su suvlje, popečci će bolje držati oblik.
 
 ---
 
