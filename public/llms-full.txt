@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Suplementi tokom hemoterapije: šta razmotriti
+
+https://unazdravahrana.com/blog/suplementi-tokom-hemoterapije-sta-razmotriti
+
+Vodič za porodice pacijenata na hemoterapiji o tome kako pristupiti suplementima poput vitamina D, omega-3, probiotika i ingvera. Ključna poruka: pre svakog preparata obavezno konsultovati onkologa jer i bezopasni suplementi mogu ometati terapiju.
+
+**Q: Da li smem da uzimam vitamin D tokom hemoterapije?**
+
+Pre uzimanja vitamina D uradite analizu krvi (25-OH vitamin D) i konsultujte onkologa. Doza se određuje na osnovu nalaza, a preventivno uzimanje visokih doza može izazvati probleme sa kalcijumom tokom terapije.
+
+**Q: Da li je omega-3 bezbedan uz hemoterapiju?**
+
+Omega-3 masne kiseline mogu podržati organizam, ali u većim dozama blago razređuju krv. Zato pre operacija, biopsija i pojedinih infuzija lekar može tražiti da se pauziraju. Uvek obavestite onkologa da ih uzimate.
+
+**Q: Da li smem probiotike i kefir tokom hemoterapije?**
+
+Zavisi od stanja imuniteta. Kod pacijenata sa neutropenijom lekari često savetuju izbegavanje živih kultura zbog rizika od infekcije. Ne uvodite probiotike samostalno — pitajte onkologa za konkretno odobrenje.
+
+**Q: Pomaže li ingver protiv mučnine izazvane hemoterapijom?**
+
+Ingver u umerenim količinama, najčešće kao čaj ili svež koren sa limunom, mnogi onkolozi preporučuju kao pomoć kod mučnine. U velikim dozama može uticati na zgrušavanje krvi, pa je i tu bolje konsultovati lekara.
+
+---
+
 ## Proteinska činija sa bundevom, orasima i šljivama
 
 https://unazdravahrana.com/recepti/proteinska-cinija-sa-bundevom-orasima-i-sljivama
@@ -697,30 +721,6 @@ Oko 11 mg dnevno iz svih izvora, uveče uz obrok sa malo masti. Ne kombinovati s
 **Q: Kako se pravilno koristi tribulus terrestris?**
 
 Bira se ekstrakt sa 40–60% saponina, uzima u ciklusima od 8 nedelja sa 2–4 nedelje pauze. Efekat na libido i energiju vidi se posle 3–4 nedelje redovnog uzimanja.
-
----
-
-## Hrana bogata elektrolitima: kraj grčevima u mišićima
-
-https://unazdravahrana.com/blog/hrana-bogata-elektrolitima-kraj-grcevima-u-misicima
-
-Grčevi u mišićima najčešće su posledica manjka magnezijuma, kalijuma i natrijuma, a rešavaju se namirnicama poput banane, badema, krompira, spanaća i obroka sa dovoljno soli. Kokosova voda i suplementi magnezijuma pomažu u specifičnim situacijama, ali baza treba da bude raznovrsna ishrana i adekvatna hidratacija.
-
-**Q: Koja hrana najbrže pomaže kod grčeva u mišićima?**
-
-Najbrže deluju namirnice bogate kalijumom i magnezijumom: banana, kuvani krompir sa korom, batat, spanać, avokado, bademi, bundevine semenke i tamna čokolada. Uz njih je važno uneti i dovoljno tečnosti sa prstohvatom soli, jer bez natrijuma mišić ne zadržava vodu kako treba.
-
-**Q: Koji oblik magnezijuma je najbolji za grčeve u nogama?**
-
-Za grčeve u mišićima najčešće se preporučuju magnezijum citrat i magnezijum bisglicinat. Citrat se dobro apsorbuje i pogodan je za sportiste, dok je bisglicinat nežan za stomak i uzima se uveče jer podržava opuštanje i miran san. Uobičajena doza iz suplementa je 200–300 mg dnevno.
-
-**Q: Da li je kokosova voda bolja od obične vode?**
-
-Kokosova voda ima smisla posle dužeg treninga, sauna ili tokom oporavka od viroze jer sadrži kalijum i nešto natrijuma. Za svakodnevnu hidrataciju u kancelariji ili tokom kraćih šetnji dovoljna je obična voda sa prstohvatom soli i kriškom limuna.
-
-**Q: Zašto imam grčeve iako pijem puno vode?**
-
-Najčešći razlog je nedostatak natrijuma. Kada pijete samo vodu bez unosa soli, posebno leti ili tokom treninga, razblažujete elektrolite u telu i mišić lakše grči. Rešenje je uneti so uz obrok, pojesti krišku hleba sa sirom pre treninga ili posegnuti za kokosovom vodom posle napora.
 
 ---
 
