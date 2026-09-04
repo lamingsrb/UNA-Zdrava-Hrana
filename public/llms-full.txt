@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zašto je zdrava ishrana bitna: 7 razloga za bolji dan
+
+https://unazdravahrana.com/blog/zasto-je-zdrava-ishrana-bitna-7-razloga-za-bolji-dan
+
+Članak objašnjava kako zdrava ishrana utiče na energiju, imunitet, san, srce i digestiju kroz sedam praktičnih razloga. Nudi jednostavne zamene namirnica i primere obroka primenljive za porodice, rekreativce i sve uzraste.
+
+**Q: Šta znači zdrava ishrana?**
+
+Zdrava ishrana je raznovrsan i redovan način jela zasnovan na namirnicama bliskim prirodnom obliku — integralnim žitaricama, mahunarkama, povrću, voću, orašastim plodovima i kvalitetnim mastima, uz što manje prerađenih proizvoda, šećera i loših masti.
+
+**Q: Kako ishranom povećati energiju tokom dana?**
+
+Kombinujte složene ugljene hidrate sa vlaknima, belančevinama i dobrim mastima. Na primer, ovsena kaša sa orasima i voćem ili integralna testenina sa pasuljem sprečavaju nagle skokove i padove šećera u krvi i održavaju fokus.
+
+**Q: Koje namirnice jačaju imunitet?**
+
+Imunitet podržavaju vitamin C iz paprike, kupusa, kivija i agruma, cink iz semenki bundeve i mahunarki, vitamin D, probiotici iz kiselog kupusa, kefira i jogurta, kao i biljni čajevi poput bazge, đumbira i kamilice.
+
+**Q: Šta jesti uveče za bolji san?**
+
+Uveče birajte lagan obrok 2-3 sata pre spavanja, poput integralnog hleba sa avokadom i jajetom ili jogurta sa bobicama i orasima. Izbegavajte kofein posle ranog popodneva i pijte čaj od kamilice, matičnjaka ili lavande.
+
+---
+
 ## Kaša od bundeve sa orasima, šljivama i chia semenkama
 
 https://unazdravahrana.com/recepti/kasa-od-bundeve-sa-orasima-sljivama-i-chia-semenkama
@@ -697,30 +721,6 @@ Počnite od tri namirnice koje često koristite, na primer organskih žitarica, 
 **Q: Da li je organska hrana automatski bez glutena?**
 
 Ne. Organska oznaka i oznaka bez glutena nisu isto; ako izbegavate gluten, uvek proverite sastav i jasnu bezglutensku deklaraciju.
-
----
-
-## Bezglutenska hrana: vodič kroz proizvode i izbor
-
-https://unazdravahrana.com/blog/bezglutenska-hrana-vodic-kroz-proizvode-i-izbor
-
-Praktičan vodič za osobe sa celijakijom ili osetljivošću na gluten koji objašnjava koje su namirnice prirodno bez glutena i kako se brašna kombinuju. Donosi i savete za izbor testenine, hleba i keksa uz upozorenja na unakrsnu kontaminaciju.
-
-**Q: Šta je gluten i u kojim se žitaricama nalazi?**
-
-Gluten je grupa proteina koja se prirodno nalazi u pšenici, raži, ječmu, spelti, kamutu i tritikaleu. Kod osoba sa celijakijom njegov unos oštećuje sluzokožu tankog creva.
-
-**Q: Koje su žitarice prirodno bez glutena?**
-
-Prirodno bez glutena su pirinač, heljda, proso, kinoa, amarant i kukuruz, kao i semenke poput lana, susama, bundeve i čie. Ovas je bezbedan samo ako je posebno označen kao gluten-free.
-
-**Q: Kako kombinovati bezglutenska brašna za pečenje?**
-
-Proverena osnova je 40% pirinčanog, 30% sirkovog ili heljdinog i 30% tapioke ili kukuruznog škroba, uz kašičicu psilijuma na 100 g mešavine. Takva kombinacija zamenjuje obično brašno u većini recepata.
-
-**Q: Šta gledati na etiketi bezglutenskih proizvoda?**
-
-Tražite oznaku 'gluten-free' ili prekriženi klas, što potvrđuje testiranje na kontaminaciju. Kod hleba birajte proizvode sa kombinacijom više brašna, semenkama i psilijumom, a izbegavajte one gde je prvi sastojak samo skrob.
 
 ---
 
