@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Kaša od bundeve sa orasima, šljivama i chia semenkama](https://unazdravahrana.com/recepti/kasa-od-bundeve-sa-orasima-sljivama-i-chia-semenkama)
 - [Proteinske pločice sa bundevom, orasima i šljivama](https://unazdravahrana.com/recepti/proteinske-plocice-sa-bundevom-orasima-i-sljivama)
 - [Suplementi tokom hemoterapije: šta razmotriti](https://unazdravahrana.com/blog/suplementi-tokom-hemoterapije-sta-razmotriti)
 - [Proteinska činija sa bundevom, orasima i šljivama](https://unazdravahrana.com/recepti/proteinska-cinija-sa-bundevom-orasima-i-sljivama)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Punjeni patlidžan sa grožđem, prosom i orasima](https://unazdravahrana.com/recepti/punjeni-patlidzan-sa-grozdjem-prosom-i-orasima)
 - [Hrana koja izbacuje višak vode: 9 prirodnih diuretika](https://unazdravahrana.com/blog/hrana-koja-izbacuje-visak-vode-9-prirodnih-diuretika)
 - [Pita bez kore: patlidžan, smokve i spelta](https://unazdravahrana.com/recepti/pita-bez-kore-patlidzan-smokve-i-spelta)
-- [Fermentisana hrana: vodič i recepti koji rade](https://unazdravahrana.com/blog/fermentisana-hrana-vodic-i-recepti-koji-rade)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-03
+Last updated: 2026-09-04

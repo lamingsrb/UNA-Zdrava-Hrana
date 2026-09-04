@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kaša od bundeve sa orasima, šljivama i chia semenkama
+
+https://unazdravahrana.com/recepti/kasa-od-bundeve-sa-orasima-sljivama-i-chia-semenkama
+
+Kremasta kaša od pečene bundeve sa šljivama, orasima i chia semenkama — topao jesenji doručak gotov za 40 minuta.
+
+**Q: Mogu li kašu pripremiti veče pre?**
+
+Da, možete skuvati kašu i pire od bundeve uveče, čuvati u frižideru i ujutru podgrejati uz malo mleka. Šljive i orahe dodajte tek pred serviranje da ostanu sveži i hrskavi.
+
+**Q: Da li je recept pogodan za decu?**
+
+Jeste — prirodno je sladak zahvaljujući bundevi i šljivama, pa možete izostaviti med za najmlađe. Orahe sitno iseckajte za decu do 4 godine.
+
+**Q: Koliko proteina ima jedna porcija?**
+
+Približno 10-12 g biljnih proteina po porciji, zahvaljujući ovsu, orasima i chia semenkama. Za veću dozu dodajte kašiku proteina u prahu ili grčki jogurt.
+
+**Q: Mogu li koristiti sušene šljive?**
+
+Naravno — potopite 100 g sušenih šljiva u toploj vodi 15 minuta, pa iseckajte i dodajte kaši. Slađe su od svežih, pa smanjite med.
+
+---
+
 ## Proteinske pločice sa bundevom, orasima i šljivama
 
 https://unazdravahrana.com/recepti/proteinske-plocice-sa-bundevom-orasima-i-sljivama
@@ -700,28 +724,4 @@ Tražite oznaku 'gluten-free' ili prekriženi klas, što potvrđuje testiranje n
 
 ---
 
-## Lagana tepsija: patlidžan, grožđe i proso sa orasima
-
-https://unazdravahrana.com/recepti/lagana-tepsija-patlidzan-grozdje-i-proso-sa-orasima
-
-Lagana tepsija sa patlidžanom, pečenim grožđem i prosom uz orahe i bosiljak — sezonski, bezglutenski recept gotov za oko 50 minuta.
-
-**Q: Mogu li da koristim belo grožđe umesto crnog?**
-
-Može, ali crno grožđe daje dublji, slađi ukus posle pečenja. Belo je nešto svežije i kiselije — probajte oba i vidite šta vam više prija.
-
-**Q: Da li je proso teško za varenje?**
-
-Naprotiv, proso je lako svarljivo i ne sadrži gluten. Važno je dobro ga isprati pre kuvanja da izgubi gorčinu iz spoljnog omotača.
-
-**Q: Može li se ovo jelo pripremiti unapred?**
-
-Da, komponente možete pripremiti dan ranije i držati odvojeno u frižideru, pa sastaviti pred serviranje. Ukusi se čak i lepo prožmu.
-
-**Q: Čime da zamenim orahe ako imam alergiju?**
-
-Odlična zamena su semenke bundeve ili suncokreta — takođe ih kratko propržite radi hrskavosti i punog ukusa.
-
----
-
-Last updated: 2026-09-03
+Last updated: 2026-09-04
