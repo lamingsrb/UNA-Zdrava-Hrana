@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Proteinska frtalja sa bundevom, orasima i šljivama
+
+https://unazdravahrana.com/recepti/proteinska-frtalja-sa-bundevom-orasima-i-sljivama
+
+Topla frtalja sa bundevom, šljivama i orasima — jesenji recept bogat proteinima, spreman za 40 minuta. Idealno za doručak ili laganu večeru.
+
+**Q: Mogu li da pripremim frtalju unapred za sutrašnji doručak?**
+
+Da, možete je ispeći uveče i čuvati u frižideru. Ujutru je kratko podgrejte u tavi na tihoj vatri 3-4 minuta, ili je jedite mlaku uz jogurt.
+
+**Q: Koju bundevu je najbolje koristiti?**
+
+Preporučujemo Hokaido ili muskatnu bundevu jer imaju gušće meso i prirodno sladak ukus. Obična stočna bundeva pušta previše vode i frtalja bi ispala mekana.
+
+**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
+
+Spelta sadrži gluten. Za bezglutensku verziju zamenite speltino brašno heljdinim ili mešavinom heljde i pirinčanog brašna u istoj količini.
+
+**Q: Koliko proteina ima jedna porcija?**
+
+Približno 14-16 g proteina po porciji, zahvaljujući kombinaciji jaja, oraha i lanenog semena — solidan obrok za one koji vode računa o dnevnom unosu proteina.
+
+---
+
 ## Zašto je zdrava ishrana bitna: 7 razloga za bolji dan
 
 https://unazdravahrana.com/blog/zasto-je-zdrava-ishrana-bitna-7-razloga-za-bolji-dan
@@ -700,28 +724,4 @@ Odlično ide uz salatu od paradajza, krastavca i peršuna, uz jogurt po želji i
 
 ---
 
-## 5 koraka do organske hrane u Kragujevcu
-
-https://unazdravahrana.com/blog/5-koraka-do-organske-hrane-u-kragujevcu
-
-Vodič objašnjava kako da u Kragujevcu prepoznate sertifikovanu organsku hranu po oznakama, deklaraciji i podacima o proizvođaču. Počnite od nekoliko namirnica koje redovno koristite, poput žitarica, brašna, testenine i orašastih plodova.
-
-**Q: Kako prepoznati organski proizvod?**
-
-Proverite da li pakovanje ima jasnu oznaku organske proizvodnje, podatke o proizvođaču i kontrolnom telu, kao i urednu deklaraciju na srpskom jeziku.
-
-**Q: Da li reč „prirodno“ znači da je proizvod organski?**
-
-Ne. Oznake poput „prirodno“, „domaće“ ili „bez dodataka“ same po sebi ne potvrđuju da je proizvod sertifikovano organski.
-
-**Q: Od kojih namirnica je najbolje početi kupovinu organske hrane?**
-
-Počnite od tri namirnice koje često koristite, na primer organskih žitarica, brašna ili testenine, kako biste izbegli nepotrebnu kupovinu.
-
-**Q: Da li je organska hrana automatski bez glutena?**
-
-Ne. Organska oznaka i oznaka bez glutena nisu isto; ako izbegavate gluten, uvek proverite sastav i jasnu bezglutensku deklaraciju.
-
----
-
-Last updated: 2026-09-04
+Last updated: 2026-09-05
