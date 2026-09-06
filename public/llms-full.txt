@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Sočne pljeskavice od bundeve i oraha sa šljivama
+
+https://unazdravahrana.com/recepti/socne-pljeskavice-od-bundeve-i-oraha-sa-sljivama
+
+Sočne pečene pljeskavice od bundeve i oraha sa karamelizovanim šljivama — jesenji recept bez belog brašna, gotov za 50 minuta.
+
+**Q: Mogu li pljeskavice da pripremim unapred?**
+
+Da, smesu možete umesiti dan ranije i držati u frižideru, a peći tek pred serviranje. Već pečene se odlično podgrevaju u rerni na 180°C oko 8 minuta.
+
+**Q: Kako da bundeva ne pusti previše vode u smesi?**
+
+Ključno je da rendanu bundevu posolite i ostavite 10 minuta, a zatim dobro iscedite rukama. Tako smesa ostaje kompaktna i pljeskavice se lepo oblikuju.
+
+**Q: Da li je jelo pogodno za osobe starije od 50 godina?**
+
+Jeste, jer donosi kombinaciju biljnih i životinjskih belančevina uz vlakna i zdrave masti iz oraha, što podržava svakodnevni unos proteina. Za konkretne zdravstvene preporuke uvek se posavetujte sa lekarom.
+
+**Q: Sa čim mogu da serviram ove pljeskavice?**
+
+Odlično idu uz zelenu salatu sa rukolom, kuvani krompir sa peršunom ili kašiku gustog jogurta. Pečene šljive daju slatko-kiseli ton koji zaokružuje obrok.
+
+---
+
 ## Proteinska frtalja sa bundevom, orasima i šljivama
 
 https://unazdravahrana.com/recepti/proteinska-frtalja-sa-bundevom-orasima-i-sljivama
@@ -700,28 +724,4 @@ Mogu se kombinovati u istom obroku, ali je bolje prvo isprobati svaki sastojak z
 
 ---
 
-## Ćuftice od patlidžana i ovsa sa grožđem
-
-https://unazdravahrana.com/recepti/cuftice-od-patlidzana-i-ovsa-sa-grozdjem
-
-Pečene ćuftice od patlidžana i ovsa sa svežim grožđem: lagan kasnoletnji obrok gotov za 45 minuta.
-
-**Q: Da li mogu da pripremim ćuftice unapred?**
-
-Da. Smesu možete napraviti nekoliko sati ranije i čuvati pokrivenu u frižideru. Oblikujte i ispecite ćuftice neposredno pre obroka.
-
-**Q: Mogu li da koristim krupne ovsene pahuljice?**
-
-Možete, ali ih prethodno kratko usitnite u secku ili blenderu. Tako će se lakše povezati sa patlidžanom.
-
-**Q: Da li je grožđe obavezno?**
-
-Nije, ali lepo osvežava pečeni patlidžan. Kada nema grožđa, poslužite ćuftice uz nekoliko kapi limuna i sezonsku salatu.
-
-**Q: Uz šta još mogu da poslužim ovo jelo?**
-
-Odlično ide uz salatu od paradajza, krastavca i peršuna, uz jogurt po želji ili uz kuvanu organsku žitaricu poput prosa.
-
----
-
-Last updated: 2026-09-05
+Last updated: 2026-09-06
