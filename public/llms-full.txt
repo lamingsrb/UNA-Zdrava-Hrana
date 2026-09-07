@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Hrskave lepinjice od bundeve, oraha i heljde sa šljivama
+
+https://unazdravahrana.com/recepti/hrskave-lepinjice-od-bundeve-oraha-i-heljde-sa-sljivama
+
+Hrskave lepinjice od bundeve, oraha i heljde sa šljivama — jednostavan jesenji recept bez belog šećera, bogat vlaknima. Gotovo za 45 minuta.
+
+**Q: Mogu li da koristim pečenu bundevu umesto sirove?**
+
+Možete, ali smanjite količinu tečnosti — koristite 200 g pire od pečene bundeve i eventualno dodajte kašiku više brašna ako je smesa previše meka.
+
+**Q: Da li su lepinjice bez glutena?**
+
+Heljdino brašno je prirodno bez glutena, ali obavezno proverite da su i ovsene pahuljice sa oznakom „bez glutena“ ako imate celijakiju. Pitajte nas u radnji, imamo verifikovane varijante.
+
+**Q: Mogu li šljive zameniti drugim voćem?**
+
+Naravno — kruške, jabuke ili smokve odlično se slažu sa bundevom i orasima. Sezona diktira ukus, pa slušajte pijacu.
+
+**Q: Kako da lepinjice budu hrskavije?**
+
+Dobro iscedite bundevu i pecite ih 5 minuta duže, pa ih ostavite u ugašenoj rerni još 5 minuta. Susam na vrhu takođe daje lepu hrskavu koricu.
+
+---
+
 ## Sočne pljeskavice od bundeve i oraha sa šljivama
 
 https://unazdravahrana.com/recepti/socne-pljeskavice-od-bundeve-i-oraha-sa-sljivama
@@ -700,28 +724,4 @@ Kod nekih ljudi intenzivan trening neposredno pred spavanje može otežati uspav
 
 ---
 
-## 3 superhrane za energičniji dan: spirulina, čia i maka
-
-https://unazdravahrana.com/blog/3-superhrane-za-energicniji-dan-spirulina-cia-i-maka
-
-Spirulina, čia semenke i maka mogu biti praktični dodaci raznovrsnom doručku ili užini, ali nisu zamena za redovne obroke, san i kretanje. Počnite malim količinama, uvodite ih jednu po jednu i kombinujte sa voćem, žitaricama, proteinima i tečnošću.
-
-**Q: Kako koristiti spirulinu u prahu?**
-
-Spirulinu dodajte neposredno pre blendanja u smuti, jogurt ili energetske kuglice. Za početak je dovoljno 1/4 do 1/2 kašičice, jer ima intenzivan ukus i boju.
-
-**Q: Koliko čia semenki staviti u doručak?**
-
-Za prvi put koristite jednu ravnu kašičicu čia semenki u jogurtu, kaši ili smutiju. Kada pravite čia puding, semenke ostavite u tečnosti da nabubre i vodite računa o unosu tečnosti tokom dana.
-
-**Q: Kako se koristi maka prah?**
-
-Maka prah lako se umeša u ovsenu kašu, smuti, jogurt ili kakao napitak. Počnite sa 1/2 kašičice, a u toplu kašu dodajte je pred kraj pripreme.
-
-**Q: Mogu li se spirulina, čia i maka kombinovati?**
-
-Mogu se kombinovati u istom obroku, ali je bolje prvo isprobati svaki sastojak zasebno. Tako ćete lakše prilagoditi ukus, teksturu i količinu koja vam odgovara.
-
----
-
-Last updated: 2026-09-06
+Last updated: 2026-09-07
