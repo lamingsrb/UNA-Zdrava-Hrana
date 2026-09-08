@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Topla zobena kaša sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/topla-zobena-kasa-sa-bundevom-sljivama-i-orasima
+
+Kremasta zobena kaša sa pečenom bundevom, šljivama i orasima — topao jesenji doručak bogat vlaknima. Gotova za 35 minuta.
+
+**Q: Mogu li da koristim zamrznutu bundevu?**
+
+Da, samo je prethodno odmrznite i dobro ocedite od viška tečnosti pre pečenja, kako bi se lepše karamelizovala.
+
+**Q: Da li recept odgovara osobama sa intolerancijom na laktozu?**
+
+Da, u receptu koristimo biljno mleko. Birajte badem, ovseno ili kokosovo — sva su prirodno bez laktoze.
+
+**Q: Čime da zamenim med ako pravim za dete mlađe od godinu dana?**
+
+Umesto meda dodajte kašiku sirupa od javora ili jednostavno izgnječenu zrelu bananu za prirodnu slatkoću.
+
+**Q: Koliko dugo mogu da čuvam kašu u frižideru?**
+
+Do 2 dana u zatvorenoj posudi. Prilikom podgrevanja dodajte 2-3 kašike mleka ili vode jer se kaša u frižideru zgusne.
+
+---
+
 ## Hotelski doručak: 5 laganih menija bez griže savesti
 
 https://unazdravahrana.com/blog/hotelski-dorucak-5-laganih-menija-bez-grize-savesti
@@ -697,30 +721,6 @@ Ovas prirodno ne sadrži gluten, ali može biti kontaminiran pšenicom, ječmom 
 **Q: Na koje sastojke treba paziti kod kupovine bez glutena?**
 
 Izbegavajte pšenicu, ječam, raž, ječmeni slad, ekstrakt slada i pšenični skrob, a pažljivo proverite i mešavine začina, slatkiše i proteinske pločice.
-
----
-
-## Slani mafini s patlidžanom, smokvama i čia semenkama
-
-https://unazdravahrana.com/recepti/slani-mafini-s-patlidzanom-smokvama-i-cia-semenkama
-
-Sočni slani mafini sa patlidžanom, smokvama, integralnim brašnom i čia semenkama, gotovi za 45 minuta.
-
-**Q: Mogu li se mafini napraviti bez jaja?**
-
-Možete probati sa 2 kašike mlevenog lana pomešane sa 6 kašika vode, koje treba da odstoje 10 minuta pre dodavanja u smesu.
-
-**Q: Da li se patlidžan mora oljuštiti?**
-
-Ne mora, naročito ako je mlad i ima tanku koru. Dovoljno je da ga dobro operete i isečete na sitne kockice.
-
-**Q: Uz šta mogu da poslužim slane mafine?**
-
-Lepo se slažu uz sezonsku salatu, jogurt ili čašu prirodnog soka.
-
-**Q: Mogu li da zamrznem mafine?**
-
-Da. Kada se potpuno ohlade, spakujte ih u posudu ili kesu za zamrzavanje i čuvajte do mesec dana. Odmrzavajte ih na sobnoj temperaturi ili kratko u rerni.
 
 ---
 
