@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Hotelski doručak: 5 laganih menija bez griže savesti
+
+https://unazdravahrana.com/blog/hotelski-dorucak-5-laganih-menija-bez-grize-savesti
+
+Vodič kroz 5 laganih menija za hotelski doručak koji kombinuju proteine, vlakna i zdrave masti. Objašnjava pravilo tanjira i najčešće greške na švedskom stolu.
+
+**Q: Kako izabrati zdrav doručak sa švedskog stola?**
+
+Primenite pravilo tanjira: polovina voće i povrće, četvrtina protein (jaja, sir, jogurt), četvrtina složeni ugljeni hidrati (ovsene pahuljice, integralni hleb) i jedna kašika zdrave masti (orasi, avokado, maslinovo ulje).
+
+**Q: Da li je bolje preskočiti doručak na odmoru?**
+
+Ne. Preskakanje doručka vodi ka prejedanju kasnije. Bolje je izabrati strukturisan obrok sa proteinima i vlaknima koji drži sitost 4–5 sati bez pada energije.
+
+**Q: Koliko proteina treba da ima jutarnji obrok?**
+
+Za aktivnu osobu preporučuje se 25–30 g proteina ujutru, što se lako postiže sa 2 jaja, kockicom sira i kriškom integralnog hleba ili sa 200 g grčkog jogurta uz semenke.
+
+**Q: Koje namirnice sa švedskog stola treba izbegavati?**
+
+Izbegavajte kroasane sa džemom, cedene sokove iz aparata, fabričke musli mešavine sa šećerom, masne salame i palačinke sa kremom — brzo dižu šećer u krvi i vraćaju glad.
+
+---
+
 ## Hrskave lepinjice od bundeve, oraha i heljde sa šljivama
 
 https://unazdravahrana.com/recepti/hrskave-lepinjice-od-bundeve-oraha-i-heljde-sa-sljivama
@@ -700,28 +724,4 @@ Da. Kada se potpuno ohlade, spakujte ih u posudu ili kesu za zamrzavanje i čuva
 
 ---
 
-## Trening ujutru ili uveče: 5 pravila za izbor
-
-https://unazdravahrana.com/blog/trening-ujutru-ili-uvece-5-pravila-za-izbor
-
-Najbolje vreme za trening je ono koje možete redovno da održavate bez narušavanja sna, obroka i energije. Jutarnji trening pomaže rutini, dok večernji često pogoduje jačem učinku ako se završi dovoljno pre spavanja.
-
-**Q: Da li je bolje trenirati ujutru ili uveče?**
-
-Bolje je trenirati u terminu koji možete dosledno da ponavljate i koji ne kvari vaš san, obroke i dnevne obaveze.
-
-**Q: Da li jutarnji trening sagoreva više masti?**
-
-Ne nužno. Mršavljenje najviše zavisi od dugoročne ravnoteže ishrane, aktivnosti, sna i redovnosti, a ne samo od sata treninga.
-
-**Q: Šta jesti pre jutarnjeg treninga?**
-
-Za intenzivniji trening može prijati mali obrok 30 do 60 minuta ranije, poput voća, ovsenih pahuljica, tosta ili voćne pločice uz vodu.
-
-**Q: Da li večernji trening remeti san?**
-
-Kod nekih ljudi intenzivan trening neposredno pred spavanje može otežati uspavljivanje. Ostavite vreme za smirivanje, istezanje, tuširanje i laganiju večeru.
-
----
-
-Last updated: 2026-09-07
+Last updated: 2026-09-08
