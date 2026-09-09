@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zapečena bundeva sa šljivama, orasima i heljdom
+
+https://unazdravahrana.com/recepti/zapecena-bundeva-sa-sljivama-orasima-i-heljdom
+
+Zapečena bundeva sa šljivama, orasima i heljdom — topao jesenji recept bez glutena, gotov za 45 minuta. Sastojci iz UNA radnje u Kragujevcu.
+
+**Q: Mogu li recept pripremiti dan ranije?**
+
+Možete. Ispecite bundevu sa šljivama i skuvajte heljdu, čuvajte odvojeno u frižideru i spojite pre serviranja uz kratko podgrevanje u rerni.
+
+**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Jeste — heljda je prirodno bez glutena. Proverite samo da je pakovanje označeno kao „bez glutena“ ako imate izraženu osetljivost, jer neki proizvođači obrađuju heljdu u istim pogonima kao žitarice sa glutenom.
+
+**Q: Koje bundeve su najbolje za pečenje?**
+
+Muskatne i hokaido sorte imaju gušće meso i prirodno slađi ukus, pa se najbolje ponašaju u rerni. Izbegavajte vodenaste stočne bundeve.
+
+**Q: Šta ako nemam sveže šljive?**
+
+Van sezone možete koristiti suve šljive — 150 g suvih namočite 20 minuta u toploj vodi i dodajte ih pri kraju pečenja, jer ne treba im dugo toplote.
+
+---
+
 ## Piletina ili ćuretina: koja je zapravo bolja?
 
 https://unazdravahrana.com/blog/piletina-ili-curetina-koja-je-zapravo-bolja
@@ -697,30 +721,6 @@ Možete, samo ga prepolovite i uklonite semenke ako su tvrde. Slađe sorte grož
 **Q: Da li je ovo jelo pogodno za osobe sa osetljivim stomakom?**
 
 Fermentisana hrana doprinosi raznovrsnoj ishrani, ali ako imate zdravstvene tegobe ili uzimate terapiju, konsultujte lekara pre uvođenja novih namirnica.
-
----
-
-## Đumbir za gorušicu: koliko piti i kada pomaže
-
-https://unazdravahrana.com/blog/djumbir-za-gorusicu-koliko-piti-i-kada-pomaze
-
-Đumbir može ublažiti povremenu gorušicu ubrzavanjem pražnjenja želuca, uz preporučenu dozu do 3–4 g dnevno. Najbolje deluje mlak, 20–30 minuta pre obroka ili posle jela, ali ne pred spavanje.
-
-**Q: Koliko đumbira dnevno je bezbedno kod gorušice?**
-
-Kod odraslih se dobro toleriše do 3–4 grama dnevno, raspoređeno u dve do tri porcije. To je oko parče svežeg korena veličine palca ili 1–2 kesice čaja. Više od 4–5 g može izazvati peckanje i pojačati gorušicu.
-
-**Q: Kada je najbolje popiti čaj od đumbira?**
-
-Najbolje je 20–30 minuta pre težeg obroka ili odmah posle jela ako se javi nadutost. Izbegavajte jak topao čaj pred spavanje — popijte ga bar 60–90 minuta pre lеganja da ne bi izazvao refluks.
-
-**Q: Može li đumbir da pogorša gorušicu?**
-
-Može, ako je doza prevelika, čaj prejak ili napitak previše vreo. U tom slučaju smanjite količinu, razblažite napitak ili probajte mlak umesto vrelog. Ako gorušicu imate više od dva puta nedeljno, obratite se lekaru.
-
-**Q: Koji oblik đumbira je najbolji za gorušicu?**
-
-Za većinu ljudi najbolja kombinacija je svež organski koren za kućni čaj i kvalitetne kesice čaja za brze prilike. Mleveni đumbir je jači i lako se predozira, a kandirani sadrži šećer i nije za svakodnevnu upotrebu.
 
 ---
 
