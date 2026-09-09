@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Piletina ili ćuretina: koja je zapravo bolja?
+
+https://unazdravahrana.com/blog/piletina-ili-curetina-koja-je-zapravo-bolja
+
+Ćuretina ima manje masti, više proteina i više cinka i selena, dok je piletina sočnija i bogatija vitaminom B6. Izbor zavisi od cilja: ćureće grudi za holesterol i mršavljenje, piletina za raznovrsnost i ukus.
+
+**Q: Da li je ćuretina zdravija od piletine?**
+
+Ćureće grudi imaju manje masti i više proteina, cinka i selena od pilećih grudi, pa su često bolji izbor za holesterol i mršavljenje. Piletina je sočnija i bogatija vitaminom B6, pa je najbolje kombinovati obe.
+
+**Q: Koje meso je bolje za snižavanje holesterola?**
+
+Ćureće grudi bez kože imaju najmanje zasićenih masti i smatraju se jednim od najsuvljih izvora životinjskih proteina. Način pripreme je ključan — izbegavajte prženje, panirenje i kožicu.
+
+**Q: Koliko proteina ima u pilećim i ćurećim grudima?**
+
+Pileće grudi imaju oko 31 g proteina na 100 g, a ćureće grudi oko 30 g na 100 g kuvanog mesa bez kože. Obe su odličan izvor proteina za rekreativce i one koji mršave.
+
+**Q: Koje meso je najbolje za imunitet?**
+
+Ćuretina, posebno tamnije meso poput bataka, sadrži više cinka i selena — minerala važnih za rad imunog sistema. Uz ćuretinu, unosite i bundevine semenke, brazilski orah i integralne žitarice.
+
+---
+
 ## Topla zobena kaša sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/topla-zobena-kasa-sa-bundevom-sljivama-i-orasima
@@ -700,28 +724,4 @@ Za većinu ljudi najbolja kombinacija je svež organski koren za kućni čaj i k
 
 ---
 
-## Bez glutena: 7 koraka za sigurnu kupovinu
-
-https://unazdravahrana.com/blog/bez-glutena-7-koraka-za-sigurnu-kupovinu
-
-Vodič objašnjava kako da bezbednije kupujete bezglutensku hranu, od čitanja deklaracija do provere upozorenja o mogućoj kontaminaciji. Saznajte koje namirnice su prirodno bez glutena i zašto su jasna oznaka i sastav važni kod strogog režima ishrane.
-
-**Q: Kako prepoznati proizvod bez glutena?**
-
-Proverite celu deklaraciju: jasnu oznaku „bez glutena“, listu sastojaka, alergene i upozorenja o mogućem prisustvu glutena.
-
-**Q: Koje namirnice su prirodno bez glutena?**
-
-Pirinač, kukuruz, proso, heljda, krompir, mahunarke, voće, povrće, meso, riba, jaja, orašasti plodovi i semenke prirodno ne sadrže gluten.
-
-**Q: Da li je ovas bez glutena?**
-
-Ovas prirodno ne sadrži gluten, ali može biti kontaminiran pšenicom, ječmom ili raži. Za strogo bezglutensku ishranu birajte samo ovas sa bezglutenskom oznakom.
-
-**Q: Na koje sastojke treba paziti kod kupovine bez glutena?**
-
-Izbegavajte pšenicu, ječam, raž, ječmeni slad, ekstrakt slada i pšenični skrob, a pažljivo proverite i mešavine začina, slatkiše i proteinske pločice.
-
----
-
-Last updated: 2026-09-08
+Last updated: 2026-09-09
