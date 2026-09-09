@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamin C leti: kako ga koristiti a ne "izgoreti"
+
+https://unazdravahrana.com/blog/vitamin-c-leti-kako-ga-koristiti-a-ne-izgoreti
+
+Vitamin C je leti saveznik kože jer neutrališe slobodne radikale nastale od UV zraka i zagađenja, ali ne zamenjuje SPF. Za efekat je važna koncentracija 10–15%, tamna ambalaža, pravilan redosled u jutarnjoj rutini i kombinacija oralnog unosa (aćerola, šipak) sa lokalnom primenom seruma.
+
+**Q: Da li se vitamin C serum sme koristiti leti?**
+
+Da, čak je i preporučljivo jer koža leti trpi veći oksidativni stres od UV zraka i zagađenja. Vitamin C neutrališe slobodne radikale, ali se obavezno kombinuje sa SPF 30 ili 50 kremom, jer sam po sebi ne blokira UV zrake.
+
+**Q: Koja je idealna koncentracija vitamina C u serumu?**
+
+Za većinu ljudi optimalno je 10–15% L-askorbinske kiseline sa pH ispod 3.5. Koncentracije preko 15% preporučuju se iskusnijim korisnicima, dok osetljiva koža bolje reaguje na blaže oblike poput sodium ascorbyl phosphate ili ethyl ascorbic acid.
+
+**Q: Kako prepoznati da je vitamin C serum oksidisao?**
+
+Svež serum je bistro-žućkast do svetlo narandžast. Ako je postao tamno narandžast ili braon, oksidisao je i više nije aktivan, a može čak i blago nadražiti kožu. Zato birajte tamno staklo ili neprozirnu pumpicu.
+
+**Q: Da li vitamin C iz hrane zamenjuje serum za lice?**
+
+Ne. Vitamin C iz hrane (paprika, šipak, aćerola, kivi) podržava imunitet, sintezu kolagena i opštu vitalnost, dok serum deluje lokalno na koži gde se nanese. Za anti-age efekat potrebna su oba pristupa.
+
+---
+
 ## Krem-supa od bundeve sa vlaknima, orasima i šljivama
 
 https://unazdravahrana.com/recepti/krem-supa-od-bundeve-sa-vlaknima-orasima-i-sljivama
@@ -697,30 +721,6 @@ Najčešći razlozi su neravnoteža natrijuma i kalijuma, previše prerađene hr
 **Q: Koliko vode treba piti da bi se smanjilo zadržavanje tečnosti?**
 
 Kod zdravih odraslih preporučuje se oko 30 ml vode po kilogramu telesne mase dnevno. Uz to je važno smanjiti so iz prerađene hrane i uneti više namirnica bogatih kalijumom poput krastavca, lubenice i peršuna.
-
----
-
-## Pita bez kore: patlidžan, smokve i spelta
-
-https://unazdravahrana.com/recepti/pita-bez-kore-patlidzan-smokve-i-spelta
-
-Slano-slatka pita bez kore sa patlidžanom, smokvama i grožđem na spelta brašnu. Lagana, sita i gotova za 55 minuta.
-
-**Q: Mogu li da koristim samo grožđe bez smokava?**
-
-Naravno. Ako nemate smokve, udvostručite količinu grožđa ili dodajte pola kruške isečene na kockice — kombinacija sa patlidžanom i dalje odlično funkcioniše.
-
-**Q: Da li se pita može zamrznuti?**
-
-Može, isečena na porcije. Odmrznite je preko noći u frižideru i podgrejte u rerni 10 minuta na 160°C da povrati teksturu.
-
-**Q: Čime da zamenim spelta brašno ako ga nemam?**
-
-Odlična zamena je integralno pšenično ili polubelo pšenično brašno. Za varijantu bez glutena koristite mešavinu heljdinog i pirinčanog brašna u odnosu 1:1.
-
-**Q: Uz šta ide ova pita?**
-
-Prija uz gust jogurt, zelenu salatu sa rukolom, ili kao deo mezea sa maslinama i svežim sirom. Odlična je i za lanč paket sledećeg dana.
 
 ---
 
