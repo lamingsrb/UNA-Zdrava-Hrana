@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Avokado: 5 situacija kada treba biti oprezan
+
+https://unazdravahrana.com/blog/avokado-5-situacija-kada-treba-biti-oprezan
+
+Avokado je hranljiv dodatak ishrani za većinu zdravih ljudi, bez opštih zabrana kombinovanja sa drugim namirnicama. Oprez je potreban kod bolesti bubrega, ograničenog unosa kalijuma i terapije varfarinom, kada su važni porcija i dosledan unos vitamina K.
+
+**Q: Da li je avokado zdrav za svakodnevnu ishranu?**
+
+Za većinu zdravih odraslih osoba avokado je dobar izbor jer sadrži nezasićene masti, vlakna, kalijum i vitamine. Praktična porcija je često četvrtina do polovine srednjeg avokada, u zavisnosti od ostatka obroka.
+
+**Q: Da li osobe sa bolešću bubrega smeju da jedu avokado?**
+
+Osobe sa hroničnom bolešću bubrega ili preporukom za ograničavanje kalijuma ne treba samostalno da uvode velike porcije avokada. Odgovarajuća količina zavisi od nalaza, terapije i saveta lekara ili dijetetičara.
+
+**Q: Da li avokado utiče na varfarin?**
+
+Avokado sadrži vitamin K, pa je kod terapije varfarinom važan ujednačen unos, a ne nužno potpuno izbacivanje avokada. Nagle promene količine avokada u ishrani treba uskladiti sa lekarom.
+
+**Q: Sa čim ne treba kombinovati avokado?**
+
+Ne postoji opšta zabrana kombinovanja avokada sa jajima, hlebom, mesom ili voćem. Oprez je potreban kada se u istom obroku kombinuje više izvora kalijuma ili mnogo masnih i kaloričnih namirnica.
+
+---
+
 ## Integralni hleb za mršavljenje: izbor i porcija
 
 https://unazdravahrana.com/blog/integralni-hleb-za-mrsavljenje-izbor-i-porcija
@@ -697,30 +721,6 @@ Keto nije za osobe sa dijabetesom tipa 1, trudnice, dojilje, ljude sa bolestima 
 **Q: Koje su koristi keto dijete osim mršavljenja?**
 
 Istraživanja pominju bolju kontrolu šećera u krvi, stabilniju energiju, mentalnu jasnoću, smanjenje upalnih markera i podršku ženama sa PCOS-om kroz bolju insulinsku osetljivost.
-
----
-
-## Punjeni patlidžan sa grožđem, prosom i orasima
-
-https://unazdravahrana.com/recepti/punjeni-patlidzan-sa-grozdjem-prosom-i-orasima
-
-Punjeni patlidžan sa prosom, pečenim grožđem i orasima — sezonski, bezglutenski obrok gotov za 45 minuta. Sastojci iz UNA radnje u Kragujevcu.
-
-**Q: Mogu li da pripremim jelo unapred?**
-
-Možete. Nadev pripremite dan ranije i čuvajte u frižideru, a patlidžane napunite i pecite neposredno pre serviranja da ostanu sočni.
-
-**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
-
-Jeste — proso je prirodno bez glutena. Proverite samo da su začini i orasi iz sigurnog izvora bez unakrsne kontaminacije, što možete potvrditi kod nas u radnji.
-
-**Q: Čime da zamenim orahe ako imam alergiju?**
-
-Odlično rade suncokretove ili bundevine semenke — daju sličnu hrskavost i doprinose unosu minerala. Dodajte istu količinu (60 g).
-
-**Q: Koje grožđe je najbolje za pečenje?**
-
-Krupno crno grožđe bez semenki (npr. sorta cardinal ili slično) daje najlepšu boju i slatkoću. Ako koristite grožđe sa semenkama, prepolovite bobice i izvadite semenke pre nadeva.
 
 ---
 
