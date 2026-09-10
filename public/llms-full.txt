@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćuftice od sočiva i bundeve sa šljivama
+
+https://unazdravahrana.com/recepti/cuftice-od-sociva-i-bundeve-sa-sljivama
+
+Pečene ćuftice od sočiva i bundeve sa orasima i brzim prelivom od šljiva — jednostavan jesenji ručak za 45 minuta.
+
+**Q: Da li ćuftice mogu da se prže umesto peku?**
+
+Mogu, ali ih pecite na umereno zagrejanom tiganju sa malo ulja, oko 4 minuta sa svake strane. Pečenje u rerni je praktičnije kada pripremate više komada.
+
+**Q: Da li su šljive obavezne u receptu?**
+
+Nisu, ali daju posebnu jesenju notu i prijatan kontrast slanim ćufticama. Ako ih nemate, poslužite ćuftice uz svežu salatu ili jogurt po izboru.
+
+**Q: Kako da znam da li je smesa dovoljno čvrsta?**
+
+Kada je stisnete šakom, treba lako da zadrži oblik. Ako deluje vlažno i lepljivo, dodajte još 1–2 kašike ovsenih pahuljica i ostavite 5 minuta.
+
+**Q: Mogu li se ćuftice zamrznuti?**
+
+Da. Ispečene i potpuno ohlađene ćuftice zamrznite u jednom sloju, pa ih prebacite u kesu ili posudu. Najbolje ih je potrošiti u roku od mesec dana.
+
+---
+
 ## Sočna proja s bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/socna-proja-s-bundevom-sljivama-i-orasima
@@ -697,30 +721,6 @@ Najveći neprijatelji pankreasa su alkohol, duvan, prženo i industrijske trans-
 **Q: Koji oblik magnezijuma je najbolji za pankreas?**
 
 Najbolje se podnose magnezijum-bisglicinat i citrat jer se dobro apsorbuju i ne izazivaju probavne tegobe. Oksidni oblik je jeftiniji ali se slabije apsorbuje i može izazvati proliv.
-
----
-
-## Rižoto od proje sa patlidžanom i grožđem
-
-https://unazdravahrana.com/recepti/rizoto-od-proje-sa-patlidzanom-i-grozdjem
-
-Kremasti rižoto od kukuruzne krupice sa pečenim patlidžanom, grožđem i orasima — sezonski, bez glutena, gotov za 45 minuta.
-
-**Q: Mogu li da koristim belo grožđe umesto crnog?**
-
-Naravno. Belo grožđe je blaže i slađe, dok crno daje intenzivniju boju i blagu trpkost. Oba dobro funkcionišu — birajte ono što vam je pri ruci.
-
-**Q: Da li je recept zaista bez glutena?**
-
-Jeste, ukoliko koristite čistu kukuruznu krupicu i povrtnu supu bez glutena. Uvek proverite deklaraciju ako imate celijakiju.
-
-**Q: Šta ako nemam povrtnu supu?**
-
-Možete koristiti običnu toplu vodu uz malo više soli i kašičicu maslinovog ulja, ili napraviti brzu supu od šargarepe, luka i lovora za 15 minuta.
-
-**Q: Može li se pripremiti unapred?**
-
-Rižoto je najbolji svež, ali možete skuvati krupicu ranije, a patlidžan i grožđe dodati tik pred serviranje uz malo tople supe za osvežavanje teksture.
 
 ---
 
