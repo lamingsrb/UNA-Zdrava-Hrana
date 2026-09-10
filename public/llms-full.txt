@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Sočna proja s bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/socna-proja-s-bundevom-sljivama-i-orasima
+
+Sočna proja sa bundevom, šljivama, orasima i čia semenkama — jednostavan jesenji doručak gotov za 45 minuta.
+
+**Q: Mogu li da koristim zamrznute šljive?**
+
+Možete, ali ih prethodno odmrznite i dobro ocedite. Tako neće pustiti previše tečnosti u testo.
+
+**Q: Da li proja može bez jaja?**
+
+Može, ali će biti nešto mrvičastija. Umesto dva jaja umešajte 2 kašike mlevenih čia semenki pomešanih sa 6 kašika vode i ostavite 10 minuta da nabubre.
+
+**Q: Koja bundeva je najbolja za ovaj recept?**
+
+Najpraktičnija je muškatna ili hokaido bundeva, jer imaju pun ukus i čvršće meso. Važno je da bundeva bude sveža i bez mekanih delova.
+
+**Q: Uz šta mogu da poslužim ovu proju?**
+
+Lepo se slaže sa jogurtom, mladim sirom ili šoljom zelenog čaja. Za konkretniji obrok dodajte salatu od sezonskog povrća.
+
+---
+
 ## 3 superhrane: izbor i upotreba u Kragujevcu
 
 https://unazdravahrana.com/blog/3-superhrane-izbor-i-upotreba-u-kragujevcu
@@ -697,30 +721,6 @@ Možete koristiti običnu toplu vodu uz malo više soli i kašičicu maslinovog 
 **Q: Može li se pripremiti unapred?**
 
 Rižoto je najbolji svež, ali možete skuvati krupicu ranije, a patlidžan i grožđe dodati tik pred serviranje uz malo tople supe za osvežavanje teksture.
-
----
-
-## Kimči, kefir i kombuha: šta stvarno rade telu
-
-https://unazdravahrana.com/blog/kimci-kefir-i-kombuha-sta-stvarno-rade-telu
-
-Tekst objašnjava šta su živi fermentisani proizvodi (kimči, kefir, kombuha, kiseli kupus) i kako mogu da podrže varenje i raznovrsnost crevne flore. Nudi sedmodnevni plan za početnike, poređenje namirnica i najčešće greške pri kupovini i konzumaciji.
-
-**Q: Da li kiseli kupus iz supermarketa ima žive kulture?**
-
-Uglavnom ne. Kiseli kupus koji stoji na sobnoj temperaturi je najčešće pasterizovan i nema žive bakterije. Žive kulture ima onaj koji se čuva u hladnom lancu, obično je zamućen i blago 'diše' u tegli.
-
-**Q: Koliko fermentisane hrane treba jesti dnevno?**
-
-Dovoljno je jedna do dve male porcije dnevno iz raznovrsnih izvora, na primer kašika kiselog kupusa uz ručak i pola čaše kefira ujutru. Više nije nužno bolje i može izazvati nadutost kod nespremnih creva.
-
-**Q: Da li se kefir i kimči smeju zagrevati?**
-
-Ne treba ih izlagati visokoj temperaturi jer se žive kulture uništavaju. Dodajte ih na kraju, u već ohlađeno jelo, ili konzumirajte sirove.
-
-**Q: Kada se očekuju prvi efekti fermentisane hrane na varenje?**
-
-Realan prozor za primetne promene u varenju je dve do četiri nedelje redovnog unosa. Crevna flora se ne menja preko noći i telu treba vreme da se navikne.
 
 ---
 
