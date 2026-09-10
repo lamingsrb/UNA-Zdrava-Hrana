@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 6 pravila za vreme doručka i večere
+
+https://unazdravahrana.com/blog/6-pravila-za-vreme-dorucka-i-vecere
+
+Redovniji ritam doručka i večere može pomoći da izbegnete veliku glad, usputno grickanje i preobilne večernje obroke. Doručak neka kombinuje složene ugljene hidrate, proteine i vlakna, a poslednji veći obrok završite okvirno dva do tri sata pre sna.
+
+**Q: Kada je najbolje doručkovati?**
+
+Za većinu ljudi praktično je da prvi konkretniji obrok bude u prva dva do tri sata nakon ustajanja, prema apetitu i dnevnom ritmu.
+
+**Q: Koliko vremena pre spavanja treba večerati?**
+
+Poslednji veći obrok često je praktično završiti dva do tri sata pre spavanja, kako ne biste legli prepunog stomaka.
+
+**Q: Šta čini zasitan zdrav doručak?**
+
+Zasitan doručak obično sadrži složene ugljene hidrate, izvor proteina i namirnice bogate vlaknima ili zdravim mastima, poput žitarica, jogurta, voća, čia semenki i orašastih plodova.
+
+**Q: Da li treba preskočiti večeru ako želim zdraviji ritam ishrane?**
+
+Ne. Večera može biti hranljiva i zasitna, ali je korisno da ne bude jedini veliki obrok kojim nadoknađujete premalo hrane tokom dana.
+
+---
+
 ## Lubenica i dijabetes: 5 pravila za porciju
 
 https://unazdravahrana.com/blog/lubenica-i-dijabetes-5-pravila-za-porciju
@@ -697,30 +721,6 @@ Ne preporučuje se. Ta oznaka upozorava na moguću unakrsnu kontaminaciju u fabr
 **Q: Gde je jeftinije kupovati bezglutensku hranu, u marketu ili specijalizovanoj radnji?**
 
 Osnovne namirnice (hleb, testenina) su jeftinije u velikim marketima poput Lidla, dok su specijalizovana brašna i testenine često konkurentnije u prodavnicama zdrave hrane. Kombinacija se najviše isplati.
-
----
-
-## Topla kremasta salata: patlidžan, smokve i tahini
-
-https://unazdravahrana.com/recepti/topla-kremasta-salata-patlidzan-smokve-i-tahini
-
-Topla salata sa pečenim patlidžanom, smokvama i tahini prelivom — sezonski recept kasnog leta, gotov za 35 minuta.
-
-**Q: Mogu li tahini zameniti nečim drugim?**
-
-Da, umesto tahinija poslužiće i puter od badema ili susama. Ukus će biti nešto blaži, ali kremasta tekstura preliva ostaje ista.
-
-**Q: Da li se patlidžan mora soliti pre pečenja?**
-
-Ne mora, ali soljenje pomaže da pusti višak vode i da posle pečenja bude mekši iznutra, a bez gorčine. Kod mladih letnjih patlidžana ovaj korak možete i preskočiti.
-
-**Q: Je li ovo dovoljno kao glavni obrok?**
-
-Za laganu večeru — da, posebno uz parče integralnog hleba. Za izdašniji obrok dodajte kuvani slanutak ili proso da povećate udeo proteina i vlakana.
-
-**Q: Kako da odaberem zrele smokve?**
-
-Zrela smokva je mekana na dodir, blago pušta miris i koža joj je napeta, ponekad malo naprsla pri peteljci. Ako je čvrsta, ostavite je dan-dva na sobnoj temperaturi.
 
 ---
 
