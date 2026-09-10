@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Integralni hleb za mršavljenje: izbor i porcija
+
+https://unazdravahrana.com/blog/integralni-hleb-za-mrsavljenje-izbor-i-porcija
+
+Integralni hleb može biti deo ishrane za mršavljenje jer vlakna često produžavaju sitost, ali ne mršavi sam po sebi. Birajte proizvode sa integralnim brašnom među prvim sastojcima i jedite umerenu porciju uz proteine i povrće.
+
+**Q: Da li je integralni hleb dobar za mršavljenje?**
+
+Može biti dobar izbor jer obično sadrži više vlakana od belog hleba i može pomoći da obrok duže zasiti. Ipak, važni su ukupna količina hrane, porcija hleba i dodaci koje jedete uz njega.
+
+**Q: Kako prepoznati pravi integralni hleb?**
+
+Proverite deklaraciju: integralno pšenično, raženo, heljdino ili speltino brašno trebalo bi da bude među prvim sastojcima. Tamna boja, naziv „fit” ili semenke same po sebi nisu dokaz da je hleb pretežno integralni.
+
+**Q: Koliko integralnog hleba sme da se jede na dijeti?**
+
+Za mnoge ljude razumna početna porcija je jedna do dve manje kriške uz obrok, ali količina zavisi od potreba, aktivnosti i ostatka jelovnika. Hleb je najbolje kombinovati sa jajima, svežim sirom, jogurtom, nemasnim proteinima i povrćem.
+
+**Q: Da li je raženi hleb bolji od integralnog pšeničnog?**
+
+Nijedan nije automatski najbolji za mršavljenje. Raženi hleb često je gušći i izraženijeg ukusa, dok je integralni pšenični blaži; birajte onaj sa kvalitetnim sastavom koji vas zasiti i koji ćete jesti umereno.
+
+---
+
 ## Vitamin C leti: kako ga koristiti a ne "izgoreti"
 
 https://unazdravahrana.com/blog/vitamin-c-leti-kako-ga-koristiti-a-ne-izgoreti
@@ -700,28 +724,4 @@ Krupno crno grožđe bez semenki (npr. sorta cardinal ili slično) daje najlepš
 
 ---
 
-## Hrana koja izbacuje višak vode: 9 prirodnih diuretika
-
-https://unazdravahrana.com/blog/hrana-koja-izbacuje-visak-vode-9-prirodnih-diuretika
-
-Tekst objašnjava zašto telo zadržava vodu i predstavlja 9 namirnica koje prirodno deluju diuretski, uz preporučene količine i način upotrebe. Nudi konkretne kombinacije za porodicu, rekreativce i početnike, uz upozorenja kada je potreban lekar.
-
-**Q: Koja hrana najbrže izbacuje višak vode iz tela?**
-
-Najbrže deluju kopriva u vidu čaja, krastavac, lubenica, celer i peršun, jer sadrže malo natrijuma a puno vode i kalijuma. Vidljiva razlika se javlja za dva do četiri dana uz dovoljno vode i manje soli.
-
-**Q: Da li je čaj od koprive dobar diuretik?**
-
-Da, kopriva je jedan od najsnažnijih biljnih diuretika u našim krajevima. Pije se dve do tri šolje dnevno, deset dana, pa se pravi pauza, a uz to podržava unos gvožđa i minerala.
-
-**Q: Zašto se voda zadržava u telu?**
-
-Najčešći razlozi su neravnoteža natrijuma i kalijuma, previše prerađene hrane, dugo sedenje ili stajanje, hormonske promene i nedovoljan unos vode. Kada telu nedostaje tečnosti, ono je paradoksalno zadržava umesto da je propušta.
-
-**Q: Koliko vode treba piti da bi se smanjilo zadržavanje tečnosti?**
-
-Kod zdravih odraslih preporučuje se oko 30 ml vode po kilogramu telesne mase dnevno. Uz to je važno smanjiti so iz prerađene hrane i uneti više namirnica bogatih kalijumom poput krastavca, lubenice i peršuna.
-
----
-
-Last updated: 2026-09-09
+Last updated: 2026-09-10
