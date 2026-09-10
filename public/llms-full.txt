@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 6 namirnica koje jedite manje posle 50.
+
+https://unazdravahrana.com/blog/6-namirnica-koje-jedite-manje-posle-50
+
+Posle 50. godine korisno je ređe birati slatka pića, previše slanu i gotovu hranu, suhomesnato, prženu hranu i industrijska peciva. Fokus je na postepenim zamenama: vodi, voću, povrću, mahunarkama, integralnim žitaricama i jednostavno pripremljenim obrocima.
+
+**Q: Koju hranu treba jesti manje posle 50. godine?**
+
+Korisno je ograničiti slatka pića i slatkiše, slane grickalice, gotovu hranu, suhomesnato, prženu hranu i industrijska peciva.
+
+**Q: Čime zameniti slatka pića posle 50. godine?**
+
+Zaslađene sokove možete zameniti vodom, nezaslađenim biljnim čajem ili napicima bez dodatog šećera.
+
+**Q: Kako smanjiti unos soli u ishrani?**
+
+Ređe birajte grickalice, gotove supe, suhomesnato i pekarske proizvode, a ukus hrane pojačajte limunom, belim lukom, začinskim biljem i biberom.
+
+**Q: Šta jesti umesto suhomesnatog za doručak?**
+
+Praktične zamene su kuvano jaje sa povrćem i integralnim hlebom, humus, jogurt sa voćem i orašastim plodovima ili salata od žitarica i povrća.
+
+---
+
 ## Rustični galet sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/rusticni-galet-sa-bundevom-sljivama-i-orasima
@@ -697,30 +721,6 @@ U našim krajevima suplementacija vitaminom D3 najviše koristi tokom zimskih me
 **Q: Koje su najčešće greške pri kupovini suplemenata?**
 
 Najčešće greške su kupovina isključivo po ceni bez provere oblika sastojka, uzimanje megadoza vitamina rastvorljivih u mastima i uzimanje previše proizvoda odjednom bez jasne potrebe.
-
----
-
-## Tost sa dimljenim lososom, smokvama i grožđem
-
-https://unazdravahrana.com/recepti/tost-sa-dimljenim-lososom-smokvama-i-grozdjem
-
-Brzi tost sa dimljenim lososom, smokvama i grožđem na integralnom hlebu od spelte — sezonski recept gotov za 20 minuta.
-
-**Q: Mogu li da pripremim tostove unapred za goste?**
-
-Sve sastojke možete pripremiti sat ranije i držati u frižideru odvojeno, ali hleb tostirajte i sklapajte tek 5 minuta pre serviranja.
-
-**Q: Koji hleb je najbolji za ovaj recept?**
-
-Preporučujemo integralni hleb od spelte ili raženi hleb sa semenkama — dovoljno je čvrst da izdrži sočne dodatke i daje lep orašasti ukus.
-
-**Q: Da li je ovo pogodno za decu?**
-
-Jeste, deca obično vole slatko-slanu kombinaciju smokava i sira. Za mlađu decu izostavite biber i sečite tost na manje zalogaje.
-
-**Q: Kako da izaberem zrele smokve?**
-
-Zrela smokva je mekana na dodir, mirisna i blago popušta pod prstima. Ako je tvrda kao jabuka — sačekajte dan-dva na sobnoj temperaturi.
 
 ---
 
