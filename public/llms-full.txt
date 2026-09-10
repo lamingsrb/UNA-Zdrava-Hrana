@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Rustični galet sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/rusticni-galet-sa-bundevom-sljivama-i-orasima
+
+Rustični galet sa bundevom, šljivama i orasima od integralnog speltinog brašna, spreman za manje od sat vremena.
+
+**Q: Da li mogu da koristim obično pšenično brašno?**
+
+Možete, u istoj količini. Ipak, integralno speltino brašno daje izraženiji, orašast ukus i puniju teksturu testa.
+
+**Q: Koja bundeva je najbolja za galet?**
+
+Najpraktičnija je čvrsta, slatkastija bundeva sa narandžastim mesom. Važno je da je isečete na tanke listiće kako bi ravnomerno omekšala.
+
+**Q: Mogu li šljive da zamenim drugim voćem?**
+
+Možete koristiti kruške isečene na tanke kriške ili jabuke, uz malo limunovog soka i cimeta.
+
+**Q: Da li galet može da se pripremi unapred?**
+
+Testo možete zamesiti dan ranije i držati pokriveno u frižideru. Fil pripremite neposredno pre pečenja da šljive ne puste previše soka.
+
+---
+
 ## Ćuftice od sočiva i bundeve sa šljivama
 
 https://unazdravahrana.com/recepti/cuftice-od-sociva-i-bundeve-sa-sljivama
@@ -697,30 +721,6 @@ Jeste, deca obično vole slatko-slanu kombinaciju smokava i sira. Za mlađu decu
 **Q: Kako da izaberem zrele smokve?**
 
 Zrela smokva je mekana na dodir, mirisna i blago popušta pod prstima. Ako je tvrda kao jabuka — sačekajte dan-dva na sobnoj temperaturi.
-
----
-
-## Suplementi i namirnice za zdrav pankreas
-
-https://unazdravahrana.com/blog/suplementi-i-namirnice-za-zdrav-pankreas
-
-Pankreas luči enzime za varenje i insulin za regulaciju šećera, a najbolju podršku dobija kroz ishranu bogatu lisnatim povrćem, ribom, mahunarkama i antioksidansima uz izbegavanje alkohola i prženog. Suplementi poput digestivnih enzima, kurkumina, magnezijuma, alfa-lipoične kiseline i omega-3 mogu pomoći kao dodatna podrška, ali ne zamenjuju zdrav obrok ni lekarsku konsultaciju.
-
-**Q: Koje namirnice su najbolje za zdrav pankreas?**
-
-Pankreasu prijaju lisnato povrće (spanać, kelj), brokoli i karfiol, bobičasto voće, slatki krompir, ovas i heljda, masna riba bogata omega-3, mahunarke poput sočiva i leblebija, te začini kurkuma i đumbir.
-
-**Q: Kada ima smisla uzimati digestivne enzime?**
-
-Digestivni enzimi mogu pomoći kada osećate težinu posle masnih obroka, na putovanjima kada jedete drugačije, kod osoba starijih od 60 godina i kod ljudi sa problemima žučne kese. Uzimaju se uz obrok, a kod hroničnih tegoba obavezno uz konsultaciju lekara.
-
-**Q: Šta najviše šteti pankreasu?**
-
-Najveći neprijatelji pankreasa su alkohol, duvan, prženo i industrijske trans-masti, gazirana pića sa mnogo šećera i ogromne porcije mesa. Neredovni obroci i preterivanje takođe opterećuju njegov rad.
-
-**Q: Koji oblik magnezijuma je najbolji za pankreas?**
-
-Najbolje se podnose magnezijum-bisglicinat i citrat jer se dobro apsorbuju i ne izazivaju probavne tegobe. Oksidni oblik je jeftiniji ali se slabije apsorbuje i može izazvati proliv.
 
 ---
 
