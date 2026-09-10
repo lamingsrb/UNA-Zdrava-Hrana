@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 3 superhrane: izbor i upotreba u Kragujevcu
+
+https://unazdravahrana.com/blog/3-superhrane-izbor-i-upotreba-u-kragujevcu
+
+Čia semenke, spirulina i goji bobice mogu praktično obogatiti doručak, užinu i smoothie, ali nisu zamena za raznovrsnu ishranu. Početnici mogu krenuti od čia semenki, dok spirulina odgovara ljubiteljima smoothieja, a goji bobice su jednostavna slatkasto-kisela užina.
+
+**Q: Koja je superhrana najbolja za početnike?**
+
+Čia semenke su često najjednostavniji izbor za početnike jer imaju neutralan ukus i lako se dodaju u jogurt, kašu, puding ili smesu za palačinke.
+
+**Q: Kako se koriste čia semenke?**
+
+Čia semenke možete umešati u jogurt, ovsenu kašu ili biljni napitak, a za čia puding ih ostavite da odstoje u frižideru. Prijatnije su uz dovoljno tečnosti ili nakon potapanja.
+
+**Q: Kako ublažiti ukus spiruline?**
+
+Spirulinu dodajte u manjoj količini u smoothie sa bananom, bobičastim voćem, jogurtom, biljnim napitkom ili kakaom. Pratite preporuku za upotrebu sa deklaracije proizvoda.
+
+**Q: Kako jesti goji bobice?**
+
+Goji bobice možete jesti samostalno kao užinu ili ih dodati u musli, ovsenu kašu, voćnu salatu i mešavinu orašastih plodova.
+
+---
+
 ## Avokado: 5 situacija kada treba biti oprezan
 
 https://unazdravahrana.com/blog/avokado-5-situacija-kada-treba-biti-oprezan
@@ -697,30 +721,6 @@ Ne treba ih izlagati visokoj temperaturi jer se žive kulture uništavaju. Dodaj
 **Q: Kada se očekuju prvi efekti fermentisane hrane na varenje?**
 
 Realan prozor za primetne promene u varenju je dve do četiri nedelje redovnog unosa. Crevna flora se ne menja preko noći i telu treba vreme da se navikne.
-
----
-
-## Keto dijeta: nove koristi koje nisu mršavljenje
-
-https://unazdravahrana.com/blog/keto-dijeta-nove-koristi-koje-nisu-mrsavljenje
-
-Tekst objašnjava keto ishranu izvan konteksta mršavljenja, fokusirajući se na koristi za šećer u krvi, mentalnu jasnoću, upale i PCOS. Nudi konkretan spisak namirnica, primere dnevnih jelovnika i upozorenja o čestim greškama i kome keto ne odgovara.
-
-**Q: Da li keto dijeta pomaže kod dijabetesa tipa 2?**
-
-Kod osoba sa insulinskom rezistencijom i dijabetesom tipa 2, smanjenje ugljenih hidrata može doprineti stabilnijim nivoima glukoze i nižem HbA1c, ali isključivo uz nadzor lekara koji će prilagoditi terapiju.
-
-**Q: Šta se jede na keto ishrani?**
-
-Osnovu čine jaja, masna riba, meso, avokado, maslinovo i kokosovo ulje, orašasti plodovi, semenke i lisnato povrće poput spanaća, brokolija i karfiola, uz umeren unos bobičastog voća i tamne čokolade preko 85%.
-
-**Q: Kome keto dijeta nije preporučljiva?**
-
-Keto nije za osobe sa dijabetesom tipa 1, trudnice, dojilje, ljude sa bolestima bubrega, jetre ili žučne kese, kao ni za one na terapiji za šećer ili pritisak bez prethodne konsultacije sa lekarom.
-
-**Q: Koje su koristi keto dijete osim mršavljenja?**
-
-Istraživanja pominju bolju kontrolu šećera u krvi, stabilniju energiju, mentalnu jasnoću, smanjenje upalnih markera i podršku ženama sa PCOS-om kroz bolju insulinsku osetljivost.
 
 ---
 
