@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Lubenica i dijabetes: 5 pravila za porciju
+
+https://unazdravahrana.com/blog/lubenica-i-dijabetes-5-pravila-za-porciju
+
+Lubenica može biti deo ishrane osoba sa dijabetesom kada se jede u umerenoj porciji, okvirno oko 150 g ili jedna manja kriška. Najbolje ju je kombinovati uz obrok ili proteine, masti i vlakna, a izbegavati velike količine na prazan stomak i sok od lubenice.
+
+**Q: Da li dijabetičari smeju da jedu lubenicu?**
+
+Da, lubenica nije zabranjena osobama sa dijabetesom, ali je važna umerena porcija i uklapanje u individualni plan ishrane.
+
+**Q: Kolika je porcija lubenice za osobu sa dijabetesom?**
+
+Praktična početna porcija je oko jedna puna šolja kockica, odnosno približno 150 grama, ili jedna manja kriška.
+
+**Q: Da li lubenica podiže šećer u krvi?**
+
+Lubenica sadrži prirodne šećere i ugljene hidrate, pa veće količine mogu podići šećer u krvi. Reakcija zavisi od porcije, ostatka obroka, terapije i individualnog odgovora organizma.
+
+**Q: Sa čim je najbolje jesti lubenicu kod dijabetesa?**
+
+Lubenicu je praktičnije jesti uz obrok ili uz namirnice sa proteinima, mastima i vlaknima, poput prirodnog jogurta, badema ili oraha.
+
+---
+
 ## 6 namirnica koje jedite manje posle 50.
 
 https://unazdravahrana.com/blog/6-namirnica-koje-jedite-manje-posle-50
@@ -697,30 +721,6 @@ Za laganu večeru — da, posebno uz parče integralnog hleba. Za izdašniji obr
 **Q: Kako da odaberem zrele smokve?**
 
 Zrela smokva je mekana na dodir, blago pušta miris i koža joj je napeta, ponekad malo naprsla pri peteljci. Ako je čvrsta, ostavite je dan-dva na sobnoj temperaturi.
-
----
-
-## Prirodni suplementi: kako izabrati kvalitetan proizvod
-
-https://unazdravahrana.com/blog/prirodni-suplementi-kako-izabrati-kvalitetan-proizvod
-
-Tekst objašnjava razliku između prirodnih i sintetičkih suplemenata i daje sedam konkretnih kriterijuma za proveru deklaracije pre kupovine. Predstavlja glavne kategorije suplemenata sa preporukama po životnoj situaciji i upozorava na najčešće greške poput kupovine po ceni ili megadoza.
-
-**Q: Koji oblik magnezijuma se najbolje apsorbuje?**
-
-Magnezijum-citrat, glicinat i malat imaju znatno bolju apsorpciju od jeftinog magnezijum-oksida, koji telo slabo iskorišćava.
-
-**Q: Šta znači oznaka d-alfa-tokoferol na deklaraciji vitamina E?**
-
-Oznaka d-alfa-tokoferol označava prirodni oblik vitamina E, dok dl-alfa-tokoferol označava sintetički oblik. Prirodni oblik telo bolje iskorišćava.
-
-**Q: Da li je vitamin D3 potreban tokom cele godine?**
-
-U našim krajevima suplementacija vitaminom D3 najviše koristi tokom zimskih meseci, otprilike od oktobra do aprila, kada je izloženost suncu mala.
-
-**Q: Koje su najčešće greške pri kupovini suplemenata?**
-
-Najčešće greške su kupovina isključivo po ceni bez provere oblika sastojka, uzimanje megadoza vitamina rastvorljivih u mastima i uzimanje previše proizvoda odjednom bez jasne potrebe.
 
 ---
 
