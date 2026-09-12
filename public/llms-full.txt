@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 sastojaka za doručak koji drži sitost
+
+https://unazdravahrana.com/blog/5-sastojaka-za-dorucak-koji-drzi-sitost
+
+Zasitan doručak kombinuje protein, vlakna i kvalitetne masti kako bi obrok bio potpuniji i prijao duže. Jaja, jogurt, ovsene pahuljice, integralni hleb, mahunarke, orašasti plodovi i semenke lako se uklapaju u slatke i slane kombinacije.
+
+**Q: Koji doručak najduže drži sitost?**
+
+Doručak koji kombinuje protein, vlakna i kvalitetne masti obično deluje zasitnije od obroka koji sadrži samo pecivo, voće ili pahuljice.
+
+**Q: Šta dodati ovsenoj kaši da bude zasitnija?**
+
+Uz ovsene pahuljice dodajte jogurt, kiselo mleko ili jaje kao izvor proteina, a orahe, bademe ili čia semenke kao dodatak masti i teksture.
+
+**Q: Da li je banana dovoljna za doručak?**
+
+Banana je praktičan dodatak doručku, ali za potpuniji obrok kombinujte je sa izvorom proteina i vlakana, poput jogurta, ovsenih pahuljica i semenki.
+
+**Q: Koji su biljni izvori proteina za doručak?**
+
+Za biljni doručak birajte mahunarke i namaze od pasulja ili leblebija, uz žitarice, orašaste plodove i semenke.
+
+---
+
 ## 6 pravila za vreme doručka i večere
 
 https://unazdravahrana.com/blog/6-pravila-za-vreme-dorucka-i-vecere
@@ -700,28 +724,4 @@ Javorov sirup ili sirup od agave odlično funkcionišu ako pravite veganu verzij
 
 ---
 
-## Bezglutenska hrana: Lidl ili specijalizovana radnja?
-
-https://unazdravahrana.com/blog/bezglutenska-hrana-lidl-ili-specijalizovana-radnja
-
-Tekst upoređuje bezglutensku ponudu velikih marketa poput Lidla (linija Free From) sa specijalizovanim prodavnicama zdrave hrane po asortimanu, ceni i kvalitetu saveta. Preporučuje kombinaciju: osnovne namirnice iz marketa, specijalizovane proizvode i stručan savet iz radnje zdrave hrane, uz obavezno pažljivo čitanje deklaracije.
-
-**Q: Da li Lidl ima bezglutensku hranu?**
-
-Da, Lidl ima liniju Free From koja obuhvata bezglutenski hleb, testeninu, kekse, pahuljice i brašno-mešavine, uz brendove poput Schär-a. Većina proizvoda nosi sertifikat prekrštenog klasa.
-
-**Q: Šta znači oznaka prekrštenog klasa?**
-
-Prekršteni klas (Crossed Grain) je međunarodni sertifikat koji garantuje da proizvod sadrži manje od 20 mg/kg glutena, što je zvanična EU granica za oznaku bez glutena.
-
-**Q: Da li osoba sa celijakijom sme jesti proizvod sa oznakom može sadržati tragove pšenice?**
-
-Ne preporučuje se. Ta oznaka upozorava na moguću unakrsnu kontaminaciju u fabrici i za osobe sa celijakijom obično znači da proizvod treba izbegavati, bez obzira na ostatak deklaracije.
-
-**Q: Gde je jeftinije kupovati bezglutensku hranu, u marketu ili specijalizovanoj radnji?**
-
-Osnovne namirnice (hleb, testenina) su jeftinije u velikim marketima poput Lidla, dok su specijalizovana brašna i testenine često konkurentnije u prodavnicama zdrave hrane. Kombinacija se najviše isplati.
-
----
-
-Last updated: 2026-09-10
+Last updated: 2026-09-12
