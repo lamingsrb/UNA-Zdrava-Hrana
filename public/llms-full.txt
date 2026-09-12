@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 4 jela od lignji: buzara, tava, rerna i salata
+
+https://unazdravahrana.com/blog/4-jela-od-lignji-buzara-tava-rerna-i-salata
+
+Lignje se spremaju kratko na jakoj vatri ili duže lagano u sosu kako bi ostale mekane. Članak donosi četiri zdrava predloga: buzaru, lignje iz tiganja, iz rerne i salatu.
+
+**Q: Kako da lignje ne budu gumene?**
+
+Lignje pripremajte veoma kratko na jakoj temperaturi, obično 1 do 4 minuta, ili ih lagano krčkajte u sosu 25 do 40 minuta.
+
+**Q: Kako se odmrzavaju zamrznute lignje?**
+
+Odmrzavajte ih preko noći u frižideru, u poklopljenoj posudi. Brža opcija je zatvoreno pakovanje u hladnoj vodi, uz menjanje vode na svakih 30 minuta.
+
+**Q: Koliko se kuvaju lignje na buzaru?**
+
+Lignje na buzaru kuvaju se na tihoj vatri približno 25 do 35 minuta, dok ne omekšaju i ne upiju ukus paradajza, vina i začina.
+
+**Q: Koji prilog ide uz lignje na buzaru?**
+
+Uz lignje na buzaru dobro idu integralni hleb, kuvana heljda, integralna testenina i velika sezonska salata.
+
+---
+
 ## 6 recepata sa motarom za ukus Jadrana kod kuće
 
 https://unazdravahrana.com/blog/6-recepata-sa-motarom-za-ukus-jadrana-kod-kuce
@@ -697,30 +721,6 @@ Dodajte još pola krompira ili kašiku heljdinih pahuljica pri kuvanju — oboje
 **Q: Šta poslužiti uz ovu supu?**
 
 Krišku integralnog ili speltinog hleba, tost sa avokadom ili laganu zelenu salatu — supa je dovoljno hranljiva da bude glavno jelo.
-
----
-
-## Proteini u hrani: prirodni izvori i dnevne potrebe
-
-https://unazdravahrana.com/blog/proteini-u-hrani-prirodni-izvori-i-dnevne-potrebe
-
-Vodič kroz prirodne izvore proteina životinjskog i biljnog porekla, sa preciznim tabelama sadržaja po namirnici i porciji. Objašnjava dnevne potrebe (0,83–2,0 g/kg zavisno od aktivnosti) i pravilan raspored unosa kroz obroke.
-
-**Q: Koliko proteina dnevno treba odrasla osoba?**
-
-Minimum je 0,83 g po kilogramu telesne mase, ali se većini preporučuje 1,0–1,2 g/kg. Aktivni rekreativci trebaju 1,2–1,6 g/kg, a osobe koje treniraju snagu 1,6–2,0 g/kg dnevno.
-
-**Q: Koje namirnice imaju najviše proteina?**
-
-Pileće belo meso ima 30 g na 100 g, tunjevina 26 g, skuša 24 g, tempeh 19 g, grčki jogurt 15 g na 150 g, a od biljnih izvora sočivo i pasulj imaju oko 9 g na 100 g kuvanih.
-
-**Q: Da li su biljni proteini kompletni?**
-
-Pojedinačno nisu, ali kombinovanjem mahunarki (pasulj, sočivo, leblebije) sa integralnim žitaricama (pirinač, kvinoja, ovas) dobija se kompletan protein sa svih devet esencijalnih aminokiselina. Ne mora u istom obroku, dovoljno je tokom dana.
-
-**Q: Kada proteinski suplementi imaju smisla?**
-
-Suplementi popunjavaju rupu u ishrani kada nema vremena za pravi obrok posle treninga ili kod starijih osoba sa slabim apetitom. Ne mogu zameniti loše obroke i nisu neophodni ako se jede raznovrsno.
 
 ---
 
