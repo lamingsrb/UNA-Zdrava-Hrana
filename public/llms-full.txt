@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 6 recepata sa motarom za ukus Jadrana kod kuće
+
+https://unazdravahrana.com/blog/6-recepata-sa-motarom-za-ukus-jadrana-kod-kuce
+
+Motar, poznat i kao morski komorač, aromatična je jestiva obalska biljka koja jelima daje svež, kiselo-slan ukus Jadrana. Koristite ga svežeg kratko blanširanog ili ukiseljenog u salatama, testeninama, namazima i sendvičima, uz oprez sa dodatnom solju.
+
+**Q: Šta je motar?**
+
+Motar je jestiva obalska biljka stručnog naziva Crithmum maritimum, poznata i kao morski komorač. Ima mesnate, aromatične listove ukusa koji podseća na celer, komorač, limun i more.
+
+**Q: Kako se koristi ukiseljeni motar?**
+
+Ukiseljeni motar je spreman za upotrebu i može se dodati salatama, sendvičima, namazima, krompiru ili mezetlucima. Pre serviranja ga probajte i po potrebi kratko isperite hladnom vodom ako je preslan ili prekiseo.
+
+**Q: Da li motar treba kuvati?**
+
+Svež motar se kuva vrlo kratko, obično 30 sekundi do 2 minuta, kako bi ostao hrskav i aromatičan. Ukiseljeni motar uglavnom ne zahteva termičku obradu.
+
+**Q: Gde kupiti motar?**
+
+Svež motar se najčešće nalazi tokom sezone u primorskim krajevima, dok je u unutrašnjosti dostupniji ukiseljeni motar u tegli. Birajte proizvode proverenih proizvođača i proverite deklaraciju, naročito sadržaj soli.
+
+---
+
 ## 5 sastojaka za doručak koji drži sitost
 
 https://unazdravahrana.com/blog/5-sastojaka-za-dorucak-koji-drzi-sitost
@@ -697,30 +721,6 @@ Pojedinačno nisu, ali kombinovanjem mahunarki (pasulj, sočivo, leblebije) sa i
 **Q: Kada proteinski suplementi imaju smisla?**
 
 Suplementi popunjavaju rupu u ishrani kada nema vremena za pravi obrok posle treninga ili kod starijih osoba sa slabim apetitom. Ne mogu zameniti loše obroke i nisu neophodni ako se jede raznovrsno.
-
----
-
-## Zapečeni patlidžan sa smokvama, grožđem i heljdom
-
-https://unazdravahrana.com/recepti/zapeceni-patlidzan-sa-smokvama-grozdjem-i-heljdom
-
-Zapečeni patlidžan sa smokvama, grožđem i heljdom — lagano sezonsko jelo bez glutena, gotovo za 50 minuta. Recept UNA Zdrave Hrane.
-
-**Q: Mogu li da koristim beli patlidžan?**
-
-Naravno, beli patlidžan je nešto blažeg ukusa i ne mora se soliti pre pečenja. Vreme pečenja ostaje isto.
-
-**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
-
-Jeste, heljda je prirodno bez glutena. Proverite deklaraciju na pakovanju da bi bilo sertifikovano bez glutena ako ste osetljivi.
-
-**Q: Mogu li da spremim recept unapred?**
-
-Možete skuvati heljdu i iseći patlidžan ranije, ali preporučujemo da smokve i grožđe pečete neposredno pre serviranja da zadrže sočnost.
-
-**Q: Čime da zamenim med?**
-
-Javorov sirup ili sirup od agave odlično funkcionišu ako pravite veganu verziju jela.
 
 ---
 
