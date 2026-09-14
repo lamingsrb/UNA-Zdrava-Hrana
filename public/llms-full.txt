@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Recepti sa svežim smokvama: 5 ideja koje vredi probati
+
+https://unazdravahrana.com/blog/recepti-sa-svezim-smokvama-5-ideja-koje-vredi-probati
+
+Vodič kroz 5 jednostavnih recepata sa svežim smokvama, od predjela sa kozjim sirom do salate sa pršutom i ovsene kaše. Uključuje savete kako prepoznati zrelu smokvu, čuvati je i uporedni pregled kalorija svežih, suvih i pečenih smokvi.
+
+**Q: Kako prepoznati zrelu smokvu?**
+
+Zrela smokva je mekana na dodir, blago spuštenih ramena, sa kožicom koja može pucati po vrhu i sladunjavim mirisom. Teška je za svoju veličinu jer je puna soka, a peteljka treba da bude sveža, ne suva i crna.
+
+**Q: Koliko dugo mogu da stoje sveže smokve?**
+
+Sveže smokve ne trpe stajanje — u frižideru izdrže dva do tri dana, a na sobnoj temperaturi samo jedan dan. Ako ih ima previše, najbolje je odmah ih zamrznuti cele ili upotrebiti u receptu.
+
+**Q: Koliko kalorija ima sveža smokva?**
+
+Sveža smokva ima oko 74 kcal na 100 g, što je otprilike dva komada srednje veličine, i sadrži oko 3 g vlakana. Suva smokva je znatno kaloričnija, oko 250 kcal na 100 g.
+
+**Q: Sa čim se najbolje kombinuju sveže smokve?**
+
+Sveže smokve se odlično slažu sa kozjim sirom i medom, pršutom i rukolom, orasima i bademima, kao i sa ovsenim pahuljicama za doručak. Njihova slatkoća balansira slane i gorke ukuse.
+
+---
+
 ## 4 jela od lignji: buzara, tava, rerna i salata
 
 https://unazdravahrana.com/blog/4-jela-od-lignji-buzara-tava-rerna-i-salata
@@ -700,28 +724,4 @@ Da, integralna testenina sadrži vlakna koja usporavaju varenje i ublažavaju sk
 
 ---
 
-## Kremasta supa od bundeve sa orasima i šljivama
-
-https://unazdravahrana.com/recepti/kremasta-supa-od-bundeve-sa-orasima-i-sljivama
-
-Kremasta supa od pečene bundeve sa orasima i šljivama — jesenji recept bez glutena i mleka, gotov za 50 minuta. Topla, hranljiva i jednostavna.
-
-**Q: Mogu li koristiti smrznutu bundevu?**
-
-Da, samo je prethodno odmrznite i dobro ocedite pre pečenja. Ukus će biti nešto blaži, pa slobodno dodajte malo više đumbira i cimeta.
-
-**Q: Da li je supa pogodna za decu?**
-
-Jeste, ali za mlađu decu preskočite biber i smanjite đumbir. Blago slatkast ukus bundeve i šljiva obično im veoma prija.
-
-**Q: Kako da supa bude gušća?**
-
-Dodajte još pola krompira ili kašiku heljdinih pahuljica pri kuvanju — oboje prirodno zgušnjava bez brašna.
-
-**Q: Šta poslužiti uz ovu supu?**
-
-Krišku integralnog ili speltinog hleba, tost sa avokadom ili laganu zelenu salatu — supa je dovoljno hranljiva da bude glavno jelo.
-
----
-
-Last updated: 2026-09-12
+Last updated: 2026-09-14
