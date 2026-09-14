@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Domaći kimči od bundeve i kupusa sa orasima
+
+https://unazdravahrana.com/recepti/domaci-kimci-od-bundeve-i-kupusa-sa-orasima
+
+Domaći kimči od bundeve, kupusa i oraha — jesenja verzija sa uputstvom za fermentaciju 4-7 dana. Prirodni probiotici za dobra creva.
+
+**Q: Da li mogu da koristim običnu kuhinjsku so?**
+
+Ne preporučuje se. Jodirana so i so sa aditivima protiv zgrušavanja ometaju rad korisnih bakterija. Koristite krupnu morsku ili himalajsku so bez dodataka.
+
+**Q: Kako da znam da je kimči gotov?**
+
+Probajte kašičicom od 4. dana — kad vam ukus odgovara (kiselkast, blago gaziran), prebacite u frižider. Ukus nastavlja da se razvija i tamo, samo sporije.
+
+**Q: Da li fermentisana hrana zaista pomaže crevima?**
+
+Fermentisane namirnice sadrže žive kulture koje doprinose raznovrsnosti crevne mikroflore. Nije zamena za lekove — kod tegoba obavezno se posavetujte sa lekarom.
+
+**Q: Mogu li da koristim heljdinu bundevu (hokaido)?**
+
+Da, hokaido je odličan izbor jer je slađi i čvršći. Ne mora se ni ljuštiti, samo dobro operite koru i narendajte.
+
+---
+
 ## Kvalitetni vitamini i minerali: kako birati pametno
 
 https://unazdravahrana.com/blog/kvalitetni-vitamini-i-minerali-kako-birati-pametno
@@ -697,30 +721,6 @@ Uz grčki jogurt i orahe, porcija nosi oko 15–18 g proteina, što je solidan d
 **Q: Mogu li da pripremim jelo bez rerne?**
 
 Bundevu možete i dinstati u dubljem tiganju 15–20 minuta uz malo vode i maslinovog ulja, poklopljeno, dok ne omekša.
-
----
-
-## Dimljeni losos: recepti za testeninu, salatu i omlet
-
-https://unazdravahrana.com/blog/dimljeni-losos-recepti-za-testeninu-salatu-i-omlet
-
-Vodič kroz izbor i pripremu dimljenog lososa sa savetima kako prepoznati kvalitetan proizvod i sa kojim namirnicama se najbolje slaže. Uključuje četiri brza recepta: kremastu testeninu za 15 minuta, salatu sa avokadom, omlet i namaz sa krem sirom.
-
-**Q: Kako prepoznati kvalitetan dimljeni losos?**
-
-Kvalitetan dimljeni losos ima ujednačenu narandžasto-ružičastu boju bez sivih fleka, kompaktnu i lagano vlažnu teksturu i miris na dim i more, nikad na amonijak. Na deklaraciji treba da piše samo losos, so i dim, bez boja i pojačivača ukusa, a sadržaj soli idealno 2–3 g na 100 g.
-
-**Q: Koja je razlika između hladno i toplo dimljenog lososa?**
-
-Hladno dimljeni losos je tanko sečen, svilenkaste teksture i idealan za sendviče, testeninu i omlet. Toplo dimljeni losos je čvršći, listasto se lomi i ima izraženiji ukus dima, pa je bolji za salate gde želite da se komadići vide.
-
-**Q: Koliko dugo se čuva dimljeni losos nakon otvaranja?**
-
-Nakon otvaranja pakovanja dimljeni losos treba iskoristiti u roku od dva dana i držati ga na najhladnijem delu frižidera, obično na najnižoj polici uz zadnji zid.
-
-**Q: Sa čim se dimljeni losos najbolje slaže?**
-
-Dimljeni losos se najbolje slaže sa limunom, mirođijom, vlašcem, kaparima, crvenim lukom, krem sirom, avokadom, jajima, krastavcem, rukolom i cveklom. Izbegavajte jake kari začine, mnogo belog luka, teške sosove od paradajza i sireve jakog ukusa poput rokfora.
 
 ---
 
