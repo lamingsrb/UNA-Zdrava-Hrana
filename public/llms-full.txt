@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ribane tikvice: brzi letnji obroci bez muke
+
+https://unazdravahrana.com/blog/ribane-tikvice-brzi-letnji-obroci-bez-muke
+
+Vodič za pripremu ribanih tikvica kao osnove brzih letnjih obroka, sa savetima za izbor na pijaci i trikom ceđenja vode. Uključuje šest recepata (palačinke, špageti, frittata, salata, krem-supa, ćufte) i tabelu ulja za različite načine pripreme.
+
+**Q: Kako se najbolje ceđe ribane tikvice pre kuvanja?**
+
+Izrendaj tikvice na krupno rende sa korom, pospi pola kašičice soli na 500 g, promešaj i ostavi 10–15 minuta u cediljci. Zatim rukama ili u gazi iscedi tečnost — iz 500 g dobićeš oko pola šolje vode.
+
+**Q: Kako izabrati sveže tikvice na pijaci?**
+
+Biraj tikvice dužine 15–20 cm, čvrste, sa glatkom i sjajnom korom, svežom peteljkom i bez izraženog mirisa. Ako popušta pod prstom ili miriše kiselkasto, nemoj je uzeti.
+
+**Q: Koje rende koristiti za ribane tikvice?**
+
+Krupno rende (ono za kupus i krastavce) daje niti koje drže oblik i posle pečenja, savršeno za tiganj i salatu. Sitno rende pravi kašu koja pušta previše vode i pogodno je samo za pite i hleb.
+
+**Q: Koje ulje je najbolje za pripremu tikvica?**
+
+Za sirove tikvice i salate koristi maslinovo extra virgin ili bundevino ulje, za kratko prženje maslinovo ili kokosovo, a za pečenje u rerni maslinovo ili avokado ulje. Laneno i konopljino ulje nikad ne zagrevati.
+
+---
+
 ## Fermentisani kupus sa bundevom i šljivama
 
 https://unazdravahrana.com/recepti/fermentisani-kupus-sa-bundevom-i-sljivama
@@ -697,30 +721,6 @@ Približno 10-12 g biljnih proteina po porciji, zahvaljujući ovsu, orasima i ch
 **Q: Mogu li koristiti sušene šljive?**
 
 Naravno — potopite 100 g sušenih šljiva u toploj vodi 15 minuta, pa iseckajte i dodajte kaši. Slađe su od svežih, pa smanjite med.
-
----
-
-## Proteinske pločice sa bundevom, orasima i šljivama
-
-https://unazdravahrana.com/recepti/proteinske-plocice-sa-bundevom-orasima-i-sljivama
-
-Domaće proteinske pločice sa bundevom, orasima i šljivama — jesenja užina bez belog šećera, gotova za 40 minuta.
-
-**Q: Mogu li da koristim bundevu iz tegle ili smrznutu?**
-
-Može i smrznuta bundeva — samo je odmrznite i dobro ocedite viška vode pre nego što je izgnječite. Kupovni pire iz tegle takođe radi posao, birajte onaj bez dodatog šećera.
-
-**Q: Da li su ove pločice dovoljne kao doručak?**
-
-Uz šolju kefira, jogurta ili biljnog mleka i malo svežeg voća — sasvim. Sama pločica je odlična užina između obroka ili posle rekreacije.
-
-**Q: Kako da pločice budu čvršće i da se ne mrve?**
-
-Ključ je u dva koraka: masa mora biti dobro sabijena u plehu (pritisnite je snažno) i mora se hladiti bar 2 sata. Čia gel i tahini su ti koji sve povežu.
-
-**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
-
-Ovas prirodno ne sadrži gluten, ali se često prerađuje u pogonima gde ima pšenice. Ako imate celijakiju, birajte ovas sa oznakom „bez glutena“ — pitajte nas u radnji, imamo takve u ponudi.
 
 ---
 
