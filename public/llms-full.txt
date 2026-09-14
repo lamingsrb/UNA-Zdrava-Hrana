@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Brzi kimči od bundeve i belog kupusa sa đumbirom
+
+https://unazdravahrana.com/recepti/brzi-kimci-od-bundeve-i-belog-kupusa-sa-djumbirom
+
+Brzi kimči od bundeve, kupusa i đumbira — jednostavna fermentacija za 3-5 dana koja podržava zdravlje creva. Recept UNA Zdrave Hrane.
+
+**Q: Da li kimči može da se pravi bez ljute paprike?**
+
+Može. Izostavite ljutu, a zadržite slatku alevu papriku — dobićete blažu verziju koja i deci prija.
+
+**Q: Kako da znam da je kimči uspeo, a ne pokvaren?**
+
+Uspešan kimči miriše kiselkasto-svežje, ima blago mehuriće i prijatnu boju. Ako vidite plesan na površini ili osetite neprijatan miris, bacite ga.
+
+**Q: Da li fermentisana hrana zaista pomaže crevima?**
+
+Fermentisana hrana doprinosi raznovrsnosti crevne mikroflore zahvaljujući živim kulturama. Za konkretna zdravstvena pitanja posavetujte se sa lekarom.
+
+**Q: Mogu li da koristim već fermentisan sok kao starter?**
+
+Da, kašika soka iz prethodne tegle kimčija ili kiselog kupusa ubrzava fermentaciju i daje pouzdaniji rezultat.
+
+---
+
 ## Domaći kimči od bundeve i kupusa sa orasima
 
 https://unazdravahrana.com/recepti/domaci-kimci-od-bundeve-i-kupusa-sa-orasima
@@ -697,30 +721,6 @@ Zavisi od stanja imuniteta. Kod pacijenata sa neutropenijom lekari često savetu
 **Q: Pomaže li ingver protiv mučnine izazvane hemoterapijom?**
 
 Ingver u umerenim količinama, najčešće kao čaj ili svež koren sa limunom, mnogi onkolozi preporučuju kao pomoć kod mučnine. U velikim dozama može uticati na zgrušavanje krvi, pa je i tu bolje konsultovati lekara.
-
----
-
-## Proteinska činija sa bundevom, orasima i šljivama
-
-https://unazdravahrana.com/recepti/proteinska-cinija-sa-bundevom-orasima-i-sljivama
-
-Topla proteinska činija sa pečenom bundevom, kvinojom, šljivama i orasima — sezonski jesenji recept gotov za 45 minuta.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Može, ali je prvo odmrznite i dobro ocedite od viška tečnosti, pa produžite pečenje za 5–7 minuta da lepo porumeni.
-
-**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
-
-Jeste — kvinoja, bundeva, šljive, orasi i jogurt su prirodno bez glutena. Ako ste osetljivi, proverite deklaraciju kvinoje da bude sa oznakom bez glutena.
-
-**Q: Koliko proteina ima jedna porcija?**
-
-Uz grčki jogurt i orahe, porcija nosi oko 15–18 g proteina, što je solidan doprinos dnevnom unosu, posebno za osobe posle 50. godine.
-
-**Q: Mogu li da pripremim jelo bez rerne?**
-
-Bundevu možete i dinstati u dubljem tiganju 15–20 minuta uz malo vode i maslinovog ulja, poklopljeno, dok ne omekša.
 
 ---
 
