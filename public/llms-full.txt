@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Šta se dešava kada preskočimo doručak svako jutro?
+
+https://unazdravahrana.com/blog/sta-se-desava-kada-preskocimo-dorucak-svako-jutro
+
+Preskakanje doručka nije samo po sebi štetno, ali svakodnevno ponavljanje često vodi ka večernjem prejedanju, lošijim izborima hrane i gubitku prirodnog osećaja gladi. Kvalitetan doručak sa kompleksnim ugljenim hidratima, proteinima i zdravim mastima pomaže stabilnoj energiji i boljem rasporedu obroka tokom dana.
+
+**Q: Da li je doručak zaista najvažniji obrok u danu?**
+
+Ne postoji jedan najvažniji obrok — bitan je ukupan raspored ishrane tokom 24 sata. Ali prvi obrok postavlja ton za ostale, pa kvalitetan doručak često znači mudrije izbore hrane do večere.
+
+**Q: Šta se dešava telu kada preskočimo doručak?**
+
+Prvih 2–3 sata većina ljudi se oseća fokusirano zbog kortizola, ali posle 3–5 sati može pasti šećer u krvi, javiti se razdražljivost i magla u glavi, a posle 5–7 sati dolazi jaka glad i želja za slatkim.
+
+**Q: Ko bi obavezno trebalo da doručkuje?**
+
+Deca školskog uzrasta, sportisti, trudnice i dojilje, osobe sa dijabetesom, stariji od 65 godina, ljudi skloni večernjem prejedanju i oni koji piju terapiju uz hranu imaju najviše koristi od redovnog jutarnjeg obroka.
+
+**Q: Kako izgleda doručak koji drži do ručka?**
+
+Zasitan doručak stoji na tri stuba: kompleksni ugljeni hidrati (ovsene pahuljice, integralni hleb), protein (jaja, jogurt, semenke) i zdrava mast (avokado, orasi, tahini). Ta kombinacija sprečava naglu glad i žudnju za slatkim.
+
+---
+
 ## Multi Essence vitamini i minerali: sve što treba da znate
 
 https://unazdravahrana.com/blog/multi-essence-vitamini-i-minerali-sve-sto-treba-da-znate
@@ -697,30 +721,6 @@ Spelta sadrži gluten. Za bezglutensku verziju zamenite speltino brašno heljdin
 **Q: Koliko proteina ima jedna porcija?**
 
 Približno 14-16 g proteina po porciji, zahvaljujući kombinaciji jaja, oraha i lanenog semena — solidan obrok za one koji vode računa o dnevnom unosu proteina.
-
----
-
-## Zašto je zdrava ishrana bitna: 7 razloga za bolji dan
-
-https://unazdravahrana.com/blog/zasto-je-zdrava-ishrana-bitna-7-razloga-za-bolji-dan
-
-Članak objašnjava kako zdrava ishrana utiče na energiju, imunitet, san, srce i digestiju kroz sedam praktičnih razloga. Nudi jednostavne zamene namirnica i primere obroka primenljive za porodice, rekreativce i sve uzraste.
-
-**Q: Šta znači zdrava ishrana?**
-
-Zdrava ishrana je raznovrsan i redovan način jela zasnovan na namirnicama bliskim prirodnom obliku — integralnim žitaricama, mahunarkama, povrću, voću, orašastim plodovima i kvalitetnim mastima, uz što manje prerađenih proizvoda, šećera i loših masti.
-
-**Q: Kako ishranom povećati energiju tokom dana?**
-
-Kombinujte složene ugljene hidrate sa vlaknima, belančevinama i dobrim mastima. Na primer, ovsena kaša sa orasima i voćem ili integralna testenina sa pasuljem sprečavaju nagle skokove i padove šećera u krvi i održavaju fokus.
-
-**Q: Koje namirnice jačaju imunitet?**
-
-Imunitet podržavaju vitamin C iz paprike, kupusa, kivija i agruma, cink iz semenki bundeve i mahunarki, vitamin D, probiotici iz kiselog kupusa, kefira i jogurta, kao i biljni čajevi poput bazge, đumbira i kamilice.
-
-**Q: Šta jesti uveče za bolji san?**
-
-Uveče birajte lagan obrok 2-3 sata pre spavanja, poput integralnog hleba sa avokadom i jajetom ili jogurta sa bobicama i orasima. Izbegavajte kofein posle ranog popodneva i pijte čaj od kamilice, matičnjaka ili lavande.
 
 ---
 
