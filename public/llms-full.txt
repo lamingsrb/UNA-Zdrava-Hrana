@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kvalitetni vitamini i minerali: kako birati pametno
+
+https://unazdravahrana.com/blog/kvalitetni-vitamini-i-minerali-kako-birati-pametno
+
+Praktičan vodič za pametan izbor vitamina i minerala kroz čitanje deklaracije, prepoznavanje boljih oblika (bisglicinat, D3, metilfolat, rTG omega-3) i doziranje. Naglašava da suplement dopunjuje ishranu, a ne zamenjuje je, uz preporuku konsultacije sa lekarom.
+
+**Q: Koji oblik magnezijuma je najbolji?**
+
+Bisglicinat, citrat i malat se bolje apsorbuju i nežniji su za želudac od oksida, koji često izaziva mekšu stolicu. Bisglicinat je posebno pogodan za osobe sa osetljivim digestivnim traktom.
+
+**Q: Kada uzimati koji vitamin tokom dana?**
+
+Vitamine rastvorljive u mastima (A, D, E, K, omega-3) uz obrok sa mastima. B kompleks ujutru jer daje energiju, magnezijum uveče jer opušta, a gvožđe na prazan stomak sa malo vitamina C, dalje od kafe i čaja.
+
+**Q: Da li je više vitamina uvek bolje?**
+
+Nije. Vitamini rastvorljivi u mastima (A, D, E, K) se skladište u telu i višak može da napravi problem. Kod minerala višak jednog remeti ravnotežu drugih, npr. previše cinka smanjuje bakar.
+
+**Q: Šta gledati na deklaraciji suplementa?**
+
+Aktivni sastojak i njegov oblik, količinu po dozi i procenat NRV, broj kapsula za dnevnu dozu, listu pomoćnih sastojaka (što manje punila i boja), proizvođača i zemlju porekla, kao i rok trajanja i način čuvanja.
+
+---
+
 ## Recepti sa svežim smokvama: 5 ideja koje vredi probati
 
 https://unazdravahrana.com/blog/recepti-sa-svezim-smokvama-5-ideja-koje-vredi-probati
@@ -697,30 +721,6 @@ Nakon otvaranja pakovanja dimljeni losos treba iskoristiti u roku od dva dana i 
 **Q: Sa čim se dimljeni losos najbolje slaže?**
 
 Dimljeni losos se najbolje slaže sa limunom, mirođijom, vlašcem, kaparima, crvenim lukom, krem sirom, avokadom, jajima, krastavcem, rukolom i cveklom. Izbegavajte jake kari začine, mnogo belog luka, teške sosove od paradajza i sireve jakog ukusa poput rokfora.
-
----
-
-## Testenina ili krompir salata: šta je bolje za šećer?
-
-https://unazdravahrana.com/blog/testenina-ili-krompir-salata-sta-je-bolje-za-secer
-
-Obe salate mogu biti dobre za šećer u krvi ako se pravilno pripreme — integralna testenina 'al dente' i ohlađen kuvani krompir sadrže rezistentni skrob koji sporije diže glukozu. Ključ je u dodacima: sirće, maslinovo ulje, mahunarke i povrće stabilizuju šećer, dok majonez, kobasice i beli hleb kvare balans.
-
-**Q: Šta je bolje za šećer u krvi — krompir ili testenina salata?**
-
-Salata od integralne testenine kuvane 'al dente' obično ima blagu prednost, ali krompir salata od ohlađenog kuvanog krompira sa sirćetom može biti podjednako dobra. Ključ je u pripremi i dodacima, ne u samoj namirnici.
-
-**Q: Zašto je ohlađeni krompir bolji za dijabetičare?**
-
-Kada se kuvani krompir ohladi preko noći, deo skroba se pretvara u rezistentni skrob koji telo ne vari kao običan, pa se ponaša sličnije vlaknima. Rezultat je sporiji rast šećera u krvi i hrana za dobre bakterije u crevima.
-
-**Q: Kako sirće utiče na šećer u krvi posle obroka?**
-
-Jedna kašika jabukovog ili vinskog sirćeta u prelivu značajno ublažava skok šećera u krvi posle obroka sa skrobom. To je jedan od najbolje potvrđenih i praktično besplatnih trikova u ishrani kod dijabetesa.
-
-**Q: Da li je integralna testenina bolja od bele za dijabetes?**
-
-Da, integralna testenina sadrži vlakna koja usporavaju varenje i ublažavaju skok glukoze. Ako teško prelazite sa bele na integralnu, počnite od mešavine 50:50 da se ukućani lakše naviknu.
 
 ---
 
