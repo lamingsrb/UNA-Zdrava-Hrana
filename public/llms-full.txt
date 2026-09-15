@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Recepti s mangom: 6 osvežavajućih ideja za leto
+
+https://unazdravahrana.com/blog/recepti-s-mangom-6-osvezavajucih-ideja-za-leto
+
+---
+
 ## Topla ovsena kaša sa bundevom, šljivama i orasima za vlakna
 
 https://unazdravahrana.com/recepti/topla-ovsena-kasa-sa-bundevom-sljivama-i-orasima-za-vlakna
@@ -697,30 +703,6 @@ Muskatne i hokaido sorte imaju gušće meso i prirodno slađi ukus, pa se najbol
 **Q: Šta ako nemam sveže šljive?**
 
 Van sezone možete koristiti suve šljive — 150 g suvih namočite 20 minuta u toploj vodi i dodajte ih pri kraju pečenja, jer ne treba im dugo toplote.
-
----
-
-## Piletina ili ćuretina: koja je zapravo bolja?
-
-https://unazdravahrana.com/blog/piletina-ili-curetina-koja-je-zapravo-bolja
-
-Ćuretina ima manje masti, više proteina i više cinka i selena, dok je piletina sočnija i bogatija vitaminom B6. Izbor zavisi od cilja: ćureće grudi za holesterol i mršavljenje, piletina za raznovrsnost i ukus.
-
-**Q: Da li je ćuretina zdravija od piletine?**
-
-Ćureće grudi imaju manje masti i više proteina, cinka i selena od pilećih grudi, pa su često bolji izbor za holesterol i mršavljenje. Piletina je sočnija i bogatija vitaminom B6, pa je najbolje kombinovati obe.
-
-**Q: Koje meso je bolje za snižavanje holesterola?**
-
-Ćureće grudi bez kože imaju najmanje zasićenih masti i smatraju se jednim od najsuvljih izvora životinjskih proteina. Način pripreme je ključan — izbegavajte prženje, panirenje i kožicu.
-
-**Q: Koliko proteina ima u pilećim i ćurećim grudima?**
-
-Pileće grudi imaju oko 31 g proteina na 100 g, a ćureće grudi oko 30 g na 100 g kuvanog mesa bez kože. Obe su odličan izvor proteina za rekreativce i one koji mršave.
-
-**Q: Koje meso je najbolje za imunitet?**
-
-Ćuretina, posebno tamnije meso poput bataka, sadrži više cinka i selena — minerala važnih za rad imunog sistema. Uz ćuretinu, unosite i bundevine semenke, brazilski orah i integralne žitarice.
 
 ---
 
