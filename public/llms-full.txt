@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Topla ovsena kaša sa bundevom, šljivama i orasima za vlakna
+
+https://unazdravahrana.com/recepti/topla-ovsena-kasa-sa-bundevom-sljivama-i-orasima-za-vlakna
+
+Topla ovsena kaša sa bundevom, šljivama i orasima — jesenji doručak bogat vlaknima, gotov za 35 minuta. Sit, prirodno sladak i domaćinski.
+
+**Q: Mogu li kašu pripremiti veče pre?**
+
+Da. Skuvajte je uveče, ohladite i čuvajte u frižideru. Ujutru dodajte malo tečnosti i kratko podgrejte.
+
+**Q: Kako da recept bude vegan?**
+
+Koristite biljni napitak (ovseni, badem) umesto mleka i javorov sirup umesto meda.
+
+**Q: Da li je ova kaša prikladna za starije osobe?**
+
+Jeste — mekana je, laka za žvakanje i bogata vlaknima koja podržavaju varenje. Za posebna zdravstvena stanja posavetujte se sa lekarom.
+
+**Q: Mogu li koristiti smrznutu bundevu?**
+
+Naravno. Skratite kuvanje za par minuta i pratite konzistenciju — možda će vam trebati malo manje tečnosti.
+
+---
+
 ## Musli tegla sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/musli-tegla-sa-bundevom-sljivama-i-orasima
@@ -697,30 +721,6 @@ Pileće grudi imaju oko 31 g proteina na 100 g, a ćureće grudi oko 30 g na 100
 **Q: Koje meso je najbolje za imunitet?**
 
 Ćuretina, posebno tamnije meso poput bataka, sadrži više cinka i selena — minerala važnih za rad imunog sistema. Uz ćuretinu, unosite i bundevine semenke, brazilski orah i integralne žitarice.
-
----
-
-## Topla zobena kaša sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/topla-zobena-kasa-sa-bundevom-sljivama-i-orasima
-
-Kremasta zobena kaša sa pečenom bundevom, šljivama i orasima — topao jesenji doručak bogat vlaknima. Gotova za 35 minuta.
-
-**Q: Mogu li da koristim zamrznutu bundevu?**
-
-Da, samo je prethodno odmrznite i dobro ocedite od viška tečnosti pre pečenja, kako bi se lepše karamelizovala.
-
-**Q: Da li recept odgovara osobama sa intolerancijom na laktozu?**
-
-Da, u receptu koristimo biljno mleko. Birajte badem, ovseno ili kokosovo — sva su prirodno bez laktoze.
-
-**Q: Čime da zamenim med ako pravim za dete mlađe od godinu dana?**
-
-Umesto meda dodajte kašiku sirupa od javora ili jednostavno izgnječenu zrelu bananu za prirodnu slatkoću.
-
-**Q: Koliko dugo mogu da čuvam kašu u frižideru?**
-
-Do 2 dana u zatvorenoj posudi. Prilikom podgrevanja dodajte 2-3 kašike mleka ili vode jer se kaša u frižideru zgusne.
 
 ---
 
