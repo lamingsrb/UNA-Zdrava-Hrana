@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Musli tegla sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/musli-tegla-sa-bundevom-sljivama-i-orasima
+
+Kremasti musli sa pečenom bundevom, šljivama i orasima — jesenji doručak bogat vlaknima, pripremljen unapred za mirno jutro.
+
+**Q: Mogu li da pripremim veću količinu za celu nedelju?**
+
+Preporučujemo pripremu za najviše 3 dana unapred, jer šljive i jogurt najbolje čuvaju svežinu u tom periodu. Pahuljice i pečenu bundevu možete pripremiti posebno i sklapati tegle svaka 2 dana.
+
+**Q: Da li je ovaj recept pogodan za osobe sa dijabetesom?**
+
+Recept je bogat vlaknima koja doprinose stabilnijem osećaju sitosti, ali sadrži prirodne šećere iz voća i meda. Za konkretne savete u vezi sa ishranom kod dijabetesa obavezno se posavetujte sa lekarom ili nutricionistom.
+
+**Q: Čime da zamenim orahe ako imam alergiju?**
+
+Odlično se uklapaju semenke suncokreta, bundeve ili tikve. Sve tri dolaze uz sličnu hrskavost i dodatne minerale, a nisu orašasti plodovi.
+
+**Q: Da li mogu koristiti smrznutu bundevu?**
+
+Može, ali je pre pečenja ocedite i posušite papirnim ubrusom kako ne bi pustila previše vode. Vreme pečenja produžite za 5–10 minuta.
+
+---
+
 ## Jesenja kaša od heljde s bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenja-kasa-od-heljde-s-bundevom-sljivama-i-orasima
@@ -697,30 +721,6 @@ Umesto meda dodajte kašiku sirupa od javora ili jednostavno izgnječenu zrelu b
 **Q: Koliko dugo mogu da čuvam kašu u frižideru?**
 
 Do 2 dana u zatvorenoj posudi. Prilikom podgrevanja dodajte 2-3 kašike mleka ili vode jer se kaša u frižideru zgusne.
-
----
-
-## Hotelski doručak: 5 laganih menija bez griže savesti
-
-https://unazdravahrana.com/blog/hotelski-dorucak-5-laganih-menija-bez-grize-savesti
-
-Vodič kroz 5 laganih menija za hotelski doručak koji kombinuju proteine, vlakna i zdrave masti. Objašnjava pravilo tanjira i najčešće greške na švedskom stolu.
-
-**Q: Kako izabrati zdrav doručak sa švedskog stola?**
-
-Primenite pravilo tanjira: polovina voće i povrće, četvrtina protein (jaja, sir, jogurt), četvrtina složeni ugljeni hidrati (ovsene pahuljice, integralni hleb) i jedna kašika zdrave masti (orasi, avokado, maslinovo ulje).
-
-**Q: Da li je bolje preskočiti doručak na odmoru?**
-
-Ne. Preskakanje doručka vodi ka prejedanju kasnije. Bolje je izabrati strukturisan obrok sa proteinima i vlaknima koji drži sitost 4–5 sati bez pada energije.
-
-**Q: Koliko proteina treba da ima jutarnji obrok?**
-
-Za aktivnu osobu preporučuje se 25–30 g proteina ujutru, što se lako postiže sa 2 jaja, kockicom sira i kriškom integralnog hleba ili sa 200 g grčkog jogurta uz semenke.
-
-**Q: Koje namirnice sa švedskog stola treba izbegavati?**
-
-Izbegavajte kroasane sa džemom, cedene sokove iz aparata, fabričke musli mešavine sa šećerom, masne salame i palačinke sa kremom — brzo dižu šećer u krvi i vraćaju glad.
 
 ---
 
