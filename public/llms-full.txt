@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Veganski ručak za 30 minuta: 5 zasitnih recepata
+
+https://unazdravahrana.com/blog/veganski-rucak-za-30-minuta-5-zasitnih-recepata
+
+Vodič kroz pet zasitnih veganskih recepata koji se pripremaju za oko 30 minuta, sa naglaskom na balans proteina, vlakana, složenih ugljenih hidrata i zdravih masti. Uključuje kari od leblebija, buddha bowl sa kinoom, testeninu sa sosom od crvenog sočiva i tofu sa brokolijem.
+
+**Q: Šta čini veganski ručak zasitnim?**
+
+Zasitan veganski ručak sadrži četiri elementa: izvor proteina (mahunarke, tofu, tempeh), vlakna iz povrća, složene ugljene hidrate poput kinoe ili integralnih žitarica, i zdrave masti (tahini, maslinovo ulje, semenke).
+
+**Q: Koliko proteina treba da ima veganski ručak?**
+
+Preporučuje se 80–120 g kuvanih mahunarki, tofua ili tempeha po osobi, što daje oko 20–25 g proteina po porciji, dovoljno za sitost i oporavak nakon treninga.
+
+**Q: Kako pripremiti tofu da bude ukusan?**
+
+Ključ je da se tofu prvo iscedi — umotajte kockice u čist peškir, pritisnite tanjirom 10 minuta, zatim uvaljajte u kukuruzni skrob i propržite dok ne uhvati koricu sa svih strana.
+
+**Q: Može li se veganski ručak spremiti za 30 minuta?**
+
+Da, uz pripremljene sastojke poput konzerve leblebija, crvenog sočiva koje se kuva 12 minuta ili tofua, može se napraviti kompletan zasitan obrok za 20–30 minuta.
+
+---
+
 ## Kimči: originalni recept i koliko dana da fermentiše
 
 https://unazdravahrana.com/blog/kimci-originalni-recept-i-koliko-dana-da-fermentise
@@ -697,30 +721,6 @@ Naravno — kruške, jabuke ili smokve odlično se slažu sa bundevom i orasima.
 **Q: Kako da lepinjice budu hrskavije?**
 
 Dobro iscedite bundevu i pecite ih 5 minuta duže, pa ih ostavite u ugašenoj rerni još 5 minuta. Susam na vrhu takođe daje lepu hrskavu koricu.
-
----
-
-## Sočne pljeskavice od bundeve i oraha sa šljivama
-
-https://unazdravahrana.com/recepti/socne-pljeskavice-od-bundeve-i-oraha-sa-sljivama
-
-Sočne pečene pljeskavice od bundeve i oraha sa karamelizovanim šljivama — jesenji recept bez belog brašna, gotov za 50 minuta.
-
-**Q: Mogu li pljeskavice da pripremim unapred?**
-
-Da, smesu možete umesiti dan ranije i držati u frižideru, a peći tek pred serviranje. Već pečene se odlično podgrevaju u rerni na 180°C oko 8 minuta.
-
-**Q: Kako da bundeva ne pusti previše vode u smesi?**
-
-Ključno je da rendanu bundevu posolite i ostavite 10 minuta, a zatim dobro iscedite rukama. Tako smesa ostaje kompaktna i pljeskavice se lepo oblikuju.
-
-**Q: Da li je jelo pogodno za osobe starije od 50 godina?**
-
-Jeste, jer donosi kombinaciju biljnih i životinjskih belančevina uz vlakna i zdrave masti iz oraha, što podržava svakodnevni unos proteina. Za konkretne zdravstvene preporuke uvek se posavetujte sa lekarom.
-
-**Q: Sa čim mogu da serviram ove pljeskavice?**
-
-Odlično idu uz zelenu salatu sa rukolom, kuvani krompir sa peršunom ili kašiku gustog jogurta. Pečene šljive daju slatko-kiseli ton koji zaokružuje obrok.
 
 ---
 
