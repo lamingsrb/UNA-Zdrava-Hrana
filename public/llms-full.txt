@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kimči: originalni recept i koliko dana da fermentiše
+
+https://unazdravahrana.com/blog/kimci-originalni-recept-i-koliko-dana-da-fermentise
+
+Detaljan vodič za pripremu domaćeg kimčija po tradicionalnom korejskom receptu, prilagođen sastojcima dostupnim u Srbiji. Uključuje tabelu fermentacije po danima i objašnjenje probiotičkih sojeva.
+
+**Q: Koliko dana kimči treba da fermentiše?**
+
+Na sobnoj temperaturi od 20–22°C, kimči je za većinu ukusa spreman za frižider 3. do 5. dana. Za blažu kiselost prebacite ga ranije, za intenzivniji ukus ostavite do 7 dana.
+
+**Q: Da li domaći kimči ima više probiotika od kupovnog?**
+
+Da, jer kupovni kimči je najčešće pasterizovan pa su korisne bakterije mrtve. Domaći kimči čuvan u frižideru ostaje živ mesecima i sadrži bogatu mikrofloru bakterija mlečne kiseline.
+
+**Q: Šta ako ne mogu da nađem gochugaru?**
+
+Možete koristiti mešavinu domaće mlevene slatke aleve paprike sa malo ljute. Ukus neće biti identičan, ali će dati sličnu boju i prijatnu ljutinu bez gorčine.
+
+**Q: Kako napraviti veganski kimči?**
+
+Umesto ribljeg sosa koristite 2 kašike sos od soje ili miso paste. Postupak i vreme fermentacije ostaju isti, a ukus je jednako bogat i umami.
+
+---
+
 ## Šta se dešava kada preskočimo doručak svako jutro?
 
 https://unazdravahrana.com/blog/sta-se-desava-kada-preskocimo-dorucak-svako-jutro
@@ -700,28 +724,4 @@ Odlično idu uz zelenu salatu sa rukolom, kuvani krompir sa peršunom ili kašik
 
 ---
 
-## Proteinska frtalja sa bundevom, orasima i šljivama
-
-https://unazdravahrana.com/recepti/proteinska-frtalja-sa-bundevom-orasima-i-sljivama
-
-Topla frtalja sa bundevom, šljivama i orasima — jesenji recept bogat proteinima, spreman za 40 minuta. Idealno za doručak ili laganu večeru.
-
-**Q: Mogu li da pripremim frtalju unapred za sutrašnji doručak?**
-
-Da, možete je ispeći uveče i čuvati u frižideru. Ujutru je kratko podgrejte u tavi na tihoj vatri 3-4 minuta, ili je jedite mlaku uz jogurt.
-
-**Q: Koju bundevu je najbolje koristiti?**
-
-Preporučujemo Hokaido ili muskatnu bundevu jer imaju gušće meso i prirodno sladak ukus. Obična stočna bundeva pušta previše vode i frtalja bi ispala mekana.
-
-**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
-
-Spelta sadrži gluten. Za bezglutensku verziju zamenite speltino brašno heljdinim ili mešavinom heljde i pirinčanog brašna u istoj količini.
-
-**Q: Koliko proteina ima jedna porcija?**
-
-Približno 14-16 g proteina po porciji, zahvaljujući kombinaciji jaja, oraha i lanenog semena — solidan obrok za one koji vode računa o dnevnom unosu proteina.
-
----
-
-Last updated: 2026-09-14
+Last updated: 2026-09-15

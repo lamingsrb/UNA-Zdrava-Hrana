@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Kimči: originalni recept i koliko dana da fermentiše](https://unazdravahrana.com/blog/kimci-originalni-recept-i-koliko-dana-da-fermentise)
 - [Šta se dešava kada preskočimo doručak svako jutro?](https://unazdravahrana.com/blog/sta-se-desava-kada-preskocimo-dorucak-svako-jutro)
 - [Multi Essence vitamini i minerali: sve što treba da znate](https://unazdravahrana.com/blog/multi-essence-vitamini-i-minerali-sve-sto-treba-da-znate)
 - [Ribane tikvice: brzi letnji obroci bez muke](https://unazdravahrana.com/blog/ribane-tikvice-brzi-letnji-obroci-bez-muke)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Sočna proja s bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/socna-proja-s-bundevom-sljivama-i-orasima)
 - [3 superhrane: izbor i upotreba u Kragujevcu](https://unazdravahrana.com/blog/3-superhrane-izbor-i-upotreba-u-kragujevcu)
 - [Avokado: 5 situacija kada treba biti oprezan](https://unazdravahrana.com/blog/avokado-5-situacija-kada-treba-biti-oprezan)
-- [Integralni hleb za mršavljenje: izbor i porcija](https://unazdravahrana.com/blog/integralni-hleb-za-mrsavljenje-izbor-i-porcija)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-14
+Last updated: 2026-09-15
