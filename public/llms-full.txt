@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja kaša od heljde s bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenja-kasa-od-heljde-s-bundevom-sljivama-i-orasima
+
+Kremasta kaša od heljde sa pečenom bundevom, sočnim šljivama i orasima — topao jesenji doručak bogat vlaknima, prirodno bez glutena.
+
+**Q: Da li je ovaj recept bez glutena?**
+
+Heljda je prirodno bez glutena, kao i sve ostale namirnice u receptu. Ako imate izraženu osetljivost, obavezno proverite deklaraciju heljde da bude označena kao 'bez glutena' (bez unakrsne kontaminacije).
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Da, smrznuta bundeva odlično radi. Pecite je 5–10 minuta duže i ne dodajte je u tečnost dok se prvo malo ne osuši u rerni, kako bi zadržala teksturu.
+
+**Q: Da li je pogodno za starije osobe?**
+
+Jeste — obrok je bogat vlaknima koja doprinose normalnom radu creva, mekane je teksture i lako svarljiv. Kod specifičnih zdravstvenih stanja uvek se posavetujte sa lekarom.
+
+**Q: Mogu li da pripremim veće količine unapred?**
+
+Naravno. Skuvanu heljdu i pečenu bundevu čuvajte odvojeno u frižideru do 3 dana, a orahe dodajte tek pri serviranju da ostanu hrskavi.
+
+---
+
 ## Veganski ručak za 30 minuta: 5 zasitnih recepata
 
 https://unazdravahrana.com/blog/veganski-rucak-za-30-minuta-5-zasitnih-recepata
@@ -697,30 +721,6 @@ Za aktivnu osobu preporučuje se 25–30 g proteina ujutru, što se lako postiž
 **Q: Koje namirnice sa švedskog stola treba izbegavati?**
 
 Izbegavajte kroasane sa džemom, cedene sokove iz aparata, fabričke musli mešavine sa šećerom, masne salame i palačinke sa kremom — brzo dižu šećer u krvi i vraćaju glad.
-
----
-
-## Hrskave lepinjice od bundeve, oraha i heljde sa šljivama
-
-https://unazdravahrana.com/recepti/hrskave-lepinjice-od-bundeve-oraha-i-heljde-sa-sljivama
-
-Hrskave lepinjice od bundeve, oraha i heljde sa šljivama — jednostavan jesenji recept bez belog šećera, bogat vlaknima. Gotovo za 45 minuta.
-
-**Q: Mogu li da koristim pečenu bundevu umesto sirove?**
-
-Možete, ali smanjite količinu tečnosti — koristite 200 g pire od pečene bundeve i eventualno dodajte kašiku više brašna ako je smesa previše meka.
-
-**Q: Da li su lepinjice bez glutena?**
-
-Heljdino brašno je prirodno bez glutena, ali obavezno proverite da su i ovsene pahuljice sa oznakom „bez glutena“ ako imate celijakiju. Pitajte nas u radnji, imamo verifikovane varijante.
-
-**Q: Mogu li šljive zameniti drugim voćem?**
-
-Naravno — kruške, jabuke ili smokve odlično se slažu sa bundevom i orasima. Sezona diktira ukus, pa slušajte pijacu.
-
-**Q: Kako da lepinjice budu hrskavije?**
-
-Dobro iscedite bundevu i pecite ih 5 minuta duže, pa ih ostavite u ugašenoj rerni još 5 minuta. Susam na vrhu takođe daje lepu hrskavu koricu.
 
 ---
 
