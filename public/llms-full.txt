@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jutarnji smuti sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jutarnji-smuti-sa-bundevom-sljivama-i-orasima
+
+Kremasti jutarnji smuti sa bundevom, šljivama, orasima i chia semenkama — gotov za 30 minuta. Sezonski doručak pun vlakana i energije.
+
+**Q: Mogu li da koristim sirovu bundevu umesto kuvane?**
+
+Može, ali smuti će biti tvrđi i teži za varenje. Preporučujemo kratko kuvanje na pari — dobija se kremasta tekstura i blaži ukus.
+
+**Q: Šta ako nemam sveže šljive?**
+
+Slobodno koristite suve šljive — 5–6 komada potopite 15 minuta u toploj vodi pre blendanja. Ukus će biti intenzivniji, pa smanjite med.
+
+**Q: Da li je ovaj smuti pogodan za osobe sa intolerancijom na laktozu?**
+
+Da, samo izaberite biljno mleko — bademovo, ovseno ili kokosovo odlično se slažu sa bundevom i cimetom.
+
+**Q: Koliko dugo mogu čuvati gotov smuti?**
+
+Najbolji je odmah, ali u zatvorenoj tegli u frižideru izdržaće do 24 sata. Pre pijenja dobro promućkajte.
+
+---
+
 ## Jutarnji pankejki sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/jutarnji-pankejki-sa-bundevom-sljivama-i-orasima
@@ -679,30 +703,6 @@ Bundeva je nežna za stomak i doprinosi lakšem varenju zahvaljujući mekim vlak
 **Q: Mogu li da dodam neki protein?**
 
 Naravno — kašika grčkog jogurta u tanjiru, kockice tofua ili kuvani slanutak lepo se slažu sa ovom supom i čine je izdašnijim obrokom.
-
----
-
-## Jesenja činija: pečena bundeva, šljive i orasi na kvinoji
-
-https://unazdravahrana.com/recepti/jesenja-cinija-pecena-bundeva-sljive-i-orasi-na-kvinoji
-
-Topla jesenja činija sa pečenom bundevom, šljivama, orasima i kvinojom uz tahini preliv — zdravo, sito i gotovo za 45 minuta.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Možete, ali je prethodno odmrznite i dobro ocedite od viška tečnosti, pa produžite pečenje za 5-7 minuta da bundeva porumeni.
-
-**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
-
-Da, kvinoja, bundeva, šljive, orasi i tahini su prirodno bez glutena. Proverite deklaraciju na pakovanju ako ste posebno osetljivi.
-
-**Q: Kako da jelo bude zasitnije za sportiste?**
-
-Dodajte kuvani leblebiju (150 g) ili komad pečene piletine uz činiju — dobićete više proteina, a ukusi se lepo slažu.
-
-**Q: Čime da zamenim tahini ako ga nemam?**
-
-Odgovara i puter od badema ili susama; ukus će biti nešto slađi, pa smanjite med za pola.
 
 ---
 
