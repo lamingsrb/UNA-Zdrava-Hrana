@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jutarnji pankejki sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jutarnji-pankejki-sa-bundevom-sljivama-i-orasima
+
+Integralni pankejki sa bundevom, dinstanim šljivama i orasima — topao jesenji doručak gotov za 35 minuta. Bez rafinisanog šećera.
+
+**Q: Mogu li da koristim bundevu iz tegle umesto sveže?**
+
+Možete, ali proverite da nema dodatog šećera. Sveže pečena bundeva daje punoću ukusa i prirodnu slatkoću.
+
+**Q: Da li recept ide bez jaja?**
+
+Da. Zamenite svako jaje sa kašikom mlevenih lanenih semenki potopljenih u 3 kašike vode 10 minuta. Pankejki će biti malo gušći.
+
+**Q: Koliko dugo se čuva pire od bundeve?**
+
+U dobro zatvorenoj posudi u frižideru do 3 dana, a u zamrzivaču do 2 meseca u manjim porcijama.
+
+**Q: Da li je ovo pogodno za decu?**
+
+Jeste — nema rafinisanog šećera, a bundeva i šljive daju prirodnu slatkoću koju deca vole. Orahe možete sitnije iseckati ili izostaviti kod najmlađih.
+
+---
+
 ## Recepti s mangom: 6 osvežavajućih ideja za leto
 
 https://unazdravahrana.com/blog/recepti-s-mangom-6-osvezavajucih-ideja-za-leto
@@ -682,28 +706,4 @@ Odgovara i puter od badema ili susama; ukus će biti nešto slađi, pa smanjite 
 
 ---
 
-## Zapečena bundeva sa šljivama, orasima i heljdom
-
-https://unazdravahrana.com/recepti/zapecena-bundeva-sa-sljivama-orasima-i-heljdom
-
-Zapečena bundeva sa šljivama, orasima i heljdom — topao jesenji recept bez glutena, gotov za 45 minuta. Sastojci iz UNA radnje u Kragujevcu.
-
-**Q: Mogu li recept pripremiti dan ranije?**
-
-Možete. Ispecite bundevu sa šljivama i skuvajte heljdu, čuvajte odvojeno u frižideru i spojite pre serviranja uz kratko podgrevanje u rerni.
-
-**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
-
-Jeste — heljda je prirodno bez glutena. Proverite samo da je pakovanje označeno kao „bez glutena“ ako imate izraženu osetljivost, jer neki proizvođači obrađuju heljdu u istim pogonima kao žitarice sa glutenom.
-
-**Q: Koje bundeve su najbolje za pečenje?**
-
-Muskatne i hokaido sorte imaju gušće meso i prirodno slađi ukus, pa se najbolje ponašaju u rerni. Izbegavajte vodenaste stočne bundeve.
-
-**Q: Šta ako nemam sveže šljive?**
-
-Van sezone možete koristiti suve šljive — 150 g suvih namočite 20 minuta u toploj vodi i dodajte ih pri kraju pečenja, jer ne treba im dugo toplote.
-
----
-
-Last updated: 2026-09-15
+Last updated: 2026-09-16

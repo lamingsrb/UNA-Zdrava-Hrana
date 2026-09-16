@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Jutarnji pankejki sa bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/jutarnji-pankejki-sa-bundevom-sljivama-i-orasima)
 - [Recepti s mangom: 6 osvežavajućih ideja za leto](https://unazdravahrana.com/blog/recepti-s-mangom-6-osvezavajucih-ideja-za-leto)
 - [Topla ovsena kaša sa bundevom, šljivama i orasima za vlakna](https://unazdravahrana.com/recepti/topla-ovsena-kasa-sa-bundevom-sljivama-i-orasima-za-vlakna)
 - [Musli tegla sa bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/musli-tegla-sa-bundevom-sljivama-i-orasima)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [5 sastojaka za doručak koji drži sitost](https://unazdravahrana.com/blog/5-sastojaka-za-dorucak-koji-drzi-sitost)
 - [6 pravila za vreme doručka i večere](https://unazdravahrana.com/blog/6-pravila-za-vreme-dorucka-i-vecere)
 - [Lubenica i dijabetes: 5 pravila za porciju](https://unazdravahrana.com/blog/lubenica-i-dijabetes-5-pravila-za-porciju)
-- [6 namirnica koje jedite manje posle 50.](https://unazdravahrana.com/blog/6-namirnica-koje-jedite-manje-posle-50)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-15
+Last updated: 2026-09-16
