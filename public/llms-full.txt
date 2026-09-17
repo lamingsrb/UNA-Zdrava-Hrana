@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Koliko dugo smete čuvati ostatke hrane u frižideru
+
+https://unazdravahrana.com/blog/koliko-dugo-smete-cuvati-ostatke-hrane-u-frizideru
+
+Kuvani ostaci hrane u frizideru bezbedni su 3–4 dana, jer opasne bakterije često ne menjaju miris ni ukus. Ključno je brzo hlađenje u plitkim posudama, temperatura ispod 4 °C i izbegavanje zadržavanja hrane u zoni između 5 i 60 °C.
+
+**Q: Koliko dugo se kuvana hrana sme cuvati u frizideru?**
+
+Vecina kuvanih jela bezbedna je 3–4 dana na temperaturi do 4 °C. Salate sa majonezom, sveze isecено voce i oljustena kuvana jaja treba pojesti u roku od 1–2 dana.
+
+**Q: Da li je bezbedno jesti hranu koja ne smrdi?**
+
+Ne uvek. Bakterije koje izazivaju trovanje hranom, poput Salmonelle i Listerije, cesto ne menjaju miris, ukus ni izgled. Zato se treba drzati vremenskih rokova, a ne samo mirisa.
+
+**Q: Sta je opasna zona za hranu?**
+
+To je temperaturni raspon između 5 °C i 60 °C u kojem se bakterije najbrze mnoze. Kuvanu hranu ne ostavljajte na sobnoj temperaturi duze od 2 sata, a leti maksimalno 1 sat.
+
+**Q: Da li podgrevanje unistava sve bakterije u hrani?**
+
+Kuvanje unistava bakterije, ali neki toksini, poput onog koji stvara Staphylococcus aureus, su termostabilni i ostaju aktivni. Zato podgrevanje ne cini bezbednom hranu koja je predugo stajala napolju.
+
+---
+
 ## Jesenja pita-tepsija od bundeve sa orasima
 
 https://unazdravahrana.com/recepti/jesenja-pita-tepsija-od-bundeve-sa-orasima
@@ -679,30 +703,6 @@ Najpraktičnija je muškatna ili hokaido bundeva, jer imaju pun ukus i čvršće
 **Q: Uz šta mogu da poslužim ovu proju?**
 
 Lepo se slaže sa jogurtom, mladim sirom ili šoljom zelenog čaja. Za konkretniji obrok dodajte salatu od sezonskog povrća.
-
----
-
-## 3 superhrane: izbor i upotreba u Kragujevcu
-
-https://unazdravahrana.com/blog/3-superhrane-izbor-i-upotreba-u-kragujevcu
-
-Čia semenke, spirulina i goji bobice mogu praktično obogatiti doručak, užinu i smoothie, ali nisu zamena za raznovrsnu ishranu. Početnici mogu krenuti od čia semenki, dok spirulina odgovara ljubiteljima smoothieja, a goji bobice su jednostavna slatkasto-kisela užina.
-
-**Q: Koja je superhrana najbolja za početnike?**
-
-Čia semenke su često najjednostavniji izbor za početnike jer imaju neutralan ukus i lako se dodaju u jogurt, kašu, puding ili smesu za palačinke.
-
-**Q: Kako se koriste čia semenke?**
-
-Čia semenke možete umešati u jogurt, ovsenu kašu ili biljni napitak, a za čia puding ih ostavite da odstoje u frižideru. Prijatnije su uz dovoljno tečnosti ili nakon potapanja.
-
-**Q: Kako ublažiti ukus spiruline?**
-
-Spirulinu dodajte u manjoj količini u smoothie sa bananom, bobičastim voćem, jogurtom, biljnim napitkom ili kakaom. Pratite preporuku za upotrebu sa deklaracije proizvoda.
-
-**Q: Kako jesti goji bobice?**
-
-Goji bobice možete jesti samostalno kao užinu ili ih dodati u musli, ovsenu kašu, voćnu salatu i mešavinu orašastih plodova.
 
 ---
 
