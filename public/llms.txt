@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Jesenja tart-tepsija sa bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/jesenja-tart-tepsija-sa-bundevom-sljivama-i-orasima)
 - [Jesenji krofnice-mafini od bundeve, šljiva i oraha](https://unazdravahrana.com/recepti/jesenji-krofnice-mafini-od-bundeve-sljiva-i-oraha)
 - [Jutarnji smuti sa bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/jutarnji-smuti-sa-bundevom-sljivama-i-orasima)
 - [Jutarnji pankejki sa bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/jutarnji-pankejki-sa-bundevom-sljivama-i-orasima)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Recepti sa svežim smokvama: 5 ideja koje vredi probati](https://unazdravahrana.com/blog/recepti-sa-svezim-smokvama-5-ideja-koje-vredi-probati)
 - [4 jela od lignji: buzara, tava, rerna i salata](https://unazdravahrana.com/blog/4-jela-od-lignji-buzara-tava-rerna-i-salata)
 - [6 recepata sa motarom za ukus Jadrana kod kuće](https://unazdravahrana.com/blog/6-recepata-sa-motarom-za-ukus-jadrana-kod-kuce)
-- [5 sastojaka za doručak koji drži sitost](https://unazdravahrana.com/blog/5-sastojaka-za-dorucak-koji-drzi-sitost)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-16
+Last updated: 2026-09-17

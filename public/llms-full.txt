@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja tart-tepsija sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenja-tart-tepsija-sa-bundevom-sljivama-i-orasima
+
+Jesenja tart-tepsija sa bundevom, šljivama i orasima — integralno testo, med umesto šećera, jednostavno i mirisno. Recept za 6 porcija.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Može, ali je odmrznite i dobro ocedite od viška vode pre nego što je pomešate sa ostalim sastojcima, inače će testo biti previše vlažno.
+
+**Q: Da li je recept pogodan za decu?**
+
+Da, prirodno je zaslađen medom i voćem, bez belog šećera. Za najmlađe do 1 godine izbegnite med i zamenite ga javorovim sirupom.
+
+**Q: Kako da napravim bezglutensku verziju?**
+
+Zamenite integralno pšenično brašno mešavinom heljdinog, pirinčanog i bademovog brašna u odnosu 2:1:1, uz dodatak kašike psilijuma za bolju strukturu testa.
+
+**Q: Mogu li testo pripremiti unapred?**
+
+Naravno — testo možete zamesiti dan ranije i držati u frižideru umotano u foliju. Pre razvlačenja ga ostavite 15 minuta na sobnoj temperaturi.
+
+---
+
 ## Jesenji krofnice-mafini od bundeve, šljiva i oraha
 
 https://unazdravahrana.com/recepti/jesenji-krofnice-mafini-od-bundeve-sljiva-i-oraha
@@ -682,28 +706,4 @@ Nijedan nije automatski najbolji za mršavljenje. Raženi hleb često je gušći
 
 ---
 
-## Vitamin C leti: kako ga koristiti a ne "izgoreti"
-
-https://unazdravahrana.com/blog/vitamin-c-leti-kako-ga-koristiti-a-ne-izgoreti
-
-Vitamin C je leti saveznik kože jer neutrališe slobodne radikale nastale od UV zraka i zagađenja, ali ne zamenjuje SPF. Za efekat je važna koncentracija 10–15%, tamna ambalaža, pravilan redosled u jutarnjoj rutini i kombinacija oralnog unosa (aćerola, šipak) sa lokalnom primenom seruma.
-
-**Q: Da li se vitamin C serum sme koristiti leti?**
-
-Da, čak je i preporučljivo jer koža leti trpi veći oksidativni stres od UV zraka i zagađenja. Vitamin C neutrališe slobodne radikale, ali se obavezno kombinuje sa SPF 30 ili 50 kremom, jer sam po sebi ne blokira UV zrake.
-
-**Q: Koja je idealna koncentracija vitamina C u serumu?**
-
-Za većinu ljudi optimalno je 10–15% L-askorbinske kiseline sa pH ispod 3.5. Koncentracije preko 15% preporučuju se iskusnijim korisnicima, dok osetljiva koža bolje reaguje na blaže oblike poput sodium ascorbyl phosphate ili ethyl ascorbic acid.
-
-**Q: Kako prepoznati da je vitamin C serum oksidisao?**
-
-Svež serum je bistro-žućkast do svetlo narandžast. Ako je postao tamno narandžast ili braon, oksidisao je i više nije aktivan, a može čak i blago nadražiti kožu. Zato birajte tamno staklo ili neprozirnu pumpicu.
-
-**Q: Da li vitamin C iz hrane zamenjuje serum za lice?**
-
-Ne. Vitamin C iz hrane (paprika, šipak, aćerola, kivi) podržava imunitet, sintezu kolagena i opštu vitalnost, dok serum deluje lokalno na koži gde se nanese. Za anti-age efekat potrebna su oba pristupa.
-
----
-
-Last updated: 2026-09-16
+Last updated: 2026-09-17
