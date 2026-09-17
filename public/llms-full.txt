@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kako ishrana utiče na PCOS?
+
+https://unazdravahrana.com/blog/kako-ishrana-utice-na-pcos
+
+Ishrana je jedan od najjačih alata u upravljanju PCOS-om jer direktno utiče na insulinsku rezistenciju koja stoji u pozadini simptoma. Fokus na namirnice niskog glikemijskog indeksa, belančevine i zdrave masti u svakom obroku, uz inozitol i omega-3, može doprineti redovnijim ciklusima i boljem hormonskom balansu.
+
+**Q: Zašto je ishrana važna kod PCOS-a?**
+
+Kod većine žena sa PCOS-om postoji insulinska rezistencija koja podstiče jajnike da stvaraju više androgena. Ishrana direktno utiče na nivo insulina, pa pravilnim izborom namirnica možete smiriti hormonski disbalans, uticati na redovnost ciklusa i lakše održavati težinu.
+
+**Q: Koje namirnice treba jesti kod PCOS-a?**
+
+Birajte namirnice niskog do umerenog glikemijskog indeksa: integralne žitarice, kinou, mahunarke (sočivo, leblebije, pasulj), masnu ribu (sardine, skuša, losos), jaja, grčki jogurt, avokado, maslinovo ulje, orahe, bademe i mleveno seme lana. Svaki obrok treba da sadrži belančevine i zdrave masti.
+
+**Q: Da li inozitol pomaže kod PCOS-a?**
+
+Istraživanja pokazuju da inozitol, posebno kombinacija mio-inozitola i D-hiro-inozitola u odnosu 40:1, može poboljšati osetljivost na insulin i doprineti redovnijim ciklusima kod žena sa PCOS-om. Efekti se obično primete nakon 2-3 meseca, a pre suplementacije obavezno konsultujte lekara.
+
+**Q: Da li redosled jela u tanjiru utiče na PCOS?**
+
+Da, redosled jela menja krivu šećera u krvi. Ako prvo pojedete povrće i belančevine, pa tek onda ugljene hidrate, skok insulina biće znatno manji nego ako obrok započnete hlebom ili testeninom. Isti obrok, drugačiji hormonski efekat.
+
+---
+
 ## Koliko dugo smete čuvati ostatke hrane u frižideru
 
 https://unazdravahrana.com/blog/koliko-dugo-smete-cuvati-ostatke-hrane-u-frizideru
@@ -679,30 +703,6 @@ Kada je stisnete šakom, treba lako da zadrži oblik. Ako deluje vlažno i leplj
 **Q: Mogu li se ćuftice zamrznuti?**
 
 Da. Ispečene i potpuno ohlađene ćuftice zamrznite u jednom sloju, pa ih prebacite u kesu ili posudu. Najbolje ih je potrošiti u roku od mesec dana.
-
----
-
-## Sočna proja s bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/socna-proja-s-bundevom-sljivama-i-orasima
-
-Sočna proja sa bundevom, šljivama, orasima i čia semenkama — jednostavan jesenji doručak gotov za 45 minuta.
-
-**Q: Mogu li da koristim zamrznute šljive?**
-
-Možete, ali ih prethodno odmrznite i dobro ocedite. Tako neće pustiti previše tečnosti u testo.
-
-**Q: Da li proja može bez jaja?**
-
-Može, ali će biti nešto mrvičastija. Umesto dva jaja umešajte 2 kašike mlevenih čia semenki pomešanih sa 6 kašika vode i ostavite 10 minuta da nabubre.
-
-**Q: Koja bundeva je najbolja za ovaj recept?**
-
-Najpraktičnija je muškatna ili hokaido bundeva, jer imaju pun ukus i čvršće meso. Važno je da bundeva bude sveža i bez mekanih delova.
-
-**Q: Uz šta mogu da poslužim ovu proju?**
-
-Lepo se slaže sa jogurtom, mladim sirom ili šoljom zelenog čaja. Za konkretniji obrok dodajte salatu od sezonskog povrća.
 
 ---
 
