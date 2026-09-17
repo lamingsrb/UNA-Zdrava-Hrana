@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenje njoke od bundeve sa orasima i šljivama
+
+https://unazdravahrana.com/recepti/jesenje-njoke-od-bundeve-sa-orasima-i-sljivama
+
+Domaći njoki od pečene bundeve sa orasima i kompotom od šljiva — jesenji recept za 45 minuta, sa integralnim brašnom.
+
+**Q: Mogu li da koristim mušmulu ili drugu bundevu?**
+
+Da, hokaido i muskatna bundeva su idealne jer imaju gušće meso i manje vode. Ako koristite običnu žutu bundevu, ostavite je da se malo ocedi posle pečenja da testo ne bude previše vlažno.
+
+**Q: Šta ako nemam sveže šljive?**
+
+Suve šljive rade odlično — potopite 150 g u topluvodu 15 minuta, pa ih kuvajte sa medom i malo vode. Ukus će biti intenzivniji i slađi.
+
+**Q: Da li deca vole ovaj recept?**
+
+Uglavnom da, jer je bundeva blago slatkasta a šljive daju voćni ukus. Za mlađu decu možete iseckati orahe sitnije ili ih prosto preskočiti.
+
+**Q: Koliko dugo se čuvaju kuvani njoki?**
+
+U frižideru do 2 dana u zatvorenoj posudi. Podgrejte ih kratko u tiganju sa malo maslaca — biće kao sveži.
+
+---
+
 ## Jesenja tart-tepsija sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenja-tart-tepsija-sa-bundevom-sljivama-i-orasima
@@ -679,30 +703,6 @@ Avokado sadrži vitamin K, pa je kod terapije varfarinom važan ujednačen unos,
 **Q: Sa čim ne treba kombinovati avokado?**
 
 Ne postoji opšta zabrana kombinovanja avokada sa jajima, hlebom, mesom ili voćem. Oprez je potreban kada se u istom obroku kombinuje više izvora kalijuma ili mnogo masnih i kaloričnih namirnica.
-
----
-
-## Integralni hleb za mršavljenje: izbor i porcija
-
-https://unazdravahrana.com/blog/integralni-hleb-za-mrsavljenje-izbor-i-porcija
-
-Integralni hleb može biti deo ishrane za mršavljenje jer vlakna često produžavaju sitost, ali ne mršavi sam po sebi. Birajte proizvode sa integralnim brašnom među prvim sastojcima i jedite umerenu porciju uz proteine i povrće.
-
-**Q: Da li je integralni hleb dobar za mršavljenje?**
-
-Može biti dobar izbor jer obično sadrži više vlakana od belog hleba i može pomoći da obrok duže zasiti. Ipak, važni su ukupna količina hrane, porcija hleba i dodaci koje jedete uz njega.
-
-**Q: Kako prepoznati pravi integralni hleb?**
-
-Proverite deklaraciju: integralno pšenično, raženo, heljdino ili speltino brašno trebalo bi da bude među prvim sastojcima. Tamna boja, naziv „fit” ili semenke same po sebi nisu dokaz da je hleb pretežno integralni.
-
-**Q: Koliko integralnog hleba sme da se jede na dijeti?**
-
-Za mnoge ljude razumna početna porcija je jedna do dve manje kriške uz obrok, ali količina zavisi od potreba, aktivnosti i ostatka jelovnika. Hleb je najbolje kombinovati sa jajima, svežim sirom, jogurtom, nemasnim proteinima i povrćem.
-
-**Q: Da li je raženi hleb bolji od integralnog pšeničnog?**
-
-Nijedan nije automatski najbolji za mršavljenje. Raženi hleb često je gušći i izraženijeg ukusa, dok je integralni pšenični blaži; birajte onaj sa kvalitetnim sastavom koji vas zasiti i koji ćete jesti umereno.
 
 ---
 
