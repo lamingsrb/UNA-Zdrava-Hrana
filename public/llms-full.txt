@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja pita-tepsija od bundeve sa orasima
+
+https://unazdravahrana.com/recepti/jesenja-pita-tepsija-od-bundeve-sa-orasima
+
+Jesenja pita-tepsija od bundeve, šljiva i oraha sa integralnim brašnom — bez belog šećera, mekana i sočna. Lako i za 55 minuta.
+
+**Q: Mogu li koristiti smrznutu bundevu?**
+
+Može, ali je obavezno prethodno odmrznite i dobro iscedite — inače će testo biti previše vlažno i pita neće biti kompaktna.
+
+**Q: Da li recept odgovara deci?**
+
+Da, prirodna slatkoća bundeve i šljiva čini ga privlačnim mališanima. Za mlađu decu možete izostaviti đumbir i smanjiti cimet.
+
+**Q: Čime da zamenim šljive kada prođe sezona?**
+
+Odlično idu kruške, jabuke ili suve šljive prethodno potopljene u toplu vodu 10 minuta.
+
+**Q: Da li je ovo pogodno kao užina posle vežbanja?**
+
+Jeste — kombinacija integralnih ugljenih hidrata, oraha i lana daje sporu energiju i doprinosi osećaju sitosti posle šetnje ili treninga.
+
+---
+
 ## Jesenje njoke od bundeve sa orasima i šljivama
 
 https://unazdravahrana.com/recepti/jesenje-njoke-od-bundeve-sa-orasima-i-sljivama
@@ -679,30 +703,6 @@ Spirulinu dodajte u manjoj količini u smoothie sa bananom, bobičastim voćem, 
 **Q: Kako jesti goji bobice?**
 
 Goji bobice možete jesti samostalno kao užinu ili ih dodati u musli, ovsenu kašu, voćnu salatu i mešavinu orašastih plodova.
-
----
-
-## Avokado: 5 situacija kada treba biti oprezan
-
-https://unazdravahrana.com/blog/avokado-5-situacija-kada-treba-biti-oprezan
-
-Avokado je hranljiv dodatak ishrani za većinu zdravih ljudi, bez opštih zabrana kombinovanja sa drugim namirnicama. Oprez je potreban kod bolesti bubrega, ograničenog unosa kalijuma i terapije varfarinom, kada su važni porcija i dosledan unos vitamina K.
-
-**Q: Da li je avokado zdrav za svakodnevnu ishranu?**
-
-Za većinu zdravih odraslih osoba avokado je dobar izbor jer sadrži nezasićene masti, vlakna, kalijum i vitamine. Praktična porcija je često četvrtina do polovine srednjeg avokada, u zavisnosti od ostatka obroka.
-
-**Q: Da li osobe sa bolešću bubrega smeju da jedu avokado?**
-
-Osobe sa hroničnom bolešću bubrega ili preporukom za ograničavanje kalijuma ne treba samostalno da uvode velike porcije avokada. Odgovarajuća količina zavisi od nalaza, terapije i saveta lekara ili dijetetičara.
-
-**Q: Da li avokado utiče na varfarin?**
-
-Avokado sadrži vitamin K, pa je kod terapije varfarinom važan ujednačen unos, a ne nužno potpuno izbacivanje avokada. Nagle promene količine avokada u ishrani treba uskladiti sa lekarom.
-
-**Q: Sa čim ne treba kombinovati avokado?**
-
-Ne postoji opšta zabrana kombinovanja avokada sa jajima, hlebom, mesom ili voćem. Oprez je potreban kada se u istom obroku kombinuje više izvora kalijuma ili mnogo masnih i kaloričnih namirnica.
 
 ---
 
