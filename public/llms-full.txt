@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Cena vitamina: 6 koraka do dobrog izbora
+
+https://unazdravahrana.com/blog/cena-vitamina-6-koraka-do-dobrog-izbora
+
+Cena vitamina ne govori sama po sebi o kvalitetu, pa uporedite sastav, oblik sastojaka i cenu po dnevnoj porciji. Birajte suplement prema potrebama, čitajte jasnu deklaraciju i izbegavajte nepotrebno preklapanje sastojaka.
+
+**Q: Da li skuplji vitamini uvek znače bolji kvalitet?**
+
+Ne. Viša cena može odražavati složeniji sastav, oblik minerala, više porcija ili kontrolu proizvodnje, ali najbolji izbor zavisi od vaših potreba i jasne deklaracije.
+
+**Q: Kako se računa stvarna cena vitamina?**
+
+Podelite cenu pakovanja brojem preporučenih dnevnih porcija. Broj tableta nije dovoljan pokazatelj, jer se neki preparati uzimaju više puta dnevno.
+
+**Q: Šta treba proveriti na deklaraciji suplementa?**
+
+Proverite aktivne sastojke, količinu po dnevnoj porciji, preporučeni način upotrebe, upozorenja, rok trajanja, alergene i podatke o proizvođaču ili uvozniku.
+
+**Q: Da li je bolji multivitamin ili pojedinačni vitamin?**
+
+Multivitamin je praktičan za jednostavnu svakodnevnu rutinu, dok pojedinačni vitamin ili mineral ima smisla kada znate koji nutrijent tražite. Važno je proveriti da se sastojci ne preklapaju sa drugim preparatima.
+
+---
+
 ## Kako ishrana utiče na PCOS?
 
 https://unazdravahrana.com/blog/kako-ishrana-utice-na-pcos
@@ -682,28 +706,4 @@ Testo možete zamesiti dan ranije i držati pokriveno u frižideru. Fil pripremi
 
 ---
 
-## Ćuftice od sočiva i bundeve sa šljivama
-
-https://unazdravahrana.com/recepti/cuftice-od-sociva-i-bundeve-sa-sljivama
-
-Pečene ćuftice od sočiva i bundeve sa orasima i brzim prelivom od šljiva — jednostavan jesenji ručak za 45 minuta.
-
-**Q: Da li ćuftice mogu da se prže umesto peku?**
-
-Mogu, ali ih pecite na umereno zagrejanom tiganju sa malo ulja, oko 4 minuta sa svake strane. Pečenje u rerni je praktičnije kada pripremate više komada.
-
-**Q: Da li su šljive obavezne u receptu?**
-
-Nisu, ali daju posebnu jesenju notu i prijatan kontrast slanim ćufticama. Ako ih nemate, poslužite ćuftice uz svežu salatu ili jogurt po izboru.
-
-**Q: Kako da znam da li je smesa dovoljno čvrsta?**
-
-Kada je stisnete šakom, treba lako da zadrži oblik. Ako deluje vlažno i lepljivo, dodajte još 1–2 kašike ovsenih pahuljica i ostavite 5 minuta.
-
-**Q: Mogu li se ćuftice zamrznuti?**
-
-Da. Ispečene i potpuno ohlađene ćuftice zamrznite u jednom sloju, pa ih prebacite u kesu ili posudu. Najbolje ih je potrošiti u roku od mesec dana.
-
----
-
-Last updated: 2026-09-17
+Last updated: 2026-09-19

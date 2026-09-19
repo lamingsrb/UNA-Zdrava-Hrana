@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Cena vitamina: 6 koraka do dobrog izbora](https://unazdravahrana.com/blog/cena-vitamina-6-koraka-do-dobrog-izbora)
 - [Kako ishrana utiče na PCOS?](https://unazdravahrana.com/blog/kako-ishrana-utice-na-pcos)
 - [Koliko dugo smete čuvati ostatke hrane u frižideru](https://unazdravahrana.com/blog/koliko-dugo-smete-cuvati-ostatke-hrane-u-frizideru)
 - [Jesenja pita-tepsija od bundeve sa orasima](https://unazdravahrana.com/recepti/jesenja-pita-tepsija-od-bundeve-sa-orasima)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Ribane tikvice: brzi letnji obroci bez muke](https://unazdravahrana.com/blog/ribane-tikvice-brzi-letnji-obroci-bez-muke)
 - [Fermentisani kupus sa bundevom i šljivama](https://unazdravahrana.com/recepti/fermentisani-kupus-sa-bundevom-i-sljivama)
 - [Brzi kimči od bundeve i belog kupusa sa đumbirom](https://unazdravahrana.com/recepti/brzi-kimci-od-bundeve-i-belog-kupusa-sa-djumbirom)
-- [Domaći kimči od bundeve i kupusa sa orasima](https://unazdravahrana.com/recepti/domaci-kimci-od-bundeve-i-kupusa-sa-orasima)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-17
+Last updated: 2026-09-19
