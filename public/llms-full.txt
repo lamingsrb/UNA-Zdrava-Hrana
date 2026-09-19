@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 6 recepata sa smokvama za kraj leta
+
+https://unazdravahrana.com/blog/6-recepata-sa-smokvama-za-kraj-leta
+
+Članak donosi savete za izbor, pranje i čuvanje svežih smokava, kao i šest jednostavnih ideja za njihovu upotrebu. Smokve se kombinuju sa ovsenim pahuljicama, orasima, čia semenkama i integralnim brašnom za doručak, užinu ili desert.
+
+**Q: Kako izabrati zrele sveže smokve?**
+
+Birajte smokve koje su mekane, ali ne gnjecave, prijatnog mirisa i bez većih oštećenja. Plod treba da deluje puno i sočno, bez curenja, buđi ili kiselkastog mirisa.
+
+**Q: Koliko dugo sveže smokve mogu da stoje u frižideru?**
+
+Sveže smokve čuvajte u plitkoj posudi, bez mnogo preklapanja, u frižideru dva do tri dana. Veoma mekane smokve najbolje je upotrebiti istog dana.
+
+**Q: Kako se prave smokve punjene orasima?**
+
+Smokvu zasecite i otvorite kao cvet, bez presecanja do kraja, pa u sredinu stavite komadić oraha ili seckane bademe. Po želji dodajte malo meda.
+
+**Q: Sa čim se smokve najbolje kombinuju?**
+
+Smokve se odlično slažu sa orasima, bademima, lešnicima, ovsenim pahuljicama, čia semenkama i blagim kremastim dodacima. Njihova prirodna slatkoća često je dovoljna bez dodatog šećera.
+
+---
+
 ## Cena vitamina: 6 koraka do dobrog izbora
 
 https://unazdravahrana.com/blog/cena-vitamina-6-koraka-do-dobrog-izbora
@@ -679,30 +703,6 @@ Ređe birajte grickalice, gotove supe, suhomesnato i pekarske proizvode, a ukus 
 **Q: Šta jesti umesto suhomesnatog za doručak?**
 
 Praktične zamene su kuvano jaje sa povrćem i integralnim hlebom, humus, jogurt sa voćem i orašastim plodovima ili salata od žitarica i povrća.
-
----
-
-## Rustični galet sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/rusticni-galet-sa-bundevom-sljivama-i-orasima
-
-Rustični galet sa bundevom, šljivama i orasima od integralnog speltinog brašna, spreman za manje od sat vremena.
-
-**Q: Da li mogu da koristim obično pšenično brašno?**
-
-Možete, u istoj količini. Ipak, integralno speltino brašno daje izraženiji, orašast ukus i puniju teksturu testa.
-
-**Q: Koja bundeva je najbolja za galet?**
-
-Najpraktičnija je čvrsta, slatkastija bundeva sa narandžastim mesom. Važno je da je isečete na tanke listiće kako bi ravnomerno omekšala.
-
-**Q: Mogu li šljive da zamenim drugim voćem?**
-
-Možete koristiti kruške isečene na tanke kriške ili jabuke, uz malo limunovog soka i cimeta.
-
-**Q: Da li galet može da se pripremi unapred?**
-
-Testo možete zamesiti dan ranije i držati pokriveno u frižideru. Fil pripremite neposredno pre pečenja da šljive ne puste previše soka.
 
 ---
 
