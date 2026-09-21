@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja krem-čorba od bundeve, šljiva i oraha
+
+https://unazdravahrana.com/recepti/jesenja-krem-corba-od-bundeve-sljiva-i-oraha
+
+Kremasta jesenja čorba od bundeve, šljiva i oraha — gotova za 40 minuta. Topao, hranljiv obrok bez pavlake, savršen za hladnije dane.
+
+**Q: Koja bundeva je najbolja za ovu čorbu?**
+
+Hokaido je najpraktičnija jer se kora ne mora guliti i ima kremastu teksturu. Muskatna daje slađi ukus i lepšu narandžastu boju. Obe daju odličan rezultat.
+
+**Q: Mogu li čorbu spremiti unapred?**
+
+Da, čorba je često još bolja sutradan kada se ukusi spoje. Čuvajte je u frižideru do 3 dana i podgrejte na tihoj vatri. Orahe i semenke uvek dodajte tek pri serviranju da ostanu hrskavi.
+
+**Q: Da li deca vole ovu čorbu?**
+
+Najčešće da — šljive daju blagu prirodnu slatkoću koja ublažava zemljanu notu bundeve. Ako deca ne vole komadiće, izblendirajte čorbu potpuno glatko i preskočite orahe na vrhu.
+
+**Q: Šta poslužiti uz čorbu?**
+
+Parče integralnog ili raženog hleba, tost s malo avokada, ili jednostavno kašika semenki. Uz to i topli biljni čaj čini kompletan lagani ručak.
+
+---
+
 ## Kako da uživate na odmoru, a ostanete disciplinovani
 
 https://unazdravahrana.com/blog/kako-da-uzivate-na-odmoru-a-ostanete-disciplinovani
@@ -679,30 +703,6 @@ Svež motar se kuva vrlo kratko, obično 30 sekundi do 2 minuta, kako bi ostao h
 **Q: Gde kupiti motar?**
 
 Svež motar se najčešće nalazi tokom sezone u primorskim krajevima, dok je u unutrašnjosti dostupniji ukiseljeni motar u tegli. Birajte proizvode proverenih proizvođača i proverite deklaraciju, naročito sadržaj soli.
-
----
-
-## 5 sastojaka za doručak koji drži sitost
-
-https://unazdravahrana.com/blog/5-sastojaka-za-dorucak-koji-drzi-sitost
-
-Zasitan doručak kombinuje protein, vlakna i kvalitetne masti kako bi obrok bio potpuniji i prijao duže. Jaja, jogurt, ovsene pahuljice, integralni hleb, mahunarke, orašasti plodovi i semenke lako se uklapaju u slatke i slane kombinacije.
-
-**Q: Koji doručak najduže drži sitost?**
-
-Doručak koji kombinuje protein, vlakna i kvalitetne masti obično deluje zasitnije od obroka koji sadrži samo pecivo, voće ili pahuljice.
-
-**Q: Šta dodati ovsenoj kaši da bude zasitnija?**
-
-Uz ovsene pahuljice dodajte jogurt, kiselo mleko ili jaje kao izvor proteina, a orahe, bademe ili čia semenke kao dodatak masti i teksture.
-
-**Q: Da li je banana dovoljna za doručak?**
-
-Banana je praktičan dodatak doručku, ali za potpuniji obrok kombinujte je sa izvorom proteina i vlakana, poput jogurta, ovsenih pahuljica i semenki.
-
-**Q: Koji su biljni izvori proteina za doručak?**
-
-Za biljni doručak birajte mahunarke i namaze od pasulja ili leblebija, uz žitarice, orašaste plodove i semenke.
 
 ---
 
