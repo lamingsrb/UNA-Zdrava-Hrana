@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja tabla za doručak: bundeva, šljive, orasi
+
+https://unazdravahrana.com/recepti/jesenja-tabla-za-dorucak-bundeva-sljive-orasi
+
+Jesenja tabla za doručak sa pečenom bundevom, šljivama, orasima i tahini prelivom. Gotova za 40 min — lagana, zasitna i idealna za porodicu.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Može, ali sirova sveža bundeva daje bolju teksturu. Ako koristite smrznutu, prethodno je odmrznite i dobro isušite pre pečenja da ne pusti previše vode.
+
+**Q: Kojim šljivama je najbolje pripremiti recept?**
+
+Idealne su požegače ili stenlej šljive — čvrste, sočne i taman slatke. Ako su šljive vrlo kisele, dodajte kašičicu meda pre pečenja.
+
+**Q: Da li je ovo pogodno za decu?**
+
+Da, recept je nežan i prirodno sladak. Za mlađu decu možete izostaviti orahe (zbog gušenja) ili ih fino samleti i pomešati sa jogurtom.
+
+**Q: Koliko dugo se čuva u frižideru?**
+
+Pečeni deo (bundeva, šljive, orasi) čuva se u zatvorenoj posudi u frižideru do 3 dana. Preliv od tahinija spremite svež ili čuvajte odvojeno.
+
+---
+
 ## Jesenja krem-čorba od bundeve, šljiva i oraha
 
 https://unazdravahrana.com/recepti/jesenja-krem-corba-od-bundeve-sljiva-i-oraha
@@ -679,30 +703,6 @@ Lignje na buzaru kuvaju se na tihoj vatri približno 25 do 35 minuta, dok ne ome
 **Q: Koji prilog ide uz lignje na buzaru?**
 
 Uz lignje na buzaru dobro idu integralni hleb, kuvana heljda, integralna testenina i velika sezonska salata.
-
----
-
-## 6 recepata sa motarom za ukus Jadrana kod kuće
-
-https://unazdravahrana.com/blog/6-recepata-sa-motarom-za-ukus-jadrana-kod-kuce
-
-Motar, poznat i kao morski komorač, aromatična je jestiva obalska biljka koja jelima daje svež, kiselo-slan ukus Jadrana. Koristite ga svežeg kratko blanširanog ili ukiseljenog u salatama, testeninama, namazima i sendvičima, uz oprez sa dodatnom solju.
-
-**Q: Šta je motar?**
-
-Motar je jestiva obalska biljka stručnog naziva Crithmum maritimum, poznata i kao morski komorač. Ima mesnate, aromatične listove ukusa koji podseća na celer, komorač, limun i more.
-
-**Q: Kako se koristi ukiseljeni motar?**
-
-Ukiseljeni motar je spreman za upotrebu i može se dodati salatama, sendvičima, namazima, krompiru ili mezetlucima. Pre serviranja ga probajte i po potrebi kratko isperite hladnom vodom ako je preslan ili prekiseo.
-
-**Q: Da li motar treba kuvati?**
-
-Svež motar se kuva vrlo kratko, obično 30 sekundi do 2 minuta, kako bi ostao hrskav i aromatičan. Ukiseljeni motar uglavnom ne zahteva termičku obradu.
-
-**Q: Gde kupiti motar?**
-
-Svež motar se najčešće nalazi tokom sezone u primorskim krajevima, dok je u unutrašnjosti dostupniji ukiseljeni motar u tegli. Birajte proizvode proverenih proizvođača i proverite deklaraciju, naročito sadržaj soli.
 
 ---
 
