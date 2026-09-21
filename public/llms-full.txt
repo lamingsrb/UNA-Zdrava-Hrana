@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Magnezijum za trnjenje ruku: kada pomaže, a kada kod lekara
+
+https://unazdravahrana.com/blog/magnezijum-za-trnjenje-ruku-kada-pomaze-a-kada-kod-lekara
+
+Magnezijum može ublažiti trnjenje ruku kada je uzrok napetost mišića, grčevi ili loš san, pri čemu su glicinat i citrat najbolji oblici. Ako je trnjenje uporno, jednostrano ili praćeno slabošću, potrebna je lekarska procena, a ne suplement.
+
+**Q: Koji magnezijum je najbolji za trnjenje ruku?**
+
+Za trnjenje povezano sa napetošću mišića i lošim snom preporučuju se magnezijum bisglicinat (uveče) ili citrat. Oksid je jeftin, ali se slabo apsorbuje.
+
+**Q: Koliko magnezijuma dnevno treba uzimati?**
+
+Preporučeni dnevni unos za odrasle je 300–400 mg elementarnog magnezijuma. Suplementacijom se obično dodaje 150–250 mg dnevno, uz obrok.
+
+**Q: Kada trnjenje ruku nije za suplement, već za lekara?**
+
+Ako je trnjenje uporno, jednostrano, praćeno slabošću, gubitkom osećaja ili se javlja posle povrede, obavezno se javite lekaru umesto da uzimate suplement.
+
+**Q: Za koliko dana se oseti dejstvo magnezijuma?**
+
+Efekat se ne oseća prvog dana. Realno je potrebno 2 do 4 nedelje redovnog uzimanja da bi se primetilo smanjenje grčeva, trnjenja i napetosti.
+
+---
+
 ## Nedeljni jelovnik za mršavljenje: 7 dana, realno
 
 https://unazdravahrana.com/blog/nedeljni-jelovnik-za-mrsavljenje-7-dana-realno
@@ -679,30 +703,6 @@ Zasitan doručak obično sadrži složene ugljene hidrate, izvor proteina i nami
 **Q: Da li treba preskočiti večeru ako želim zdraviji ritam ishrane?**
 
 Ne. Večera može biti hranljiva i zasitna, ali je korisno da ne bude jedini veliki obrok kojim nadoknađujete premalo hrane tokom dana.
-
----
-
-## Lubenica i dijabetes: 5 pravila za porciju
-
-https://unazdravahrana.com/blog/lubenica-i-dijabetes-5-pravila-za-porciju
-
-Lubenica može biti deo ishrane osoba sa dijabetesom kada se jede u umerenoj porciji, okvirno oko 150 g ili jedna manja kriška. Najbolje ju je kombinovati uz obrok ili proteine, masti i vlakna, a izbegavati velike količine na prazan stomak i sok od lubenice.
-
-**Q: Da li dijabetičari smeju da jedu lubenicu?**
-
-Da, lubenica nije zabranjena osobama sa dijabetesom, ali je važna umerena porcija i uklapanje u individualni plan ishrane.
-
-**Q: Kolika je porcija lubenice za osobu sa dijabetesom?**
-
-Praktična početna porcija je oko jedna puna šolja kockica, odnosno približno 150 grama, ili jedna manja kriška.
-
-**Q: Da li lubenica podiže šećer u krvi?**
-
-Lubenica sadrži prirodne šećere i ugljene hidrate, pa veće količine mogu podići šećer u krvi. Reakcija zavisi od porcije, ostatka obroka, terapije i individualnog odgovora organizma.
-
-**Q: Sa čim je najbolje jesti lubenicu kod dijabetesa?**
-
-Lubenicu je praktičnije jesti uz obrok ili uz namirnice sa proteinima, mastima i vlaknima, poput prirodnog jogurta, badema ili oraha.
 
 ---
 
