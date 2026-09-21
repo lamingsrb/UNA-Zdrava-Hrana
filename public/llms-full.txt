@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kako da uživate na odmoru, a ostanete disciplinovani
+
+https://unazdravahrana.com/blog/kako-da-uzivate-na-odmoru-a-ostanete-disciplinovani
+
+Vodič pokazuje kako se na odmoru može uživati u hrani bez odricanja, kroz pravilo 80/20, proteinski doručak i pripremljene grickalice iz torbe. Daje i praktične savete za restoran: salata pre glavnog jela, biranje pripreme namirnice i umerenost sa alkoholom.
+
+**Q: Kako da se ne ugojim na odmoru?**
+
+Primenite pravilo 80/20 — 80% obroka jedite uravnoteženo (protein, povrće, vlakna), a 20% neka bude potpuno slobodno bez krivice. Stabilan proteinski doručak i grickalice iz torbe rešavaju najveći deo problema jer sprečavaju napade gladi između obroka.
+
+**Q: Šta doručkovati na letovanju?**
+
+Birajte doručak bogat proteinima i vlaknima: jaja sa integralnim hlebom i povrćem, grčki jogurt sa orasima, ili ovsena kaša sa chia semenom i voćem. Izbegavajte kroasane, krofne i slatku peciva jer izazivaju skok i pad šećera i glad već oko 11 sati.
+
+**Q: Koje grickalice poneti na odmor?**
+
+Za sedmodnevni odmor za dvoje dovoljno je 300-500 g mešavine orašastih plodova, 6-8 proteinskih ili voćnih pločica, paket suvog voća bez dodatog šećera (urme, kajsije, brusnice) i šaka semenki bundeve i suncokreta. Sve to staje u malu torbicu i ne kvari se na vrućini.
+
+**Q: Kako da pametno biram jelo u restoranu na odmoru?**
+
+Prvo naručite salatu ili supu da smanjite glad, birajte grilovanu ili pečenu pripremu umesto pohovane i u umacima, dezert podelite sa nekim, a alkohol ograničite na jednu priliku dnevno. Uz obrok obavezno pijte vodu jer se žeđ često pomeša sa glađu.
+
+---
+
 ## Magnezijum za trnjenje ruku: kada pomaže, a kada kod lekara
 
 https://unazdravahrana.com/blog/magnezijum-za-trnjenje-ruku-kada-pomaze-a-kada-kod-lekara
@@ -679,30 +703,6 @@ Banana je praktičan dodatak doručku, ali za potpuniji obrok kombinujte je sa i
 **Q: Koji su biljni izvori proteina za doručak?**
 
 Za biljni doručak birajte mahunarke i namaze od pasulja ili leblebija, uz žitarice, orašaste plodove i semenke.
-
----
-
-## 6 pravila za vreme doručka i večere
-
-https://unazdravahrana.com/blog/6-pravila-za-vreme-dorucka-i-vecere
-
-Redovniji ritam doručka i večere može pomoći da izbegnete veliku glad, usputno grickanje i preobilne večernje obroke. Doručak neka kombinuje složene ugljene hidrate, proteine i vlakna, a poslednji veći obrok završite okvirno dva do tri sata pre sna.
-
-**Q: Kada je najbolje doručkovati?**
-
-Za većinu ljudi praktično je da prvi konkretniji obrok bude u prva dva do tri sata nakon ustajanja, prema apetitu i dnevnom ritmu.
-
-**Q: Koliko vremena pre spavanja treba večerati?**
-
-Poslednji veći obrok često je praktično završiti dva do tri sata pre spavanja, kako ne biste legli prepunog stomaka.
-
-**Q: Šta čini zasitan zdrav doručak?**
-
-Zasitan doručak obično sadrži složene ugljene hidrate, izvor proteina i namirnice bogate vlaknima ili zdravim mastima, poput žitarica, jogurta, voća, čia semenki i orašastih plodova.
-
-**Q: Da li treba preskočiti večeru ako želim zdraviji ritam ishrane?**
-
-Ne. Večera može biti hranljiva i zasitna, ali je korisno da ne bude jedini veliki obrok kojim nadoknađujete premalo hrane tokom dana.
 
 ---
 
