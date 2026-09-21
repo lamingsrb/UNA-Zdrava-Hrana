@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja salata od pečene bundeve, šljiva i oraha
+
+https://unazdravahrana.com/recepti/jesenja-salata-od-pecene-bundeve-sljiva-i-oraha
+
+Jesenja salata sa pečenom bundevom, šljivama, orasima i kvinojom — brz i zasitan recept za ručak ili laganu večeru posle šetnje.
+
+**Q: Mogu li da pripremim salatu unapred?**
+
+Možete ispeći bundevu i skuvati kvinoju dan ranije i držati ih u frižideru. Sastavite salatu i dodajte dresing tek pred serviranje da sastojci ostanu svežeg ukusa i teksture.
+
+**Q: Koja bundeva je najbolja za ovaj recept?**
+
+Preporučujemo hokaido ili muskatnu bundevu — imaju gušće meso i prijatno slatkast ukus koji se lepo karamelizuje u rerni.
+
+**Q: Da li je recept pogodan za osobe bez glutena?**
+
+Jeste, svi sastojci su prirodno bez glutena. Ako ste posebno osetljivi, proverite deklaraciju kvinoje i birajte one sa oznakom bez glutena.
+
+**Q: Čime mogu zameniti orahe?**
+
+Odlično se uklapaju i badem, lešnik ili indijski orah. Za dodatnu hrskavost probajte kombinaciju oraha i semenki suncokreta.
+
+---
+
 ## Jesenja tabla za doručak: bundeva, šljive, orasi
 
 https://unazdravahrana.com/recepti/jesenja-tabla-za-dorucak-bundeva-sljive-orasi
@@ -679,30 +703,6 @@ Sveža smokva ima oko 74 kcal na 100 g, što je otprilike dva komada srednje vel
 **Q: Sa čim se najbolje kombinuju sveže smokve?**
 
 Sveže smokve se odlično slažu sa kozjim sirom i medom, pršutom i rukolom, orasima i bademima, kao i sa ovsenim pahuljicama za doručak. Njihova slatkoća balansira slane i gorke ukuse.
-
----
-
-## 4 jela od lignji: buzara, tava, rerna i salata
-
-https://unazdravahrana.com/blog/4-jela-od-lignji-buzara-tava-rerna-i-salata
-
-Lignje se spremaju kratko na jakoj vatri ili duže lagano u sosu kako bi ostale mekane. Članak donosi četiri zdrava predloga: buzaru, lignje iz tiganja, iz rerne i salatu.
-
-**Q: Kako da lignje ne budu gumene?**
-
-Lignje pripremajte veoma kratko na jakoj temperaturi, obično 1 do 4 minuta, ili ih lagano krčkajte u sosu 25 do 40 minuta.
-
-**Q: Kako se odmrzavaju zamrznute lignje?**
-
-Odmrzavajte ih preko noći u frižideru, u poklopljenoj posudi. Brža opcija je zatvoreno pakovanje u hladnoj vodi, uz menjanje vode na svakih 30 minuta.
-
-**Q: Koliko se kuvaju lignje na buzaru?**
-
-Lignje na buzaru kuvaju se na tihoj vatri približno 25 do 35 minuta, dok ne omekšaju i ne upiju ukus paradajza, vina i začina.
-
-**Q: Koji prilog ide uz lignje na buzaru?**
-
-Uz lignje na buzaru dobro idu integralni hleb, kuvana heljda, integralna testenina i velika sezonska salata.
 
 ---
 
