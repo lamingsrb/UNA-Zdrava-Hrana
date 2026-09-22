@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja jufka-rolat sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenja-jufka-rolat-sa-bundevom-sljivama-i-orasima
+
+Jesenji rolat od jufke sa bundevom, šljivama i orasima — lagan, mirisan i zdrav dezert za celu porodicu, gotov za 50 minuta.
+
+**Q: Mogu li da napravim rolat unapred za goste?**
+
+Možete ga umesiti i staviti u pleh nekoliko sati ranije, pa peći tek pred serviranje da bude topao i hrskav.
+
+**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
+
+U klasičnoj verziji ne, jer jufke sadrže gluten. Potražite bezglutenske kore za pitu ili nas pitajte u radnji za alternative.
+
+**Q: Koja vrsta bundeve je najbolja?**
+
+Hokaido i muskatna bundeva daju najslađi i najkremastiji nadev, a hokaido ne treba ni ljuštiti.
+
+**Q: Mogu li da smrznem rolat?**
+
+Da, već pečen i ohlađen rolat možete smrznuti do mesec dana. Odmrznite ga u frižideru i podgrejte u rerni na 160°C.
+
+---
+
 ## Kako uklopiti jesenske namirnice u brze obroke
 
 https://unazdravahrana.com/blog/kako-uklopiti-jesenske-namirnice-u-brze-obroke
@@ -679,30 +703,6 @@ Fermentisane namirnice sadrže žive kulture koje doprinose raznovrsnosti crevne
 **Q: Mogu li da koristim heljdinu bundevu (hokaido)?**
 
 Da, hokaido je odličan izbor jer je slađi i čvršći. Ne mora se ni ljuštiti, samo dobro operite koru i narendajte.
-
----
-
-## Kvalitetni vitamini i minerali: kako birati pametno
-
-https://unazdravahrana.com/blog/kvalitetni-vitamini-i-minerali-kako-birati-pametno
-
-Praktičan vodič za pametan izbor vitamina i minerala kroz čitanje deklaracije, prepoznavanje boljih oblika (bisglicinat, D3, metilfolat, rTG omega-3) i doziranje. Naglašava da suplement dopunjuje ishranu, a ne zamenjuje je, uz preporuku konsultacije sa lekarom.
-
-**Q: Koji oblik magnezijuma je najbolji?**
-
-Bisglicinat, citrat i malat se bolje apsorbuju i nežniji su za želudac od oksida, koji često izaziva mekšu stolicu. Bisglicinat je posebno pogodan za osobe sa osetljivim digestivnim traktom.
-
-**Q: Kada uzimati koji vitamin tokom dana?**
-
-Vitamine rastvorljive u mastima (A, D, E, K, omega-3) uz obrok sa mastima. B kompleks ujutru jer daje energiju, magnezijum uveče jer opušta, a gvožđe na prazan stomak sa malo vitamina C, dalje od kafe i čaja.
-
-**Q: Da li je više vitamina uvek bolje?**
-
-Nije. Vitamini rastvorljivi u mastima (A, D, E, K) se skladište u telu i višak može da napravi problem. Kod minerala višak jednog remeti ravnotežu drugih, npr. previše cinka smanjuje bakar.
-
-**Q: Šta gledati na deklaraciji suplementa?**
-
-Aktivni sastojak i njegov oblik, količinu po dozi i procenat NRV, broj kapsula za dnevnu dozu, listu pomoćnih sastojaka (što manje punila i boja), proizvođača i zemlju porekla, kao i rok trajanja i način čuvanja.
 
 ---
 
