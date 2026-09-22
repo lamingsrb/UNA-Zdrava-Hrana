@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja topla činija sa bundevom, kinoom i orasima
+
+https://unazdravahrana.com/recepti/jesenja-topla-cinija-sa-bundevom-kinoom-i-orasima
+
+Topla jesenja činija sa pečenom bundevom, kinoom, šljivama i orasima — bez glutena, gotova za 45 minuta. Idealno za ručak posle jutarnje šetnje.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Može, ali će pustiti više vode i teže će dobiti zlatne ivice. Ako koristite smrznutu, pecite je na 220°C i produžite pečenje za 5–7 minuta.
+
+**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Da, kinoa je prirodno bez glutena, kao i sve ostale namirnice u receptu. Proverite samo da su začini deklarisani kao bez glutena.
+
+**Q: Mogu li da pripremim unapred?**
+
+Kinou i bundevu možete ispeći dan ranije i čuvati odvojeno u frižideru. Pre serviranja kratko podgrejte, dodajte sveže šljive ili ih brzo prepržite.
+
+**Q: Čime da zamenim orahe ako imam alergiju?**
+
+Odlično rade prepržene semenke bundeve ili suncokreta — daju sličnu hrskavost i lepo se slažu sa bundevom.
+
+---
+
 ## Jesenji rižoto sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenji-rizoto-sa-bundevom-sljivama-i-orasima
@@ -679,30 +703,6 @@ Najčešće se radi o premalo soli ili prekratkom gnječenju. Ako i nakon 30 min
 **Q: Mogu li da koristim hokaido bundevu sa korom?**
 
 Da, hokaido ima jestivu koru i odlično se ponaša u fermentaciji. Samo je dobro operite i narendajte na krupno.
-
----
-
-## Brzi kimči od bundeve i belog kupusa sa đumbirom
-
-https://unazdravahrana.com/recepti/brzi-kimci-od-bundeve-i-belog-kupusa-sa-djumbirom
-
-Brzi kimči od bundeve, kupusa i đumbira — jednostavna fermentacija za 3-5 dana koja podržava zdravlje creva. Recept UNA Zdrave Hrane.
-
-**Q: Da li kimči može da se pravi bez ljute paprike?**
-
-Može. Izostavite ljutu, a zadržite slatku alevu papriku — dobićete blažu verziju koja i deci prija.
-
-**Q: Kako da znam da je kimči uspeo, a ne pokvaren?**
-
-Uspešan kimči miriše kiselkasto-svežje, ima blago mehuriće i prijatnu boju. Ako vidite plesan na površini ili osetite neprijatan miris, bacite ga.
-
-**Q: Da li fermentisana hrana zaista pomaže crevima?**
-
-Fermentisana hrana doprinosi raznovrsnosti crevne mikroflore zahvaljujući živim kulturama. Za konkretna zdravstvena pitanja posavetujte se sa lekarom.
-
-**Q: Mogu li da koristim već fermentisan sok kao starter?**
-
-Da, kašika soka iz prethodne tegle kimčija ili kiselog kupusa ubrzava fermentaciju i daje pouzdaniji rezultat.
 
 ---
 
