@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kako uklopiti jesenske namirnice u brze obroke
+
+https://unazdravahrana.com/blog/kako-uklopiti-jesenske-namirnice-u-brze-obroke
+
+Vodič kroz brzu pripremu jesenjih obroka od sezonskih namirnica poput bundeve, kestena i korenastog povrća. Donosi konkretne recepte za doručak, ručak iz jedne tepsije i varivo, sa naglaskom na uštedu vremena.
+
+**Q: Koje su glavne jesenske namirnice u Srbiji?**
+
+Bundeva (muskatna, hokaido, obična), korenasto povrće (šargarepa, cvekla, paškanat, celer), kesten, jabuke, kruške, šljive, dunje, kupus, kelj, pečurke, orasi, lešnici i badem iz nove berbe.
+
+**Q: Kako brzo pripremiti obrok od bundeve za užurbana jutra?**
+
+Nedeljom ispecite celu tepsiju bundeve isečene na kocke sa maslinovim uljem, cimetom i solju 25 minuta na 200°C. Držite u staklenoj posudi u frižideru 4-5 dana i dodajte u jogurt, kajganu ili salatu.
+
+**Q: Da li je kesten zdrav i kako se koristi u ishrani?**
+
+Kesten je nizak u mastima, bogat skrobom, vlaknima, kalijumom i vitaminom C. Sto grama kuvanog kestena ima oko 130 kalorija. Koristite ga kao zamenu za krompir ili pirinač u varivima, salatama, kao pire ili u obliku brašna za palačinke.
+
+**Q: Kako napraviti brzi ručak iz jedne tepsije?**
+
+Isecite bundevu, šargarepu, paškanat i luk na kocke, začinite maslinovim uljem, solju, biberom i ruzmarinom, dodajte izvor proteina (piletina, losos, slanutak ili tofu) i pecite 30 minuta na 200°C. Poslužite sa jogurtom i orasima.
+
+---
+
 ## Jesenja salata od pečene bundeve, šljiva i oraha
 
 https://unazdravahrana.com/recepti/jesenja-salata-od-pecene-bundeve-sljiva-i-oraha
@@ -682,28 +706,4 @@ Aktivni sastojak i njegov oblik, količinu po dozi i procenat NRV, broj kapsula 
 
 ---
 
-## Recepti sa svežim smokvama: 5 ideja koje vredi probati
-
-https://unazdravahrana.com/blog/recepti-sa-svezim-smokvama-5-ideja-koje-vredi-probati
-
-Vodič kroz 5 jednostavnih recepata sa svežim smokvama, od predjela sa kozjim sirom do salate sa pršutom i ovsene kaše. Uključuje savete kako prepoznati zrelu smokvu, čuvati je i uporedni pregled kalorija svežih, suvih i pečenih smokvi.
-
-**Q: Kako prepoznati zrelu smokvu?**
-
-Zrela smokva je mekana na dodir, blago spuštenih ramena, sa kožicom koja može pucati po vrhu i sladunjavim mirisom. Teška je za svoju veličinu jer je puna soka, a peteljka treba da bude sveža, ne suva i crna.
-
-**Q: Koliko dugo mogu da stoje sveže smokve?**
-
-Sveže smokve ne trpe stajanje — u frižideru izdrže dva do tri dana, a na sobnoj temperaturi samo jedan dan. Ako ih ima previše, najbolje je odmah ih zamrznuti cele ili upotrebiti u receptu.
-
-**Q: Koliko kalorija ima sveža smokva?**
-
-Sveža smokva ima oko 74 kcal na 100 g, što je otprilike dva komada srednje veličine, i sadrži oko 3 g vlakana. Suva smokva je znatno kaloričnija, oko 250 kcal na 100 g.
-
-**Q: Sa čim se najbolje kombinuju sveže smokve?**
-
-Sveže smokve se odlično slažu sa kozjim sirom i medom, pršutom i rukolom, orasima i bademima, kao i sa ovsenim pahuljicama za doručak. Njihova slatkoća balansira slane i gorke ukuse.
-
----
-
-Last updated: 2026-09-21
+Last updated: 2026-09-22
