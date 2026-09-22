@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji rižoto sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenji-rizoto-sa-bundevom-sljivama-i-orasima
+
+Kremast jesenji rižoto sa pečenom bundevom, šljivama i orasima — zasitan porodični obrok gotov za 50 minuta. Recept iz UNA kuhinje.
+
+**Q: Mogu li da koristim beli pirinač umesto integralnog?**
+
+Naravno. Beli pirinač se kuva brže (oko 15 minuta) i daje kremastiji rižoto, ali integralni ima više vlakana i duže drži sitost — što je posebno dobro ako pazite na energiju tokom dana.
+
+**Q: Koja bundeva je najbolja za rižoto?**
+
+Muskatna (butternut) bundeva ima slađe i gušće meso, pa je idealna. Hokaido je takođe odlična i ne mora da se ljušti. Obična domaća bundeva je vodenija — u tom slučaju je duže pecite u rerni.
+
+**Q: Da li mogu da zamenim šljive nečim drugim?**
+
+Da, u kasnoj jeseni odlično prijaju sušene brusnice ili grožđice, a mogu se koristiti i kruške. Šljive daju najlepšu kiselkastu notu koja balansira slatkoću bundeve.
+
+**Q: Da li je ovo jelo prikladno za decu?**
+
+Jeste, samo izostavite biber i budite umereni sa žalfijom. Deca često vole slatkoću bundeve i kremastu teksturu rižota. Orahe možete sitnije iseckati ili ih poslužiti sa strane.
+
+---
+
 ## Jesenja jufka-rolat sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenja-jufka-rolat-sa-bundevom-sljivama-i-orasima
@@ -679,30 +703,6 @@ Fermentisana hrana doprinosi raznovrsnosti crevne mikroflore zahvaljujući živi
 **Q: Mogu li da koristim već fermentisan sok kao starter?**
 
 Da, kašika soka iz prethodne tegle kimčija ili kiselog kupusa ubrzava fermentaciju i daje pouzdaniji rezultat.
-
----
-
-## Domaći kimči od bundeve i kupusa sa orasima
-
-https://unazdravahrana.com/recepti/domaci-kimci-od-bundeve-i-kupusa-sa-orasima
-
-Domaći kimči od bundeve, kupusa i oraha — jesenja verzija sa uputstvom za fermentaciju 4-7 dana. Prirodni probiotici za dobra creva.
-
-**Q: Da li mogu da koristim običnu kuhinjsku so?**
-
-Ne preporučuje se. Jodirana so i so sa aditivima protiv zgrušavanja ometaju rad korisnih bakterija. Koristite krupnu morsku ili himalajsku so bez dodataka.
-
-**Q: Kako da znam da je kimči gotov?**
-
-Probajte kašičicom od 4. dana — kad vam ukus odgovara (kiselkast, blago gaziran), prebacite u frižider. Ukus nastavlja da se razvija i tamo, samo sporije.
-
-**Q: Da li fermentisana hrana zaista pomaže crevima?**
-
-Fermentisane namirnice sadrže žive kulture koje doprinose raznovrsnosti crevne mikroflore. Nije zamena za lekove — kod tegoba obavezno se posavetujte sa lekarom.
-
-**Q: Mogu li da koristim heljdinu bundevu (hokaido)?**
-
-Da, hokaido je odličan izbor jer je slađi i čvršći. Ne mora se ni ljuštiti, samo dobro operite koru i narendajte.
 
 ---
 
