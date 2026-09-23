@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Biljni i sirutkini proteini: kako izabrati pravi
+
+https://unazdravahrana.com/blog/biljni-i-sirutkini-proteini-kako-izabrati-pravi
+
+Vodič kroz razlike između sirutkinih (koncentrat, izolat, hidrolizat), kazeina i biljnih proteina, sa preporukama po profilu korisnika. Objašnjava dnevne potrebe, doziranje i kada je suplement zaista koristan.
+
+**Q: Koji protein u prahu je najbolji za početnike?**
+
+Za rekreativce bez problema sa mlekom, sirutkin koncentrat (WPC) je najbolji odnos cene i kvaliteta, sa 25–30 g proteina po dozi posle treninga.
+
+**Q: Da li je biljni protein jednako dobar kao sirutka?**
+
+Da, mešavine graška i pirinča daju kompletan aminokiselinski profil vrlo blizu sirutki. Dodajte 10–20% veću dozu zbog malo niže iskoristivosti.
+
+**Q: Koliko proteina dnevno je potrebno?**
+
+Sedentarni odrasli oko 0,8 g/kg, rekreativci 1,2–1,6 g/kg, a oni koji ozbiljno treniraju snagu ili mršave 1,6–2,0 g/kg telesne mase.
+
+**Q: Kada je najbolje uzeti protein u prahu?**
+
+U okviru sat vremena posle treninga ili kao užina između obroka. Kazein je bolji pre spavanja zbog sporije apsorpcije od 3–6 sati.
+
+---
+
 ## Jesenja topla činija sa bundevom, kinoom i orasima
 
 https://unazdravahrana.com/recepti/jesenja-topla-cinija-sa-bundevom-kinoom-i-orasima
@@ -682,28 +706,4 @@ Za sirove tikvice i salate koristi maslinovo extra virgin ili bundevino ulje, za
 
 ---
 
-## Fermentisani kupus sa bundevom i šljivama
-
-https://unazdravahrana.com/recepti/fermentisani-kupus-sa-bundevom-i-sljivama
-
-Domaći fermentisani kupus sa bundevom, šljivama i orasima — jesenji recept bez sirćeta, gotov za 5–7 dana. Prirodni ukus i hrskavost.
-
-**Q: Koliko dana traje fermentacija?**
-
-Na sobnoj temperaturi od 20–24°C obično je gotova za 5–7 dana. U hladnijoj prostoriji može trajati i do 10 dana. Probajte svaki dan i zaustavite fermentaciju kada vam ukus odgovara — prebacivanjem u frižider.
-
-**Q: Da li je fermentisano povrće dobro za creva?**
-
-Fermentisano povrće sadrži prirodne bakterije mlečne kiseline koje doprinose raznovrsnosti crevne mikroflore. Za konkretne zdravstvene tegobe uvek se posavetujte sa lekarom.
-
-**Q: Zašto moje povrće nije puštalo dovoljno soka?**
-
-Najčešće se radi o premalo soli ili prekratkom gnječenju. Ako i nakon 30 minuta nema dovoljno tečnosti, dolijte slanu vodu (1 kašičica soli na 250 ml prokuvane i ohlađene vode) da prekrije povrće.
-
-**Q: Mogu li da koristim hokaido bundevu sa korom?**
-
-Da, hokaido ima jestivu koru i odlično se ponaša u fermentaciji. Samo je dobro operite i narendajte na krupno.
-
----
-
-Last updated: 2026-09-22
+Last updated: 2026-09-23
