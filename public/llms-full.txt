@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Crvena rog paprika: Recepti za celu jesen
+
+https://unazdravahrana.com/blog/crvena-rog-paprika-recepti-za-celu-jesen
+
+Vodič kroz jesenju sezonu crvene rog paprike sa receptima za pečenu, punjenu i mariniranu papriku, kao i osnovom za ajvar. Uključuje savete za izbor sveže paprike na pijaci i njene nutritivne prednosti.
+
+**Q: Koja je razlika između rog paprike i babure?**
+
+Rog paprika je izdužena, tanja i mesnata sa tankom korom koja se lako guli nakon pečenja, dok je babura deblja i sočnija. Rog je slađi i intenzivnijeg ukusa, pa je omiljena za pečenje, ajvar i punjenje sirom.
+
+**Q: Kako izabrati kvalitetnu rog papriku na pijaci?**
+
+Birajte čvrste, sjajne i ravnomerno tamno crvene paprike bez mekih tačaka i nabora. Peteljka mora biti zelena i sveža, a paprika teža u ruci — što je teža, to je mesnatija i sočnija.
+
+**Q: Koliko dugo se čuva pečena rog paprika u frižideru?**
+
+Očišćena pečena rog paprika drži se 4–5 dana u frižideru u zatvorenoj posudi. Marinirana u tegli sa uljem i sirćetom traje do 3 nedelje u frižideru.
+
+**Q: Da li je crvena paprika zdrava?**
+
+Jedna srednja crvena paprika pokriva dnevnu potrebu za vitaminom C odrasle osobe i bogata je beta karotenom koji doprinosi zdravlju kože i vida. Antioksidansi podržavaju imunitet, što je korisno pred sezonu prehlada.
+
+---
+
 ## Biljni i sirutkini proteini: kako izabrati pravi
 
 https://unazdravahrana.com/blog/biljni-i-sirutkini-proteini-kako-izabrati-pravi
@@ -679,30 +703,6 @@ Nije prvi izbor za decu, trudnice i dojilje jer imaju specifične potrebe za fol
 **Q: Zašto se Multi Essence ne pije uz kafu?**
 
 Tanini iz čaja i polifenoli iz kafe smanjuju apsorpciju gvožđa i cinka. Napravite razmak od najmanje 60 minuta između kafe i uzimanja tablete.
-
----
-
-## Ribane tikvice: brzi letnji obroci bez muke
-
-https://unazdravahrana.com/blog/ribane-tikvice-brzi-letnji-obroci-bez-muke
-
-Vodič za pripremu ribanih tikvica kao osnove brzih letnjih obroka, sa savetima za izbor na pijaci i trikom ceđenja vode. Uključuje šest recepata (palačinke, špageti, frittata, salata, krem-supa, ćufte) i tabelu ulja za različite načine pripreme.
-
-**Q: Kako se najbolje ceđe ribane tikvice pre kuvanja?**
-
-Izrendaj tikvice na krupno rende sa korom, pospi pola kašičice soli na 500 g, promešaj i ostavi 10–15 minuta u cediljci. Zatim rukama ili u gazi iscedi tečnost — iz 500 g dobićeš oko pola šolje vode.
-
-**Q: Kako izabrati sveže tikvice na pijaci?**
-
-Biraj tikvice dužine 15–20 cm, čvrste, sa glatkom i sjajnom korom, svežom peteljkom i bez izraženog mirisa. Ako popušta pod prstom ili miriše kiselkasto, nemoj je uzeti.
-
-**Q: Koje rende koristiti za ribane tikvice?**
-
-Krupno rende (ono za kupus i krastavce) daje niti koje drže oblik i posle pečenja, savršeno za tiganj i salatu. Sitno rende pravi kašu koja pušta previše vode i pogodno je samo za pite i hleb.
-
-**Q: Koje ulje je najbolje za pripremu tikvica?**
-
-Za sirove tikvice i salate koristi maslinovo extra virgin ili bundevino ulje, za kratko prženje maslinovo ili kokosovo, a za pečenje u rerni maslinovo ili avokado ulje. Laneno i konopljino ulje nikad ne zagrevati.
 
 ---
 
