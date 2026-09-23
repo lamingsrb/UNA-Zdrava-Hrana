@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji doručak-tost sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenji-dorucak-tost-sa-bundevom-sljivama-i-orasima
+
+Topao jesenji tost sa pečenom bundevom, šljivama i orasima na integralnom hlebu — zdrav doručak spreman za 35 minuta.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Može, ali je najbolje da je prvo odmrznete i dobro ocedite od viška vode, pa tek onda pečete — inače će se pariti umesto da se karamelizuje.
+
+**Q: Čime da zamenim šljive kad prođe sezona?**
+
+Odlično idu i kruške ili pečene jabuke sa cimetom. Zimi možete koristiti i suve šljive prethodno namočene u toploj vodi 10 minuta.
+
+**Q: Da li je ovaj doručak dovoljno zasitan pre šetnje?**
+
+Jeste — kombinacija integralnog hleba, oraha i urda daje spor otpust energije. Ako planirate dužu šetnju, dodajte kuvano jaje ili šoljicu čaja uz doručak.
+
+**Q: Koliko dugo mogu da čuvam ostatke?**
+
+Sastavljene tostove najbolje pojesti odmah. Pečenu bundevu i šljive čuvajte u zatvorenoj posudi u frižideru do 3 dana i sastavljajte sveže po potrebi.
+
+---
+
 ## Jesenji čatni od bundeve i šljiva s orasima
 
 https://unazdravahrana.com/recepti/jesenji-catni-od-bundeve-i-sljiva-s-orasima
@@ -679,30 +703,6 @@ Ključ je da se tofu prvo iscedi — umotajte kockice u čist peškir, pritisnit
 **Q: Može li se veganski ručak spremiti za 30 minuta?**
 
 Da, uz pripremljene sastojke poput konzerve leblebija, crvenog sočiva koje se kuva 12 minuta ili tofua, može se napraviti kompletan zasitan obrok za 20–30 minuta.
-
----
-
-## Kimči: originalni recept i koliko dana da fermentiše
-
-https://unazdravahrana.com/blog/kimci-originalni-recept-i-koliko-dana-da-fermentise
-
-Detaljan vodič za pripremu domaćeg kimčija po tradicionalnom korejskom receptu, prilagođen sastojcima dostupnim u Srbiji. Uključuje tabelu fermentacije po danima i objašnjenje probiotičkih sojeva.
-
-**Q: Koliko dana kimči treba da fermentiše?**
-
-Na sobnoj temperaturi od 20–22°C, kimči je za većinu ukusa spreman za frižider 3. do 5. dana. Za blažu kiselost prebacite ga ranije, za intenzivniji ukus ostavite do 7 dana.
-
-**Q: Da li domaći kimči ima više probiotika od kupovnog?**
-
-Da, jer kupovni kimči je najčešće pasterizovan pa su korisne bakterije mrtve. Domaći kimči čuvan u frižideru ostaje živ mesecima i sadrži bogatu mikrofloru bakterija mlečne kiseline.
-
-**Q: Šta ako ne mogu da nađem gochugaru?**
-
-Možete koristiti mešavinu domaće mlevene slatke aleve paprike sa malo ljute. Ukus neće biti identičan, ali će dati sličnu boju i prijatnu ljutinu bez gorčine.
-
-**Q: Kako napraviti veganski kimči?**
-
-Umesto ribljeg sosa koristite 2 kašike sos od soje ili miso paste. Postupak i vreme fermentacije ostaju isti, a ukus je jednako bogat i umami.
 
 ---
 
