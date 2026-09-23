@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji čatni od bundeve i šljiva s orasima
+
+https://unazdravahrana.com/recepti/jesenji-catni-od-bundeve-i-sljiva-s-orasima
+
+Jesenji čatni od bundeve, šljiva i oraha — domaći recept za gust, mirisan namaz uz sireve, meso ili integralni hleb. Gotov za 45 minuta.
+
+**Q: Koju vrstu bundeve je najbolje koristiti?**
+
+Najbolja je hokaido ili muskatna bundeva jer imaju gušće meso i slađi ukus. Hokaido ne morate ni da ljuštite ako je kora tanka i čista.
+
+**Q: Mogu li čatni da napravim bez šećera i meda?**
+
+Da, ako su šljive zrele i slatke, dovoljna je njihova prirodna slatkoća. Po želji dodajte kašiku javorovog sirupa ili malo urminog sirupa na kraju.
+
+**Q: Uz šta ide ovaj čatni?**
+
+Odlično se slaže sa zrelim sirevima, pečenim mesom, integralnim tostom, ovsenom kašom, pa čak i kao dodatak salati od kinoe ili leblebija.
+
+**Q: Da li deca mogu da jedu ovaj čatni?**
+
+Naravno, samo izostavite čili pahuljice. Blago začinjena verzija je odlična kao namaz na hlebu za užinu.
+
+---
+
 ## Jesenji energetski zalogaji sa bundevom i orasima
 
 https://unazdravahrana.com/recepti/jesenji-energetski-zalogaji-sa-bundevom-i-orasima
@@ -679,30 +703,6 @@ Možete koristiti mešavinu domaće mlevene slatke aleve paprike sa malo ljute. 
 **Q: Kako napraviti veganski kimči?**
 
 Umesto ribljeg sosa koristite 2 kašike sos od soje ili miso paste. Postupak i vreme fermentacije ostaju isti, a ukus je jednako bogat i umami.
-
----
-
-## Šta se dešava kada preskočimo doručak svako jutro?
-
-https://unazdravahrana.com/blog/sta-se-desava-kada-preskocimo-dorucak-svako-jutro
-
-Preskakanje doručka nije samo po sebi štetno, ali svakodnevno ponavljanje često vodi ka večernjem prejedanju, lošijim izborima hrane i gubitku prirodnog osećaja gladi. Kvalitetan doručak sa kompleksnim ugljenim hidratima, proteinima i zdravim mastima pomaže stabilnoj energiji i boljem rasporedu obroka tokom dana.
-
-**Q: Da li je doručak zaista najvažniji obrok u danu?**
-
-Ne postoji jedan najvažniji obrok — bitan je ukupan raspored ishrane tokom 24 sata. Ali prvi obrok postavlja ton za ostale, pa kvalitetan doručak često znači mudrije izbore hrane do večere.
-
-**Q: Šta se dešava telu kada preskočimo doručak?**
-
-Prvih 2–3 sata većina ljudi se oseća fokusirano zbog kortizola, ali posle 3–5 sati može pasti šećer u krvi, javiti se razdražljivost i magla u glavi, a posle 5–7 sati dolazi jaka glad i želja za slatkim.
-
-**Q: Ko bi obavezno trebalo da doručkuje?**
-
-Deca školskog uzrasta, sportisti, trudnice i dojilje, osobe sa dijabetesom, stariji od 65 godina, ljudi skloni večernjem prejedanju i oni koji piju terapiju uz hranu imaju najviše koristi od redovnog jutarnjeg obroka.
-
-**Q: Kako izgleda doručak koji drži do ručka?**
-
-Zasitan doručak stoji na tri stuba: kompleksni ugljeni hidrati (ovsene pahuljice, integralni hleb), protein (jaja, jogurt, semenke) i zdrava mast (avokado, orasi, tahini). Ta kombinacija sprečava naglu glad i žudnju za slatkim.
 
 ---
 
