@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji energetski zalogaji sa bundevom i orasima
+
+https://unazdravahrana.com/recepti/jesenji-energetski-zalogaji-sa-bundevom-i-orasima
+
+Energetski zalogaji sa bundevom, orasima i šljivama — bez pečenja, gotovi za 35 minuta. Idealna jesenja užina za šetnju i školu.
+
+**Q: Mogu li koristiti bundevu iz tegle umesto sveže?**
+
+Možete, ali obavezno dobro ocedite višak tečnosti. Sveža bundeva daje bolju teksturu i prirodniju slatkoću.
+
+**Q: Da li su ovi zalogaji dobri pre jutarnje šetnje?**
+
+Jedan do dva zalogaja 20-30 minuta pre šetnje daju laganu energiju bez težine u stomaku, zahvaljujući vlaknima iz ovsa i zdravim mastima iz oraha.
+
+**Q: Koliko šećera ima u jednom zalogaju?**
+
+Slatkoća potiče uglavnom iz sušenih šljiva i male količine meda — nema dodatog belog šećera. Za smanjenu verziju smanjite med na 2 kašike.
+
+**Q: Da li mogu bez oraha zbog alergije?**
+
+Naravno, zamenite orahe semenkama suncokreta ili bundeve u istoj količini — dobija se sličan hrskavi zalogaj.
+
+---
+
 ## Crvena rog paprika: Recepti za celu jesen
 
 https://unazdravahrana.com/blog/crvena-rog-paprika-recepti-za-celu-jesen
@@ -679,30 +703,6 @@ Deca školskog uzrasta, sportisti, trudnice i dojilje, osobe sa dijabetesom, sta
 **Q: Kako izgleda doručak koji drži do ručka?**
 
 Zasitan doručak stoji na tri stuba: kompleksni ugljeni hidrati (ovsene pahuljice, integralni hleb), protein (jaja, jogurt, semenke) i zdrava mast (avokado, orasi, tahini). Ta kombinacija sprečava naglu glad i žudnju za slatkim.
-
----
-
-## Multi Essence vitamini i minerali: sve što treba da znate
-
-https://unazdravahrana.com/blog/multi-essence-vitamini-i-minerali-sve-sto-treba-da-znate
-
-Multi Essence je kompleksni multivitaminski i multimineralni preparat za odrasle sa jednom tabletom dnevno uz obrok bogat mastima. Namenjen je popunjavanju nedostataka u ishrani, ne zamenjuje raznovrsnu hranu ni lekove, a kure traju 2–3 meseca uz pauzu.
-
-**Q: Kada je najbolje piti Multi Essence?**
-
-Ujutru uz doručak koji sadrži masti (jaja, avokado, maslinovo ulje), jer se vitamini A, D, E i K apsorbuju uz masnoće. Uveče se ne preporučuje jer B vitamini mogu ometati san.
-
-**Q: Koliko dugo se pije Multi Essence?**
-
-Preporučuju se kure od 2 do 3 meseca, nakon čega sledi pauza od mesec dana. Nije preporučljivo piti multivitamine 365 dana bez prekida.
-
-**Q: Da li Multi Essence mogu piti trudnice i deca?**
-
-Nije prvi izbor za decu, trudnice i dojilje jer imaju specifične potrebe za folatom, gvožđem i jodom. Postoje posebne formulacije, a trudnice treba da se konsultuju sa lekarom.
-
-**Q: Zašto se Multi Essence ne pije uz kafu?**
-
-Tanini iz čaja i polifenoli iz kafe smanjuju apsorpciju gvožđa i cinka. Napravite razmak od najmanje 60 minuta između kafe i uzimanja tablete.
 
 ---
 
