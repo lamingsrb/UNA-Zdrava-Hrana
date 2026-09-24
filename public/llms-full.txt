@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## It's mocktail hour: Recepti za viralne bezalkoholne koktele
+
+https://unazdravahrana.com/blog/its-mocktail-hour-recepti-za-viralne-bezalkoholne-koktele
+
+Vodič kroz pripremu mocktail-ova zasnovanih na balansu kiseline, slatkoće i arome, uz recepte za domaće sirupe od nane, đumbira, bazge i hibiskusa. Donosi pet detaljnih recepata i savete za prilagođavanje bezalkoholnih koktela porodičnim okupljanjima i rekreativcima.
+
+**Q: Šta čini dobar bezalkoholni koktel?**
+
+Dobar mocktail počiva na tri elementa: kiselini (limun, limeta), slatkoći (med, sirup) i jasnoj aromi (začin, biljni čaj, sveže voće). Bez alkohola koji povezuje ukuse, potrebno je pažljivo balansirati sve tri komponente da napitak ne bi bio razblažen.
+
+**Q: Koliko dugo traje domaći sirup za koktele?**
+
+Domaći sirup napravljen u odnosu 1:1 (voda i šećer) traje 2 do 3 nedelje u frižideru u čistoj staklenoj tegli. Jedna tegla je dovoljna za oko desetak koktela.
+
+**Q: Koja je osnovna formula za pravljenje mocktail-a?**
+
+Praktično pravilo je 50 ml baze (čaj ili sok) + 20 ml kiseline + 15 ml sirupa + gazirana voda, uz obavezan garnir. Od te osnove se dalje improvizuje sa različitim aromama i sastojcima.
+
+**Q: Kako prilagoditi bezalkoholne koktele deci?**
+
+Za decu izostavite jaku kiselinu i ljut đumbir, a koristite blaže sirupe od bazge ili jagode i dodajte mnogo svežeg voća na štapiću. Poslužite u istoj čaši kao odraslima da se deca osećaju kao deo proslave.
+
+---
+
 ## Dagnje: recepti za buzaru, tjesteninu i rižoto
 
 https://unazdravahrana.com/blog/dagnje-recepti-za-buzaru-tjesteninu-i-rizoto
@@ -697,12 +721,6 @@ U dobro zatvorenoj posudi u frižideru do 3 dana, a u zamrzivaču do 2 meseca u 
 **Q: Da li je ovo pogodno za decu?**
 
 Jeste — nema rafinisanog šećera, a bundeva i šljive daju prirodnu slatkoću koju deca vole. Orahe možete sitnije iseckati ili izostaviti kod najmlađih.
-
----
-
-## Recepti s mangom: 6 osvežavajućih ideja za leto
-
-https://unazdravahrana.com/blog/recepti-s-mangom-6-osvezavajucih-ideja-za-leto
 
 ---
 
