@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jutarnja činija sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jutarnja-cinija-sa-bundevom-sljivama-i-orasima
+
+Topla jutarnja činija sa pečenom bundevom, šljivama, orasima i ovsenim pahuljicama — sezonski doručak za energiju pre šetnje.
+
+**Q: Mogu li da pripremim kašu veče pre?**
+
+Možete. Skuvajte kašu, ohladite je i držite u frižideru do 2 dana. Ujutru dodajte malo tople vode ili napitka i zagrejte uz mešanje.
+
+**Q: Da li je ovaj doručak prikladan pre jutarnje šetnje?**
+
+Jeste — kombinacija složenih ugljenih hidrata iz ovsa i bundeve sa mastima iz oraha doprinosi postepenom oslobađanju energije. Pojedite ga 30–45 minuta pre šetnje.
+
+**Q: Čime da zamenim med ako ga ne koristim?**
+
+Odlično se slaže javorov sirup, sirup od agave ili nekoliko iseckanih urmi koje ćete dodati u kašu tokom kuvanja.
+
+**Q: Mogu li deca da jedu ovaj doručak?**
+
+Naravno, recept je lagan i prirodan. Za najmlađe smanjite začine (đumbir, cimet) i orahe sitno iseckajte kako biste izbegli grickanje krupnih komada.
+
+---
+
 ## Jesenji doručak-tost sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenji-dorucak-tost-sa-bundevom-sljivama-i-orasima
@@ -682,28 +706,4 @@ Naravno. Skuvanu heljdu i pečenu bundevu čuvajte odvojeno u frižideru do 3 da
 
 ---
 
-## Veganski ručak za 30 minuta: 5 zasitnih recepata
-
-https://unazdravahrana.com/blog/veganski-rucak-za-30-minuta-5-zasitnih-recepata
-
-Vodič kroz pet zasitnih veganskih recepata koji se pripremaju za oko 30 minuta, sa naglaskom na balans proteina, vlakana, složenih ugljenih hidrata i zdravih masti. Uključuje kari od leblebija, buddha bowl sa kinoom, testeninu sa sosom od crvenog sočiva i tofu sa brokolijem.
-
-**Q: Šta čini veganski ručak zasitnim?**
-
-Zasitan veganski ručak sadrži četiri elementa: izvor proteina (mahunarke, tofu, tempeh), vlakna iz povrća, složene ugljene hidrate poput kinoe ili integralnih žitarica, i zdrave masti (tahini, maslinovo ulje, semenke).
-
-**Q: Koliko proteina treba da ima veganski ručak?**
-
-Preporučuje se 80–120 g kuvanih mahunarki, tofua ili tempeha po osobi, što daje oko 20–25 g proteina po porciji, dovoljno za sitost i oporavak nakon treninga.
-
-**Q: Kako pripremiti tofu da bude ukusan?**
-
-Ključ je da se tofu prvo iscedi — umotajte kockice u čist peškir, pritisnite tanjirom 10 minuta, zatim uvaljajte u kukuruzni skrob i propržite dok ne uhvati koricu sa svih strana.
-
-**Q: Može li se veganski ručak spremiti za 30 minuta?**
-
-Da, uz pripremljene sastojke poput konzerve leblebija, crvenog sočiva koje se kuva 12 minuta ili tofua, može se napraviti kompletan zasitan obrok za 20–30 minuta.
-
----
-
-Last updated: 2026-09-23
+Last updated: 2026-09-24
