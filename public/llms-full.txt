@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenje muffin-kifle sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenje-muffin-kifle-sa-bundevom-sljivama-i-orasima
+
+Meki integralni mafini sa bundevom, šljivama i orasima — jesenji doručak ili užina za celu porodicu, gotovo za 40 minuta.
+
+**Q: Mogu li da koristim bundevu iz tegle?**
+
+Može, ali sveže pečena bundeva ima bogatiji ukus i manje vode. Ako koristite gotov pire, ocedite ga par minuta u cediljci.
+
+**Q: Koje šljive su najbolje za ovaj recept?**
+
+Požegače ili stenley — čvrste su, slatko-kisele i lepo se drže u smesi. Previše mekane šljive puste dosta soka.
+
+**Q: Mogu li deca da jedu ove mafine?**
+
+Naravno, blago su zaslađene medom i pune su vlakana. Za mlađu decu iseckajte orahe što sitnije zbog rizika od gušenja.
+
+**Q: Kako da mafini budu vazdušastiji?**
+
+Ne mešajte smesu previše kada spojite mokre i suve sastojke — dovoljno je 10-ak zamaha špatulom. Grudvice u testu su znak da će mafini biti mekani.
+
+---
+
 ## Jutarnja činija sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/jutarnja-cinija-sa-bundevom-sljivama-i-orasima
@@ -679,30 +703,6 @@ Odlično se uklapaju semenke suncokreta, bundeve ili tikve. Sve tri dolaze uz sl
 **Q: Da li mogu koristiti smrznutu bundevu?**
 
 Može, ali je pre pečenja ocedite i posušite papirnim ubrusom kako ne bi pustila previše vode. Vreme pečenja produžite za 5–10 minuta.
-
----
-
-## Jesenja kaša od heljde s bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenja-kasa-od-heljde-s-bundevom-sljivama-i-orasima
-
-Kremasta kaša od heljde sa pečenom bundevom, sočnim šljivama i orasima — topao jesenji doručak bogat vlaknima, prirodno bez glutena.
-
-**Q: Da li je ovaj recept bez glutena?**
-
-Heljda je prirodno bez glutena, kao i sve ostale namirnice u receptu. Ako imate izraženu osetljivost, obavezno proverite deklaraciju heljde da bude označena kao 'bez glutena' (bez unakrsne kontaminacije).
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Da, smrznuta bundeva odlično radi. Pecite je 5–10 minuta duže i ne dodajte je u tečnost dok se prvo malo ne osuši u rerni, kako bi zadržala teksturu.
-
-**Q: Da li je pogodno za starije osobe?**
-
-Jeste — obrok je bogat vlaknima koja doprinose normalnom radu creva, mekane je teksture i lako svarljiv. Kod specifičnih zdravstvenih stanja uvek se posavetujte sa lekarom.
-
-**Q: Mogu li da pripremim veće količine unapred?**
-
-Naravno. Skuvanu heljdu i pečenu bundevu čuvajte odvojeno u frižideru do 3 dana, a orahe dodajte tek pri serviranju da ostanu hrskavi.
 
 ---
 
