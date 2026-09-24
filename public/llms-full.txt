@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji energetski keks sa bundevom i šljivama
+
+https://unazdravahrana.com/recepti/jesenji-energetski-keks-sa-bundevom-i-sljivama
+
+Domaći jesenji keks sa bundevom, šljivama i orasima — bez belog šećera, savršena zdrava užina za jutarnje šetnje i porodicu.
+
+**Q: Mogu li da koristim pečenu bundevu umesto sveže rendane?**
+
+Možete, ali smanjite količinu na 150 g i dobro je iscedite jer je vlažnija. Tekstura keksa biće mekša.
+
+**Q: Da li deca mogu da jedu ove kekse?**
+
+Naravno — nema belog šećera i ukus je blag. Za najmlađe možete izostaviti orahe ili ih zameniti mlevenim semenkama suncokreta.
+
+**Q: Čime da zamenim med ako sam vegan?**
+
+Javorov sirup ili gusti sirup od agave rade jednako dobro u istoj količini.
+
+**Q: Da li ovi keksi doprinose energiji za jutarnju šetnju?**
+
+Kombinacija ovsa, oraha i semenki doprinosi sporom oslobađanju energije i osećaju sitosti. Za konkretne zdravstvene savete uvek se posavetujte sa lekarom.
+
+---
+
 ## Jesenje muffin-kifle sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenje-muffin-kifle-sa-bundevom-sljivama-i-orasima
@@ -679,30 +703,6 @@ Jeste — mekana je, laka za žvakanje i bogata vlaknima koja podržavaju varenj
 **Q: Mogu li koristiti smrznutu bundevu?**
 
 Naravno. Skratite kuvanje za par minuta i pratite konzistenciju — možda će vam trebati malo manje tečnosti.
-
----
-
-## Musli tegla sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/musli-tegla-sa-bundevom-sljivama-i-orasima
-
-Kremasti musli sa pečenom bundevom, šljivama i orasima — jesenji doručak bogat vlaknima, pripremljen unapred za mirno jutro.
-
-**Q: Mogu li da pripremim veću količinu za celu nedelju?**
-
-Preporučujemo pripremu za najviše 3 dana unapred, jer šljive i jogurt najbolje čuvaju svežinu u tom periodu. Pahuljice i pečenu bundevu možete pripremiti posebno i sklapati tegle svaka 2 dana.
-
-**Q: Da li je ovaj recept pogodan za osobe sa dijabetesom?**
-
-Recept je bogat vlaknima koja doprinose stabilnijem osećaju sitosti, ali sadrži prirodne šećere iz voća i meda. Za konkretne savete u vezi sa ishranom kod dijabetesa obavezno se posavetujte sa lekarom ili nutricionistom.
-
-**Q: Čime da zamenim orahe ako imam alergiju?**
-
-Odlično se uklapaju semenke suncokreta, bundeve ili tikve. Sve tri dolaze uz sličnu hrskavost i dodatne minerale, a nisu orašasti plodovi.
-
-**Q: Da li mogu koristiti smrznutu bundevu?**
-
-Može, ali je pre pečenja ocedite i posušite papirnim ubrusom kako ne bi pustila previše vode. Vreme pečenja produžite za 5–10 minuta.
 
 ---
 
