@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dagnje: recepti za buzaru, tjesteninu i rižoto
+
+https://unazdravahrana.com/blog/dagnje-recepti-za-buzaru-tjesteninu-i-rizoto
+
+Vodič kroz pripremu dagnji sa tri klasična recepta — buzara, tjestenina i rižoto — uz jasne odnose sastojaka i savete za izbor svežih ili zamrznutih školjki. Tekst objašnjava nutritivnu vrednost dagnji, kako ih očistiti i najčešće greške u kuvanju.
+
+**Q: Koliko dugo se kuvaju dagnje?**
+
+Dagnje u ljusci se kuvaju 4-5 minuta na jakoj vatri, samo dok se sve ljuske ne otvore. Svaki dodatni minut daje gumeno meso, pa ih odmah sklonite sa vatre.
+
+**Q: Da li su zamrznute dagnje jednako dobre kao sveže?**
+
+Zamrznute dagnje su odlična opcija kada nemate pristup svežim, posebno meso bez ljuske za tjesteninu i rižoto. Za buzaru je bolje uzeti cele u ljusci jer sok koji puštaju čini pola ukusa.
+
+**Q: Kako se čiste dagnje pre kuvanja?**
+
+Potopite ih u hladnu vodu, prstima uklonite končastu 'bradu' povlačenjem ka šarki, ostružite naslage sa ljuske i isperite pod mlazom vode. Sve otvorene i polomljene školjke bacite.
+
+**Q: Da li su dagnje zdrave?**
+
+Dagnje imaju samo oko 85 kcal na 100 g mesa, a bogate su kompletnim proteinima, vitaminom B12, gvožđem i omega-3 masnim kiselinama. Jedna porcija pokriva višestruko dnevnu potrebu za B12.
+
+---
+
 ## Jesenji energetski keks sa bundevom i šljivama
 
 https://unazdravahrana.com/recepti/jesenji-energetski-keks-sa-bundevom-i-sljivama
@@ -679,30 +703,6 @@ Jeste — nema rafinisanog šećera, a bundeva i šljive daju prirodnu slatkoću
 ## Recepti s mangom: 6 osvežavajućih ideja za leto
 
 https://unazdravahrana.com/blog/recepti-s-mangom-6-osvezavajucih-ideja-za-leto
-
----
-
-## Topla ovsena kaša sa bundevom, šljivama i orasima za vlakna
-
-https://unazdravahrana.com/recepti/topla-ovsena-kasa-sa-bundevom-sljivama-i-orasima-za-vlakna
-
-Topla ovsena kaša sa bundevom, šljivama i orasima — jesenji doručak bogat vlaknima, gotov za 35 minuta. Sit, prirodno sladak i domaćinski.
-
-**Q: Mogu li kašu pripremiti veče pre?**
-
-Da. Skuvajte je uveče, ohladite i čuvajte u frižideru. Ujutru dodajte malo tečnosti i kratko podgrejte.
-
-**Q: Kako da recept bude vegan?**
-
-Koristite biljni napitak (ovseni, badem) umesto mleka i javorov sirup umesto meda.
-
-**Q: Da li je ova kaša prikladna za starije osobe?**
-
-Jeste — mekana je, laka za žvakanje i bogata vlaknima koja podržavaju varenje. Za posebna zdravstvena stanja posavetujte se sa lekarom.
-
-**Q: Mogu li koristiti smrznutu bundevu?**
-
-Naravno. Skratite kuvanje za par minuta i pratite konzistenciju — možda će vam trebati malo manje tečnosti.
 
 ---
 
