@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja pečena bundeva sa šljivama i orasima uz jogurt
+
+https://unazdravahrana.com/recepti/jesenja-pecena-bundeva-sa-sljivama-i-orasima-uz-jogurt
+
+Jesenja pečena bundeva sa šljivama i orasima, bez šećera i brašna. Gotova za 50 minuta, savršena za doručak ili laku večeru uz jogurt.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Može, samo je prethodno ostavite da se malo odmrzne i dobro ocedi višak tečnosti, kako se ne bi kuvala u plehu umesto da se peče.
+
+**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten ili laktozu?**
+
+Recept je prirodno bez glutena. Za varijantu bez laktoze, jogurt zamenite biljnom alternativom (kokosov ili sojin jogurt bez šećera).
+
+**Q: Koja sorta bundeve je najbolja?**
+
+Hokaido i muskatna bundeva daju najslađi i najkremastiji rezultat. Hokaido ima jestivu koru, pa ne morate ni da je gulite — samo dobro operite.
+
+**Q: Može li se jesti hladno?**
+
+Naravno. Ohlađeno je odlično uz jogurt za doručak sledećeg dana ili kao dodatak zelenoj salati sa malo feta sira.
+
+---
+
 ## Jesenja krem-supa od bundeve sa šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenja-krem-supa-od-bundeve-sa-sljivama-i-orasima
@@ -697,30 +721,6 @@ Odlično idu kruške, jabuke ili suve šljive prethodno potopljene u toplu vodu 
 **Q: Da li je ovo pogodno kao užina posle vežbanja?**
 
 Jeste — kombinacija integralnih ugljenih hidrata, oraha i lana daje sporu energiju i doprinosi osećaju sitosti posle šetnje ili treninga.
-
----
-
-## Jesenje njoke od bundeve sa orasima i šljivama
-
-https://unazdravahrana.com/recepti/jesenje-njoke-od-bundeve-sa-orasima-i-sljivama
-
-Domaći njoki od pečene bundeve sa orasima i kompotom od šljiva — jesenji recept za 45 minuta, sa integralnim brašnom.
-
-**Q: Mogu li da koristim mušmulu ili drugu bundevu?**
-
-Da, hokaido i muskatna bundeva su idealne jer imaju gušće meso i manje vode. Ako koristite običnu žutu bundevu, ostavite je da se malo ocedi posle pečenja da testo ne bude previše vlažno.
-
-**Q: Šta ako nemam sveže šljive?**
-
-Suve šljive rade odlično — potopite 150 g u topluvodu 15 minuta, pa ih kuvajte sa medom i malo vode. Ukus će biti intenzivniji i slađi.
-
-**Q: Da li deca vole ovaj recept?**
-
-Uglavnom da, jer je bundeva blago slatkasta a šljive daju voćni ukus. Za mlađu decu možete iseckati orahe sitnije ili ih prosto preskočiti.
-
-**Q: Koliko dugo se čuvaju kuvani njoki?**
-
-U frižideru do 2 dana u zatvorenoj posudi. Podgrejte ih kratko u tiganju sa malo maslaca — biće kao sveži.
 
 ---
 
