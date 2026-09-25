@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja tepsija: bundeva sa šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenja-tepsija-bundeva-sa-sljivama-i-orasima
+
+Jesenja tepsija sa pečenom bundevom, šljivama i orasima — jednostavan sezonski recept bez šećera, gotov za 45 minuta.
+
+**Q: Mogu li da koristim smrznute šljive?**
+
+Možete, ali ih prethodno odmrznite i ocedite višak soka da tepsija ne bude previše vodnjikava. Sveže sezonske šljive daju najbolji rezultat.
+
+**Q: Koja vrsta bundeve je najbolja za ovaj recept?**
+
+Hokaido ili muskatna bundeva su idealne — imaju gušće meso i prirodno su slatkaste. Hokaido ne morate ni da gulite, kora omekša tokom pečenja.
+
+**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Sam recept je bez glutena, ali ako ste osetljivi, obavezno koristite ovsene pahuljice sa oznakom 'bez glutena' jer standardne mogu biti kontaminirane.
+
+**Q: Kako da ga servirem kao glavno jelo?**
+
+Uz kašiku kremastog sira, feta kockice ili tofu, i parče integralnog hleba. Kombinacija slatkog i slanog odlično funkcioniše.
+
+---
+
 ## Kikiriki ili kokice: šta manje diže šećer?
 
 https://unazdravahrana.com/blog/kikiriki-ili-kokice-sta-manje-dize-secer
@@ -697,30 +721,6 @@ Zamenite integralno pšenično brašno mešavinom heljdinog, pirinčanog i badem
 **Q: Mogu li testo pripremiti unapred?**
 
 Naravno — testo možete zamesiti dan ranije i držati u frižideru umotano u foliju. Pre razvlačenja ga ostavite 15 minuta na sobnoj temperaturi.
-
----
-
-## Jesenji krofnice-mafini od bundeve, šljiva i oraha
-
-https://unazdravahrana.com/recepti/jesenji-krofnice-mafini-od-bundeve-sljiva-i-oraha
-
-Meki jesenji mafini od bundeve, šljiva i oraha sa integralnim brašnom i medom — zdrava užina za 40 minuta. Recept iz UNA radnje u Kragujevcu.
-
-**Q: Mogu li da koristim pečenu bundevu umesto sirove rendane?**
-
-Možeš, ali onda smanji količinu jogurta na 80 ml jer pečena bundeva ima više vlage. Ohladi je pre dodavanja u smesu.
-
-**Q: Da li mogu da zamenim šljive drugim voćem?**
-
-Da — kruške, jabuke ili smokve odlično se uklapaju u ranu jesen. Zadrži istu količinu (150 g) i iseci na kockice slične veličine.
-
-**Q: Koliko su ovi mafini pogodni za decu?**
-
-Vrlo pogodni kao školska užina jer imaju vlakna, orahe i prirodnu slatkoću iz voća. Ako pravite za mlađu decu, izostavite orahe ili ih sameljite fino zbog rizika od gušenja.
-
-**Q: Mogu li da smanjim količinu meda?**
-
-Naravno, možeš ići i na 50 g — bundeva i zrele šljive daju dovoljno prirodne slatkoće. Za dodatnu aromu dodaj koricu pola pomorandže.
 
 ---
 
