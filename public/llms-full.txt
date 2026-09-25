@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kikiriki ili kokice: šta manje diže šećer?
+
+https://unazdravahrana.com/blog/kikiriki-ili-kokice-sta-manje-dize-secer
+
+Kikiriki blaže podiže šećer u krvi od kokica jer sadrži proteine, masti i vlakna koja usporavaju apsorpciju glukoze. Kokice mogu biti dobar izbor ako su domaće i kombinovane sa mastima ili proteinima poput orašastih plodova ili sira.
+
+**Q: Šta manje diže šećer u krvi — kikiriki ili kokice?**
+
+Kikiriki manje diže šećer u krvi jer sadrži proteine, zdrave masti i vlakna koji usporavaju oslobađanje glukoze, dok su kokice pretežno ugljeni hidrati koji brže podižu glikemiju.
+
+**Q: Kolika je preporučena porcija kikirikija za užinu?**
+
+Oko 30 grama, odnosno jedna manja šaka. To je dovoljno za sitost, a da se ne pređe u kalorijski višak jer je kikiriki energetski gust.
+
+**Q: Da li su kokice zdrave za osobe sa insulinskom rezistencijom?**
+
+Mogu biti, ako su spremljene kod kuće sa malo ulja i bez šećera, i ako se kombinuju sa mastima ili proteinima poput orašastih plodova ili sira koji smiruju skok šećera.
+
+**Q: Koji kikiriki puter je najbolji za regulaciju šećera u krvi?**
+
+Onaj čiji je sastav 100% kikiriki, eventualno sa malo soli, bez dodatog šećera, palminog ulja i emulgatora. Izbegavaj 'lajt' verzije jer često sadrže zaslađivače.
+
+---
+
 ## Koliko dana posle kiše se beru pečurke? Evo istine
 
 https://unazdravahrana.com/blog/koliko-dana-posle-kise-se-beru-pecurke-evo-istine
@@ -697,30 +721,6 @@ Vrlo pogodni kao školska užina jer imaju vlakna, orahe i prirodnu slatkoću iz
 **Q: Mogu li da smanjim količinu meda?**
 
 Naravno, možeš ići i na 50 g — bundeva i zrele šljive daju dovoljno prirodne slatkoće. Za dodatnu aromu dodaj koricu pola pomorandže.
-
----
-
-## Jutarnji smuti sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jutarnji-smuti-sa-bundevom-sljivama-i-orasima
-
-Kremasti jutarnji smuti sa bundevom, šljivama, orasima i chia semenkama — gotov za 30 minuta. Sezonski doručak pun vlakana i energije.
-
-**Q: Mogu li da koristim sirovu bundevu umesto kuvane?**
-
-Može, ali smuti će biti tvrđi i teži za varenje. Preporučujemo kratko kuvanje na pari — dobija se kremasta tekstura i blaži ukus.
-
-**Q: Šta ako nemam sveže šljive?**
-
-Slobodno koristite suve šljive — 5–6 komada potopite 15 minuta u toploj vodi pre blendanja. Ukus će biti intenzivniji, pa smanjite med.
-
-**Q: Da li je ovaj smuti pogodan za osobe sa intolerancijom na laktozu?**
-
-Da, samo izaberite biljno mleko — bademovo, ovseno ili kokosovo odlično se slažu sa bundevom i cimetom.
-
-**Q: Koliko dugo mogu čuvati gotov smuti?**
-
-Najbolji je odmah, ali u zatvorenoj tegli u frižideru izdržaće do 24 sata. Pre pijenja dobro promućkajte.
 
 ---
 
