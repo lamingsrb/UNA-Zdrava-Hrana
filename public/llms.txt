@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Koliko dana posle kiše se beru pečurke? Evo istine](https://unazdravahrana.com/blog/koliko-dana-posle-kise-se-beru-pecurke-evo-istine)
 - [It's mocktail hour: Recepti za viralne bezalkoholne koktele](https://unazdravahrana.com/blog/its-mocktail-hour-recepti-za-viralne-bezalkoholne-koktele)
 - [Dagnje: recepti za buzaru, tjesteninu i rižoto](https://unazdravahrana.com/blog/dagnje-recepti-za-buzaru-tjesteninu-i-rizoto)
 - [Jesenji energetski keks sa bundevom i šljivama](https://unazdravahrana.com/recepti/jesenji-energetski-keks-sa-bundevom-i-sljivama)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Jesenja krem-čorba od bundeve, šljiva i oraha](https://unazdravahrana.com/recepti/jesenja-krem-corba-od-bundeve-sljiva-i-oraha)
 - [Kako da uživate na odmoru, a ostanete disciplinovani](https://unazdravahrana.com/blog/kako-da-uzivate-na-odmoru-a-ostanete-disciplinovani)
 - [Magnezijum za trnjenje ruku: kada pomaže, a kada kod lekara](https://unazdravahrana.com/blog/magnezijum-za-trnjenje-ruku-kada-pomaze-a-kada-kod-lekara)
-- [Nedeljni jelovnik za mršavljenje: 7 dana, realno](https://unazdravahrana.com/blog/nedeljni-jelovnik-za-mrsavljenje-7-dana-realno)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-24
+Last updated: 2026-09-25

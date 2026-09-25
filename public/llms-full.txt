@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Koliko dana posle kiše se beru pečurke? Evo istine
+
+https://unazdravahrana.com/blog/koliko-dana-posle-kise-se-beru-pecurke-evo-istine
+
+Optimalno vreme za branje pečuraka je 5 do 10 dana posle obilnije kiše, uz dnevne temperature 12–20°C i noći iznad 8°C. Pravilo tri dana ne važi za sve vrste, pa je važno pratiti vlagu tla, vrstu šume i vremensku prognozu.
+
+**Q: Koliko dana posle kiše se beru vrganji?**
+
+Vrganji se najčešće beru između 5 i 10 dana posle obilnije kiše, kada je dnevna temperatura 14–18°C, a noći ne padaju ispod 8°C.
+
+**Q: Da li važi pravilo tri dana posle kiše?**
+
+Pravilo tri dana važi samo za neke vrste bukovača i lisičarki u toplijim mesecima. U jesen je potrebno sačekati 5 do 10 dana zbog nižih temperatura.
+
+**Q: Koliko padavina je potrebno da pečurke izbiju?**
+
+Potrebno je barem 20–30 mm padavina ili više uzastopnih kišnih dana, jer jedna slaba kiša ne može dovoljno da nakvasi suvo zemljište i micelijum.
+
+**Q: Kako sačuvati sveže pečurke posle branja?**
+
+Sveže pečurke držite u frižideru najviše 2 dana. Za dužu upotrebu ih osušite na 60°C 6–8 sati ili poblanširajte i zamrznite u kesicama.
+
+---
+
 ## It's mocktail hour: Recepti za viralne bezalkoholne koktele
 
 https://unazdravahrana.com/blog/its-mocktail-hour-recepti-za-viralne-bezalkoholne-koktele
@@ -700,28 +724,4 @@ Najbolji je odmah, ali u zatvorenoj tegli u frižideru izdržaće do 24 sata. Pr
 
 ---
 
-## Jutarnji pankejki sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jutarnji-pankejki-sa-bundevom-sljivama-i-orasima
-
-Integralni pankejki sa bundevom, dinstanim šljivama i orasima — topao jesenji doručak gotov za 35 minuta. Bez rafinisanog šećera.
-
-**Q: Mogu li da koristim bundevu iz tegle umesto sveže?**
-
-Možete, ali proverite da nema dodatog šećera. Sveže pečena bundeva daje punoću ukusa i prirodnu slatkoću.
-
-**Q: Da li recept ide bez jaja?**
-
-Da. Zamenite svako jaje sa kašikom mlevenih lanenih semenki potopljenih u 3 kašike vode 10 minuta. Pankejki će biti malo gušći.
-
-**Q: Koliko dugo se čuva pire od bundeve?**
-
-U dobro zatvorenoj posudi u frižideru do 3 dana, a u zamrzivaču do 2 meseca u manjim porcijama.
-
-**Q: Da li je ovo pogodno za decu?**
-
-Jeste — nema rafinisanog šećera, a bundeva i šljive daju prirodnu slatkoću koju deca vole. Orahe možete sitnije iseckati ili izostaviti kod najmlađih.
-
----
-
-Last updated: 2026-09-24
+Last updated: 2026-09-25
