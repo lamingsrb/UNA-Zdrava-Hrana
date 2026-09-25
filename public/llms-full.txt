@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Banana i visoki pritisak: koliko ih treba pojesti?
+
+https://unazdravahrana.com/blog/banana-i-visoki-pritisak-koliko-ih-treba-pojesti
+
+Banana sadrži kalijum koji pomaže regulaciji krvnog pritiska, ali jedna dnevno donosi tek 10% preporučenih 3.500 mg. Za pravi efekat potreban je širi pristup ishrani sa suvim voćem, mahunarkama, semenkama i povrćem po DASH obrascu.
+
+**Q: Koliko banana treba pojesti dnevno za snižavanje pritiska?**
+
+Realno 1 do 2 banane dnevno su smislen doprinos, ali same nisu dovoljne. Jedna banana donosi 400–450 mg kalijuma, a dnevna preporuka je 3.500 mg, pa je potrebno kombinovati je sa suvim voćem, mahunarkama, semenkama i povrćem.
+
+**Q: Koje namirnice imaju više kalijuma od banane?**
+
+Suve kajsije (~1.160 mg/100g), semenke bundeve (~800 mg), suve šljive (~730 mg), bademi (~730 mg), suve smokve (~680 mg) i pečen krompir sa ljuskom (~530 mg) sadrže više kalijuma od banane koja ima oko 360 mg na 100 g.
+
+**Q: Da li banana zaista snižava krvni pritisak?**
+
+Banana ne snižava pritisak direktno, ali kalijum koji sadrži pomaže bubrezima da izbace višak natrijuma i doprinosi boljoj regulaciji pritiska. Efekat postoji samo u okviru celokupne ishrane bogate kalijumom i siromašne solju.
+
+**Q: Šta je DASH ishrana za visok pritisak?**
+
+DASH (Dietary Approaches to Stop Hypertension) je režim ishrane koji podrazumeva 4–5 porcija povrća i voća dnevno, integralne žitarice, mahunarke, orašaste plodove i ribu, uz smanjen unos soli ispod 5 g dnevno, crvenog mesa i procesuirane hrane.
+
+---
+
 ## Jesenja pečena bundeva sa šljivama i orasima uz jogurt
 
 https://unazdravahrana.com/recepti/jesenja-pecena-bundeva-sa-sljivama-i-orasima-uz-jogurt
@@ -697,30 +721,6 @@ To je temperaturni raspon između 5 °C i 60 °C u kojem se bakterije najbrze mn
 **Q: Da li podgrevanje unistava sve bakterije u hrani?**
 
 Kuvanje unistava bakterije, ali neki toksini, poput onog koji stvara Staphylococcus aureus, su termostabilni i ostaju aktivni. Zato podgrevanje ne cini bezbednom hranu koja je predugo stajala napolju.
-
----
-
-## Jesenja pita-tepsija od bundeve sa orasima
-
-https://unazdravahrana.com/recepti/jesenja-pita-tepsija-od-bundeve-sa-orasima
-
-Jesenja pita-tepsija od bundeve, šljiva i oraha sa integralnim brašnom — bez belog šećera, mekana i sočna. Lako i za 55 minuta.
-
-**Q: Mogu li koristiti smrznutu bundevu?**
-
-Može, ali je obavezno prethodno odmrznite i dobro iscedite — inače će testo biti previše vlažno i pita neće biti kompaktna.
-
-**Q: Da li recept odgovara deci?**
-
-Da, prirodna slatkoća bundeve i šljiva čini ga privlačnim mališanima. Za mlađu decu možete izostaviti đumbir i smanjiti cimet.
-
-**Q: Čime da zamenim šljive kada prođe sezona?**
-
-Odlično idu kruške, jabuke ili suve šljive prethodno potopljene u toplu vodu 10 minuta.
-
-**Q: Da li je ovo pogodno kao užina posle vežbanja?**
-
-Jeste — kombinacija integralnih ugljenih hidrata, oraha i lana daje sporu energiju i doprinosi osećaju sitosti posle šetnje ili treninga.
 
 ---
 
