@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamini u kesici: kada su praktičniji od tableta
+
+https://unazdravahrana.com/blog/vitamini-u-kesici-kada-su-prakticniji-od-tableta
+
+Vitamini u kesicama (efervescentni i praškasti) praktičniji su od tableta kod otežanog gutanja, većih doza magnezijuma ili kolagena i kod dece i starijih. Pri izboru gledaj oblik aktivne materije, stvarnu dozu, sadržaj natrijuma i zaslađivača, kao i renome proizvođača.
+
+**Q: Da li su vitamini u kesici bolji od tableta?**
+
+Nisu univerzalno bolji, ali su praktičniji kada teško gutaš tablete, kada ti treba veća doza (npr. 300+ mg magnezijuma), kod dece, starijih i tokom treninga. Tablete su bolje ako uzimaš više suplemenata dnevno ili pratiš unos šećera i natrijuma.
+
+**Q: Koja je razlika između efervescentnih i praškastih kesica?**
+
+Efervescentne tablete šume u vodi, obično sadrže natrijum i voćne arome i pogodne su za brzu dozu vitamina C, magnezijuma ili multivitamina. Praškaste saše kesice se istresaju u vodu ili shaker i koriste se za veće doze kolagena, magnezijuma, vlakana ili elektrolita.
+
+**Q: Koji oblik magnezijuma je najbolji u kesici?**
+
+Magnezijum citrat, glicinat i malat se najbolje apsorbuju i blaži su za želudac od magnezijum oksida. Glicinat je poseban izbor za uveče jer pomaže opuštanju mišića i snu.
+
+**Q: Mogu li deca da piju vitamine u kesici?**
+
+Da, ali isključivo dečije formulacije sa prilagođenim dozama, obično od 6 godina naviše. Vitamin C i multivitamin daju se 3–4 puta nedeljno, a pre uvođenja bilo kog suplementa treba konsultovati pedijatra.
+
+---
+
 ## Banana i visoki pritisak: koliko ih treba pojesti?
 
 https://unazdravahrana.com/blog/banana-i-visoki-pritisak-koliko-ih-treba-pojesti
@@ -697,30 +721,6 @@ Istraživanja pokazuju da inozitol, posebno kombinacija mio-inozitola i D-hiro-i
 **Q: Da li redosled jela u tanjiru utiče na PCOS?**
 
 Da, redosled jela menja krivu šećera u krvi. Ako prvo pojedete povrće i belančevine, pa tek onda ugljene hidrate, skok insulina biće znatno manji nego ako obrok započnete hlebom ili testeninom. Isti obrok, drugačiji hormonski efekat.
-
----
-
-## Koliko dugo smete čuvati ostatke hrane u frižideru
-
-https://unazdravahrana.com/blog/koliko-dugo-smete-cuvati-ostatke-hrane-u-frizideru
-
-Kuvani ostaci hrane u frizideru bezbedni su 3–4 dana, jer opasne bakterije često ne menjaju miris ni ukus. Ključno je brzo hlađenje u plitkim posudama, temperatura ispod 4 °C i izbegavanje zadržavanja hrane u zoni između 5 i 60 °C.
-
-**Q: Koliko dugo se kuvana hrana sme cuvati u frizideru?**
-
-Vecina kuvanih jela bezbedna je 3–4 dana na temperaturi do 4 °C. Salate sa majonezom, sveze isecено voce i oljustena kuvana jaja treba pojesti u roku od 1–2 dana.
-
-**Q: Da li je bezbedno jesti hranu koja ne smrdi?**
-
-Ne uvek. Bakterije koje izazivaju trovanje hranom, poput Salmonelle i Listerije, cesto ne menjaju miris, ukus ni izgled. Zato se treba drzati vremenskih rokova, a ne samo mirisa.
-
-**Q: Sta je opasna zona za hranu?**
-
-To je temperaturni raspon između 5 °C i 60 °C u kojem se bakterije najbrze mnoze. Kuvanu hranu ne ostavljajte na sobnoj temperaturi duze od 2 sata, a leti maksimalno 1 sat.
-
-**Q: Da li podgrevanje unistava sve bakterije u hrani?**
-
-Kuvanje unistava bakterije, ali neki toksini, poput onog koji stvara Staphylococcus aureus, su termostabilni i ostaju aktivni. Zato podgrevanje ne cini bezbednom hranu koja je predugo stajala napolju.
 
 ---
 
