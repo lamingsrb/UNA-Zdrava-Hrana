@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja krem-supa od bundeve sa šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenja-krem-supa-od-bundeve-sa-sljivama-i-orasima
+
+Krem-supa od pečene bundeve sa šljivama i orasima — topao jesenji recept gotov za 45 minuta. Zdravo, kremasto i lako.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Može, ali će supa biti nešto vodnjikavija. Preporučujem da smrznutu bundevu prvo malo ocedite ili pecite duže kako bi otpustila višak vlage.
+
+**Q: Da li deca vole ovu supu?**
+
+Većina deca voli slatkastu bundevu i cimet. Ako je detetu ukus šljiva prejak, ostavite ih sa strane ili smanjite količinu — supa je i bez njih odlična.
+
+**Q: Šta ako nemam štapni mikser?**
+
+Sipajte supu u obični blender u dva navrata — pazite da ne bude prevruća da poklopac ne skoči. Alternativa je pasirka ili obična viljuška za grublju teksturu.
+
+**Q: Da li supa podržava probavu?**
+
+Bundeva i orasi donose vlakna koja doprinose normalnom radu creva. Za konkretna zdravstvena pitanja uvek se posavetujte sa lekarom.
+
+---
+
 ## Jesenja tepsija: bundeva sa šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenja-tepsija-bundeva-sa-sljivama-i-orasima
@@ -697,30 +721,6 @@ Uglavnom da, jer je bundeva blago slatkasta a šljive daju voćni ukus. Za mlađ
 **Q: Koliko dugo se čuvaju kuvani njoki?**
 
 U frižideru do 2 dana u zatvorenoj posudi. Podgrejte ih kratko u tiganju sa malo maslaca — biće kao sveži.
-
----
-
-## Jesenja tart-tepsija sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenja-tart-tepsija-sa-bundevom-sljivama-i-orasima
-
-Jesenja tart-tepsija sa bundevom, šljivama i orasima — integralno testo, med umesto šećera, jednostavno i mirisno. Recept za 6 porcija.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Može, ali je odmrznite i dobro ocedite od viška vode pre nego što je pomešate sa ostalim sastojcima, inače će testo biti previše vlažno.
-
-**Q: Da li je recept pogodan za decu?**
-
-Da, prirodno je zaslađen medom i voćem, bez belog šećera. Za najmlađe do 1 godine izbegnite med i zamenite ga javorovim sirupom.
-
-**Q: Kako da napravim bezglutensku verziju?**
-
-Zamenite integralno pšenično brašno mešavinom heljdinog, pirinčanog i bademovog brašna u odnosu 2:1:1, uz dodatak kašike psilijuma za bolju strukturu testa.
-
-**Q: Mogu li testo pripremiti unapred?**
-
-Naravno — testo možete zamesiti dan ranije i držati u frižideru umotano u foliju. Pre razvlačenja ga ostavite 15 minuta na sobnoj temperaturi.
 
 ---
 
