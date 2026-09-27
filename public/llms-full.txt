@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Veganski jelovnik za 7 dana: svaki obrok isplaniran
+
+https://unazdravahrana.com/blog/veganski-jelovnik-za-7-dana-svaki-obrok-isplaniran
+
+Jelovnik donosi predloge za doručak, ručak, večeru i užinu tokom sedam dana. Obroci kombinuju mahunarke, žitarice i povrće, a plan podstiče pripremu osnova unapred i prilagođavanje količina potrebama.
+
+**Q: Šta čini zasitan veganski ručak?**
+
+Spojite mahunarke, žitaricu i povrće, a po želji dodajte orašaste plodove ili semenke.
+
+**Q: Da li je užina obavezna u sedmodnevnom jelovniku?**
+
+Nije. Ponesite je kada je razmak između obroka dug ili vam je potrebna.
+
+**Q: Kako skratiti pripremu veganskih obroka tokom nedelje?**
+
+Unapred pripremite nekoliko osnova, poput kuvanih mahunarki, žitarica i jednog namaza, pa ih kombinujte sa povrćem.
+
+**Q: Da li su porcije u jelovniku unapred određene?**
+
+Ne. Količine prilagodite gladi, uzrastu i fizičkoj aktivnosti.
+
+---
+
 ## Jesenja proja sa bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenja-proja-sa-bundevom-sljivama-i-orasima
@@ -685,30 +709,6 @@ Da, recept je nežan i prirodno sladak. Za mlađu decu možete izostaviti orahe 
 **Q: Koliko dugo se čuva u frižideru?**
 
 Pečeni deo (bundeva, šljive, orasi) čuva se u zatvorenoj posudi u frižideru do 3 dana. Preliv od tahinija spremite svež ili čuvajte odvojeno.
-
----
-
-## Jesenja krem-čorba od bundeve, šljiva i oraha
-
-https://unazdravahrana.com/recepti/jesenja-krem-corba-od-bundeve-sljiva-i-oraha
-
-Kremasta jesenja čorba od bundeve, šljiva i oraha — gotova za 40 minuta. Topao, hranljiv obrok bez pavlake, savršen za hladnije dane.
-
-**Q: Koja bundeva je najbolja za ovu čorbu?**
-
-Hokaido je najpraktičnija jer se kora ne mora guliti i ima kremastu teksturu. Muskatna daje slađi ukus i lepšu narandžastu boju. Obe daju odličan rezultat.
-
-**Q: Mogu li čorbu spremiti unapred?**
-
-Da, čorba je često još bolja sutradan kada se ukusi spoje. Čuvajte je u frižideru do 3 dana i podgrejte na tihoj vatri. Orahe i semenke uvek dodajte tek pri serviranju da ostanu hrskavi.
-
-**Q: Da li deca vole ovu čorbu?**
-
-Najčešće da — šljive daju blagu prirodnu slatkoću koja ublažava zemljanu notu bundeve. Ako deca ne vole komadiće, izblendirajte čorbu potpuno glatko i preskočite orahe na vrhu.
-
-**Q: Šta poslužiti uz čorbu?**
-
-Parče integralnog ili raženog hleba, tost s malo avokada, ili jednostavno kašika semenki. Uz to i topli biljni čaj čini kompletan lagani ručak.
 
 ---
 
