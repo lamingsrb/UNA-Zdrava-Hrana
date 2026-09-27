@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja proja sa bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenja-proja-sa-bundevom-sljivama-i-orasima
+
+Napravite jesenju proju sa bundevom, šljivama i orasima za 45 minuta. Jednostavan recept za blago slatku užinu bez dodatog šećera.
+
+**Q: Da li bundevu treba prethodno peći?**
+
+Ne. Sitno rendana sirova bundeva stiže da omekša dok se proja peče.
+
+**Q: Mogu li da koristim smrznute šljive?**
+
+Mogu, ali ih prvo odmrznite i dobro ocedite kako proja ne bi ostala previše vlažna.
+
+**Q: Da li je proja slatka?**
+
+Blago je slatka zahvaljujući šljivama. Ako volite izraženiju slatkoću, poslužite je uz još nekoliko svežih šljiva.
+
+---
+
 ## Paprike punjene bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/paprike-punjene-bundevom-sljivama-i-orasima
@@ -689,30 +709,6 @@ Najčešće da — šljive daju blagu prirodnu slatkoću koja ublažava zemljanu
 **Q: Šta poslužiti uz čorbu?**
 
 Parče integralnog ili raženog hleba, tost s malo avokada, ili jednostavno kašika semenki. Uz to i topli biljni čaj čini kompletan lagani ručak.
-
----
-
-## Kako da uživate na odmoru, a ostanete disciplinovani
-
-https://unazdravahrana.com/blog/kako-da-uzivate-na-odmoru-a-ostanete-disciplinovani
-
-Vodič pokazuje kako se na odmoru može uživati u hrani bez odricanja, kroz pravilo 80/20, proteinski doručak i pripremljene grickalice iz torbe. Daje i praktične savete za restoran: salata pre glavnog jela, biranje pripreme namirnice i umerenost sa alkoholom.
-
-**Q: Kako da se ne ugojim na odmoru?**
-
-Primenite pravilo 80/20 — 80% obroka jedite uravnoteženo (protein, povrće, vlakna), a 20% neka bude potpuno slobodno bez krivice. Stabilan proteinski doručak i grickalice iz torbe rešavaju najveći deo problema jer sprečavaju napade gladi između obroka.
-
-**Q: Šta doručkovati na letovanju?**
-
-Birajte doručak bogat proteinima i vlaknima: jaja sa integralnim hlebom i povrćem, grčki jogurt sa orasima, ili ovsena kaša sa chia semenom i voćem. Izbegavajte kroasane, krofne i slatku peciva jer izazivaju skok i pad šećera i glad već oko 11 sati.
-
-**Q: Koje grickalice poneti na odmor?**
-
-Za sedmodnevni odmor za dvoje dovoljno je 300-500 g mešavine orašastih plodova, 6-8 proteinskih ili voćnih pločica, paket suvog voća bez dodatog šećera (urme, kajsije, brusnice) i šaka semenki bundeve i suncokreta. Sve to staje u malu torbicu i ne kvari se na vrućini.
-
-**Q: Kako da pametno biram jelo u restoranu na odmoru?**
-
-Prvo naručite salatu ili supu da smanjite glad, birajte grilovanu ili pečenu pripremu umesto pohovane i u umacima, dezert podelite sa nekim, a alkohol ograničite na jednu priliku dnevno. Uz obrok obavezno pijte vodu jer se žeđ često pomeša sa glađu.
 
 ---
 
