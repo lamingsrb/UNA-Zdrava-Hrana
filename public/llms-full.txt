@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kada doručkovati za srce i kontrolu težine?
+
+https://unazdravahrana.com/blog/kada-doruckovati-za-srce-i-kontrolu-tezine
+
+Ne postoji univerzalno vreme doručka koje samo po sebi snižava pritisak ili pomaže mršavljenju. Izaberite održiv termin prema gladi i obavezama, a za doručak kombinujte raznovrsne namirnice.
+
+**Q: Kada je najbolje doručkovati?**
+
+Ne postoji sat koji odgovara svima. Doručkujte kada ogladnite i kada možete da pojedete obrok koji vam prija i uklapa se u dan.
+
+**Q: Da li raniji doručak pomaže mršavljenju?**
+
+Raniji doručak nije prečica za mršavljenje. Može biti koristan ako vam olakšava održavanje rasporeda obroka i izbor hrane tokom dana.
+
+**Q: Šta pojesti za doručak?**
+
+Jedna praktična opcija su ovsene pahuljice s jogurtom ili mlekom, uz voće, čia semenke ili orašaste plodove.
+
+**Q: Da li osobe sa dijabetesom treba da prilagode vreme doručka?**
+
+Da. Ako imate dijabetes ili uzimate terapiju koja utiče na šećer u krvi, raspored obroka dogovorite s lekarom ili dijetetičarom.
+
+---
+
 ## Cena proteinskog praha: šta zaista plaćate?
 
 https://unazdravahrana.com/blog/cena-proteinskog-praha-sta-zaista-placate
@@ -685,30 +709,6 @@ Kesten je nizak u mastima, bogat skrobom, vlaknima, kalijumom i vitaminom C. Sto
 **Q: Kako napraviti brzi ručak iz jedne tepsije?**
 
 Isecite bundevu, šargarepu, paškanat i luk na kocke, začinite maslinovim uljem, solju, biberom i ruzmarinom, dodajte izvor proteina (piletina, losos, slanutak ili tofu) i pecite 30 minuta na 200°C. Poslužite sa jogurtom i orasima.
-
----
-
-## Jesenja salata od pečene bundeve, šljiva i oraha
-
-https://unazdravahrana.com/recepti/jesenja-salata-od-pecene-bundeve-sljiva-i-oraha
-
-Jesenja salata sa pečenom bundevom, šljivama, orasima i kvinojom — brz i zasitan recept za ručak ili laganu večeru posle šetnje.
-
-**Q: Mogu li da pripremim salatu unapred?**
-
-Možete ispeći bundevu i skuvati kvinoju dan ranije i držati ih u frižideru. Sastavite salatu i dodajte dresing tek pred serviranje da sastojci ostanu svežeg ukusa i teksture.
-
-**Q: Koja bundeva je najbolja za ovaj recept?**
-
-Preporučujemo hokaido ili muskatnu bundevu — imaju gušće meso i prijatno slatkast ukus koji se lepo karamelizuje u rerni.
-
-**Q: Da li je recept pogodan za osobe bez glutena?**
-
-Jeste, svi sastojci su prirodno bez glutena. Ako ste posebno osetljivi, proverite deklaraciju kvinoje i birajte one sa oznakom bez glutena.
-
-**Q: Čime mogu zameniti orahe?**
-
-Odlično se uklapaju i badem, lešnik ili indijski orah. Za dodatnu hrskavost probajte kombinaciju oraha i semenki suncokreta.
 
 ---
 
