@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Cena proteinskog praha: šta zaista plaćate?
+
+https://unazdravahrana.com/blog/cena-proteinskog-praha-sta-zaista-placate
+
+Cena pakovanja ili porcije ne pokazuje koliko plaćate za protein: za poređenje podelite cenu pakovanja ukupnim gramima proteina. Pre kupovine proverite i sastojke, alergene, veličinu porcije i da li ćete proizvod zaista koristiti.
+
+**Q: Kako se računa cena po gramu proteina?**
+
+Ukupne grame proteina u pakovanju dobijate kada neto masu pomnožite gramima proteina na 100 g i podelite sa 100. Zatim cenu pakovanja podelite dobijenom količinom proteina.
+
+**Q: Da li je jeftinija porcija ujedno i povoljniji protein?**
+
+Ne nužno. Porcije mogu sadržati različite količine proteina, pa uporedite i cenu po gramu proteina.
+
+**Q: Da li izolat proteina surutke znači da je proizvod bez laktoze?**
+
+Ne. Izolat obično sadrži manje drugih sastojaka mleka od koncentrata, ali oznaku o laktozi proverite na konkretnom pakovanju.
+
+**Q: Šta osim cene treba proveriti pri kupovini proteinskog praha?**
+
+Proverite količinu proteina na 100 g, sastojke, alergene, veličinu porcije i da li vam odgovaraju ukus i način pripreme.
+
+---
+
 ## Veganski jelovnik za 7 dana: svaki obrok isplaniran
 
 https://unazdravahrana.com/blog/veganski-jelovnik-za-7-dana-svaki-obrok-isplaniran
@@ -685,30 +709,6 @@ Jeste, svi sastojci su prirodno bez glutena. Ako ste posebno osetljivi, proverit
 **Q: Čime mogu zameniti orahe?**
 
 Odlično se uklapaju i badem, lešnik ili indijski orah. Za dodatnu hrskavost probajte kombinaciju oraha i semenki suncokreta.
-
----
-
-## Jesenja tabla za doručak: bundeva, šljive, orasi
-
-https://unazdravahrana.com/recepti/jesenja-tabla-za-dorucak-bundeva-sljive-orasi
-
-Jesenja tabla za doručak sa pečenom bundevom, šljivama, orasima i tahini prelivom. Gotova za 40 min — lagana, zasitna i idealna za porodicu.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Može, ali sirova sveža bundeva daje bolju teksturu. Ako koristite smrznutu, prethodno je odmrznite i dobro isušite pre pečenja da ne pusti previše vode.
-
-**Q: Kojim šljivama je najbolje pripremiti recept?**
-
-Idealne su požegače ili stenlej šljive — čvrste, sočne i taman slatke. Ako su šljive vrlo kisele, dodajte kašičicu meda pre pečenja.
-
-**Q: Da li je ovo pogodno za decu?**
-
-Da, recept je nežan i prirodno sladak. Za mlađu decu možete izostaviti orahe (zbog gušenja) ili ih fino samleti i pomešati sa jogurtom.
-
-**Q: Koliko dugo se čuva u frižideru?**
-
-Pečeni deo (bundeva, šljive, orasi) čuva se u zatvorenoj posudi u frižideru do 3 dana. Preliv od tahinija spremite svež ili čuvajte odvojeno.
 
 ---
 
