@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Paprike punjene bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/paprike-punjene-bundevom-sljivama-i-orasima
+
+Paprike punjene bundevom, šljivama, bulgurom i orasima: jednostavan jesenji ručak gotov za 50 minuta.
+
+**Q: Da li paprike moraju prethodno da se kuvaju?**
+
+Ne. Prepolovljene paprike omekšaće tokom pečenja. Ako ih volite sasvim mekane, pokrijte pleh folijom na početku.
+
+**Q: Mogu li da pripremim nadev unapred?**
+
+Da. Pripremite ga dan ranije, ohladite i držite poklopljenog u frižideru. Paprike napunite neposredno pre pečenja.
+
+**Q: Čime mogu da zamenim bulgur?**
+
+Upotrebite prethodno skuvan pirinač. Potrebno je oko 300 g kuvanog pirinča za ovu količinu nadeva.
+
+---
+
 ## Heljdine palačinke s bundevom, šljivama i orasima
 
 https://unazdravahrana.com/recepti/heljdine-palacinke-s-bundevom-sljivama-i-orasima
@@ -693,30 +713,6 @@ Za sedmodnevni odmor za dvoje dovoljno je 300-500 g mešavine orašastih plodova
 **Q: Kako da pametno biram jelo u restoranu na odmoru?**
 
 Prvo naručite salatu ili supu da smanjite glad, birajte grilovanu ili pečenu pripremu umesto pohovane i u umacima, dezert podelite sa nekim, a alkohol ograničite na jednu priliku dnevno. Uz obrok obavezno pijte vodu jer se žeđ često pomeša sa glađu.
-
----
-
-## Magnezijum za trnjenje ruku: kada pomaže, a kada kod lekara
-
-https://unazdravahrana.com/blog/magnezijum-za-trnjenje-ruku-kada-pomaze-a-kada-kod-lekara
-
-Magnezijum može ublažiti trnjenje ruku kada je uzrok napetost mišića, grčevi ili loš san, pri čemu su glicinat i citrat najbolji oblici. Ako je trnjenje uporno, jednostrano ili praćeno slabošću, potrebna je lekarska procena, a ne suplement.
-
-**Q: Koji magnezijum je najbolji za trnjenje ruku?**
-
-Za trnjenje povezano sa napetošću mišića i lošim snom preporučuju se magnezijum bisglicinat (uveče) ili citrat. Oksid je jeftin, ali se slabo apsorbuje.
-
-**Q: Koliko magnezijuma dnevno treba uzimati?**
-
-Preporučeni dnevni unos za odrasle je 300–400 mg elementarnog magnezijuma. Suplementacijom se obično dodaje 150–250 mg dnevno, uz obrok.
-
-**Q: Kada trnjenje ruku nije za suplement, već za lekara?**
-
-Ako je trnjenje uporno, jednostrano, praćeno slabošću, gubitkom osećaja ili se javlja posle povrede, obavezno se javite lekaru umesto da uzimate suplement.
-
-**Q: Za koliko dana se oseti dejstvo magnezijuma?**
-
-Efekat se ne oseća prvog dana. Realno je potrebno 2 do 4 nedelje redovnog uzimanja da bi se primetilo smanjenje grčeva, trnjenja i napetosti.
 
 ---
 
