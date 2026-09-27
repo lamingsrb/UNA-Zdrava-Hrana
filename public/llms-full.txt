@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Heljdine palačinke s bundevom, šljivama i orasima
+
+https://unazdravahrana.com/recepti/heljdine-palacinke-s-bundevom-sljivama-i-orasima
+
+Mekane heljdine palačinke s bundevom, toplim šljivama i orasima. Jednostavan jesenji doručak gotov za 45 minuta.
+
+**Q: Može li pire od bundeve da se pripremi unapred?**
+
+Može. Skuvanu i ohlađenu bundevu držite u zatvorenoj posudi u frižideru do dva dana, pa je dodajte u testo kada budete pravili palačinke.
+
+**Q: Zašto praviti manje palačinke?**
+
+Testo sa pireom od bundeve je mekše, pa se manje palačinke lakše okreću i ravnomernije peku.
+
+**Q: Mogu li šljive da ostanu sveže?**
+
+Mogu, naročito ako su vrlo zrele. Isecite ih neposredno pre služenja i dodajte cimet preko njih.
+
+---
+
 ## Koliko suplemenata dnevno je previše?
 
 https://unazdravahrana.com/blog/koliko-suplemenata-dnevno-je-previse
@@ -697,30 +717,6 @@ Ako je trnjenje uporno, jednostrano, praćeno slabošću, gubitkom osećaja ili 
 **Q: Za koliko dana se oseti dejstvo magnezijuma?**
 
 Efekat se ne oseća prvog dana. Realno je potrebno 2 do 4 nedelje redovnog uzimanja da bi se primetilo smanjenje grčeva, trnjenja i napetosti.
-
----
-
-## Nedeljni jelovnik za mršavljenje: 7 dana, realno
-
-https://unazdravahrana.com/blog/nedeljni-jelovnik-za-mrsavljenje-7-dana-realno
-
-Praktičan sedmodnevni jelovnik za mršavljenje zasnovan na blagom kalorijskom deficitu, integralnim žitaricama, mahunarkama, superhrani i orašastim plodovima. Recepti se pripremaju za 20–30 minuta i koriste namirnice dostupne u Kragujevcu.
-
-**Q: Kako mršavljenje zaista funkcioniše?**
-
-Za smanjenje telesne mase potreban je blagi kalorijski deficit — da jedete malo manje nego što trošite — održan više nedelja. Superhrana, čajevi i suplementi su samo alati koji olakšavaju da taj deficit izdržite bez gladi i vučenja za slatkim.
-
-**Q: Koje namirnice treba da budu okosnica jelovnika za mršavljenje?**
-
-Integralne žitarice (ovas, heljda, kinoa), mahunarke (sočivo, leblebije, pasulj), superhrana (chia, lan, spirulina), orašasti plodovi u malim količinama i nezaslađeni napici poput zelenog čaja i biljnih mešavina.
-
-**Q: Koliko vlakana treba unositi dnevno za mršavljenje?**
-
-Preporučuje se 25–35 g vlakana dnevno kroz povrće, integralne žitarice, mahunarke, chia i lan. Vlakna pune stomak bez dodatnih kalorija i produžavaju osećaj sitosti.
-
-**Q: Šta ako imam intoleranciju na gluten ili laktozu?**
-
-Umesto pšeničnih žitarica birajte heljdu, kinou, pirinač i bezglutenske ovsene pahuljice. Umesto jogurta koristite biljne alternative bez dodatog šećera, sojin ili kokosov jogurt.
 
 ---
 
