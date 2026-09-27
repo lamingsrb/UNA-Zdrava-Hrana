@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Koliko suplemenata dnevno je previše?
+
+https://unazdravahrana.com/blog/koliko-suplemenata-dnevno-je-previse
+
+Ne postoji univerzalan broj suplemenata koji je previše: svaki dodatak treba da ima jasan razlog, a proizvode treba proveriti zbog sastojaka koji se ponavljaju. Suplementi nisu zamena za raznovrsnu ishranu, a osobe koje koriste lekove, trudnice i roditelji treba da potraže stručan savet.
+
+**Q: Koliko suplemenata dnevno je previše?**
+
+Ne postoji univerzalan broj. Važnije je zašto uzimate svaki proizvod, šta sadrži i da li se sastojci ponavljaju.
+
+**Q: Da li mogu da uzimam multivitamin i druge dodatke zajedno?**
+
+Uporedite deklaracije jer multivitamin možda već sadrži sastojke iz drugih dodataka. Ako niste sigurni u kombinaciju, pitajte lekara ili farmaceuta.
+
+**Q: Šta treba proveriti pre kupovine suplementa?**
+
+Proverite sastav, količinu po preporučenoj upotrebi, uputstvo, upozorenja i rok trajanja. Razmislite i da li imate jasan razlog za kupovinu.
+
+**Q: Mogu li suplementi da zamene raznovrsnu ishranu?**
+
+Ne. Suplementi mogu da dopune ishranu kada za to postoji razlog, ali nisu zamena za raznovrsne obroke.
+
+---
+
 ## Manje soli: kada se vidi promena pritiska?
 
 https://unazdravahrana.com/blog/manje-soli-kada-se-vidi-promena-pritiska
@@ -697,30 +721,6 @@ Preporučuje se 25–35 g vlakana dnevno kroz povrće, integralne žitarice, mah
 **Q: Šta ako imam intoleranciju na gluten ili laktozu?**
 
 Umesto pšeničnih žitarica birajte heljdu, kinou, pirinač i bezglutenske ovsene pahuljice. Umesto jogurta koristite biljne alternative bez dodatog šećera, sojin ili kokosov jogurt.
-
----
-
-## 6 recepata sa smokvama za kraj leta
-
-https://unazdravahrana.com/blog/6-recepata-sa-smokvama-za-kraj-leta
-
-Članak donosi savete za izbor, pranje i čuvanje svežih smokava, kao i šest jednostavnih ideja za njihovu upotrebu. Smokve se kombinuju sa ovsenim pahuljicama, orasima, čia semenkama i integralnim brašnom za doručak, užinu ili desert.
-
-**Q: Kako izabrati zrele sveže smokve?**
-
-Birajte smokve koje su mekane, ali ne gnjecave, prijatnog mirisa i bez većih oštećenja. Plod treba da deluje puno i sočno, bez curenja, buđi ili kiselkastog mirisa.
-
-**Q: Koliko dugo sveže smokve mogu da stoje u frižideru?**
-
-Sveže smokve čuvajte u plitkoj posudi, bez mnogo preklapanja, u frižideru dva do tri dana. Veoma mekane smokve najbolje je upotrebiti istog dana.
-
-**Q: Kako se prave smokve punjene orasima?**
-
-Smokvu zasecite i otvorite kao cvet, bez presecanja do kraja, pa u sredinu stavite komadić oraha ili seckane bademe. Po želji dodajte malo meda.
-
-**Q: Sa čim se smokve najbolje kombinuju?**
-
-Smokve se odlično slažu sa orasima, bademima, lešnicima, ovsenim pahuljicama, čia semenkama i blagim kremastim dodacima. Njihova prirodna slatkoća često je dovoljna bez dodatog šećera.
 
 ---
 
