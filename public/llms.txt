@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Koliko kalorija ima integralni hleb po kriški i na 100 g?](https://unazdravahrana.com/blog/koliko-kalorija-ima-integralni-hleb-po-kriski-i-na-100-g)
 - [Vitamini u kesici: kada su praktičniji od tableta](https://unazdravahrana.com/blog/vitamini-u-kesici-kada-su-prakticniji-od-tableta)
 - [Banana i visoki pritisak: koliko ih treba pojesti?](https://unazdravahrana.com/blog/banana-i-visoki-pritisak-koliko-ih-treba-pojesti)
 - [Jesenja pečena bundeva sa šljivama i orasima uz jogurt](https://unazdravahrana.com/recepti/jesenja-pecena-bundeva-sa-sljivama-i-orasima-uz-jogurt)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Biljni i sirutkini proteini: kako izabrati pravi](https://unazdravahrana.com/blog/biljni-i-sirutkini-proteini-kako-izabrati-pravi)
 - [Jesenja topla činija sa bundevom, kinoom i orasima](https://unazdravahrana.com/recepti/jesenja-topla-cinija-sa-bundevom-kinoom-i-orasima)
 - [Jesenji rižoto sa bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/jesenji-rizoto-sa-bundevom-sljivama-i-orasima)
-- [Jesenja jufka-rolat sa bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/jesenja-jufka-rolat-sa-bundevom-sljivama-i-orasima)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-25
+Last updated: 2026-09-27

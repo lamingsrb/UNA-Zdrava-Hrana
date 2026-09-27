@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Koliko kalorija ima integralni hleb po kriški i na 100 g?
+
+https://unazdravahrana.com/blog/koliko-kalorija-ima-integralni-hleb-po-kriski-i-na-100-g
+
+Integralni hleb okvirno ima 220–280 kcal na 100 g, odnosno 66–140 kcal po kriški teškoj 30–50 g. Za tačan obračun proverite deklaraciju i težinu kriške; integralni hleb nije nužno manje kaloričan od belog.
+
+**Q: Koliko kalorija ima integralni hleb na 100 g?**
+
+Okvirno 220–280 kcal, u zavisnosti od recepture. Tačnu vrednost potražite na deklaraciji proizvoda.
+
+**Q: Koliko kalorija ima jedna kriška integralnog hleba?**
+
+Kriška od 30–50 g okvirno ima 66–140 kcal. Broj zavisi od težine kriške i kalorijske vrednosti konkretnog hleba.
+
+**Q: Kako da izračunam kalorije u dve kriške?**
+
+Pomnožite kalorije na 100 g sa ukupnom težinom kriški u gramima, pa podelite sa 100. Na primer, dve kriške od po 40 g hleba koji ima 250 kcal na 100 g sadrže 200 kcal.
+
+**Q: Da li integralni hleb ima manje kalorija od belog?**
+
+Ne nužno. Kalorije mogu biti slične; za poređenje proverite vrednosti na 100 g, sastojke i količinu vlakana.
+
+---
+
 ## Vitamini u kesici: kada su praktičniji od tableta
 
 https://unazdravahrana.com/blog/vitamini-u-kesici-kada-su-prakticniji-od-tableta
@@ -700,28 +724,4 @@ Multivitamin je praktičan za jednostavnu svakodnevnu rutinu, dok pojedinačni v
 
 ---
 
-## Kako ishrana utiče na PCOS?
-
-https://unazdravahrana.com/blog/kako-ishrana-utice-na-pcos
-
-Ishrana je jedan od najjačih alata u upravljanju PCOS-om jer direktno utiče na insulinsku rezistenciju koja stoji u pozadini simptoma. Fokus na namirnice niskog glikemijskog indeksa, belančevine i zdrave masti u svakom obroku, uz inozitol i omega-3, može doprineti redovnijim ciklusima i boljem hormonskom balansu.
-
-**Q: Zašto je ishrana važna kod PCOS-a?**
-
-Kod većine žena sa PCOS-om postoji insulinska rezistencija koja podstiče jajnike da stvaraju više androgena. Ishrana direktno utiče na nivo insulina, pa pravilnim izborom namirnica možete smiriti hormonski disbalans, uticati na redovnost ciklusa i lakše održavati težinu.
-
-**Q: Koje namirnice treba jesti kod PCOS-a?**
-
-Birajte namirnice niskog do umerenog glikemijskog indeksa: integralne žitarice, kinou, mahunarke (sočivo, leblebije, pasulj), masnu ribu (sardine, skuša, losos), jaja, grčki jogurt, avokado, maslinovo ulje, orahe, bademe i mleveno seme lana. Svaki obrok treba da sadrži belančevine i zdrave masti.
-
-**Q: Da li inozitol pomaže kod PCOS-a?**
-
-Istraživanja pokazuju da inozitol, posebno kombinacija mio-inozitola i D-hiro-inozitola u odnosu 40:1, može poboljšati osetljivost na insulin i doprineti redovnijim ciklusima kod žena sa PCOS-om. Efekti se obično primete nakon 2-3 meseca, a pre suplementacije obavezno konsultujte lekara.
-
-**Q: Da li redosled jela u tanjiru utiče na PCOS?**
-
-Da, redosled jela menja krivu šećera u krvi. Ako prvo pojedete povrće i belančevine, pa tek onda ugljene hidrate, skok insulina biće znatno manji nego ako obrok započnete hlebom ili testeninom. Isti obrok, drugačiji hormonski efekat.
-
----
-
-Last updated: 2026-09-25
+Last updated: 2026-09-27
