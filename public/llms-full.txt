@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji njoki od bundeve sa šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenji-njoki-od-bundeve-sa-sljivama-i-orasima
+
+Domaći njoki od pečene bundeve sa dinstanim šljivama, orasima i cimetom — topao jesenji ručak od integralnog brašna, gotov za sat vremena.
+
+**Q: Mogu li da pripremim testo unapred?**
+
+Da, testo možete umesiti dan ranije i čuvati u frižideru pokriveno folijom. Pre oblikovanja ostavite ga 15 minuta na sobnoj temperaturi.
+
+**Q: Šta ako nemam sveže šljive?**
+
+Možete koristiti suve šljive — potopite ih 15 minuta u toplu vodu, isecite na komade i dinstajte kao u receptu. Smanjite med jer su suve šljive slađe.
+
+**Q: Da li deca vole ovaj recept?**
+
+Kombinacija blage bundeve i slatkastih šljiva obično prija deci. Ako ne vole komadiće voća, šljive možete izblendirati u glatki sos.
+
+**Q: Koliko dugo traju kuvani njoki u frižideru?**
+
+Do 2 dana u zatvorenoj posudi. Podgrevajte ih kratko u tiganju sa kašikom vode ili malo maslinovog ulja.
+
+---
+
 ## Jesenja bundeva-šljiva kaša sa ovsom i orasima
 
 https://unazdravahrana.com/recepti/jesenja-bundeva-sljiva-kasa-sa-ovsom-i-orasima
@@ -685,30 +709,6 @@ Kinou i bundevu možete ispeći dan ranije i čuvati odvojeno u frižideru. Pre 
 **Q: Čime da zamenim orahe ako imam alergiju?**
 
 Odlično rade prepržene semenke bundeve ili suncokreta — daju sličnu hrskavost i lepo se slažu sa bundevom.
-
----
-
-## Jesenji rižoto sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenji-rizoto-sa-bundevom-sljivama-i-orasima
-
-Kremast jesenji rižoto sa pečenom bundevom, šljivama i orasima — zasitan porodični obrok gotov za 50 minuta. Recept iz UNA kuhinje.
-
-**Q: Mogu li da koristim beli pirinač umesto integralnog?**
-
-Naravno. Beli pirinač se kuva brže (oko 15 minuta) i daje kremastiji rižoto, ali integralni ima više vlakana i duže drži sitost — što je posebno dobro ako pazite na energiju tokom dana.
-
-**Q: Koja bundeva je najbolja za rižoto?**
-
-Muskatna (butternut) bundeva ima slađe i gušće meso, pa je idealna. Hokaido je takođe odlična i ne mora da se ljušti. Obična domaća bundeva je vodenija — u tom slučaju je duže pecite u rerni.
-
-**Q: Da li mogu da zamenim šljive nečim drugim?**
-
-Da, u kasnoj jeseni odlično prijaju sušene brusnice ili grožđice, a mogu se koristiti i kruške. Šljive daju najlepšu kiselkastu notu koja balansira slatkoću bundeve.
-
-**Q: Da li je ovo jelo prikladno za decu?**
-
-Jeste, samo izostavite biber i budite umereni sa žalfijom. Deca često vole slatkoću bundeve i kremastu teksturu rižota. Orahe možete sitnije iseckati ili ih poslužiti sa strane.
 
 ---
 
