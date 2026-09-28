@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Salata od hobotnice bez krompira: 5 recepata](https://unazdravahrana.com/blog/salata-od-hobotnice-bez-krompira-5-recepata)
 - [Kada doručkovati za srce i kontrolu težine?](https://unazdravahrana.com/blog/kada-doruckovati-za-srce-i-kontrolu-tezine)
 - [Cena proteinskog praha: šta zaista plaćate?](https://unazdravahrana.com/blog/cena-proteinskog-praha-sta-zaista-placate)
 - [Veganski jelovnik za 7 dana: svaki obrok isplaniran](https://unazdravahrana.com/blog/veganski-jelovnik-za-7-dana-svaki-obrok-isplaniran)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [It's mocktail hour: Recepti za viralne bezalkoholne koktele](https://unazdravahrana.com/blog/its-mocktail-hour-recepti-za-viralne-bezalkoholne-koktele)
 - [Dagnje: recepti za buzaru, tjesteninu i rižoto](https://unazdravahrana.com/blog/dagnje-recepti-za-buzaru-tjesteninu-i-rizoto)
 - [Jesenji energetski keks sa bundevom i šljivama](https://unazdravahrana.com/recepti/jesenji-energetski-keks-sa-bundevom-i-sljivama)
-- [Jesenje muffin-kifle sa bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/jesenje-muffin-kifle-sa-bundevom-sljivama-i-orasima)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-27
+Last updated: 2026-09-28
