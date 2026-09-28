@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Superhrana u UNA radnji: cene i akcije
+
+https://unazdravahrana.com/blog/superhrana-u-una-radnji-cene-i-akcije
+
+Vodič kroz superhranu u UNA radnji sa fokusom na cene, čitanje deklaracije i pravilnu upotrebu chia semenki, spiruline, mace, goji bobica i açai praha. Objašnjava kako izbeći česte greške pri kupovini i izvući maksimum iz malih dnevnih količina.
+
+**Q: Da li je superhrana zaista vredna svog novca?**
+
+Da, ali samo ako se koristi u malim dnevnim količinama i uz raznovrsnu ishranu. Superhrana radi tiho kroz nedelje i mesece, a najisplativija je kada birate čista, pojedinačna pakovanja bez dodataka i kupujete ih na akciji.
+
+**Q: Koja superhrana je najbolja za početnike?**
+
+Chia semenke su najlakše za početak jer imaju blag ukus i lako se dodaju u jogurt, mleko ili vodu. Preporučena količina je 1–2 kašike dnevno, a najbolje ih je namočiti preko noći za praktičan doručak.
+
+**Q: Kako se čuva superhrana posle otvaranja?**
+
+Presipajte u staklenke sa poklopcem i držite dalje od svetla. Açai i lanene semenke obavezno idu u frižider posle otvaranja, dok maca u prahu i açai gube aromu za nekoliko meseci pa ne kupujte na zalihu.
+
+**Q: Na šta obratiti pažnju pri čitanju deklaracije?**
+
+Proverite poreklo i organski sertifikat (EU list), rok trajanja i sastav. Prava spirulina ima samo jedan sastojak – spirulinu. Ako vidite šećer, arome ili mešavinu sa 15 sastojaka, uglavnom plaćate marketing.
+
+---
+
 ## Zašto kosa opada leti i kako da je ojačate iznutra
 
 https://unazdravahrana.com/blog/zasto-kosa-opada-leti-i-kako-da-je-ojacate-iznutra
@@ -685,30 +709,6 @@ Slatkoća potiče uglavnom iz sušenih šljiva i male količine meda — nema do
 **Q: Da li mogu bez oraha zbog alergije?**
 
 Naravno, zamenite orahe semenkama suncokreta ili bundeve u istoj količini — dobija se sličan hrskavi zalogaj.
-
----
-
-## Crvena rog paprika: Recepti za celu jesen
-
-https://unazdravahrana.com/blog/crvena-rog-paprika-recepti-za-celu-jesen
-
-Vodič kroz jesenju sezonu crvene rog paprike sa receptima za pečenu, punjenu i mariniranu papriku, kao i osnovom za ajvar. Uključuje savete za izbor sveže paprike na pijaci i njene nutritivne prednosti.
-
-**Q: Koja je razlika između rog paprike i babure?**
-
-Rog paprika je izdužena, tanja i mesnata sa tankom korom koja se lako guli nakon pečenja, dok je babura deblja i sočnija. Rog je slađi i intenzivnijeg ukusa, pa je omiljena za pečenje, ajvar i punjenje sirom.
-
-**Q: Kako izabrati kvalitetnu rog papriku na pijaci?**
-
-Birajte čvrste, sjajne i ravnomerno tamno crvene paprike bez mekih tačaka i nabora. Peteljka mora biti zelena i sveža, a paprika teža u ruci — što je teža, to je mesnatija i sočnija.
-
-**Q: Koliko dugo se čuva pečena rog paprika u frižideru?**
-
-Očišćena pečena rog paprika drži se 4–5 dana u frižideru u zatvorenoj posudi. Marinirana u tegli sa uljem i sirćetom traje do 3 nedelje u frižideru.
-
-**Q: Da li je crvena paprika zdrava?**
-
-Jedna srednja crvena paprika pokriva dnevnu potrebu za vitaminom C odrasle osobe i bogata je beta karotenom koji doprinosi zdravlju kože i vida. Antioksidansi podržavaju imunitet, što je korisno pred sezonu prehlada.
 
 ---
 
