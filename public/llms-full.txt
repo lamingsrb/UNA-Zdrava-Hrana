@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja bundeva-šljiva kaša sa ovsom i orasima
+
+https://unazdravahrana.com/recepti/jesenja-bundeva-sljiva-kasa-sa-ovsom-i-orasima
+
+Topla ovsena kaša sa pečenom bundevom, šljivama i orasima — jesenji doručak gotov za 35 minuta. Bez belog šećera, pun ukusa i energije.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Da, smrznuta bundeva sasvim odgovara. Pecite je nekoliko minuta duže dok ne omekša i ispari višak vode.
+
+**Q: Da li je ovaj doručak dobar posle jutarnje šetnje?**
+
+Vrlo praktičan izbor — kombinacija složenih ugljenih hidrata iz ovsa, vlakana iz bundeve i šljiva i zdravih masti iz oraha doprinosi osećaju sitosti i postepenoj energiji.
+
+**Q: Čime da zamenim orahe ako ih neko u porodici ne voli?**
+
+Odlično idu bademi, lešnici ili bundevine semenke. Sve to imamo u radnji, možete kombinovati po ukusu.
+
+**Q: Mogu li da napravim veganski varijantu?**
+
+Naravno — koristite biljni napitak umesto vode i javorov sirup umesto meda. Ukus ostaje topao i pun.
+
+---
+
 ## Salata od hobotnice bez krompira: 5 recepata
 
 https://unazdravahrana.com/blog/salata-od-hobotnice-bez-krompira-5-recepata
@@ -685,30 +709,6 @@ Da, u kasnoj jeseni odlično prijaju sušene brusnice ili grožđice, a mogu se 
 **Q: Da li je ovo jelo prikladno za decu?**
 
 Jeste, samo izostavite biber i budite umereni sa žalfijom. Deca često vole slatkoću bundeve i kremastu teksturu rižota. Orahe možete sitnije iseckati ili ih poslužiti sa strane.
-
----
-
-## Jesenja jufka-rolat sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenja-jufka-rolat-sa-bundevom-sljivama-i-orasima
-
-Jesenji rolat od jufke sa bundevom, šljivama i orasima — lagan, mirisan i zdrav dezert za celu porodicu, gotov za 50 minuta.
-
-**Q: Mogu li da napravim rolat unapred za goste?**
-
-Možete ga umesiti i staviti u pleh nekoliko sati ranije, pa peći tek pred serviranje da bude topao i hrskav.
-
-**Q: Da li recept odgovara osobama sa intolerancijom na gluten?**
-
-U klasičnoj verziji ne, jer jufke sadrže gluten. Potražite bezglutenske kore za pitu ili nas pitajte u radnji za alternative.
-
-**Q: Koja vrsta bundeve je najbolja?**
-
-Hokaido i muskatna bundeva daju najslađi i najkremastiji nadev, a hokaido ne treba ni ljuštiti.
-
-**Q: Mogu li da smrznem rolat?**
-
-Da, već pečen i ohlađen rolat možete smrznuti do mesec dana. Odmrznite ga u frižideru i podgrejte u rerni na 160°C.
 
 ---
 
