@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kada bebi dati jaja: šta pokazuje australijska studija
+
+https://unazdravahrana.com/blog/kada-bebi-dati-jaja-sta-pokazuje-australijska-studija
+
+---
+
 ## Vitamin B6 za žene: koliko treba i kada je previše
 
 https://unazdravahrana.com/blog/vitamin-b6-za-zene-koliko-treba-i-kada-je-previse
@@ -659,30 +665,6 @@ Javorov sirup ili gusti sirup od agave rade jednako dobro u istoj količini.
 **Q: Da li ovi keksi doprinose energiji za jutarnju šetnju?**
 
 Kombinacija ovsa, oraha i semenki doprinosi sporom oslobađanju energije i osećaju sitosti. Za konkretne zdravstvene savete uvek se posavetujte sa lekarom.
-
----
-
-## Jesenje muffin-kifle sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenje-muffin-kifle-sa-bundevom-sljivama-i-orasima
-
-Meki integralni mafini sa bundevom, šljivama i orasima — jesenji doručak ili užina za celu porodicu, gotovo za 40 minuta.
-
-**Q: Mogu li da koristim bundevu iz tegle?**
-
-Može, ali sveže pečena bundeva ima bogatiji ukus i manje vode. Ako koristite gotov pire, ocedite ga par minuta u cediljci.
-
-**Q: Koje šljive su najbolje za ovaj recept?**
-
-Požegače ili stenley — čvrste su, slatko-kisele i lepo se drže u smesi. Previše mekane šljive puste dosta soka.
-
-**Q: Mogu li deca da jedu ove mafine?**
-
-Naravno, blago su zaslađene medom i pune su vlakana. Za mlađu decu iseckajte orahe što sitnije zbog rizika od gušenja.
-
-**Q: Kako da mafini budu vazdušastiji?**
-
-Ne mešajte smesu previše kada spojite mokre i suve sastojke — dovoljno je 10-ak zamaha špatulom. Grudvice u testu su znak da će mafini biti mekani.
 
 ---
 
