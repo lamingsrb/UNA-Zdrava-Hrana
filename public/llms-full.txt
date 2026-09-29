@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamin B6 za žene: koliko treba i kada je previše
+
+https://unazdravahrana.com/blog/vitamin-b6-za-zene-koliko-treba-i-kada-je-previse
+
+---
+
 ## Jesenja bundeva-tart sa šljivama i orasima
 
 https://unazdravahrana.com/recepti/jesenja-bundeva-tart-sa-sljivama-i-orasima
@@ -677,30 +683,6 @@ Naravno, blago su zaslađene medom i pune su vlakana. Za mlađu decu iseckajte o
 **Q: Kako da mafini budu vazdušastiji?**
 
 Ne mešajte smesu previše kada spojite mokre i suve sastojke — dovoljno je 10-ak zamaha špatulom. Grudvice u testu su znak da će mafini biti mekani.
-
----
-
-## Jutarnja činija sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jutarnja-cinija-sa-bundevom-sljivama-i-orasima
-
-Topla jutarnja činija sa pečenom bundevom, šljivama, orasima i ovsenim pahuljicama — sezonski doručak za energiju pre šetnje.
-
-**Q: Mogu li da pripremim kašu veče pre?**
-
-Možete. Skuvajte kašu, ohladite je i držite u frižideru do 2 dana. Ujutru dodajte malo tople vode ili napitka i zagrejte uz mešanje.
-
-**Q: Da li je ovaj doručak prikladan pre jutarnje šetnje?**
-
-Jeste — kombinacija složenih ugljenih hidrata iz ovsa i bundeve sa mastima iz oraha doprinosi postepenom oslobađanju energije. Pojedite ga 30–45 minuta pre šetnje.
-
-**Q: Čime da zamenim med ako ga ne koristim?**
-
-Odlično se slaže javorov sirup, sirup od agave ili nekoliko iseckanih urmi koje ćete dodati u kašu tokom kuvanja.
-
-**Q: Mogu li deca da jedu ovaj doručak?**
-
-Naravno, recept je lagan i prirodan. Za najmlađe smanjite začine (đumbir, cimet) i orahe sitno iseckajte kako biste izbegli grickanje krupnih komada.
 
 ---
 
