@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja topla kaša od heljde s bundevom i šljivama
+
+https://unazdravahrana.com/recepti/jesenja-topla-kasa-od-heljde-s-bundevom-i-sljivama
+
+Topla jesenja kaša od heljde s pečenom bundevom, šljivama i orasima — zdrav doručak bez glutena, gotov za 40 minuta.
+
+**Q: Mogu li da koristim već kuvanu bundevu iz tegle?**
+
+Možeš, ali sveža pečena bundeva daje bolji ukus i teksturu jer se karamelizuje u rerni. Ako koristiš gotov pire, samo ga zagrej i dodaj na kašu pred serviranje.
+
+**Q: Da li je ovo jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Heljda je prirodno bez glutena, pa je recept pogodan. Ako imaš celijakiju, obavezno biraj heljdu sa oznakom „bez glutena“ kako bi izbegao unakrsnu kontaminaciju iz proizvodnje.
+
+**Q: Koliko dugo mogu da čuvam kašu u frižideru?**
+
+U dobro zatvorenoj posudi drži se 2–3 dana. Pečenu bundevu i šljive najbolje je čuvati odvojeno od kaše, da ne omekšaju previše.
+
+---
+
 ## Superhrana u UNA radnji: cene i akcije
 
 https://unazdravahrana.com/blog/superhrana-u-una-radnji-cene-i-akcije
@@ -688,28 +708,4 @@ Naravno, samo izostavite čili pahuljice. Blago začinjena verzija je odlična k
 
 ---
 
-## Jesenji energetski zalogaji sa bundevom i orasima
-
-https://unazdravahrana.com/recepti/jesenji-energetski-zalogaji-sa-bundevom-i-orasima
-
-Energetski zalogaji sa bundevom, orasima i šljivama — bez pečenja, gotovi za 35 minuta. Idealna jesenja užina za šetnju i školu.
-
-**Q: Mogu li koristiti bundevu iz tegle umesto sveže?**
-
-Možete, ali obavezno dobro ocedite višak tečnosti. Sveža bundeva daje bolju teksturu i prirodniju slatkoću.
-
-**Q: Da li su ovi zalogaji dobri pre jutarnje šetnje?**
-
-Jedan do dva zalogaja 20-30 minuta pre šetnje daju laganu energiju bez težine u stomaku, zahvaljujući vlaknima iz ovsa i zdravim mastima iz oraha.
-
-**Q: Koliko šećera ima u jednom zalogaju?**
-
-Slatkoća potiče uglavnom iz sušenih šljiva i male količine meda — nema dodatog belog šećera. Za smanjenu verziju smanjite med na 2 kašike.
-
-**Q: Da li mogu bez oraha zbog alergije?**
-
-Naravno, zamenite orahe semenkama suncokreta ili bundeve u istoj količini — dobija se sličan hrskavi zalogaj.
-
----
-
-Last updated: 2026-09-28
+Last updated: 2026-09-29

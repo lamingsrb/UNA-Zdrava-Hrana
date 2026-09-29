@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Jesenja topla kaša od heljde s bundevom i šljivama](https://unazdravahrana.com/recepti/jesenja-topla-kasa-od-heljde-s-bundevom-i-sljivama)
 - [Superhrana u UNA radnji: cene i akcije](https://unazdravahrana.com/blog/superhrana-u-una-radnji-cene-i-akcije)
 - [Zašto kosa opada leti i kako da je ojačate iznutra](https://unazdravahrana.com/blog/zasto-kosa-opada-leti-i-kako-da-je-ojacate-iznutra)
 - [Jesenji muffini od bundeve, šljiva i oraha](https://unazdravahrana.com/recepti/jesenji-muffini-od-bundeve-sljiva-i-oraha)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Banana i visoki pritisak: koliko ih treba pojesti?](https://unazdravahrana.com/blog/banana-i-visoki-pritisak-koliko-ih-treba-pojesti)
 - [Jesenja pečena bundeva sa šljivama i orasima uz jogurt](https://unazdravahrana.com/recepti/jesenja-pecena-bundeva-sa-sljivama-i-orasima-uz-jogurt)
 - [Jesenja krem-supa od bundeve sa šljivama i orasima](https://unazdravahrana.com/recepti/jesenja-krem-supa-od-bundeve-sa-sljivama-i-orasima)
-- [Jesenja tepsija: bundeva sa šljivama i orasima](https://unazdravahrana.com/recepti/jesenja-tepsija-bundeva-sa-sljivama-i-orasima)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-28
+Last updated: 2026-09-29
