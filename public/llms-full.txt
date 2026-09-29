@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kalcijum u telu: gde završi nakon što ga unesete
+
+https://unazdravahrana.com/blog/kalcijum-u-telu-gde-zavrsi-nakon-sto-ga-unesete
+
+Oko 99% kalcijuma u telu nalazi se u kostima i zubima, a ne postoji jedno proverljivo vreme koliko kalcijum „ostaje“ u telu, jer se kosti stalno grade i razgrađuju. Apsorpcija u crevima je u proseku 10–60% unosa i zavisi od količine, oblika kalcijuma i vitamina D, a hrana je prvi izbor pre dodataka.
+
+**Q: Koliko dugo kalcijum ostaje u telu?**
+
+Ne postoji proverljiv podatak o tačnom vremenu. Deo apsorbovanog kalcijuma ugrađuje se u kosti, deo kruži krvlju, a deo se izluči. Kosti ga stalno primaju i oslobađaju, pa nema fiksnog vremena „boravka“.
+
+**Q: Koliko kalcijuma telo apsorbuje iz hrane i dodataka?**
+
+Odrasli u proseku apsorbuju otprilike 10–60% dnevnog unosa, a ostatak izlazi stolicom. Na to utiču unesena količina, oblik kalcijuma i vitamin D. Nema smisla unositi ogromne količine odjednom.
+
+**Q: Koliko kalcijuma treba odraslima dnevno?**
+
+Prema EFSA, odrasli od 25 godina treba da unose 950 mg dnevno, a mladi od 18 do 24 godine 1.000 mg. Američke preporuke (NIH) su 1.000–1.200 mg. Gornja granica bezbednog unosa iz svih izvora je 2.500 mg dnevno.
+
+**Q: Da li vitamin D pomaže apsorpciju kalcijuma?**
+
+Da, vitamin D pomaže telu da apsorbuje kalcijum. Stručnjaci se ne slažu oko toga koliko je taj efekat veliki, pa više vitamina D ne znači automatski bolje iskorišćen kalcijum. Pre visokih doza lekar može da proveri vaš status krvnom analizom.
+
+---
+
 ## Kada bebi dati jaja: šta pokazuje australijska studija
 
 https://unazdravahrana.com/blog/kada-bebi-dati-jaja-sta-pokazuje-australijska-studija
@@ -641,30 +665,6 @@ Potopite ih u hladnu vodu, prstima uklonite končastu 'bradu' povlačenjem ka š
 **Q: Da li su dagnje zdrave?**
 
 Dagnje imaju samo oko 85 kcal na 100 g mesa, a bogate su kompletnim proteinima, vitaminom B12, gvožđem i omega-3 masnim kiselinama. Jedna porcija pokriva višestruko dnevnu potrebu za B12.
-
----
-
-## Jesenji energetski keks sa bundevom i šljivama
-
-https://unazdravahrana.com/recepti/jesenji-energetski-keks-sa-bundevom-i-sljivama
-
-Domaći jesenji keks sa bundevom, šljivama i orasima — bez belog šećera, savršena zdrava užina za jutarnje šetnje i porodicu.
-
-**Q: Mogu li da koristim pečenu bundevu umesto sveže rendane?**
-
-Možete, ali smanjite količinu na 150 g i dobro je iscedite jer je vlažnija. Tekstura keksa biće mekša.
-
-**Q: Da li deca mogu da jedu ove kekse?**
-
-Naravno — nema belog šećera i ukus je blag. Za najmlađe možete izostaviti orahe ili ih zameniti mlevenim semenkama suncokreta.
-
-**Q: Čime da zamenim med ako sam vegan?**
-
-Javorov sirup ili gusti sirup od agave rade jednako dobro u istoj količini.
-
-**Q: Da li ovi keksi doprinose energiji za jutarnju šetnju?**
-
-Kombinacija ovsa, oraha i semenki doprinosi sporom oslobađanju energije i osećaju sitosti. Za konkretne zdravstvene savete uvek se posavetujte sa lekarom.
 
 ---
 
