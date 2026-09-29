@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja bundeva-tart sa šljivama i orasima
+
+https://unazdravahrana.com/recepti/jesenja-bundeva-tart-sa-sljivama-i-orasima
+
+Kada rana jesen donese prve narandžaste bundeve i zrele šljive, u kuhinji se pravi mala magija.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Da. Odmrznite je i dobro ocedite od viška tečnosti pre nego što napravite pire — fil mora biti gust da bi tart lepo stegao.
+
+**Q: Koje šljive su najbolje?**
+
+Zrele požegače ili stenlej sorte — mesnate su, imaju laganu kiselost i lepo se peku bez da se raspadnu.
+
+**Q: Da li je ovaj tart pogodan za decu?**
+
+Jeste, kao povremena slatka poslastica u okviru uravnotežene ishrane. Za najmlađe možete smanjiti količinu meda. Za bilo koje specifično zdravstveno pitanje uvek se posavetujte sa pedijatrom.
+
+---
+
 ## Jesenja pita-tava sa bundevom, šljivama i ovsom
 
 https://unazdravahrana.com/recepti/jesenja-pita-tava-sa-bundevom-sljivama-i-ovsom
@@ -681,30 +701,6 @@ Odlično se slaže javorov sirup, sirup od agave ili nekoliko iseckanih urmi koj
 **Q: Mogu li deca da jedu ovaj doručak?**
 
 Naravno, recept je lagan i prirodan. Za najmlađe smanjite začine (đumbir, cimet) i orahe sitno iseckajte kako biste izbegli grickanje krupnih komada.
-
----
-
-## Jesenji doručak-tost sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenji-dorucak-tost-sa-bundevom-sljivama-i-orasima
-
-Topao jesenji tost sa pečenom bundevom, šljivama i orasima na integralnom hlebu — zdrav doručak spreman za 35 minuta.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Može, ali je najbolje da je prvo odmrznete i dobro ocedite od viška vode, pa tek onda pečete — inače će se pariti umesto da se karamelizuje.
-
-**Q: Čime da zamenim šljive kad prođe sezona?**
-
-Odlično idu i kruške ili pečene jabuke sa cimetom. Zimi možete koristiti i suve šljive prethodno namočene u toploj vodi 10 minuta.
-
-**Q: Da li je ovaj doručak dovoljno zasitan pre šetnje?**
-
-Jeste — kombinacija integralnog hleba, oraha i urda daje spor otpust energije. Ako planirate dužu šetnju, dodajte kuvano jaje ili šoljicu čaja uz doručak.
-
-**Q: Koliko dugo mogu da čuvam ostatke?**
-
-Sastavljene tostove najbolje pojesti odmah. Pečenu bundevu i šljive čuvajte u zatvorenoj posudi u frižideru do 3 dana i sastavljajte sveže po potrebi.
 
 ---
 
