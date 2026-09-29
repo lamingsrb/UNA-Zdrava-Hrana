@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja pita-tava sa bundevom, šljivama i ovsom
+
+https://unazdravahrana.com/recepti/jesenja-pita-tava-sa-bundevom-sljivama-i-ovsom
+
+Kada zahladi, tražimo nešto toplo, mirisno i zasitno — a da ne provedemo pola dana u kuhinji.
+
+**Q: Mogu li da koristim smrznutu bundevu?**
+
+Može, ali je prvo odmrznite i dobro ocedite od viška tečnosti. Vreme pečenja u prvom koraku skratite na 10 minuta jer je smrznuta bundeva već delimično omekšala.
+
+**Q: Koje šljive su najbolje za ovaj recept?**
+
+Domaće požegače i madžarke daju najbolji rezultat jer se lepo drže tokom pečenja i imaju bogatu aromu. Ako su vam šljive kisele, dodajte kašiku meda više.
+
+**Q: Da li se ovaj recept može pripremiti unapred?**
+
+Suvi deo (ovsene pahuljice sa orasima i začinima) možete pomešati veče ranije. Bundevu ispecite ujutru, spojite sve i završite u rerni — tako doručak bude gotov za pola sata.
+
+**Q: Da li je pogodno za decu?**
+
+Da, blago je slatko i mekano. Za mlađu decu možete izostaviti đumbir i orahe krupno usitniti ili zameniti mlevenim, ako brinete zbog gušenja.
+
+---
+
 ## Jesenja topla kaša od heljde s bundevom i šljivama
 
 https://unazdravahrana.com/recepti/jesenja-topla-kasa-od-heljde-s-bundevom-i-sljivama
@@ -681,30 +705,6 @@ Jeste — kombinacija integralnog hleba, oraha i urda daje spor otpust energije.
 **Q: Koliko dugo mogu da čuvam ostatke?**
 
 Sastavljene tostove najbolje pojesti odmah. Pečenu bundevu i šljive čuvajte u zatvorenoj posudi u frižideru do 3 dana i sastavljajte sveže po potrebi.
-
----
-
-## Jesenji čatni od bundeve i šljiva s orasima
-
-https://unazdravahrana.com/recepti/jesenji-catni-od-bundeve-i-sljiva-s-orasima
-
-Jesenji čatni od bundeve, šljiva i oraha — domaći recept za gust, mirisan namaz uz sireve, meso ili integralni hleb. Gotov za 45 minuta.
-
-**Q: Koju vrstu bundeve je najbolje koristiti?**
-
-Najbolja je hokaido ili muskatna bundeva jer imaju gušće meso i slađi ukus. Hokaido ne morate ni da ljuštite ako je kora tanka i čista.
-
-**Q: Mogu li čatni da napravim bez šećera i meda?**
-
-Da, ako su šljive zrele i slatke, dovoljna je njihova prirodna slatkoća. Po želji dodajte kašiku javorovog sirupa ili malo urminog sirupa na kraju.
-
-**Q: Uz šta ide ovaj čatni?**
-
-Odlično se slaže sa zrelim sirevima, pečenim mesom, integralnim tostom, ovsenom kašom, pa čak i kao dodatak salati od kinoe ili leblebija.
-
-**Q: Da li deca mogu da jedu ovaj čatni?**
-
-Naravno, samo izostavite čili pahuljice. Blago začinjena verzija je odlična kao namaz na hlebu za užinu.
 
 ---
 
