@@ -135,6 +135,12 @@ export default function Footer() {
             © {currentYear} {site.name}, {site.address.city}. Sva prava
             zadržana.
           </p>
+          <p className="mt-3 text-center text-xs text-cream-100/60">
+            Sajt izradio{' '}
+            <a href="https://bizflowai.io/?utm_source=una_zdrava_hrana&utm_medium=footer&utm_campaign=creator_credit" rel="sponsored nofollow" className="underline decoration-transparent underline-offset-4 transition-colors hover:text-honey-300 hover:decoration-current focus-visible:decoration-current">BizFlowAI</a>
+            {' · '}
+            <a href="https://lazar-milicevic.com/?utm_source=una_zdrava_hrana&utm_medium=footer&utm_campaign=creator_credit" rel="sponsored nofollow" className="underline decoration-transparent underline-offset-4 transition-colors hover:text-honey-300 hover:decoration-current focus-visible:decoration-current">Lazar Milićević</a>
+          </p>
         </div>
       </div>
     </footer>
