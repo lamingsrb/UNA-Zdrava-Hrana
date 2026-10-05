@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Brz doručak za 2 minuta: ideja Snežane Paučinac i naša
+
+https://unazdravahrana.com/blog/brz-dorucak-za-2-minuta-ideja-snezane-paucinac-i-nasa
+
+Članak predstavlja brzu jesenju kašu sa jabukama i orasima koju je podelila nutricionistkinja Snežana Paučinac i objašnjava zašto ovas, orašasti plodovi i umeren unos slatkog čine dobar jutarnji obrok. Dodaje i praktične prilagodbe za decu, rekreativce, osobe bez laktoze ili glutena i početnike u kuhinji.
+
+**Q: Koliko traje priprema jesenje kaše sa jabukama i orasima Snežane Paučinac?**
+
+Prema izvornom članku, priprema traje oko dva minuta, otprilike koliko i kuvanje kafe. Kašu je moguće spremiti i bez kućnih aparata. Tačne količine i postupak pogledajte u originalnom receptu na sajtu Lepota i zdravlje.
+
+**Q: Zašto su ovsene pahuljice dobre za doručak?**
+
+Ovsene pahuljice sadrže vlakna, među njima i beta-glukan, pa doprinose osećaju sitosti. Prema USDA podacima, suve pahuljice imaju oko 10 g vlakana i oko 13 g proteina na 100 g. Vrednosti su okvirne, a tačan sastav piše na deklaraciji proizvoda.
+
+**Q: Koliko orašastih plodova je razumno jesti dnevno?**
+
+Najčešće se pominje jedna šaka dnevno, oko 28 g. Birajte neslane i sirove plodove jer slani nose dosta natrijuma. Prevelika količina odjednom može izazvati nadutost i bolove u stomaku zbog vlakana.
+
+**Q: Da li se javorov sirup i agava računaju kao dodati šećer?**
+
+Da. Svetska zdravstvena organizacija u slobodne šećere ubraja i med i sirupe, a preporučuje da oni čine manje od 10% dnevnog energetskog unosa, što je oko 50 g za odraslu osobu. U kaši sa jabukom često je dovoljna upola manja količina sirupa.
+
+---
+
 ## Da li je zelena salata nezdrava? Šta stoji iza te priče
 
 https://unazdravahrana.com/blog/da-li-je-zelena-salata-nezdrava-sta-stoji-iza-te-price
@@ -641,30 +665,6 @@ Sipajte supu u obični blender u dva navrata — pazite da ne bude prevruća da 
 **Q: Da li supa podržava probavu?**
 
 Bundeva i orasi donose vlakna koja doprinose normalnom radu creva. Za konkretna zdravstvena pitanja uvek se posavetujte sa lekarom.
-
----
-
-## Jesenja tepsija: bundeva sa šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenja-tepsija-bundeva-sa-sljivama-i-orasima
-
-Jesenja tepsija sa pečenom bundevom, šljivama i orasima — jednostavan sezonski recept bez šećera, gotov za 45 minuta.
-
-**Q: Mogu li da koristim smrznute šljive?**
-
-Možete, ali ih prethodno odmrznite i ocedite višak soka da tepsija ne bude previše vodnjikava. Sveže sezonske šljive daju najbolji rezultat.
-
-**Q: Koja vrsta bundeve je najbolja za ovaj recept?**
-
-Hokaido ili muskatna bundeva su idealne — imaju gušće meso i prirodno su slatkaste. Hokaido ne morate ni da gulite, kora omekša tokom pečenja.
-
-**Q: Da li je jelo pogodno za osobe sa intolerancijom na gluten?**
-
-Sam recept je bez glutena, ali ako ste osetljivi, obavezno koristite ovsene pahuljice sa oznakom 'bez glutena' jer standardne mogu biti kontaminirane.
-
-**Q: Kako da ga servirem kao glavno jelo?**
-
-Uz kašiku kremastog sira, feta kockice ili tofu, i parče integralnog hleba. Kombinacija slatkog i slanog odlično funkcioniše.
 
 ---
 
