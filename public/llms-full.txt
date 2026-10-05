@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Da li je zelena salata nezdrava? Šta stoji iza te priče
+
+https://unazdravahrana.com/blog/da-li-je-zelena-salata-nezdrava-sta-stoji-iza-te-price
+
+Zelena salata je za većinu ljudi zdrava namirnica i koristan deo raznovrsne ishrane, a mit o njenoj "nezdravosti" potiče od pogrešnog shvatanja, straha od bakterija i teških preliva. Rizik od klica smanjuje se pranjem pod tekućom vodom, sušenjem i čuvanjem u hladnom frižideru, dok se pravi problem najčešće krije u preliv.
+
+**Q: Da li je zelena salata nezdrava?**
+
+Za veliku većinu ljudi nije. Zelena salata je lisnato povrće i koristan deo uravnotežene ishrane, uz malo kalorija i vlakna. Nije čudotvorna namirnica, ali nije ni štetna, a problem su najčešće teški prelivi.
+
+**Q: Kako se pravilno pere zelena salata?**
+
+Listove nežno protrljajte rukama pod tekućom vodom, a zatim ih osušite čistom krpom ili papirnim ubrusom. Ne potapajte ih u sudoperu i ne koristite sapun ni deterdžent. Prethodno uklonite spoljašnje i oštećene listove.
+
+**Q: Da li treba prati već opranu pakovanu salatu?**
+
+Ako na pakovanju piše da je oprana i spremna za jelo, ponovno pranje kod kuće nije potrebno. Oznake se razlikuju, pa pažljivo pročitajte uputstvo na samom pakovanju.
+
+**Q: Kako čuvati zelenu salatu da duže traje?**
+
+Čuvajte je u hladnom frižideru, na oko 4 °C ili manje, i pazite da listovi budu dobro suvi. Cele glavice traju duže od isečene salate, pa kupujte onoliko koliko ćete potrošiti i bacite listove koji su sluzavi ili neprijatno mirišu.
+
+---
+
 ## Kvinoja recept: kako je skuvati da uvek ispadne rastresita
 
 https://unazdravahrana.com/blog/kvinoja-recept-kako-je-skuvati-da-uvek-ispadne-rastresita
@@ -641,30 +665,6 @@ Sam recept je bez glutena, ali ako ste osetljivi, obavezno koristite ovsene pahu
 **Q: Kako da ga servirem kao glavno jelo?**
 
 Uz kašiku kremastog sira, feta kockice ili tofu, i parče integralnog hleba. Kombinacija slatkog i slanog odlično funkcioniše.
-
----
-
-## Kikiriki ili kokice: šta manje diže šećer?
-
-https://unazdravahrana.com/blog/kikiriki-ili-kokice-sta-manje-dize-secer
-
-Kikiriki blaže podiže šećer u krvi od kokica jer sadrži proteine, masti i vlakna koja usporavaju apsorpciju glukoze. Kokice mogu biti dobar izbor ako su domaće i kombinovane sa mastima ili proteinima poput orašastih plodova ili sira.
-
-**Q: Šta manje diže šećer u krvi — kikiriki ili kokice?**
-
-Kikiriki manje diže šećer u krvi jer sadrži proteine, zdrave masti i vlakna koji usporavaju oslobađanje glukoze, dok su kokice pretežno ugljeni hidrati koji brže podižu glikemiju.
-
-**Q: Kolika je preporučena porcija kikirikija za užinu?**
-
-Oko 30 grama, odnosno jedna manja šaka. To je dovoljno za sitost, a da se ne pređe u kalorijski višak jer je kikiriki energetski gust.
-
-**Q: Da li su kokice zdrave za osobe sa insulinskom rezistencijom?**
-
-Mogu biti, ako su spremljene kod kuće sa malo ulja i bez šećera, i ako se kombinuju sa mastima ili proteinima poput orašastih plodova ili sira koji smiruju skok šećera.
-
-**Q: Koji kikiriki puter je najbolji za regulaciju šećera u krvi?**
-
-Onaj čiji je sastav 100% kikiriki, eventualno sa malo soli, bez dodatog šećera, palminog ulja i emulgatora. Izbegavaj 'lajt' verzije jer često sadrže zaslađivače.
 
 ---
 
