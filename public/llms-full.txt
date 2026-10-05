@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kvinoja recept: kako je skuvati da uvek ispadne rastresita
+
+https://unazdravahrana.com/blog/kvinoja-recept-kako-je-skuvati-da-uvek-ispadne-rastresita
+
+Da bi kvinoja ispala rastresita, treba je isprati od saponina, skuvati u odnosu oko 1 šolja kvinoje na 1¾ šolje vode i ostaviti poklopljenu još 5 minuta. Članak objašnjava i najčešće greške, odnose za druge aparate i šta treba znati o kvinoji bez glutena.
+
+**Q: Koliko vode ide na jednu šolju kvinoje?**
+
+Kao polazna tačka služi 1 šolja kvinoje na 1¾ šolje vode ili povrtne supe. Stariji odnos 1:2 lako daje kašastu kvinoju. Ako ispadne kašasta, sledeći put smanjite vodu, a ako je tvrda, dodajte malo tečnosti i kuvajte još minut-dva.
+
+**Q: Zašto je kvinoja gorka i kako to sprečiti?**
+
+Kvinoja ima prirodni omotač saponina koji daje gorak ili sapunast ukus. Zato je treba isprati hladnom vodom na sitnom situ oko 30 sekundi, dok voda ne postane bistra. Ako je i nakon kuvanja malo gorka, sledeći put je isperite temeljnije.
+
+**Q: Koliko dugo se kuva kvinoja?**
+
+Na šporetu se kuva oko 10 minuta na tihoj vatri, poklopljena, a zatim se sklonjena sa izvora toplote ostavi poklopljena još 5 minuta. Taj odmor je ključan za rastresita zrna. Ukupno je potrebno oko 15 minuta.
+
+**Q: Da li je kvinoja bez glutena?**
+
+Kvinoja je prirodno bez glutena i smatra se pogodnom za ljude sa celijakijom. Rizik ipak postoji zbog unakrsne kontaminacije tokom uzgoja, prerade ili pakovanja, pa birajte proizvod koji je na pakovanju izričito označen kao bez glutena.
+
+---
+
 ## Tepsija od dunje, kestena i pečuraka sa heljdinom kašom
 
 https://unazdravahrana.com/recepti/tepsija-od-dunje-kestena-i-pecuraka-sa-heljdinom-kasom
@@ -641,30 +665,6 @@ Mogu biti, ako su spremljene kod kuće sa malo ulja i bez šećera, i ako se kom
 **Q: Koji kikiriki puter je najbolji za regulaciju šećera u krvi?**
 
 Onaj čiji je sastav 100% kikiriki, eventualno sa malo soli, bez dodatog šećera, palminog ulja i emulgatora. Izbegavaj 'lajt' verzije jer često sadrže zaslađivače.
-
----
-
-## Koliko dana posle kiše se beru pečurke? Evo istine
-
-https://unazdravahrana.com/blog/koliko-dana-posle-kise-se-beru-pecurke-evo-istine
-
-Optimalno vreme za branje pečuraka je 5 do 10 dana posle obilnije kiše, uz dnevne temperature 12–20°C i noći iznad 8°C. Pravilo tri dana ne važi za sve vrste, pa je važno pratiti vlagu tla, vrstu šume i vremensku prognozu.
-
-**Q: Koliko dana posle kiše se beru vrganji?**
-
-Vrganji se najčešće beru između 5 i 10 dana posle obilnije kiše, kada je dnevna temperatura 14–18°C, a noći ne padaju ispod 8°C.
-
-**Q: Da li važi pravilo tri dana posle kiše?**
-
-Pravilo tri dana važi samo za neke vrste bukovača i lisičarki u toplijim mesecima. U jesen je potrebno sačekati 5 do 10 dana zbog nižih temperatura.
-
-**Q: Koliko padavina je potrebno da pečurke izbiju?**
-
-Potrebno je barem 20–30 mm padavina ili više uzastopnih kišnih dana, jer jedna slaba kiša ne može dovoljno da nakvasi suvo zemljište i micelijum.
-
-**Q: Kako sačuvati sveže pečurke posle branja?**
-
-Sveže pečurke držite u frižideru najviše 2 dana. Za dužu upotrebu ih osušite na 60°C 6–8 sati ili poblanširajte i zamrznite u kesicama.
 
 ---
 
