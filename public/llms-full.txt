@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečene dunje i kesten sa pečurkama i heljdom
+
+https://unazdravahrana.com/recepti/pecene-dunje-i-kesten-sa-pecurkama-i-heljdom
+
+Topla jesenja činija: pečena dunja, kesten i pečurke sa heljdom. Bez glutena i mleka, gotovo za sat. Probajte recept UNA Zdrave Hrane.
+
+**Q: Da li dunju moram da ljuštim pre pečenja?**
+
+Ne mora. Ljuska omekša u rerni, a sadrži i dodatna vlakna. Samo dobro operite plod i obrišite paperjast sloj. Ako vam je ljuska ipak gruba, slobodno je skinite.
+
+**Q: Može li se jelo spremiti unapred?**
+
+Može. Pečenu dunju i kesten, kao i heljdu, pripremite dan ranije i čuvajte u frižideru. Pečurke ispecite neposredno pre posluživanja da ne omekšaju previše, pa sve sastavite na tanjiru.
+
+**Q: Da li je recept pogodan za ljude sa intolerancijom na gluten ili laktozu?**
+
+Po sastavu ne sadrži gluten ni laktozu. Kod celijakije birajte heljdu koja je izričito označena kao bezglutenska zbog mogućeg mešanja u preradi. Za sva zdravstvena pitanja o ishrani posavetujte se sa lekarom.
+
+**Q: Čime mogu da zamenim orahe?**
+
+Dobro će poslužiti semenke bundeve ili suncokreta, a može i lešnik. Svi se lepo prepeku u suvom tiganju. Ako ste alergični na orašaste plodove, izostavite ih i dodajte semenke.
+
+---
+
 ## Kalcijum u telu: gde završi nakon što ga unesete
 
 https://unazdravahrana.com/blog/kalcijum-u-telu-gde-zavrsi-nakon-sto-ga-unesete
@@ -644,28 +668,4 @@ Za decu izostavite jaku kiselinu i ljut đumbir, a koristite blaže sirupe od ba
 
 ---
 
-## Dagnje: recepti za buzaru, tjesteninu i rižoto
-
-https://unazdravahrana.com/blog/dagnje-recepti-za-buzaru-tjesteninu-i-rizoto
-
-Vodič kroz pripremu dagnji sa tri klasična recepta — buzara, tjestenina i rižoto — uz jasne odnose sastojaka i savete za izbor svežih ili zamrznutih školjki. Tekst objašnjava nutritivnu vrednost dagnji, kako ih očistiti i najčešće greške u kuvanju.
-
-**Q: Koliko dugo se kuvaju dagnje?**
-
-Dagnje u ljusci se kuvaju 4-5 minuta na jakoj vatri, samo dok se sve ljuske ne otvore. Svaki dodatni minut daje gumeno meso, pa ih odmah sklonite sa vatre.
-
-**Q: Da li su zamrznute dagnje jednako dobre kao sveže?**
-
-Zamrznute dagnje su odlična opcija kada nemate pristup svežim, posebno meso bez ljuske za tjesteninu i rižoto. Za buzaru je bolje uzeti cele u ljusci jer sok koji puštaju čini pola ukusa.
-
-**Q: Kako se čiste dagnje pre kuvanja?**
-
-Potopite ih u hladnu vodu, prstima uklonite končastu 'bradu' povlačenjem ka šarki, ostružite naslage sa ljuske i isperite pod mlazom vode. Sve otvorene i polomljene školjke bacite.
-
-**Q: Da li su dagnje zdrave?**
-
-Dagnje imaju samo oko 85 kcal na 100 g mesa, a bogate su kompletnim proteinima, vitaminom B12, gvožđem i omega-3 masnim kiselinama. Jedna porcija pokriva višestruko dnevnu potrebu za B12.
-
----
-
-Last updated: 2026-09-29
+Last updated: 2026-10-05

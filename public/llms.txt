@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Pečene dunje i kesten sa pečurkama i heljdom](https://unazdravahrana.com/recepti/pecene-dunje-i-kesten-sa-pecurkama-i-heljdom)
 - [Kalcijum u telu: gde završi nakon što ga unesete](https://unazdravahrana.com/blog/kalcijum-u-telu-gde-zavrsi-nakon-sto-ga-unesete)
 - [Kada bebi dati jaja: šta pokazuje australijska studija](https://unazdravahrana.com/blog/kada-bebi-dati-jaja-sta-pokazuje-australijska-studija)
 - [Vitamin B6 za žene: koliko treba i kada je previše](https://unazdravahrana.com/blog/vitamin-b6-za-zene-koliko-treba-i-kada-je-previse)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Paprike punjene bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/paprike-punjene-bundevom-sljivama-i-orasima)
 - [Heljdine palačinke s bundevom, šljivama i orasima](https://unazdravahrana.com/recepti/heljdine-palacinke-s-bundevom-sljivama-i-orasima)
 - [Koliko suplemenata dnevno je previše?](https://unazdravahrana.com/blog/koliko-suplemenata-dnevno-je-previse)
-- [Manje soli: kada se vidi promena pritiska?](https://unazdravahrana.com/blog/manje-soli-kada-se-vidi-promena-pritiska)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-09-29
+Last updated: 2026-10-05
