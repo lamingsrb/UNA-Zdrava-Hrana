@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Tepsija od dunje, kestena i pečuraka sa heljdinom kašom
+
+https://unazdravahrana.com/recepti/tepsija-od-dunje-kestena-i-pecuraka-sa-heljdinom-kasom
+
+Jesenja tepsija od dunje, kestena i pečuraka sa heljdinom kašom. Sezonski, zasitan i jednostavan recept, bez glutena, spreman za oko sat vremena.
+
+**Q: Da li je ovo jelo bez glutena?**
+
+Heljda je prirodno bez glutena, a ostali sastojci takođe ne sadrže gluten. Ipak, ako neko u porodici ima celijakiju, birajte pakovanja heljde označena kao bezglutenska, jer se u preradi mogu pojaviti tragovi drugih žitarica.
+
+**Q: Mogu li kesten da zamenim nečim ako ga nemam?**
+
+Možete. Kesten je pretežno skrobni, pa ga lepo zamenjuje komadići pečene bundeve, batata ili kuvanog slanutka. Ukus će biti drugačiji, ali će jelo ostati zasitno.
+
+**Q: Zašto se semenke dunje uklanjaju?**
+
+Seme dunje sadrži jedinjenja koja se ne preporučuje jesti, pa se pre pripreme uvek uklanja zajedno sa jezgrom. Meso voća je potpuno bezbedno za jelo nakon pečenja.
+
+**Q: Koliko dugo se čuva jelo i može li se podgrevati?**
+
+U zatvorenoj posudi u frižideru do 2 dana. Podgrevajte u rerni ili tiganju uz malo vode, a orahe i semenke dodajte tek pre serviranja.
+
+---
+
 ## Pečene dunje i kesten sa pečurkama i heljdom
 
 https://unazdravahrana.com/recepti/pecene-dunje-i-kesten-sa-pecurkama-i-heljdom
@@ -641,30 +665,6 @@ Potrebno je barem 20–30 mm padavina ili više uzastopnih kišnih dana, jer jed
 **Q: Kako sačuvati sveže pečurke posle branja?**
 
 Sveže pečurke držite u frižideru najviše 2 dana. Za dužu upotrebu ih osušite na 60°C 6–8 sati ili poblanširajte i zamrznite u kesicama.
-
----
-
-## It's mocktail hour: Recepti za viralne bezalkoholne koktele
-
-https://unazdravahrana.com/blog/its-mocktail-hour-recepti-za-viralne-bezalkoholne-koktele
-
-Vodič kroz pripremu mocktail-ova zasnovanih na balansu kiseline, slatkoće i arome, uz recepte za domaće sirupe od nane, đumbira, bazge i hibiskusa. Donosi pet detaljnih recepata i savete za prilagođavanje bezalkoholnih koktela porodičnim okupljanjima i rekreativcima.
-
-**Q: Šta čini dobar bezalkoholni koktel?**
-
-Dobar mocktail počiva na tri elementa: kiselini (limun, limeta), slatkoći (med, sirup) i jasnoj aromi (začin, biljni čaj, sveže voće). Bez alkohola koji povezuje ukuse, potrebno je pažljivo balansirati sve tri komponente da napitak ne bi bio razblažen.
-
-**Q: Koliko dugo traje domaći sirup za koktele?**
-
-Domaći sirup napravljen u odnosu 1:1 (voda i šećer) traje 2 do 3 nedelje u frižideru u čistoj staklenoj tegli. Jedna tegla je dovoljna za oko desetak koktela.
-
-**Q: Koja je osnovna formula za pravljenje mocktail-a?**
-
-Praktično pravilo je 50 ml baze (čaj ili sok) + 20 ml kiseline + 15 ml sirupa + gazirana voda, uz obavezan garnir. Od te osnove se dalje improvizuje sa različitim aromama i sastojcima.
-
-**Q: Kako prilagoditi bezalkoholne koktele deci?**
-
-Za decu izostavite jaku kiselinu i ljut đumbir, a koristite blaže sirupe od bazge ili jagode i dodajte mnogo svežeg voća na štapiću. Poslužite u istoj čaši kao odraslima da se deca osećaju kao deo proslave.
 
 ---
 
