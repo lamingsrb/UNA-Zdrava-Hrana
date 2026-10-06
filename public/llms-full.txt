@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Rižoto od heljde sa kestenom i bukovačama
+
+https://unazdravahrana.com/recepti/rizoto-od-heljde-sa-kestenom-i-bukovacama
+
+Rižoto od heljde sa kestenom, bukovačama i dinstanom dunjom: topao jesenji ručak bez glutena, gotov za 50 minuta.
+
+**Q: Da li je ovaj recept bez glutena?**
+
+Heljda, kesten, pečurke i dunja su prirodno bez glutena. Ipak, ako imate celijakiju, proverite da je pakovanje heljde i supe označeno kao bezglutensko, jer može doći do unakrsne kontaminacije u proizvodnji.
+
+**Q: Mogu li da pripremim jelo unapred?**
+
+Može, ali je najbolje da heljdu skuvate do kraja tek pred serviranje. Ako pripremate unapred, kuvajte je malo kraće da ostane čvršća, pa je podgrejte uz kašiku tečnosti. Dunju, orahe i čia semenke dodajte tek pri posluženju.
+
+**Q: Može li kesten iz tegle ili vakuum pakovanja?**
+
+Može, samo izaberite onaj bez dodatog šećera. Kuvan ili pečen oljušten kesten je već mekan, pa ga treba samo zagrejati u jelu, ne kuvati dugo.
+
+**Q: Da li je dunja sirova jestiva?**
+
+Sirova dunja je tvrda i trpka, pa se gotovo uvek termički obrađuje. Seme dunje ne treba jesti, jer sadrži jedinjenja koja se u želucu razlažu do cijanovodonične kiseline, pa ga uklonite pre kuvanja.
+
+---
+
 ## Pečene dunje sa orasima i čijom uz kremasti jogurt
 
 https://unazdravahrana.com/recepti/pecene-dunje-sa-orasima-i-cijom-uz-kremasti-jogurt
@@ -641,30 +665,6 @@ Magnezijum citrat, glicinat i malat se najbolje apsorbuju i blaži su za želuda
 **Q: Mogu li deca da piju vitamine u kesici?**
 
 Da, ali isključivo dečije formulacije sa prilagođenim dozama, obično od 6 godina naviše. Vitamin C i multivitamin daju se 3–4 puta nedeljno, a pre uvođenja bilo kog suplementa treba konsultovati pedijatra.
-
----
-
-## Banana i visoki pritisak: koliko ih treba pojesti?
-
-https://unazdravahrana.com/blog/banana-i-visoki-pritisak-koliko-ih-treba-pojesti
-
-Banana sadrži kalijum koji pomaže regulaciji krvnog pritiska, ali jedna dnevno donosi tek 10% preporučenih 3.500 mg. Za pravi efekat potreban je širi pristup ishrani sa suvim voćem, mahunarkama, semenkama i povrćem po DASH obrascu.
-
-**Q: Koliko banana treba pojesti dnevno za snižavanje pritiska?**
-
-Realno 1 do 2 banane dnevno su smislen doprinos, ali same nisu dovoljne. Jedna banana donosi 400–450 mg kalijuma, a dnevna preporuka je 3.500 mg, pa je potrebno kombinovati je sa suvim voćem, mahunarkama, semenkama i povrćem.
-
-**Q: Koje namirnice imaju više kalijuma od banane?**
-
-Suve kajsije (~1.160 mg/100g), semenke bundeve (~800 mg), suve šljive (~730 mg), bademi (~730 mg), suve smokve (~680 mg) i pečen krompir sa ljuskom (~530 mg) sadrže više kalijuma od banane koja ima oko 360 mg na 100 g.
-
-**Q: Da li banana zaista snižava krvni pritisak?**
-
-Banana ne snižava pritisak direktno, ali kalijum koji sadrži pomaže bubrezima da izbace višak natrijuma i doprinosi boljoj regulaciji pritiska. Efekat postoji samo u okviru celokupne ishrane bogate kalijumom i siromašne solju.
-
-**Q: Šta je DASH ishrana za visok pritisak?**
-
-DASH (Dietary Approaches to Stop Hypertension) je režim ishrane koji podrazumeva 4–5 porcija povrća i voća dnevno, integralne žitarice, mahunarke, orašaste plodove i ribu, uz smanjen unos soli ispod 5 g dnevno, crvenog mesa i procesuirane hrane.
 
 ---
 
