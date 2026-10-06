@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Mango recepti: 7 jednostavnih ideja za smutije, deserte i
+
+https://unazdravahrana.com/blog/mango-recepti-7-jednostavnih-ideja-za-smutije-deserte-i
+
+Članak daje 7 jednostavnih recepata sa mangom (smutiji, čia puding, salata) koji se prave za oko 10 minuta, uz savete kako da prepoznate zreo plod. Objašnjava i kako se mango čuva na sobnoj temperaturi, u frižideru i zamrzivaču, te navodi okvirne hranljive vrednosti.
+
+**Q: Kako da prepoznam zreo mango?**
+
+Zrelost manga najbolje se procenjuje opipom, a ne bojom. Zreo plod blago popušta kad ga lagano pritisnete dlanom, a oko peteljke se ponekad oseti voćni miris. Boja kore zavisi od sorte, pa crvenkast obraz sam po sebi ne znači da je mango zreo.
+
+**Q: Kako se čuva mango?**
+
+Neosušen mango čuva se na sobnoj temperaturi dok ne sazri, a kad omekša prebacuje se u frižider, gde cele plodove možete držati okvirno do pet dana. Oguljen i iseckan mango stoji nekoliko dana u zatvorenoj posudi u frižideru, a u zamrzivaču do oko šest meseci.
+
+**Q: Može li zamrznut mango da se koristi za smuti?**
+
+Da, zamrznute kockice manga su najpraktičniji oblik za smutije i sladoled. Iseckajte mango, rasporedite kockice na tacnu da se ne slepe, pa ih sipajte u kesu. Za gušći, kašičarski smuti koristite zamrznut mango i manje tečnosti.
+
+**Q: Koliko kalorija i šećera ima mango?**
+
+Prema USDA podacima, sirov mango ima oko 60 kcal, 15 g ugljenih hidrata i oko 13,7 g šećera na 100 g, uz oko 36 mg vitamina C i oko 1,6 g vlakana. Vrednosti zavise od sorte i zrelosti, pa ih treba čitati kao okvirne.
+
+---
+
 ## Pečeni kesten i dunja sa heljdom u kajganici od pečuraka
 
 https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-sa-heljdom-u-kajganici-od-pecuraka
@@ -641,30 +665,6 @@ SZO preporučuje odraslima manje od 5 g soli dnevno iz svih izvora zajedno, što
 **Q: Kako smanjiti so, a zadržati ukus hrane?**
 
 Probajte jelo pre dosoljavanja i koristite limun, luk, začinsko bilje ili pečenje da istaknete druge ukuse.
-
----
-
-## Koliko kalorija ima integralni hleb po kriški i na 100 g?
-
-https://unazdravahrana.com/blog/koliko-kalorija-ima-integralni-hleb-po-kriski-i-na-100-g
-
-Integralni hleb okvirno ima 220–280 kcal na 100 g, odnosno 66–140 kcal po kriški teškoj 30–50 g. Za tačan obračun proverite deklaraciju i težinu kriške; integralni hleb nije nužno manje kaloričan od belog.
-
-**Q: Koliko kalorija ima integralni hleb na 100 g?**
-
-Okvirno 220–280 kcal, u zavisnosti od recepture. Tačnu vrednost potražite na deklaraciji proizvoda.
-
-**Q: Koliko kalorija ima jedna kriška integralnog hleba?**
-
-Kriška od 30–50 g okvirno ima 66–140 kcal. Broj zavisi od težine kriške i kalorijske vrednosti konkretnog hleba.
-
-**Q: Kako da izračunam kalorije u dve kriške?**
-
-Pomnožite kalorije na 100 g sa ukupnom težinom kriški u gramima, pa podelite sa 100. Na primer, dve kriške od po 40 g hleba koji ima 250 kcal na 100 g sadrže 200 kcal.
-
-**Q: Da li integralni hleb ima manje kalorija od belog?**
-
-Ne nužno. Kalorije mogu biti slične; za poređenje proverite vrednosti na 100 g, sastojke i količinu vlakana.
 
 ---
 
