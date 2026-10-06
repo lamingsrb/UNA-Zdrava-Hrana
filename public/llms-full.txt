@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni kesten i dunja sa heljdom u kajganici od pečuraka
+
+https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-sa-heljdom-u-kajganici-od-pecuraka
+
+Kajgana od pečuraka sa dunjom i kestenom uz heljdu: jesenji zdrav obrok za 50 minuta. Recept i saveti iz UNA Zdrave Hrane u Kragujevcu.
+
+**Q: Da li je ovaj recept bez glutena?**
+
+Heljda i kesten su prirodno bez glutena, a ostali sastojci takođe. Ako imate celijakiju, birajte heljdu sa oznakom da je bez glutena jer se može desiti unakrsna kontaminacija tokom prerade. Pitajte u radnji za proverene proizvode.
+
+**Q: Mogu li da koristim sirovu dunju bez kuvanja?**
+
+Dunja se retko jede sirova jer je tvrda i oporog ukusa, zato je u ovom receptu pečemo u tiganju. Kuvanje ili pečenje je blago smanjuje vitamin C, ali vlakna i pektin ostaju sačuvani.
+
+**Q: Čime mogu da zamenim kesten?**
+
+Ako nemate kesten, možete koristiti pečeni krompir ili batat u kockicama, ili jednostavno više heljde i orašastih plodova. Ukus će biti drugačiji, ali jelo ostaje sito i jesenje.
+
+**Q: Koje pečurke su najbolje za ovaj recept?**
+
+Šampinjoni i bukovače su idealni jer se brzo spremaju i lako se nabavljaju. Pazite da pečurke dolaze od proverenog uzgajivača ili da imaju deklaraciju, a divlje pečurke koristite samo ako ih je pregledao stručnjak.
+
+---
+
 ## Rižoto od heljde sa kestenom i bukovačama
 
 https://unazdravahrana.com/recepti/rizoto-od-heljde-sa-kestenom-i-bukovacama
@@ -641,30 +665,6 @@ Pomnožite kalorije na 100 g sa ukupnom težinom kriški u gramima, pa podelite 
 **Q: Da li integralni hleb ima manje kalorija od belog?**
 
 Ne nužno. Kalorije mogu biti slične; za poređenje proverite vrednosti na 100 g, sastojke i količinu vlakana.
-
----
-
-## Vitamini u kesici: kada su praktičniji od tableta
-
-https://unazdravahrana.com/blog/vitamini-u-kesici-kada-su-prakticniji-od-tableta
-
-Vitamini u kesicama (efervescentni i praškasti) praktičniji su od tableta kod otežanog gutanja, većih doza magnezijuma ili kolagena i kod dece i starijih. Pri izboru gledaj oblik aktivne materije, stvarnu dozu, sadržaj natrijuma i zaslađivača, kao i renome proizvođača.
-
-**Q: Da li su vitamini u kesici bolji od tableta?**
-
-Nisu univerzalno bolji, ali su praktičniji kada teško gutaš tablete, kada ti treba veća doza (npr. 300+ mg magnezijuma), kod dece, starijih i tokom treninga. Tablete su bolje ako uzimaš više suplemenata dnevno ili pratiš unos šećera i natrijuma.
-
-**Q: Koja je razlika između efervescentnih i praškastih kesica?**
-
-Efervescentne tablete šume u vodi, obično sadrže natrijum i voćne arome i pogodne su za brzu dozu vitamina C, magnezijuma ili multivitamina. Praškaste saše kesice se istresaju u vodu ili shaker i koriste se za veće doze kolagena, magnezijuma, vlakana ili elektrolita.
-
-**Q: Koji oblik magnezijuma je najbolji u kesici?**
-
-Magnezijum citrat, glicinat i malat se najbolje apsorbuju i blaži su za želudac od magnezijum oksida. Glicinat je poseban izbor za uveče jer pomaže opuštanju mišića i snu.
-
-**Q: Mogu li deca da piju vitamine u kesici?**
-
-Da, ali isključivo dečije formulacije sa prilagođenim dozama, obično od 6 godina naviše. Vitamin C i multivitamin daju se 3–4 puta nedeljno, a pre uvođenja bilo kog suplementa treba konsultovati pedijatra.
 
 ---
 
