@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pčelinji polen: kako se koristi i kome ne odgovara
+
+https://unazdravahrana.com/blog/pcelinji-polen-kako-se-koristi-i-kome-ne-odgovara
+
+Pčelinji polen je hranljiv dodatak ishrani promenljivog sastava, a dokazi o zdravstvenoj koristi za ljude su još u ranoj fazi. Najlakše se dodaje jogurtu, smutiju ili kaši, a osobe sa alergijom na polen ili pčelinje proizvode moraju biti oprezne jer su opisani slučajevi anafilaksije.
+
+**Q: Kako se koristi pčelinji polen?**
+
+Pčelinji polen se jede sirov, bez kuvanja, i najlakše se dodaje jogurtu, kefiru, smutiju, ovsenim pahuljicama ili medu. Ako je zrnce pretvrdo, ostavite ga desetak minuta u jogurtu ili mleku da omekša. U vruću kašu ga dodajte tek kad se prohladi.
+
+**Q: Koliko pčelinjeg polena treba uzimati dnevno?**
+
+Za količinu nema zvanične preporuke, pa je razumno krenuti od male količine i pratiti reakciju organizma. WebMD navodi da se uzimanje kroz usta smatra verovatno bezbednim do 30 dana. Ako imate zdravstvene probleme ili uzimate terapiju, o trajanju upotrebe porazgovarajte sa lekarom ili farmaceutom.
+
+**Q: Kome ne odgovara pčelinji polen?**
+
+Najveći oprez je potreban kod osoba alergičnih na polen biljaka, sa sezonskim alergijama ili astmom, kao i kod onih koji su ikada burno reagovali na pčelinje proizvode. U literaturi su opisani slučajevi anafilaksije posle uzimanja polena. Simptomi mogu biti svrab, koprivnjača, oticanje jezika, usana i lica i otežano disanje.
+
+**Q: Da li je pčelinji polen zaista zdrav?**
+
+Pčelinji polen je hranljiv dodatak ishrani, u proseku sa oko 54% ugljenih hidrata, 21% proteina i 5% masti, ali sastav jako varira prema poreklu i biljnim vrstama. Dokazi o koristi za zdravlje ljudi su još u ranoj fazi jer nedostaju intervencione studije na ljudima. Zato ne zamenjuje raznovrsnu ishranu niti lek.
+
+---
+
 ## Brz doručak za 2 minuta: ideja Snežane Paučinac i naša
 
 https://unazdravahrana.com/blog/brz-dorucak-za-2-minuta-ideja-snezane-paucinac-i-nasa
@@ -644,28 +668,4 @@ Naravno. Ohlađeno je odlično uz jogurt za doručak sledećeg dana ili kao doda
 
 ---
 
-## Jesenja krem-supa od bundeve sa šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenja-krem-supa-od-bundeve-sa-sljivama-i-orasima
-
-Krem-supa od pečene bundeve sa šljivama i orasima — topao jesenji recept gotov za 45 minuta. Zdravo, kremasto i lako.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Može, ali će supa biti nešto vodnjikavija. Preporučujem da smrznutu bundevu prvo malo ocedite ili pecite duže kako bi otpustila višak vlage.
-
-**Q: Da li deca vole ovu supu?**
-
-Većina deca voli slatkastu bundevu i cimet. Ako je detetu ukus šljiva prejak, ostavite ih sa strane ili smanjite količinu — supa je i bez njih odlična.
-
-**Q: Šta ako nemam štapni mikser?**
-
-Sipajte supu u obični blender u dva navrata — pazite da ne bude prevruća da poklopac ne skoči. Alternativa je pasirka ili obična viljuška za grublju teksturu.
-
-**Q: Da li supa podržava probavu?**
-
-Bundeva i orasi donose vlakna koja doprinose normalnom radu creva. Za konkretna zdravstvena pitanja uvek se posavetujte sa lekarom.
-
----
-
-Last updated: 2026-10-05
+Last updated: 2026-10-06

@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Pčelinji polen: kako se koristi i kome ne odgovara](https://unazdravahrana.com/blog/pcelinji-polen-kako-se-koristi-i-kome-ne-odgovara)
 - [Brz doručak za 2 minuta: ideja Snežane Paučinac i naša](https://unazdravahrana.com/blog/brz-dorucak-za-2-minuta-ideja-snezane-paucinac-i-nasa)
 - [Da li je zelena salata nezdrava? Šta stoji iza te priče](https://unazdravahrana.com/blog/da-li-je-zelena-salata-nezdrava-sta-stoji-iza-te-price)
 - [Kvinoja recept: kako je skuvati da uvek ispadne rastresita](https://unazdravahrana.com/blog/kvinoja-recept-kako-je-skuvati-da-uvek-ispadne-rastresita)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Salata od hobotnice bez krompira: 5 recepata](https://unazdravahrana.com/blog/salata-od-hobotnice-bez-krompira-5-recepata)
 - [Kada doručkovati za srce i kontrolu težine?](https://unazdravahrana.com/blog/kada-doruckovati-za-srce-i-kontrolu-tezine)
 - [Cena proteinskog praha: šta zaista plaćate?](https://unazdravahrana.com/blog/cena-proteinskog-praha-sta-zaista-placate)
-- [Veganski jelovnik za 7 dana: svaki obrok isplaniran](https://unazdravahrana.com/blog/veganski-jelovnik-za-7-dana-svaki-obrok-isplaniran)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-05
+Last updated: 2026-10-06
