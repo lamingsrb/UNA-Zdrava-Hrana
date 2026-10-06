@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Povišeni trigliceridi? Pogledajte šta jedete za doručak
+
+https://unazdravahrana.com/blog/poviseni-trigliceridi-pogledajte-sta-jedete-za-dorucak
+
+---
+
 ## Mango recepti: 7 jednostavnih ideja za smutije, deserte i
 
 https://unazdravahrana.com/blog/mango-recepti-7-jednostavnih-ideja-za-smutije-deserte-i
@@ -641,30 +647,6 @@ Proverite sastav, količinu po preporučenoj upotrebi, uputstvo, upozorenja i ro
 **Q: Mogu li suplementi da zamene raznovrsnu ishranu?**
 
 Ne. Suplementi mogu da dopune ishranu kada za to postoji razlog, ali nisu zamena za raznovrsne obroke.
-
----
-
-## Manje soli: kada se vidi promena pritiska?
-
-https://unazdravahrana.com/blog/manje-soli-kada-se-vidi-promena-pritiska
-
-Kod nekih ljudi pritisak može početi da se menja već posle nedelju dana manjeg unosa soli, ali je za jasniju sliku obično potrebno nekoliko nedelja. Važno je pratiti niz merenja i smanjiti so iz svih izvora, uključujući hleb, sir i gotovu hranu.
-
-**Q: Kada se vidi promena pritiska nakon smanjenja soli?**
-
-Kod nekih ljudi već posle nedelju dana, ali je za jasniju sliku obično potrebno nekoliko nedelja dosledne ishrane sa manje soli.
-
-**Q: Zašto pritisak nije niži posle jednog neslanog obroka?**
-
-Pritisak varira iz dana u dan, a so unosite i kroz druge namirnice. Korisnije je pratiti niz merenja u sličnim uslovima.
-
-**Q: Koliko soli dnevno preporučuje SZO?**
-
-SZO preporučuje odraslima manje od 5 g soli dnevno iz svih izvora zajedno, što je približno 2.000 mg natrijuma.
-
-**Q: Kako smanjiti so, a zadržati ukus hrane?**
-
-Probajte jelo pre dosoljavanja i koristite limun, luk, začinsko bilje ili pečenje da istaknete druge ukuse.
 
 ---
 
