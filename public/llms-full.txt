@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečene dunje sa orasima i čijom uz kremasti jogurt
+
+https://unazdravahrana.com/recepti/pecene-dunje-sa-orasima-i-cijom-uz-kremasti-jogurt
+
+Pečene dunje sa medom, cimetom, orasima i čijom uz kremasti jogurt. Jednostavan jesenji desert bez glutena, gotov za sat vremena.
+
+**Q: Zašto se dunja ne jede sirova?**
+
+Sirova dunja je obično veoma tvrda i opora, pa se uglavnom priprema kuvanjem ili pečenjem. Toplota je omekšava i izvlači njenu prirodnu slatkoću i miris.
+
+**Q: Da li ovaj desert može da se pripremi unapred?**
+
+Može. Ispecite dunje dan ranije, čuvajte ih u frižideru i pred služenje ih ugrejte. Jogurt, orahe i čiju dodajte tek na kraju.
+
+**Q: Da li je recept bez glutena?**
+
+Sastojci sami po sebi ne sadrže gluten. Ako imate celijakiju, proverite deklaracije na orasima, čiji i jogurtu da nisu pakovani u pogonu sa glutenskim primesama.
+
+**Q: Mogu li da koristim dunje sa starog stabla iz dvorišta?**
+
+Naravno, domaće dunje su često i najukusnije. Samo ih dobro operite, uklonite jezgro sa semenkama i odsecite eventualno oštećene delove.
+
+---
+
 ## Pčelinji polen: kako se koristi i kome ne odgovara
 
 https://unazdravahrana.com/blog/pcelinji-polen-kako-se-koristi-i-kome-ne-odgovara
@@ -641,30 +665,6 @@ Banana ne snižava pritisak direktno, ali kalijum koji sadrži pomaže bubrezima
 **Q: Šta je DASH ishrana za visok pritisak?**
 
 DASH (Dietary Approaches to Stop Hypertension) je režim ishrane koji podrazumeva 4–5 porcija povrća i voća dnevno, integralne žitarice, mahunarke, orašaste plodove i ribu, uz smanjen unos soli ispod 5 g dnevno, crvenog mesa i procesuirane hrane.
-
----
-
-## Jesenja pečena bundeva sa šljivama i orasima uz jogurt
-
-https://unazdravahrana.com/recepti/jesenja-pecena-bundeva-sa-sljivama-i-orasima-uz-jogurt
-
-Jesenja pečena bundeva sa šljivama i orasima, bez šećera i brašna. Gotova za 50 minuta, savršena za doručak ili laku večeru uz jogurt.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Može, samo je prethodno ostavite da se malo odmrzne i dobro ocedi višak tečnosti, kako se ne bi kuvala u plehu umesto da se peče.
-
-**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten ili laktozu?**
-
-Recept je prirodno bez glutena. Za varijantu bez laktoze, jogurt zamenite biljnom alternativom (kokosov ili sojin jogurt bez šećera).
-
-**Q: Koja sorta bundeve je najbolja?**
-
-Hokaido i muskatna bundeva daju najslađi i najkremastiji rezultat. Hokaido ima jestivu koru, pa ne morate ni da je gulite — samo dobro operite.
-
-**Q: Može li se jesti hladno?**
-
-Naravno. Ohlađeno je odlično uz jogurt za doručak sledećeg dana ili kao dodatak zelenoj salati sa malo feta sira.
 
 ---
 
