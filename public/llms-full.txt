@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Šećer u krvi na putu: 5 stvari koje ga ruše i šta da uradite
+
+https://unazdravahrana.com/blog/secer-u-krvi-na-putu-5-stvari-koje-ga-ruse-i-sta-da-uradite
+
+---
+
 ## Povišeni trigliceridi? Pogledajte šta jedete za doručak
 
 https://unazdravahrana.com/blog/poviseni-trigliceridi-pogledajte-sta-jedete-za-dorucak
@@ -626,28 +632,4 @@ Mogu, naročito ako su vrlo zrele. Isecite ih neposredno pre služenja i dodajte
 
 ---
 
-## Koliko suplemenata dnevno je previše?
-
-https://unazdravahrana.com/blog/koliko-suplemenata-dnevno-je-previse
-
-Ne postoji univerzalan broj suplemenata koji je previše: svaki dodatak treba da ima jasan razlog, a proizvode treba proveriti zbog sastojaka koji se ponavljaju. Suplementi nisu zamena za raznovrsnu ishranu, a osobe koje koriste lekove, trudnice i roditelji treba da potraže stručan savet.
-
-**Q: Koliko suplemenata dnevno je previše?**
-
-Ne postoji univerzalan broj. Važnije je zašto uzimate svaki proizvod, šta sadrži i da li se sastojci ponavljaju.
-
-**Q: Da li mogu da uzimam multivitamin i druge dodatke zajedno?**
-
-Uporedite deklaracije jer multivitamin možda već sadrži sastojke iz drugih dodataka. Ako niste sigurni u kombinaciju, pitajte lekara ili farmaceuta.
-
-**Q: Šta treba proveriti pre kupovine suplementa?**
-
-Proverite sastav, količinu po preporučenoj upotrebi, uputstvo, upozorenja i rok trajanja. Razmislite i da li imate jasan razlog za kupovinu.
-
-**Q: Mogu li suplementi da zamene raznovrsnu ishranu?**
-
-Ne. Suplementi mogu da dopune ishranu kada za to postoji razlog, ali nisu zamena za raznovrsne obroke.
-
----
-
-Last updated: 2026-10-06
+Last updated: 2026-10-07
