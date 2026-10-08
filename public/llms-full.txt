@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Serum protiv foto-starenja: nije samo za zrelu kožu
+
+https://unazdravahrana.com/blog/serum-protiv-foto-starenja-nije-samo-za-zrelu-kozu
+
+Foto-starenje je prevremeno starenje kože izazvano UV zracima i može da počne već posle tridesete, a dosledna zaštita od sunca (SPF 30+) ostaje osnova prevencije. Serumi sa vitaminom C ili retinolom mogu biti dobra dopuna rutini, ali dokazi o njihovoj efikasnosti su ograničeni i ne zamenjuju krem za sunčanje.
+
+**Q: Šta je foto-starenje kože?**
+
+Foto-starenje je prevremeno starenje kože izazvano dugogodišnjim izlaganjem UV zracima. Procenjuje se da se oko 80% starenja kože lica može pripisati upravo suncu, a prve promene (fine linije, tamne fleke, neujednačen ton) često se javljaju već posle tridesete.
+
+**Q: Može li serum da zameni krem za sunčanje?**
+
+Ne. Nijedan proveren izvor ne potvrđuje da serum može da zameni zaštitu od sunca. Serum je dopuna nezi, a krem širokog spektra sa SPF 30 ili više, nanet obilno i ponavljan na svaka dva sata, ostaje osnova prevencije.
+
+**Q: Da li serum sa vitaminom C zaista deluje protiv starenja kože?**
+
+Vitamin C je jedan od najjačih antioksidanasa u koži i može da štiti od foto-starenja, ali su klinička ispitivanja topikalnih formulacija ograničena. Dokazi su obećavajući, ali ne i potvrda da serum poništava bore ili tamne fleke.
+
+**Q: Kako uvesti retinol u rutinu nege lica?**
+
+Počnite sporo: jednom do dvaput nedeljno uveče, pa postepeno češće, uz hidratantnu kremu i obaveznu zaštitu od sunca ujutru. Isprobajte proizvod prvo na maloj površini kože, a u trudnoći i tokom dojenja prvo se posavetujte sa lekarom.
+
+---
+
 ## Pečurke sa dunjom, kestenom i semenkama u tiganju
 
 https://unazdravahrana.com/recepti/pecurke-sa-dunjom-kestenom-i-semenkama-u-tiganju
@@ -617,30 +641,6 @@ Odlične zamene su slanutak, beli pasulj i kinoa jer daju sitost i teksturu, dok
 **Q: Zašto hobotnicu treba ostaviti da se ohladi u vodi u kojoj se kuvala?**
 
 Hlađenjem u sopstvenoj vodi bar 20 minuta hobotnica upija ukus i ostaje sočna. Ako se odmah izvadi, meso se brzo stegne i postaje suvlje.
-
----
-
-## Kada doručkovati za srce i kontrolu težine?
-
-https://unazdravahrana.com/blog/kada-doruckovati-za-srce-i-kontrolu-tezine
-
-Ne postoji univerzalno vreme doručka koje samo po sebi snižava pritisak ili pomaže mršavljenju. Izaberite održiv termin prema gladi i obavezama, a za doručak kombinujte raznovrsne namirnice.
-
-**Q: Kada je najbolje doručkovati?**
-
-Ne postoji sat koji odgovara svima. Doručkujte kada ogladnite i kada možete da pojedete obrok koji vam prija i uklapa se u dan.
-
-**Q: Da li raniji doručak pomaže mršavljenju?**
-
-Raniji doručak nije prečica za mršavljenje. Može biti koristan ako vam olakšava održavanje rasporeda obroka i izbor hrane tokom dana.
-
-**Q: Šta pojesti za doručak?**
-
-Jedna praktična opcija su ovsene pahuljice s jogurtom ili mlekom, uz voće, čia semenke ili orašaste plodove.
-
-**Q: Da li osobe sa dijabetesom treba da prilagode vreme doručka?**
-
-Da. Ako imate dijabetes ili uzimate terapiju koja utiče na šećer u krvi, raspored obroka dogovorite s lekarom ili dijetetičarom.
 
 ---
 
