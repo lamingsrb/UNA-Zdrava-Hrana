@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kako izabrati prave proteine: vodič za svakog od nas
+
+https://unazdravahrana.com/blog/kako-izabrati-prave-proteine-vodic-za-svakog-od-nas
+
+Odrasloj osobi je prema EFSA potrebno oko 0,83 g proteina po kilogramu telesne mase dnevno, dok sportisti i stariji preporučeno unose više (od 1,0 do 2,0 g/kg). Najbolje je kombinovati životinjske i biljne izvore, jer komplementarnost biljnih proteina može nadoknaditi nižu pojedinačnu iskoristivost.
+
+**Q: Koliko proteina dnevno treba odrasloj osobi?**
+
+Evropska agencija za bezbednost hrane (EFSA) navodi referentni unos od 0,83 g proteina po kilogramu telesne mase dnevno. Za osobu od 70 kg to je oko 58 g na dan, a većina odraslih Evropljana to već unosi ishranom.
+
+**Q: Koliko proteina treba onima koji redovno treniraju?**
+
+Prema stavu Međunarodnog društva za sportsku ishranu (ISSN), većini onih koji redovno treniraju preporučuje se 1,4–2,0 g/kg dnevno. Kod izdržljivosti to je 1,0–1,6 g/kg, a kod snage i eksplozivnih sportova 1,6–2,0 g/kg.
+
+**Q: Da li starijim osobama treba više proteina?**
+
+Da, stručna društva (PROT-AGE, ESPEN) preporučuju zdravim osobama starijim od 65 godina najmanje 1,0–1,2 g/kg dnevno, a onima sa bolešću ili slabijim apetitom 1,2–1,5 g/kg. Ako imate bubrežne ili druge hronične probleme, količinu proteina dogovorite sa lekarom.
+
+**Q: Jesu li biljni proteini lošiji od životinjskih?**
+
+Nisu, ali pojedinačni biljni proteini često imaju niži kvalitet (DIAAS) od jaja ili mesa. Kombinovanjem različitih biljnih izvora, na primer žitarica i mahunarki, može se postići visoka efikasnost i samo iz biljaka.
+
+---
+
 ## Serum protiv foto-starenja: nije samo za zrelu kožu
 
 https://unazdravahrana.com/blog/serum-protiv-foto-starenja-nije-samo-za-zrelu-kozu
@@ -617,30 +641,6 @@ Odlično idu bademi, lešnici ili bundevine semenke. Sve to imamo u radnji, mož
 **Q: Mogu li da napravim veganski varijantu?**
 
 Naravno — koristite biljni napitak umesto vode i javorov sirup umesto meda. Ukus ostaje topao i pun.
-
----
-
-## Salata od hobotnice bez krompira: 5 recepata
-
-https://unazdravahrana.com/blog/salata-od-hobotnice-bez-krompira-5-recepata
-
-Vodič donosi pet recepata za salatu od hobotnice bez krompira, sa alternativama poput slanutka, belog pasulja, kinoe, avokada i mediteranskih maslina. Uključuje i ključne savete za pripremu hobotnice: bez soli tokom kuvanja, hlađenje u sopstvenoj vodi i tabelu vremena kuvanja po težini.
-
-**Q: Da li se hobotnica soli tokom kuvanja?**
-
-Ne. Sol izvlači vodu i meso postaje žilavo. Hobotnica se kuva u nesoljenoj vodi, a soli se tek na kraju u salati, po mogućstvu krupnom morskom soli.
-
-**Q: Koliko dugo se kuva hobotnica?**
-
-Vreme zavisi od težine: 500–800 g kuva se 25–35 minuta, 800 g–1,2 kg oko 35–45 minuta, 1,2–2 kg oko 45–60 minuta, a preko 2 kg 60–80 minuta. Gotova je kada viljuška ulazi bez otpora u najdeblji deo kraka.
-
-**Q: Čime se može zameniti krompir u salati od hobotnice?**
-
-Odlične zamene su slanutak, beli pasulj i kinoa jer daju sitost i teksturu, dok avokado, celer i pečene paprike donose kremoznost ili hrskavost bez težine krompira.
-
-**Q: Zašto hobotnicu treba ostaviti da se ohladi u vodi u kojoj se kuvala?**
-
-Hlađenjem u sopstvenoj vodi bar 20 minuta hobotnica upija ukus i ostaje sočna. Ako se odmah izvadi, meso se brzo stegne i postaje suvlje.
 
 ---
 
