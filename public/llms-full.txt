@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Egzotično voće u Srbiji: da li ga treba jesti?
+
+https://unazdravahrana.com/blog/egzoticno-voce-u-srbiji-da-li-ga-treba-jesti
+
+Članak objašnjava da je za zdravlje važnije koliko voća jedete (najmanje pet porcija, 400 g dnevno) nego da li je domaće ili egzotično. Egzotično voće nema osnova za strah, ali ga treba oprati i birati pažljivo, uz domaće sezonsko voće kao osnovu ishrane.
+
+**Q: Da li je egzotično voće zdravo?**
+
+Jeste, ako vam pomaže da unesete preporučenih najmanje 400 g voća i povrća dnevno, odnosno pet porcija. Preporuke SZO i Instituta Batut ne prave razliku između domaćeg i egzotičnog voća, ali domaće sezonsko voće treba da ostane osnova ishrane.
+
+**Q: Da li je egzotično voće prskano više od domaćeg?**
+
+Nema osnova da se svako egzotično voće proglasi opasnim. EFSA beleži više prekoračenja dozvoljenih granica kod hrane iz trećih zemalja i kod pojedinih proizvoda, poput pitahaje i maracuje, ali ocenjuje da je rizik za potrošače u celini nizak.
+
+**Q: Kako oprati voće pre jela?**
+
+Svako sveže voće operite pod mlazom hladne vode pre jela, kako savetuje i Batut. Voće sa korom koju ne jedete, poput banane, manga, ananasa i avokada, operite pre sečenja da nož ne prenese koru na meso.
+
+**Q: Da li je uvozno voće loše za životnu sredinu?**
+
+Zavisi od načina prevoza, a ne samo od pređenih kilometara. Voće koje putuje brodom (banane, citrusi, avokado, ananas) ima znatno manji otisak od osetljivog voća koje stiže avionom. Prema Our World in Data, izbor namirnica obično znači više od toga da li su lokalne.
+
+---
+
 ## Kako izabrati prave proteine: vodič za svakog od nas
 
 https://unazdravahrana.com/blog/kako-izabrati-prave-proteine-vodic-za-svakog-od-nas
@@ -617,30 +641,6 @@ Kombinacija blage bundeve i slatkastih šljiva obično prija deci. Ako ne vole k
 **Q: Koliko dugo traju kuvani njoki u frižideru?**
 
 Do 2 dana u zatvorenoj posudi. Podgrevajte ih kratko u tiganju sa kašikom vode ili malo maslinovog ulja.
-
----
-
-## Jesenja bundeva-šljiva kaša sa ovsom i orasima
-
-https://unazdravahrana.com/recepti/jesenja-bundeva-sljiva-kasa-sa-ovsom-i-orasima
-
-Topla ovsena kaša sa pečenom bundevom, šljivama i orasima — jesenji doručak gotov za 35 minuta. Bez belog šećera, pun ukusa i energije.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Da, smrznuta bundeva sasvim odgovara. Pecite je nekoliko minuta duže dok ne omekša i ispari višak vode.
-
-**Q: Da li je ovaj doručak dobar posle jutarnje šetnje?**
-
-Vrlo praktičan izbor — kombinacija složenih ugljenih hidrata iz ovsa, vlakana iz bundeve i šljiva i zdravih masti iz oraha doprinosi osećaju sitosti i postepenoj energiji.
-
-**Q: Čime da zamenim orahe ako ih neko u porodici ne voli?**
-
-Odlično idu bademi, lešnici ili bundevine semenke. Sve to imamo u radnji, možete kombinovati po ukusu.
-
-**Q: Mogu li da napravim veganski varijantu?**
-
-Naravno — koristite biljni napitak umesto vode i javorov sirup umesto meda. Ukus ostaje topao i pun.
 
 ---
 
