@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji pilav od ovsa sa pečurkama, dunjom i kestenom
+
+https://unazdravahrana.com/recepti/jesenji-pilav-od-ovsa-sa-pecurkama-dunjom-i-kestenom
+
+Kad zahladi, poželimo nešto toplo, zasitno i mirisno, a da nas posle ne optereti. Ovaj pilav pravimo od celog ovsa (zrna), koji se kuva slično kao pirinač, ali ima prijatan, malo orašast zalogaj.
+
+**Q: Da li se oves mora potapati pre kuvanja?**
+
+Ne mora, ali potapanje od 20 minuta skraćuje kuvanje i zrna ravnomernije omekšaju. Ako ga preskočite, računajte na nešto duže kuvanje i po potrebi dodajte još vode.
+
+**Q: Može li se jelo spremiti bez dunje?**
+
+Može. Dunja daje blagu kiselkastu notu i aromu, ali je možete zameniti čvrstom jabukom ili kruškom. Jelo će biti slađe, pa smanjite med ili ga izostavite.
+
+**Q: Da li je jelo pogodno za ljude bez glutena?**
+
+Oves je sam po sebi bez glutena, ali se tokom prerade često kontaminira. Ako izbegavate gluten, birajte proizvod sa jasnom oznakom da je bez glutena. Za savet nas slobodno pitajte u radnji, a kod zdravstvenih ograničenja posavetujte se sa lekarom.
+
+**Q: Mogu li da pripremim jelo unapred?**
+
+Naravno. Skuvajte oves i ostavite ga odvojeno od pečuraka, dunje i kestena, pa sve spojite pri podgrevanju. Tako će tekstura ostati lepša.
+
+---
+
 ## Vitamin C posle leta: prah za lice i šta jedete za kožu
 
 https://unazdravahrana.com/blog/vitamin-c-posle-leta-prah-za-lice-i-sta-jedete-za-kozu
@@ -617,30 +641,6 @@ Ne. Izolat obično sadrži manje drugih sastojaka mleka od koncentrata, ali ozna
 **Q: Šta osim cene treba proveriti pri kupovini proteinskog praha?**
 
 Proverite količinu proteina na 100 g, sastojke, alergene, veličinu porcije i da li vam odgovaraju ukus i način pripreme.
-
----
-
-## Veganski jelovnik za 7 dana: svaki obrok isplaniran
-
-https://unazdravahrana.com/blog/veganski-jelovnik-za-7-dana-svaki-obrok-isplaniran
-
-Jelovnik donosi predloge za doručak, ručak, večeru i užinu tokom sedam dana. Obroci kombinuju mahunarke, žitarice i povrće, a plan podstiče pripremu osnova unapred i prilagođavanje količina potrebama.
-
-**Q: Šta čini zasitan veganski ručak?**
-
-Spojite mahunarke, žitaricu i povrće, a po želji dodajte orašaste plodove ili semenke.
-
-**Q: Da li je užina obavezna u sedmodnevnom jelovniku?**
-
-Nije. Ponesite je kada je razmak između obroka dug ili vam je potrebna.
-
-**Q: Kako skratiti pripremu veganskih obroka tokom nedelje?**
-
-Unapred pripremite nekoliko osnova, poput kuvanih mahunarki, žitarica i jednog namaza, pa ih kombinujte sa povrćem.
-
-**Q: Da li su porcije u jelovniku unapred određene?**
-
-Ne. Količine prilagodite gladi, uzrastu i fizičkoj aktivnosti.
 
 ---
 
