@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamin C posle leta: prah za lice i šta jedete za kožu
+
+https://unazdravahrana.com/blog/vitamin-c-posle-leta-prah-za-lice-i-sta-jedete-za-kozu
+
+Vitamin C u prahu je L-askorbinska kiselina koja se meša pred upotrebu, ali nema pouzdanih dokaza da je jača ili stabilnija od gotovog seruma, a dokazi za smanjenje pigmentacije su ograničeni. Oralni vitamin C podržava sintezu kolagena i zaštitu kože, ali ne briše mrlje; EFSA preporučuje 95 mg dnevno za žene i 110 mg za muškarce.
+
+**Q: Šta je vitamin C u prahu za lice?**
+
+To je čista L-askorbinska kiselina koju sami mešate sa drugim proizvodom iz rutine neposredno pre nanošenja, umesto gotovog seruma. Nema pouzdanog izvora koji potvrđuje da je prah jači ili stabilniji od seruma, pa se držite uputstva proizvođača.
+
+**Q: Da li vitamin C pomaže kod tamnih mrlja posle leta?**
+
+Lokalni vitamin C inhibira tirozinazu, enzim uključen u stvaranje melanina, pa može doprineti smanjenju hiperpigmentacije. Dokazi su ipak ograničeni (pregled od 7 studija i 139 ispitanika), a rezultati se vide tek nakon nedelja primene. Zaštita od sunca ostaje najvažnija.
+
+**Q: Koliko vitamina C dnevno treba odrasloj osobi?**
+
+Prema EFSA, preporučeni unos je 95 mg dnevno za odrasle žene i 110 mg za odrasle muškarce. Većini ljudi nisu potrebne megadoze, a veće količine iz suplemenata mogu izazvati probavne tegobe.
+
+**Q: Da li vitamin C iz hrane uklanja pigmentne mrlje?**
+
+Nema dokaza da oralni vitamin C smanjuje hiperpigmentacije. Zna se da podržava sintezu kolagena i pomaže zaštitu kože od UV oštećenja, naročito uz vitamin E, ali mrlje se rešavaju lokalnom negom i zaštitom od sunca.
+
+---
+
 ## Detoksikacija vodom: koliko piti i šta čaj tu zaista radi
 
 https://unazdravahrana.com/blog/detoksikacija-vodom-koliko-piti-i-sta-caj-tu-zaista-radi
@@ -617,26 +641,6 @@ Unapred pripremite nekoliko osnova, poput kuvanih mahunarki, žitarica i jednog 
 **Q: Da li su porcije u jelovniku unapred određene?**
 
 Ne. Količine prilagodite gladi, uzrastu i fizičkoj aktivnosti.
-
----
-
-## Jesenja proja sa bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenja-proja-sa-bundevom-sljivama-i-orasima
-
-Napravite jesenju proju sa bundevom, šljivama i orasima za 45 minuta. Jednostavan recept za blago slatku užinu bez dodatog šećera.
-
-**Q: Da li bundevu treba prethodno peći?**
-
-Ne. Sitno rendana sirova bundeva stiže da omekša dok se proja peče.
-
-**Q: Mogu li da koristim smrznute šljive?**
-
-Mogu, ali ih prvo odmrznite i dobro ocedite kako proja ne bi ostala previše vlažna.
-
-**Q: Da li je proja slatka?**
-
-Blago je slatka zahvaljujući šljivama. Ako volite izraženiju slatkoću, poslužite je uz još nekoliko svežih šljiva.
 
 ---
 
