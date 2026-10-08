@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Voće za sitost: 5 plodova bogatih vlaknima
+
+https://unazdravahrana.com/blog/voce-za-sitost-5-plodova-bogatih-vlaknima
+
+Članak predstavlja voće bogato vlaknima (maline, guavu, krušku, jabuku) kao pametnu zamenu za grickalice, uz jasno upozorenje da nijedno voće ne sagoreva masti niti ubrzava metabolizam. Navodi preporuke SZO (400 g voća i povrća dnevno) i EFSA (25 g vlakana dnevno), praktične savete za izbor i konzumaciju te česte greške.
+
+**Q: Koje voće ima najviše vlakana?**
+
+Među uobičajenim voćem najviše vlakana po porciji imaju guava (oko 8,9 g po šolji), maline (oko 8,0 g po šolji), kruška sa korom (oko 5,5 g) i jabuka sa korom (oko 4,8 g). Vrednosti zavise od veličine i sorte ploda.
+
+**Q: Da li voće pomaže da se smrša?**
+
+Nijedno pojedinačno voće ne topi masti niti ubrzava metabolizam. Voće može da pomogne jer ima malo kalorija u odnosu na zapreminu i sadrži vlakna i vodu, pa se brže osećate siti, naročito ako zamenjuje slatkiše i grickalice.
+
+**Q: Koliko vlakana treba uneti dnevno?**
+
+EFSA navodi 25 g vlakana dnevno kao dovoljno za normalan rad creva kod odraslih, a SZO preporučuje najmanje 400 g voća i povrća dnevno. Većina odraslih Evropljana ne dostiže tu preporuku.
+
+**Q: Da li treba ljuštiti jabuku i krušku?**
+
+Ne, ako je kora čista i dobro oprana. Veliki deo vlakana nalazi se u kori: jabuka sa korom ima oko 2,4 g vlakana na 100 g, a oljuštena samo oko 1,3 g.
+
+---
+
 ## Šećer u krvi na putu: 5 stvari koje ga ruše i šta da uradite
 
 https://unazdravahrana.com/blog/secer-u-krvi-na-putu-5-stvari-koje-ga-ruse-i-sta-da-uradite
@@ -612,24 +636,4 @@ Upotrebite prethodno skuvan pirinač. Potrebno je oko 300 g kuvanog pirinča za 
 
 ---
 
-## Heljdine palačinke s bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/heljdine-palacinke-s-bundevom-sljivama-i-orasima
-
-Mekane heljdine palačinke s bundevom, toplim šljivama i orasima. Jednostavan jesenji doručak gotov za 45 minuta.
-
-**Q: Može li pire od bundeve da se pripremi unapred?**
-
-Može. Skuvanu i ohlađenu bundevu držite u zatvorenoj posudi u frižideru do dva dana, pa je dodajte u testo kada budete pravili palačinke.
-
-**Q: Zašto praviti manje palačinke?**
-
-Testo sa pireom od bundeve je mekše, pa se manje palačinke lakše okreću i ravnomernije peku.
-
-**Q: Mogu li šljive da ostanu sveže?**
-
-Mogu, naročito ako su vrlo zrele. Isecite ih neposredno pre služenja i dodajte cimet preko njih.
-
----
-
-Last updated: 2026-10-07
+Last updated: 2026-10-08
