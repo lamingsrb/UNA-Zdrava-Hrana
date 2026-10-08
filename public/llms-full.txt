@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečurke sa dunjom, kestenom i semenkama u tiganju
+
+https://unazdravahrana.com/recepti/pecurke-sa-dunjom-kestenom-i-semenkama-u-tiganju
+
+Kad se jesen uhoda, na stolu hoćemo nešto toplo, a opet lagano. Ovaj recept je brz tiganj od pečuraka, komadića dunje i kuvanog kestena, začinjen belim lukom i majčinom dušicom, a na kraju posut prženim semenkama bundeve i susama.
+
+**Q: Da li je ovo jelo bez glutena?**
+
+Same namirnice u receptu su bez glutena. Ako ga služiš uz heljdu ili pirinač, proveri na pakovanju da je proizvod označen kao bez glutena, jer se zrna ponekad mešaju sa žitaricama tokom prerade. Kod intolerancije ili celijakije to je važno, a u radnji možemo zajedno da pogledamo oznake.
+
+**Q: Mogu li da koristim konzervirani ili vakumirani kesten?**
+
+Može, ako je već kuvan i oljušten. Samo ga isecka i dodaj na kraju, kao u receptu. Pazi da nije slađen ili u sirupu, jer će jelo biti preslatko.
+
+**Q: Dunja mi je uvek trpka. Kako da je omekšam?**
+
+Najbolje je da je pre pirjanja kratko prokuvaš u slanoj vodi, a pirjanje u tiganju će dovršiti posao. Zrelija, žuta dunja je blaža od zelenkaste. Kriške dunje prija i malo meda ili kašika jabukovog sirćeta za balans, ako više voliš slađi ukus.
+
+**Q: Da li ovo jelo može da se pripremi unapred?**
+
+Može se skuvati dan ranije i podgrejati na tiganju. Semenke i susam uvek dodaj tek pri služenju, da ostanu hrskavi.
+
+---
+
 ## Jesenji pilav od ovsa sa pečurkama, dunjom i kestenom
 
 https://unazdravahrana.com/recepti/jesenji-pilav-od-ovsa-sa-pecurkama-dunjom-i-kestenom
@@ -617,30 +641,6 @@ Jedna praktična opcija su ovsene pahuljice s jogurtom ili mlekom, uz voće, či
 **Q: Da li osobe sa dijabetesom treba da prilagode vreme doručka?**
 
 Da. Ako imate dijabetes ili uzimate terapiju koja utiče na šećer u krvi, raspored obroka dogovorite s lekarom ili dijetetičarom.
-
----
-
-## Cena proteinskog praha: šta zaista plaćate?
-
-https://unazdravahrana.com/blog/cena-proteinskog-praha-sta-zaista-placate
-
-Cena pakovanja ili porcije ne pokazuje koliko plaćate za protein: za poređenje podelite cenu pakovanja ukupnim gramima proteina. Pre kupovine proverite i sastojke, alergene, veličinu porcije i da li ćete proizvod zaista koristiti.
-
-**Q: Kako se računa cena po gramu proteina?**
-
-Ukupne grame proteina u pakovanju dobijate kada neto masu pomnožite gramima proteina na 100 g i podelite sa 100. Zatim cenu pakovanja podelite dobijenom količinom proteina.
-
-**Q: Da li je jeftinija porcija ujedno i povoljniji protein?**
-
-Ne nužno. Porcije mogu sadržati različite količine proteina, pa uporedite i cenu po gramu proteina.
-
-**Q: Da li izolat proteina surutke znači da je proizvod bez laktoze?**
-
-Ne. Izolat obično sadrži manje drugih sastojaka mleka od koncentrata, ali oznaku o laktozi proverite na konkretnom pakovanju.
-
-**Q: Šta osim cene treba proveriti pri kupovini proteinskog praha?**
-
-Proverite količinu proteina na 100 g, sastojke, alergene, veličinu porcije i da li vam odgovaraju ukus i način pripreme.
 
 ---
 
