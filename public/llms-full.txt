@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Detoksikacija vodom: koliko piti i šta čaj tu zaista radi
+
+https://unazdravahrana.com/blog/detoksikacija-vodom-koliko-piti-i-sta-caj-tu-zaista-radi
+
+Telo samo čisti organizam preko jetre i bubrega, a voda te organe samo podržava; veće količine ne izbacuju toksine brže. EFSA preporučuje ukupno 2,0 L vode dnevno za žene i 2,5 L za muškarce (uključujući hranu), dok čajevi od koprive i maslačka imaju samo tradicionalnu primenu i određene mere opreza.
+
+**Q: Da li pijenje više vode izbacuje toksine iz organizma?**
+
+Ne postoje jaki dokazi za to. Jetra, bubrezi, pluća, creva i koža čiste telo svakog dana, a voda samo podržava njihov rad. Dovoljna hidratacija, manje alkohola i raznovrsna ishrana su ono što zaista pomaže.
+
+**Q: Koliko vode treba piti dnevno prema EFSA?**
+
+EFSA određuje adekvatan dnevni unos ukupne vode od 2,0 litra za žene i 2,5 litra za muškarce. U to ulaze voda za piće, ostala pića i vlaga iz hrane, pa iz pića dolazi otprilike 70–80% te količine.
+
+**Q: Može li se popiti previše vode?**
+
+Može. Preterano unošenje vode, naročito uz stroge detoks programe, može izazvati hiponatremiju, odnosno pad natrijuma u krvi, što je ređe ali ozbiljno stanje. Najbolji vodič su žeđ i svetla boja urina, a ne unapred zadat cilj od četiri litra.
+
+**Q: Da li je čaj od maslačka bezbedan za svakoga?**
+
+Nije. Maslačak može podsticati lučenje žuči, pa se ne preporučuje kod bolesti jetre, žučnih kamenaca i drugih bolesti žučnih puteva bez saveta lekara. Njegova upotreba se zasniva na tradiciji, a zaštitno dejstvo na jetru potvrđeno je uglavnom u studijama na životinjama.
+
+---
+
 ## Voće za sitost: 5 plodova bogatih vlaknima
 
 https://unazdravahrana.com/blog/voce-za-sitost-5-plodova-bogatih-vlaknima
@@ -613,26 +637,6 @@ Mogu, ali ih prvo odmrznite i dobro ocedite kako proja ne bi ostala previše vla
 **Q: Da li je proja slatka?**
 
 Blago je slatka zahvaljujući šljivama. Ako volite izraženiju slatkoću, poslužite je uz još nekoliko svežih šljiva.
-
----
-
-## Paprike punjene bundevom, šljivama i orasima
-
-https://unazdravahrana.com/recepti/paprike-punjene-bundevom-sljivama-i-orasima
-
-Paprike punjene bundevom, šljivama, bulgurom i orasima: jednostavan jesenji ručak gotov za 50 minuta.
-
-**Q: Da li paprike moraju prethodno da se kuvaju?**
-
-Ne. Prepolovljene paprike omekšaće tokom pečenja. Ako ih volite sasvim mekane, pokrijte pleh folijom na početku.
-
-**Q: Mogu li da pripremim nadev unapred?**
-
-Da. Pripremite ga dan ranije, ohladite i držite poklopljenog u frižideru. Paprike napunite neposredno pre pečenja.
-
-**Q: Čime mogu da zamenim bulgur?**
-
-Upotrebite prethodno skuvan pirinač. Potrebno je oko 300 g kuvanog pirinča za ovu količinu nadeva.
 
 ---
 
