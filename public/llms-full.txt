@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pirjane pečurke sa heljdom, semenkama i kajsijama
+
+https://unazdravahrana.com/recepti/pirjane-pecurke-sa-heljdom-semenkama-i-kajsijama
+
+Kad se dani skrate i kiša zakuca na prozor, ovakvo jelo je pravi izbor: topla, zasitna posuda od heljde, pirjanih pečuraka i hrskavih semenki, sa malo slatkoće od suvih kajsija. Sprema se u jednom tiganju i loncu, za oko pola sata, a miriše kao jesen u kuhinji.
+
+**Q: Da li je ovo jelo bez glutena?**
+
+Heljda sama po sebi ne sadrži gluten, ali se ponekad pakuje u pogonima gde se obrađuju i žitarice sa glutenom. Ako imate celijakiju ili osetljivost, potražite pakovanje sa jasnom oznakom "bez glutena" i proverite i sojin sos, koji često sadrži pšenicu.
+
+**Q: Mogu li da koristim obične šampinjone iz prodavnice?**
+
+Naravno, šampinjoni i bukovače su idealni za ovo jelo jer se brzo pirjaju. Za ukus možete kombinovati obe vrste. Pečurke se uvek peku ili pirjaju do kraja, ne jedu se sirove u ovakvim jelima.
+
+**Q: Koliko dugo se jelo čuva i može li se zamrznuti?**
+
+U frižideru stoji do 2 dana u zatvorenoj posudi. Zamrzavanje je moguće, ali heljda i pečurke posle odmrzavanja mogu postati mekše. Za najbolji ukus pripremite sveže.
+
+---
+
 ## Pečurke i dunja u tepsiji sa kestenom i bademima
 
 https://unazdravahrana.com/recepti/pecurke-i-dunja-u-tepsiji-sa-kestenom-i-bademima
@@ -599,30 +619,6 @@ Heljda je prirodno bez glutena, pa je recept pogodan. Ako imaš celijakiju, obav
 **Q: Koliko dugo mogu da čuvam kašu u frižideru?**
 
 U dobro zatvorenoj posudi drži se 2–3 dana. Pečenu bundevu i šljive najbolje je čuvati odvojeno od kaše, da ne omekšaju previše.
-
----
-
-## Superhrana u UNA radnji: cene i akcije
-
-https://unazdravahrana.com/blog/superhrana-u-una-radnji-cene-i-akcije
-
-Vodič kroz superhranu u UNA radnji sa fokusom na cene, čitanje deklaracije i pravilnu upotrebu chia semenki, spiruline, mace, goji bobica i açai praha. Objašnjava kako izbeći česte greške pri kupovini i izvući maksimum iz malih dnevnih količina.
-
-**Q: Da li je superhrana zaista vredna svog novca?**
-
-Da, ali samo ako se koristi u malim dnevnim količinama i uz raznovrsnu ishranu. Superhrana radi tiho kroz nedelje i mesece, a najisplativija je kada birate čista, pojedinačna pakovanja bez dodataka i kupujete ih na akciji.
-
-**Q: Koja superhrana je najbolja za početnike?**
-
-Chia semenke su najlakše za početak jer imaju blag ukus i lako se dodaju u jogurt, mleko ili vodu. Preporučena količina je 1–2 kašike dnevno, a najbolje ih je namočiti preko noći za praktičan doručak.
-
-**Q: Kako se čuva superhrana posle otvaranja?**
-
-Presipajte u staklenke sa poklopcem i držite dalje od svetla. Açai i lanene semenke obavezno idu u frižider posle otvaranja, dok maca u prahu i açai gube aromu za nekoliko meseci pa ne kupujte na zalihu.
-
-**Q: Na šta obratiti pažnju pri čitanju deklaracije?**
-
-Proverite poreklo i organski sertifikat (EU list), rok trajanja i sastav. Prava spirulina ima samo jedan sastojak – spirulinu. Ako vidite šećer, arome ili mešavinu sa 15 sastojaka, uglavnom plaćate marketing.
 
 ---
 
