@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jedete li prvo povrće ili hleb? Redosled utiče na šećer
+
+https://unazdravahrana.com/blog/jedete-li-prvo-povrce-ili-hleb-redosled-utice-na-secer
+
+---
+
 ## Rog paprika: 7 recepata od pečenja do ajvara
 
 https://unazdravahrana.com/blog/rog-paprika-7-recepata-od-pecenja-do-ajvara
@@ -617,30 +623,6 @@ Spirulina sadrži oko 60% proteina, gvožđe i B vitamine, što podržava rast k
 **Q: Kada treba posetiti lekara zbog opadanja kose?**
 
 Ako opadanje traje duže od 4 meseca, primetite proređivanje na temenu ili sumnjate na manjak gvožđa i probleme sa štitnom žlezdom, obavezno posetite dermatologa i uradite analizu krvi.
-
----
-
-## Jesenji muffini od bundeve, šljiva i oraha
-
-https://unazdravahrana.com/recepti/jesenji-muffini-od-bundeve-sljiva-i-oraha
-
-Mekani jesenji muffini od bundeve, šljiva i oraha sa integralnim brašnom i medom. Zdrav doručak ili užina za 40 minuta.
-
-**Q: Mogu li da koristim bundevu iz zamrzivača?**
-
-Možete, samo je prethodno odmrznite i dobro ocedite višak tečnosti, inače će testo biti previše vlažno.
-
-**Q: Koja vrsta šljiva je najbolja za muffine?**
-
-Najbolje su pozne, mesnate šljive poput požegače ili stenlej — daju punu aromu i ne puštaju previše soka tokom pečenja.
-
-**Q: Da li su ovi muffini pogodni za decu?**
-
-Jesu, blago su zaslađeni medom i puni sezonskih namirnica. Za najmlađe (do 1 godine) med izostavite ili zamenite pirinčanim sirupom.
-
-**Q: Mogu li da smanjim količinu meda?**
-
-Naravno, možete ići i do 50 g ako volite manje sladak ukus — šljive i bundeva već daju prirodnu slatkoću.
 
 ---
 
