@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Rog paprika: 7 recepata od pečenja do ajvara
+
+https://unazdravahrana.com/blog/rog-paprika-7-recepata-od-pecenja-do-ajvara
+
+Članak daje sedam ideja za rog papriku, od pečenja i punjenja do namaza, salate i domaćeg ajvara, uz savete za izbor i čuvanje paprike. Objašnjava i nutritivnu vrednost crvene paprike, uz napomenu da toplota smanjuje vitamin C i da zimnicu treba solitи umereno.
+
+**Q: Kako izabrati rog papriku za pečenje i ajvar?**
+
+Tražite duge, mesnate i glatke rogove tamnocrvene boje, čvrste i sjajne kože, sa svežom zelenom drškom. Paprika koja je teška za svoju veličinu ima više mesa, a manje vode i semenki. Izbegavajte mekane, naborane ili pegave komade, naročito oko drške.
+
+**Q: Kako čuvati rog papriku do pečenja?**
+
+Nekoliko dana je čuvajte u frižideru, u papirnoj kesi ili otvorenoj posudi, a ne u zatvorenoj plastici u kojoj se skuplja vlaga. Ako imate veću količinu, bolje je odmah planirati pečenje i spremanje zimnice.
+
+**Q: Koliko vitamina C ima crvena paprika i gubi li se pri pečenju?**
+
+Prema USDA bazi, 100 g sirove slatke crvene paprike ima oko 127,7 mg vitamina C i oko 26 kcal. To su okvirne vrednosti za slatku crvenu papriku, ne posebno za rog papriku. Toplota smanjuje vitamin C, dok vlakna i karotenoidi uglavnom ostaju u gotovom proizvodu.
+
+**Q: Kako napraviti domaći ajvar?**
+
+Ispecite paprike (po želji uz patlidžane), oljuštite ih, ocedite višak soka pa ih samelite ili iseckajte. Ukuvavajte na tihoj vatri uz stalno mešanje, uz ulje i so po ukusu, dok ne dobije gustinu. Solite postepeno, jer slani namazi i zimnica lako dodaju previše soli.
+
+---
+
 ## Egzotično voće u Srbiji: da li ga treba jesti?
 
 https://unazdravahrana.com/blog/egzoticno-voce-u-srbiji-da-li-ga-treba-jesti
@@ -620,28 +644,4 @@ Naravno, možete ići i do 50 g ako volite manje sladak ukus — šljive i bunde
 
 ---
 
-## Jesenji njoki od bundeve sa šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenji-njoki-od-bundeve-sa-sljivama-i-orasima
-
-Domaći njoki od pečene bundeve sa dinstanim šljivama, orasima i cimetom — topao jesenji ručak od integralnog brašna, gotov za sat vremena.
-
-**Q: Mogu li da pripremim testo unapred?**
-
-Da, testo možete umesiti dan ranije i čuvati u frižideru pokriveno folijom. Pre oblikovanja ostavite ga 15 minuta na sobnoj temperaturi.
-
-**Q: Šta ako nemam sveže šljive?**
-
-Možete koristiti suve šljive — potopite ih 15 minuta u toplu vodu, isecite na komade i dinstajte kao u receptu. Smanjite med jer su suve šljive slađe.
-
-**Q: Da li deca vole ovaj recept?**
-
-Kombinacija blage bundeve i slatkastih šljiva obično prija deci. Ako ne vole komadiće voća, šljive možete izblendirati u glatki sos.
-
-**Q: Koliko dugo traju kuvani njoki u frižideru?**
-
-Do 2 dana u zatvorenoj posudi. Podgrevajte ih kratko u tiganju sa kašikom vode ili malo maslinovog ulja.
-
----
-
-Last updated: 2026-10-08
+Last updated: 2026-10-09
