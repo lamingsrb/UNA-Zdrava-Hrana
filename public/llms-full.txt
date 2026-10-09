@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečurke i dunja u tepsiji sa kestenom i bademima
+
+https://unazdravahrana.com/recepti/pecurke-i-dunja-u-tepsiji-sa-kestenom-i-bademima
+
+Jesen u Kragujevcu ima svoj miris: pečeni kesten, dunja koja ispuni celu kuću i pečurke sa pijace. Ovaj recept spaja sva tri u jednu tepsiju koju pripremaš bez mnogo posla: iseckaš, začiniš, ubaciš u rernu i pustiš da pečenje odradi ostalo.
+
+**Q: Može li se dunja jesti sirova?**
+
+Sirova dunja je veoma tvrda, kisela i opora, pa se najčešće priprema pečena, kuvana ili u kompotu. Toplotna obrada je čini mekom i slađom, zato je u ovom receptu pečemo u rerni.
+
+**Q: Kako da pripremim svež kesten da se lakše ljušti?**
+
+Zaseci ljusku pre kuvanja ili pečenja, skuvaj ga dvadesetak minuta i ljušti dok je topao. Kada se ohladi, ljuska se čvršće drži. Sirov kesten se ne jede, jer je gorak i brašnjav, a toplota ga čini slatkim i jestivim.
+
+**Q: Mogu li da koristim divlje pečurke?**
+
+Preporučujemo kupovne pečurke poznatog porekla, poput šampinjona ili bukovača. Divlje pečurke beri i koristi samo ako ih sigurno prepoznaješ ili ih je pregledao stručnjak, a u slučaju sumnje bolje ih ne jedi.
+
+**Q: Da li je ovo jelo bez glutena?**
+
+Sastojci u receptu su prirodno bez glutena. Ako imaš celijakiju ili izraženu osetljivost, proveri deklaracije na začinima i dodacima, a za savet o proizvodima bez glutena pitaj u radnji.
+
+---
+
 ## Jedete li prvo povrće ili hleb? Redosled utiče na šećer
 
 https://unazdravahrana.com/blog/jedete-li-prvo-povrce-ili-hleb-redosled-utice-na-secer
@@ -599,30 +623,6 @@ Presipajte u staklenke sa poklopcem i držite dalje od svetla. Açai i lanene se
 **Q: Na šta obratiti pažnju pri čitanju deklaracije?**
 
 Proverite poreklo i organski sertifikat (EU list), rok trajanja i sastav. Prava spirulina ima samo jedan sastojak – spirulinu. Ako vidite šećer, arome ili mešavinu sa 15 sastojaka, uglavnom plaćate marketing.
-
----
-
-## Zašto kosa opada leti i kako da je ojačate iznutra
-
-https://unazdravahrana.com/blog/zasto-kosa-opada-leti-i-kako-da-je-ojacate-iznutra
-
-Krajem leta većina ljudi primeti pojačano opadanje kose zbog sezonskog telogenog ciklusa i oštećenja od sunca, soli i hlora. Kosa se najbolje jača iznutra — proteinima, biotinom, cinkom, gvožđem, omega-3 i namirnicama poput spiruline i konopljinih semenki.
-
-**Q: Zašto kosa najviše opada krajem leta?**
-
-Radi se o sezonskom telogenom opadanju — folikuli koji su ušli u fazu mirovanja tokom proleća i početka leta počinju da otpuštaju vlasi 2 do 4 meseca kasnije. Dodatno, so, hlor, UV zraci i dehidratacija tokom leta oslabe strukturu kose, pa je opadanje vidljivije.
-
-**Q: Koji vitamini i minerali najviše jačaju kosu?**
-
-Ključni su biotin (B7), cink, gvožđe, silicijum, omega-3 masne kiseline, vitamin D i dovoljno proteina. Bez proteina kao osnove, ostali nutrijenti sami ne mogu da izgrade novu vlas.
-
-**Q: Da li spirulina pomaže protiv opadanja kose?**
-
-Spirulina sadrži oko 60% proteina, gvožđe i B vitamine, što podržava rast kose. Preporučuje se kašičica dnevno u soku od narandže, jer vitamin C poboljšava apsorpciju gvožđa.
-
-**Q: Kada treba posetiti lekara zbog opadanja kose?**
-
-Ako opadanje traje duže od 4 meseca, primetite proređivanje na temenu ili sumnjate na manjak gvožđa i probleme sa štitnom žlezdom, obavezno posetite dermatologa i uradite analizu krvi.
 
 ---
 
