@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamini za menopauzu: kako da izaberete pravi suplement
+
+https://unazdravahrana.com/blog/vitamini-za-menopauzu-kako-da-izaberete-pravi-suplement
+
+Suplementi ne leče menopauzu niti zamenjuju raznovrsnu ishranu, a jedina potvrđena zdravstvena tvrdnja odnosi se na kalcijum i vitamin D u očuvanju koštane mase posle menopauze. Pri izboru obratite pažnju na dnevnu dozu, jedinice mere, upis u bazu Ministarstva zdravlja i upozorenja za rizične grupe.
+
+**Q: Da li vitamini mogu da leče simptome menopauze?**
+
+Ne. Menopauza nastaje zbog pada nivoa estrogena, a ne zbog manjka vitamina, pa suplement može samo da dopuni ishranu. Srpski Pravilnik o dodacima ishrani zabranjuje da im se pripisuju svojstva lečenja bolesti.
+
+**Q: Koji sastojci imaju potvrđen efekat kod žena u postmenopauzi?**
+
+Za kalcijum, samostalno ili uz vitamin D, postoji zdravstvena tvrdnja o smanjenju gubitka koštane mase kod žena u postmenopauzi. Za ostale uobičajene sastojke, poput biljnih ekstrakata, posavetujte se sa lekarom ili farmaceutom.
+
+**Q: Koliko vitamina D dnevno je dovoljno za žene u menopauzi?**
+
+EFSA navodi adekvatan unos od 15 µg dnevno za odrasle, a NIH preporučuje 15 mcg (600 IU) za žene od 51 do 70 godina i 20 mcg (800 IU) posle 70. Razlike potiču iz različitih metoda, a gornja podnošljiva granica po EFSA iznosi 100 µg dnevno.
+
+**Q: Na šta da obratim pažnju na deklaraciji dodatka ishrani?**
+
+Proverite dnevnu dozu (ne samo dozu po tableti), jedinice mere, broj upisa u bazu Ministarstva zdravlja i upozorenja za trudnice, dojilje i osobe sa hroničnim bolestima. Nedostatak tih podataka je razlog za oprez.
+
+---
+
 ## Pirjane pečurke sa heljdom, semenkama i kajsijama
 
 https://unazdravahrana.com/recepti/pirjane-pecurke-sa-heljdom-semenkama-i-kajsijama
@@ -599,26 +623,6 @@ Suvi deo (ovsene pahuljice sa orasima i začinima) možete pomešati veče ranij
 **Q: Da li je pogodno za decu?**
 
 Da, blago je slatko i mekano. Za mlađu decu možete izostaviti đumbir i orahe krupno usitniti ili zameniti mlevenim, ako brinete zbog gušenja.
-
----
-
-## Jesenja topla kaša od heljde s bundevom i šljivama
-
-https://unazdravahrana.com/recepti/jesenja-topla-kasa-od-heljde-s-bundevom-i-sljivama
-
-Topla jesenja kaša od heljde s pečenom bundevom, šljivama i orasima — zdrav doručak bez glutena, gotov za 40 minuta.
-
-**Q: Mogu li da koristim već kuvanu bundevu iz tegle?**
-
-Možeš, ali sveža pečena bundeva daje bolji ukus i teksturu jer se karamelizuje u rerni. Ako koristiš gotov pire, samo ga zagrej i dodaj na kašu pred serviranje.
-
-**Q: Da li je ovo jelo pogodno za osobe sa intolerancijom na gluten?**
-
-Heljda je prirodno bez glutena, pa je recept pogodan. Ako imaš celijakiju, obavezno biraj heljdu sa oznakom „bez glutena“ kako bi izbegao unakrsnu kontaminaciju iz proizvodnje.
-
-**Q: Koliko dugo mogu da čuvam kašu u frižideru?**
-
-U dobro zatvorenoj posudi drži se 2–3 dana. Pečenu bundevu i šljive najbolje je čuvati odvojeno od kaše, da ne omekšaju previše.
 
 ---
 
