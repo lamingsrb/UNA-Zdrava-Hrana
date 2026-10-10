@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni kesten i dunja u ovsenom crumble-u sa čijom
+
+https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-u-ovsenom-crumble-u-sa-cijom
+
+Topli ovseni crumble sa dunjom, kestenom, bademima i čijom. Bez maslaca i belog brašna, gotov za sat vremena. Jesenji recept iz UNA Zdrave Hrane.
+
+**Q: Može li se crumble napraviti bez glutena?**
+
+Može. Kesten je prirodno bez glutena, a ovsene pahuljice treba da budu označene kao bezglutenske, jer se obični ovas često obrađuje uz žitarice koje sadrže gluten. U radnji vam možemo pokazati šta imamo na stanju, a ako imate celijakiju, svakako se konsultujte sa lekarom.
+
+**Q: Da li je dunja jestiva sirova?**
+
+Sirova dunja je tvrda i trpka pa se retko jede takva. Kuvanjem, pirjanjem ili pečenjem postaje mekana i slatkastija, a vlakna i pektin se tokom kuvanja čuvaju.
+
+**Q: Kako da preliv ostane hrskav?**
+
+Ne pokrivajte posudu tokom pečenja i ne preterujte sa tečnošću u prelivu. Ako ga služite sutradan, kratko ga zagrejte u rerni, a ne u mikrotalasnoj.
+
+---
+
 ## Dunja pečena sa kestenom, čijom i heljdinim pahuljicama
 
 https://unazdravahrana.com/recepti/dunja-pecena-sa-kestenom-cijom-i-heljdinim-pahuljicama
@@ -621,12 +641,6 @@ Prema EFSA, odrasli od 25 godina treba da unose 950 mg dnevno, a mladi od 18 do 
 **Q: Da li vitamin D pomaže apsorpciju kalcijuma?**
 
 Da, vitamin D pomaže telu da apsorbuje kalcijum. Stručnjaci se ne slažu oko toga koliko je taj efekat veliki, pa više vitamina D ne znači automatski bolje iskorišćen kalcijum. Pre visokih doza lekar može da proveri vaš status krvnom analizom.
-
----
-
-## Kada bebi dati jaja: šta pokazuje australijska studija
-
-https://unazdravahrana.com/blog/kada-bebi-dati-jaja-sta-pokazuje-australijska-studija
 
 ---
 
