@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Fibrilacija atrija i ishrana: šta zaista znamo, a šta ne
+
+https://unazdravahrana.com/blog/fibrilacija-atrija-i-ishrana-sta-zaista-znamo-a-sta-ne
+
+Tekst razdvaja dokazano od neutemeljenog u ishrani kod fibrilacije atrija: smernice ESC 2024 jasno preporučuju smanjenje alkohola, dok zabrana kafe za sve nije potkrepljena, a čajevi i dalje nisu posebno ispitani. Naglašava da nijedna namirnica ne zamenjuje terapiju i da svaku promenu treba uskladiti s lekarom.
+
+**Q: Da li alkohol utiče na fibrilaciju atrija?**
+
+Da, alkohol je faktor sa najčvršćom podrškom u smernicama. ESC 2024 preporučuje najviše 3 standardna pića nedeljno (do 30 g čistog alkohola) radi smanjenja povratka aritmije. Redovnim pijancima cilj apstinencije smanjio je povratke aritmije i njeno opterećenje.
+
+**Q: Moram li da izbacim kafu ako imam fibrilaciju atrija?**
+
+Ne nužno. Smernice ne traže opšte odricanje od kofeina, osim ako je on vaš lični okidač simptoma. U ispitivanju DECAF aritmija se vratila kod 47% onih koji su pili kafu i kod 64% onih koji su je izbacili. Količinu kafe uskladite sa lekarom.
+
+**Q: Jesu li čajevi bez kofeina bezbedni kod fibrilacije atrija?**
+
+Nijedan pronađeni izvor ne potvrđuje da je čaj bez kofeina posebno koristan ili bezbedan kod fibrilacije atrija. Čaj shvatite kao topao napitak, a ne terapiju. Proverite sastav zbog kofeina, a ako koristite lekove, posebno razrednjivače krvi, pitajte lekara pre uvođenja nove biljke.
+
+**Q: Može li ishrana da zameni terapiju kod fibrilacije atrija?**
+
+Ne. Ishrana je deo sveobuhvatne kontrole faktora rizika i načina života, ali nijedna namirnica ne zamenjuje terapiju koju je odredio kardiolog. Svaku promenu ishrane ili suplemenata uskladite sa lekarom.
+
+---
+
 ## Pečeni kesten i dunja u ovsenom crumble-u sa čijom
 
 https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-u-ovsenom-crumble-u-sa-cijom
@@ -617,30 +641,6 @@ Po sastavu ne sadrži gluten ni laktozu. Kod celijakije birajte heljdu koja je i
 **Q: Čime mogu da zamenim orahe?**
 
 Dobro će poslužiti semenke bundeve ili suncokreta, a može i lešnik. Svi se lepo prepeku u suvom tiganju. Ako ste alergični na orašaste plodove, izostavite ih i dodajte semenke.
-
----
-
-## Kalcijum u telu: gde završi nakon što ga unesete
-
-https://unazdravahrana.com/blog/kalcijum-u-telu-gde-zavrsi-nakon-sto-ga-unesete
-
-Oko 99% kalcijuma u telu nalazi se u kostima i zubima, a ne postoji jedno proverljivo vreme koliko kalcijum „ostaje“ u telu, jer se kosti stalno grade i razgrađuju. Apsorpcija u crevima je u proseku 10–60% unosa i zavisi od količine, oblika kalcijuma i vitamina D, a hrana je prvi izbor pre dodataka.
-
-**Q: Koliko dugo kalcijum ostaje u telu?**
-
-Ne postoji proverljiv podatak o tačnom vremenu. Deo apsorbovanog kalcijuma ugrađuje se u kosti, deo kruži krvlju, a deo se izluči. Kosti ga stalno primaju i oslobađaju, pa nema fiksnog vremena „boravka“.
-
-**Q: Koliko kalcijuma telo apsorbuje iz hrane i dodataka?**
-
-Odrasli u proseku apsorbuju otprilike 10–60% dnevnog unosa, a ostatak izlazi stolicom. Na to utiču unesena količina, oblik kalcijuma i vitamin D. Nema smisla unositi ogromne količine odjednom.
-
-**Q: Koliko kalcijuma treba odraslima dnevno?**
-
-Prema EFSA, odrasli od 25 godina treba da unose 950 mg dnevno, a mladi od 18 do 24 godine 1.000 mg. Američke preporuke (NIH) su 1.000–1.200 mg. Gornja granica bezbednog unosa iz svih izvora je 2.500 mg dnevno.
-
-**Q: Da li vitamin D pomaže apsorpciju kalcijuma?**
-
-Da, vitamin D pomaže telu da apsorbuje kalcijum. Stručnjaci se ne slažu oko toga koliko je taj efekat veliki, pa više vitamina D ne znači automatski bolje iskorišćen kalcijum. Pre visokih doza lekar može da proveri vaš status krvnom analizom.
 
 ---
 
