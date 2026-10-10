@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ulje paprene metvice za glavobolju: šta stvarno znamo
+
+https://unazdravahrana.com/blog/ulje-paprene-metvice-za-glavobolju-sta-stvarno-znamo
+
+---
+
 ## Vitamini za menopauzu: kako da izaberete pravi suplement
 
 https://unazdravahrana.com/blog/vitamini-za-menopauzu-kako-da-izaberete-pravi-suplement
@@ -602,28 +608,4 @@ Jeste, kao povremena slatka poslastica u okviru uravnotežene ishrane. Za najmla
 
 ---
 
-## Jesenja pita-tava sa bundevom, šljivama i ovsom
-
-https://unazdravahrana.com/recepti/jesenja-pita-tava-sa-bundevom-sljivama-i-ovsom
-
-Kada zahladi, tražimo nešto toplo, mirisno i zasitno — a da ne provedemo pola dana u kuhinji.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Može, ali je prvo odmrznite i dobro ocedite od viška tečnosti. Vreme pečenja u prvom koraku skratite na 10 minuta jer je smrznuta bundeva već delimično omekšala.
-
-**Q: Koje šljive su najbolje za ovaj recept?**
-
-Domaće požegače i madžarke daju najbolji rezultat jer se lepo drže tokom pečenja i imaju bogatu aromu. Ako su vam šljive kisele, dodajte kašiku meda više.
-
-**Q: Da li se ovaj recept može pripremiti unapred?**
-
-Suvi deo (ovsene pahuljice sa orasima i začinima) možete pomešati veče ranije. Bundevu ispecite ujutru, spojite sve i završite u rerni — tako doručak bude gotov za pola sata.
-
-**Q: Da li je pogodno za decu?**
-
-Da, blago je slatko i mekano. Za mlađu decu možete izostaviti đumbir i orahe krupno usitniti ili zameniti mlevenim, ako brinete zbog gušenja.
-
----
-
-Last updated: 2026-10-09
+Last updated: 2026-10-10
