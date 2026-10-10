@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pita od dunje i ovsa bez maslaca i belog brašna
+
+https://unazdravahrana.com/recepti/pita-od-dunje-i-ovsa-bez-maslaca-i-belog-brasna
+
+Kad se pomene pita od jabuka, svi pomislimo na testo sa puno maslaca i belog brašna. Ova jesenja pita ide drugim putem: dunja je ovde glavna zvezda, a "testo" je zapravo sočna smesa od ovsenih pahuljica, mlevenog badema i rendane dunje.
+
+**Q: Da li se dunja može jesti sirova?**
+
+Sirova dunja je tvrda i trpka, pa se retko jede takva. U ovom receptu se kratko propirja, što je omekšava i izvlači aromu. Semenke i središte uvek izvadite, jer se semenke ne jedu.
+
+**Q: Zašto pita nema maslac ni belo brašno, a ipak je sočna?**
+
+Sočnost dolazi od rendane dunje koja puštanjem soka vlaži ovsene pahuljice i mleveni badem. Mali deo masnoće dolazi iz ulja i oraštastih plodova, pa nam maslac nije potreban.
+
+**Q: Može li se pita napraviti bez meda?**
+
+Može. Možete smanjiti med na jednu kašiku ili ga izostaviti, a pitu zasladiti samo dunjom i malo cimeta. Ukus će biti manje sladak, ali i dalje prijatan. Ako želite drugi prirodni zaslađivač, pitajte nas u radnji.
+
+**Q: Da li je ova pita pogodna za ljude sa intolerancijom na gluten?**
+
+Moguće je, ako koristite ovsene pahuljice i prašak za pecivo sa oznakom da su bez glutena. Obične ovsene pahuljice mogu sadržati tragove glutena zbog zajedničke prerade. Za ozbiljnu celijakiju uvek proverite deklaraciju, a za zdravstvena pitanja posavetujte se sa lekarom.
+
+---
+
 ## Ulje paprene metvice za glavobolju: šta stvarno znamo
 
 https://unazdravahrana.com/blog/ulje-paprene-metvice-za-glavobolju-sta-stvarno-znamo
@@ -585,26 +609,6 @@ https://unazdravahrana.com/blog/kada-bebi-dati-jaja-sta-pokazuje-australijska-st
 ## Vitamin B6 za žene: koliko treba i kada je previše
 
 https://unazdravahrana.com/blog/vitamin-b6-za-zene-koliko-treba-i-kada-je-previse
-
----
-
-## Jesenja bundeva-tart sa šljivama i orasima
-
-https://unazdravahrana.com/recepti/jesenja-bundeva-tart-sa-sljivama-i-orasima
-
-Kada rana jesen donese prve narandžaste bundeve i zrele šljive, u kuhinji se pravi mala magija.
-
-**Q: Mogu li da koristim smrznutu bundevu?**
-
-Da. Odmrznite je i dobro ocedite od viška tečnosti pre nego što napravite pire — fil mora biti gust da bi tart lepo stegao.
-
-**Q: Koje šljive su najbolje?**
-
-Zrele požegače ili stenlej sorte — mesnate su, imaju laganu kiselost i lepo se peku bez da se raspadnu.
-
-**Q: Da li je ovaj tart pogodan za decu?**
-
-Jeste, kao povremena slatka poslastica u okviru uravnotežene ishrane. Za najmlađe možete smanjiti količinu meda. Za bilo koje specifično zdravstveno pitanje uvek se posavetujte sa pedijatrom.
 
 ---
 
