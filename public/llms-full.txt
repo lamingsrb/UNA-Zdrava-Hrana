@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja pečena sa kestenom, čijom i heljdinim pahuljicama
+
+https://unazdravahrana.com/recepti/dunja-pecena-sa-kestenom-cijom-i-heljdinim-pahuljicama
+
+Dunja je prava jesenja namirnica, ali većina je pamti samo kao tvrdu, trpku voćku iz bakine ostave. Pečenjem dunja omekša, a trpkost se znatno ublaži, pa dobijete mirisno i nežno voće.
+
+**Q: Zašto se dunja ne jede sirova?**
+
+Sirova dunja je tvrda i sadrži mnogo tanina, zbog čega je trpka i neprijatna za jelo. Zato se najčešće kuva ili peče, a tada postaje mekana i slatkasta.
+
+**Q: Da li je ovaj dezert bezglutenski?**
+
+Dunja, kesten, heljda, orasi i čija prirodno ne sadrže gluten, ali heljdine pahuljice ponekad mogu biti pakovane u pogonima gde se prerađuju i druge žitarice. Ako vam je gluten problem, birajte pahuljice sa oznakom da su bezglutenske i pitajte nas u radnji.
+
+**Q: Može li se pripremiti unapred?**
+
+Može. Ispecite dunje s kestenom, ohladite ih i sačuvajte u frižideru do tri dana, a posip napravite i čuvajte odvojeno. Pred služenje dunje kratko podgrejte i dodajte posip.
+
+**Q: Da li je ovaj recept pogodan za decu?**
+
+Jeste, ukus je blag i slatkast. Samo vodite računa da orasi i semenke budu sitnije seckani za mlađu decu, a med ne dajte deci mlađoj od godinu dana. Za sva pitanja o ishrani dece posavetujte se sa pedijatrom.
+
+---
+
 ## Pita od dunje i ovsa bez maslaca i belog brašna
 
 https://unazdravahrana.com/recepti/pita-od-dunje-i-ovsa-bez-maslaca-i-belog-brasna
@@ -603,12 +627,6 @@ Da, vitamin D pomaže telu da apsorbuje kalcijum. Stručnjaci se ne slažu oko t
 ## Kada bebi dati jaja: šta pokazuje australijska studija
 
 https://unazdravahrana.com/blog/kada-bebi-dati-jaja-sta-pokazuje-australijska-studija
-
----
-
-## Vitamin B6 za žene: koliko treba i kada je previše
-
-https://unazdravahrana.com/blog/vitamin-b6-za-zene-koliko-treba-i-kada-je-previse
 
 ---
 
