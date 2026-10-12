@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kakao i čaj za radni dan: šta nam studije kažu o sedenju
+
+https://unazdravahrana.com/blog/kakao-i-caj-za-radni-dan-sta-nam-studije-kazu-o-sedenju
+
+Studija Univerziteta u Birmingemu pokazala je da kakao sa 695 mg flavanola sprečava pad funkcije krvnih sudova posle dva sata neprekidnog sedenja, ali kod malog uzorka zdravih ljudi i bez dokaza o dugoročnoj koristi. Za čaj nema potvrđene zaštite arterija, pa je kretanje i dalje najpouzdaniji savet.
+
+**Q: Da li kakao štiti krvne sudove od dugog sedenja?**
+
+Prema studiji Univerziteta u Birmingemu, kakao sa 695 mg flavanola sprečio je pad funkcije krvnih sudova (FMD) posle dva sata sedenja. Uzorak je bio mali, a učesnici zdravi, pa je reč o obećavajućem, ali ne i konačnom rezultatu.
+
+**Q: Da li običan kakao prah ima dovoljno flavanola?**
+
+Najčešće ne. Količina flavanola jako zavisi od prerade, a na deklaraciji se retko navodi. Birajte tamni kakao prah bez dodatog šećera i što manje prerađen. EFSA za zdravstvenu tvrdnju navodi 200 mg flavanola dnevno, ali samo iz kakaa bogatog flavanolima.
+
+**Q: Da li čaj štiti arterije tokom sedenja?**
+
+Za to nema potvrde. EFSA je 2018. zaključila da veza između crnog čaja i očuvanja normalne vazodilatacije nije uspostavljena, a za zeleni čaj nema potvrđenih podataka o zaštiti tokom sedenja. Pijte ga zbog ukusa, ne kao zaštitu.
+
+**Q: Šta je najbolje za one koji sede ceo dan?**
+
+Kretanje. SZO preporučuje 150–300 minuta aerobne aktivnosti umerenog intenziteta nedeljno, vežbe jačanja mišića 2 ili više dana nedeljno i smanjenje sedentarnog ponašanja. Kakao je eventualno dodatak, ne zamena za ustajanje sa stolice.
+
+---
+
 ## Dunja i kesten u tiganj-palačinkama od heljde
 
 https://unazdravahrana.com/recepti/dunja-i-kesten-u-tiganj-palacinkama-od-heljde
@@ -617,30 +641,6 @@ Ako na pakovanju piše da je oprana i spremna za jelo, ponovno pranje kod kuće 
 **Q: Kako čuvati zelenu salatu da duže traje?**
 
 Čuvajte je u hladnom frižideru, na oko 4 °C ili manje, i pazite da listovi budu dobro suvi. Cele glavice traju duže od isečene salate, pa kupujte onoliko koliko ćete potrošiti i bacite listove koji su sluzavi ili neprijatno mirišu.
-
----
-
-## Kvinoja recept: kako je skuvati da uvek ispadne rastresita
-
-https://unazdravahrana.com/blog/kvinoja-recept-kako-je-skuvati-da-uvek-ispadne-rastresita
-
-Da bi kvinoja ispala rastresita, treba je isprati od saponina, skuvati u odnosu oko 1 šolja kvinoje na 1¾ šolje vode i ostaviti poklopljenu još 5 minuta. Članak objašnjava i najčešće greške, odnose za druge aparate i šta treba znati o kvinoji bez glutena.
-
-**Q: Koliko vode ide na jednu šolju kvinoje?**
-
-Kao polazna tačka služi 1 šolja kvinoje na 1¾ šolje vode ili povrtne supe. Stariji odnos 1:2 lako daje kašastu kvinoju. Ako ispadne kašasta, sledeći put smanjite vodu, a ako je tvrda, dodajte malo tečnosti i kuvajte još minut-dva.
-
-**Q: Zašto je kvinoja gorka i kako to sprečiti?**
-
-Kvinoja ima prirodni omotač saponina koji daje gorak ili sapunast ukus. Zato je treba isprati hladnom vodom na sitnom situ oko 30 sekundi, dok voda ne postane bistra. Ako je i nakon kuvanja malo gorka, sledeći put je isperite temeljnije.
-
-**Q: Koliko dugo se kuva kvinoja?**
-
-Na šporetu se kuva oko 10 minuta na tihoj vatri, poklopljena, a zatim se sklonjena sa izvora toplote ostavi poklopljena još 5 minuta. Taj odmor je ključan za rastresita zrna. Ukupno je potrebno oko 15 minuta.
-
-**Q: Da li je kvinoja bez glutena?**
-
-Kvinoja je prirodno bez glutena i smatra se pogodnom za ljude sa celijakijom. Rizik ipak postoji zbog unakrsne kontaminacije tokom uzgoja, prerade ili pakovanja, pa birajte proizvod koji je na pakovanju izričito označen kao bez glutena.
 
 ---
 
