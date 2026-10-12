@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Složenci s gljivama: 6 sočnih recepata za ručak
+
+https://unazdravahrana.com/blog/slozenci-s-gljivama-6-socnih-recepata-za-rucak
+
+Članak donosi šest recepata za složenac s gljivama (klasični s krompirom, s piletinom, s kinoom bez glutena, vegetarijanski i drugi) za brz ručak iz rerne. Objašnjava zašto šampinjoni, koji sadrže oko 92% vode, mogu da učine jelo vodenastim i daje pet pravila da se to izbegne.
+
+**Q: Zašto složenac s gljivama ispadne vodenast?**
+
+Šampinjoni sadrže oko 92 g vode na 100 g, pa je u rerni otpuste u tepsiju. Ako su još i zbijeni, sirovi i pokriveni, kuvaju se u sopstvenoj tečnosti umesto da porumene.
+
+**Q: Kako sprečiti da gljive u rerni puste previše vode?**
+
+Obrišite ih umesto da ih perete, rasporedite ih bez zbijanja i isecite na deblje komade. Najbolje ih je prvo kratko propržiti na tiganju dok tečnost ne ispari, a tepsiju pokriti samo na početku pečenja.
+
+**Q: Da li su gljive dobar izvor proteina?**
+
+Ne previše: sirovi šampinjoni imaju oko 3 g proteina na 100 g, pa ne zamenjuju meso po količini proteina. Za siti ručak dodajte jaja, sir, mahunarke, piletinu ili kinou.
+
+**Q: Da li je složenac s kinoom bez glutena?**
+
+Kinoa je prirodno bez glutena, pa je dobar izbor i za osobe sa celijakijom. Pazite samo da i ostali sastojci, poput supe i začina, ne sadrže gluten.
+
+---
+
 ## Fibrilacija atrija i ishrana: šta zaista znamo, a šta ne
 
 https://unazdravahrana.com/blog/fibrilacija-atrija-i-ishrana-sta-zaista-znamo-a-sta-ne
@@ -620,28 +644,4 @@ U zatvorenoj posudi u frižideru do 2 dana. Podgrevajte u rerni ili tiganju uz m
 
 ---
 
-## Pečene dunje i kesten sa pečurkama i heljdom
-
-https://unazdravahrana.com/recepti/pecene-dunje-i-kesten-sa-pecurkama-i-heljdom
-
-Topla jesenja činija: pečena dunja, kesten i pečurke sa heljdom. Bez glutena i mleka, gotovo za sat. Probajte recept UNA Zdrave Hrane.
-
-**Q: Da li dunju moram da ljuštim pre pečenja?**
-
-Ne mora. Ljuska omekša u rerni, a sadrži i dodatna vlakna. Samo dobro operite plod i obrišite paperjast sloj. Ako vam je ljuska ipak gruba, slobodno je skinite.
-
-**Q: Može li se jelo spremiti unapred?**
-
-Može. Pečenu dunju i kesten, kao i heljdu, pripremite dan ranije i čuvajte u frižideru. Pečurke ispecite neposredno pre posluživanja da ne omekšaju previše, pa sve sastavite na tanjiru.
-
-**Q: Da li je recept pogodan za ljude sa intolerancijom na gluten ili laktozu?**
-
-Po sastavu ne sadrži gluten ni laktozu. Kod celijakije birajte heljdu koja je izričito označena kao bezglutenska zbog mogućeg mešanja u preradi. Za sva zdravstvena pitanja o ishrani posavetujte se sa lekarom.
-
-**Q: Čime mogu da zamenim orahe?**
-
-Dobro će poslužiti semenke bundeve ili suncokreta, a može i lešnik. Svi se lepo prepeku u suvom tiganju. Ako ste alergični na orašaste plodove, izostavite ih i dodajte semenke.
-
----
-
-Last updated: 2026-10-10
+Last updated: 2026-10-12

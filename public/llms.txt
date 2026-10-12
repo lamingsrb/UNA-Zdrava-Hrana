@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Složenci s gljivama: 6 sočnih recepata za ručak](https://unazdravahrana.com/blog/slozenci-s-gljivama-6-socnih-recepata-za-rucak)
 - [Fibrilacija atrija i ishrana: šta zaista znamo, a šta ne](https://unazdravahrana.com/blog/fibrilacija-atrija-i-ishrana-sta-zaista-znamo-a-sta-ne)
 - [Pečeni kesten i dunja u ovsenom crumble-u sa čijom](https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-u-ovsenom-crumble-u-sa-cijom)
 - [Dunja pečena sa kestenom, čijom i heljdinim pahuljicama](https://unazdravahrana.com/recepti/dunja-pecena-sa-kestenom-cijom-i-heljdinim-pahuljicama)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Detoksikacija vodom: koliko piti i šta čaj tu zaista radi](https://unazdravahrana.com/blog/detoksikacija-vodom-koliko-piti-i-sta-caj-tu-zaista-radi)
 - [Voće za sitost: 5 plodova bogatih vlaknima](https://unazdravahrana.com/blog/voce-za-sitost-5-plodova-bogatih-vlaknima)
 - [Šećer u krvi na putu: 5 stvari koje ga ruše i šta da uradite](https://unazdravahrana.com/blog/secer-u-krvi-na-putu-5-stvari-koje-ga-ruse-i-sta-da-uradite)
-- [Povišeni trigliceridi? Pogledajte šta jedete za doručak](https://unazdravahrana.com/blog/poviseni-trigliceridi-pogledajte-sta-jedete-za-dorucak)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-10
+Last updated: 2026-10-12
