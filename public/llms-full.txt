@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja i kesten u tiganj-palačinkama od heljde
+
+https://unazdravahrana.com/recepti/dunja-i-kesten-u-tiganj-palacinkama-od-heljde
+
+Heljdine palačinke sa dinstanom dunjom i kestenom: bez glutena, belog brašna i šećera. Jesenji doručak za 50 minuta, sve u jednom tiganju.
+
+**Q: Može li se recept napraviti bez jajeta?**
+
+Može. Zamenite jaje jednom kašikom mlevenog lanenog semena umućenog u tri kašike vode, pa ostavite 5 minuta da se zgusne. Palačinke će biti malo nežnije, zato ih okrećite pažljivo.
+
+**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
+
+Heljda i kesten su prirodno bez glutena, ali heljdino brašno ponekad dolazi iz mlinova koji prerađuju i žitarice sa glutenom. Zato na pakovanju proverite oznaku da je proizvod bez glutena, a u radnji vam rado pokažemo odgovarajuće opcije.
+
+**Q: Čime mogu zameniti dunju ako je ne nađem?**
+
+Najbliža zamena je tvrda jesenja jabuka ili kruška, ali će vreme dinstanja biti kraće, oko 10 minuta. Ukus će biti blaži, pa po želji dodajte malo limunovog soka.
+
+**Q: Mogu li se palačinke zamrznuti?**
+
+Mogu. Ohlađene palačinke složite sa papirom za pečenje između i zamrznite u kutiji. Odmrznite na sobnoj temperaturi i kratko podgrejte u tiganju. Fil je bolje praviti svež.
+
+---
+
 ## Složenci s gljivama: 6 sočnih recepata za ručak
 
 https://unazdravahrana.com/blog/slozenci-s-gljivama-6-socnih-recepata-za-rucak
@@ -617,30 +641,6 @@ Na šporetu se kuva oko 10 minuta na tihoj vatri, poklopljena, a zatim se sklonj
 **Q: Da li je kvinoja bez glutena?**
 
 Kvinoja je prirodno bez glutena i smatra se pogodnom za ljude sa celijakijom. Rizik ipak postoji zbog unakrsne kontaminacije tokom uzgoja, prerade ili pakovanja, pa birajte proizvod koji je na pakovanju izričito označen kao bez glutena.
-
----
-
-## Tepsija od dunje, kestena i pečuraka sa heljdinom kašom
-
-https://unazdravahrana.com/recepti/tepsija-od-dunje-kestena-i-pecuraka-sa-heljdinom-kasom
-
-Jesenja tepsija od dunje, kestena i pečuraka sa heljdinom kašom. Sezonski, zasitan i jednostavan recept, bez glutena, spreman za oko sat vremena.
-
-**Q: Da li je ovo jelo bez glutena?**
-
-Heljda je prirodno bez glutena, a ostali sastojci takođe ne sadrže gluten. Ipak, ako neko u porodici ima celijakiju, birajte pakovanja heljde označena kao bezglutenska, jer se u preradi mogu pojaviti tragovi drugih žitarica.
-
-**Q: Mogu li kesten da zamenim nečim ako ga nemam?**
-
-Možete. Kesten je pretežno skrobni, pa ga lepo zamenjuje komadići pečene bundeve, batata ili kuvanog slanutka. Ukus će biti drugačiji, ali će jelo ostati zasitno.
-
-**Q: Zašto se semenke dunje uklanjaju?**
-
-Seme dunje sadrži jedinjenja koja se ne preporučuje jesti, pa se pre pripreme uvek uklanja zajedno sa jezgrom. Meso voća je potpuno bezbedno za jelo nakon pečenja.
-
-**Q: Koliko dugo se čuva jelo i može li se podgrevati?**
-
-U zatvorenoj posudi u frižideru do 2 dana. Podgrevajte u rerni ili tiganju uz malo vode, a orahe i semenke dodajte tek pre serviranja.
 
 ---
 
