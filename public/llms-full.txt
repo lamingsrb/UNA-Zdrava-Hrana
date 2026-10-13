@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pčelinji polen: doza, upozorenja i kako izabrati kvalitetan
+
+https://unazdravahrana.com/blog/pcelinji-polen-doza-upozorenja-i-kako-izabrati-kvalitetan
+
+Za pčelinji polen ne postoji zvanična doza, pa se preporučuje postepeno uvođenje od nekoliko zrnaca radi smanjenja rizika od alergije. Tekst objašnjava kome polen ne odgovara (alergičari, trudnice, dojilje, osobe na terapiji) i kako izabrati i čuvati kvalitetan proizvod.
+
+**Q: Koliko pčelinjeg polena treba uzimati dnevno?**
+
+Ne postoji opšteprihvaćena zvanična doza, a preporuke sa prodajnih i pčelarskih sajtova se razlikuju. Preporučuje se postepeno uvođenje: počnite sa nekoliko zrnaca uz doručak pa količinu polako povećavajte ako nema reakcije. Za dete se prvo posavetujte sa pedijatrom ili alergologom.
+
+**Q: Kome ne odgovara pčelinji polen?**
+
+Najveći rizik je alergija, pa oprez važi za alergičare na polen i pčelinje proizvode, osobe sa sezonskim alergijama ili alergijskom astmom. Trudnice i dojilje treba da izbegavaju polen zbog nedostatka podataka o bezbednosti. Ko pije lekove ili ima hroničnu bolest, treba da se pre upotrebe posavetuje sa lekarom.
+
+**Q: Kako da znam da li sam alergičan na pčelinji polen?**
+
+Počnite sa samo nekoliko zrnaca i pratite reakciju: svrab, osip, otok usana ili lica i kijanje znak su da odmah prekinete. Otežano disanje ili oticanje lica i grla je hitan slučaj koji zahteva hitnu lekarsku pomoć. Alergiju pouzdano utvrđuje samo alergolog.
+
+**Q: Kako se uzima pčelinji polen?**
+
+Najlakše je jesti ga onako kako je, kao posip preko jogurta, kaše, voćne salate ili u smutiju dodat na kraju. Neki proizvođači savetuju da se ne izlaže visokoj temperaturi, pa ga ne stavljajte u vrelu šolju. Jedite ga uz obrok, ne na prazan stomak.
+
+---
+
 ## Kakao i čaj za radni dan: šta nam studije kažu o sedenju
 
 https://unazdravahrana.com/blog/kakao-i-caj-za-radni-dan-sta-nam-studije-kazu-o-sedenju
@@ -620,28 +644,4 @@ Da. Svetska zdravstvena organizacija u slobodne šećere ubraja i med i sirupe, 
 
 ---
 
-## Da li je zelena salata nezdrava? Šta stoji iza te priče
-
-https://unazdravahrana.com/blog/da-li-je-zelena-salata-nezdrava-sta-stoji-iza-te-price
-
-Zelena salata je za većinu ljudi zdrava namirnica i koristan deo raznovrsne ishrane, a mit o njenoj "nezdravosti" potiče od pogrešnog shvatanja, straha od bakterija i teških preliva. Rizik od klica smanjuje se pranjem pod tekućom vodom, sušenjem i čuvanjem u hladnom frižideru, dok se pravi problem najčešće krije u preliv.
-
-**Q: Da li je zelena salata nezdrava?**
-
-Za veliku većinu ljudi nije. Zelena salata je lisnato povrće i koristan deo uravnotežene ishrane, uz malo kalorija i vlakna. Nije čudotvorna namirnica, ali nije ni štetna, a problem su najčešće teški prelivi.
-
-**Q: Kako se pravilno pere zelena salata?**
-
-Listove nežno protrljajte rukama pod tekućom vodom, a zatim ih osušite čistom krpom ili papirnim ubrusom. Ne potapajte ih u sudoperu i ne koristite sapun ni deterdžent. Prethodno uklonite spoljašnje i oštećene listove.
-
-**Q: Da li treba prati već opranu pakovanu salatu?**
-
-Ako na pakovanju piše da je oprana i spremna za jelo, ponovno pranje kod kuće nije potrebno. Oznake se razlikuju, pa pažljivo pročitajte uputstvo na samom pakovanju.
-
-**Q: Kako čuvati zelenu salatu da duže traje?**
-
-Čuvajte je u hladnom frižideru, na oko 4 °C ili manje, i pazite da listovi budu dobro suvi. Cele glavice traju duže od isečene salate, pa kupujte onoliko koliko ćete potrošiti i bacite listove koji su sluzavi ili neprijatno mirišu.
-
----
-
-Last updated: 2026-10-12
+Last updated: 2026-10-13
