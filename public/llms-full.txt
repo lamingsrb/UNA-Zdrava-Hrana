@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 5 vrsta voća za crevo: jabuka, kivi, kruška i društvo
+
+https://unazdravahrana.com/blog/5-vrsta-voca-za-crevo-jabuka-kivi-kruska-i-drustvo
+
+Članak pregleda pet vrsta voća koje gastroenterologinja dr Wendi LeBrett preporučuje pacijentima za zdravlje creva: jabuku, krušku, bobičasto voće, kivi i avokado, uz okvirne vrednosti vlakana po porciji. Naglašava postepeno uvođenje vlakana, preporuku SZO od najmanje 25 g dnevno i činjenicu da su dokazi o kiviju obećavajući, ali niske pouzdanosti.
+
+**Q: Koliko vlakana treba uneti dnevno?**
+
+Svetska zdravstvena organizacija preporučuje najmanje 25 g vlakana dnevno za osobe starije od 10 godina. Za decu od 2 do 5 godina preporuka je oko 15 g, a za uzrast od 6 do 9 godina oko 21 g.
+
+**Q: Koje voće ima najviše vlakana?**
+
+Među voćem iz članka maline prednjače sa oko 8 g vlakana u jednoj šolji (123 g). Slede kruška sa oko 5,5 g, kivi sa oko 5,4 g po šolji i jabuka sa korom sa oko 4,8 g po srednjem plodu. Avokado ima mnogo vlakana, ali broj zavisi od veličine i sorte ploda.
+
+**Q: Da li kivi pomaže kod zatvora?**
+
+Meta-analize iz 2022. pokazuju da kivi može povećati broj stolica nedeljno, ali je pouzdanost dokaza niska i potrebno je više većih studija. Zato ga treba shvatiti kao korisnu naviku za redovnost, a ne kao lek.
+
+**Q: Kako da povećam unos vlakana bez nadutosti?**
+
+Uvodite vlakna postepeno: dodajte jednu do dve porcije voća dnevno i pratite reakciju tela. Pijte dovoljno tečnosti, jer nagli skok unosa vlakana često izaziva nadutost i grčeve.
+
+---
+
 ## Pčelinji polen: doza, upozorenja i kako izabrati kvalitetan
 
 https://unazdravahrana.com/blog/pcelinji-polen-doza-upozorenja-i-kako-izabrati-kvalitetan
@@ -617,30 +641,6 @@ Najveći oprez je potreban kod osoba alergičnih na polen biljaka, sa sezonskim 
 **Q: Da li je pčelinji polen zaista zdrav?**
 
 Pčelinji polen je hranljiv dodatak ishrani, u proseku sa oko 54% ugljenih hidrata, 21% proteina i 5% masti, ali sastav jako varira prema poreklu i biljnim vrstama. Dokazi o koristi za zdravlje ljudi su još u ranoj fazi jer nedostaju intervencione studije na ljudima. Zato ne zamenjuje raznovrsnu ishranu niti lek.
-
----
-
-## Brz doručak za 2 minuta: ideja Snežane Paučinac i naša
-
-https://unazdravahrana.com/blog/brz-dorucak-za-2-minuta-ideja-snezane-paucinac-i-nasa
-
-Članak predstavlja brzu jesenju kašu sa jabukama i orasima koju je podelila nutricionistkinja Snežana Paučinac i objašnjava zašto ovas, orašasti plodovi i umeren unos slatkog čine dobar jutarnji obrok. Dodaje i praktične prilagodbe za decu, rekreativce, osobe bez laktoze ili glutena i početnike u kuhinji.
-
-**Q: Koliko traje priprema jesenje kaše sa jabukama i orasima Snežane Paučinac?**
-
-Prema izvornom članku, priprema traje oko dva minuta, otprilike koliko i kuvanje kafe. Kašu je moguće spremiti i bez kućnih aparata. Tačne količine i postupak pogledajte u originalnom receptu na sajtu Lepota i zdravlje.
-
-**Q: Zašto su ovsene pahuljice dobre za doručak?**
-
-Ovsene pahuljice sadrže vlakna, među njima i beta-glukan, pa doprinose osećaju sitosti. Prema USDA podacima, suve pahuljice imaju oko 10 g vlakana i oko 13 g proteina na 100 g. Vrednosti su okvirne, a tačan sastav piše na deklaraciji proizvoda.
-
-**Q: Koliko orašastih plodova je razumno jesti dnevno?**
-
-Najčešće se pominje jedna šaka dnevno, oko 28 g. Birajte neslane i sirove plodove jer slani nose dosta natrijuma. Prevelika količina odjednom može izazvati nadutost i bolove u stomaku zbog vlakana.
-
-**Q: Da li se javorov sirup i agava računaju kao dodati šećer?**
-
-Da. Svetska zdravstvena organizacija u slobodne šećere ubraja i med i sirupe, a preporučuje da oni čine manje od 10% dnevnog energetskog unosa, što je oko 50 g za odraslu osobu. U kaši sa jabukom često je dovoljna upola manja količina sirupa.
 
 ---
 
