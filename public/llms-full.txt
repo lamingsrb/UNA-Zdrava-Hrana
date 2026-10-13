@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečene dunje sa kestenom i bademom uz čia puding
+
+https://unazdravahrana.com/recepti/pecene-dunje-sa-kestenom-i-bademom-uz-cia-puding
+
+Topla pečena dunja sa kestenom i bademima preko hladnog čia pudinga. Bez belog šećera i brašna, gotovo za oko 50 minuta.
+
+**Q: Da li se semenke dunje smeju jesti?**
+
+Ne preporučuje se. Semenke dunje sadrže cijanogeni glikozid, zato jezgro sa semenkama uvek izvadite pre kuvanja i bacite.
+
+**Q: Može li se dezert napraviti bez meda?**
+
+Može. Zrela dunja je dovoljno aromatična da bude prijatna i sa manje meda, a možete ga zameniti javorovim sirupom ili izostaviti, pa slatkoću prilagoditi ukusu.
+
+**Q: Da li je ovaj recept bez glutena i laktoze?**
+
+Sastojci su prirodno bez glutena i bez mlečnih proizvoda. Pošto su kod intolerancija bitni tragovi i način proizvodnje, pročitajte deklaracije na pakovanjima ili pitajte u radnji.
+
+**Q: Kako da znam da je dunja dovoljno kuvana?**
+
+Probodite krišku viljuškom: kada ulazi bez otpora i kriška je mekana, ali ne raspala, gotova je. Zavisno od sorte i debljine kriški to traje oko 20 do 30 minuta.
+
+---
+
 ## Dunja i kesten u kremastoj supi od pečuraka sa čijom
 
 https://unazdravahrana.com/recepti/dunja-i-kesten-u-kremastoj-supi-od-pecuraka-sa-cijom
@@ -617,30 +641,6 @@ Da, zamrznute kockice manga su najpraktičniji oblik za smutije i sladoled. Isec
 **Q: Koliko kalorija i šećera ima mango?**
 
 Prema USDA podacima, sirov mango ima oko 60 kcal, 15 g ugljenih hidrata i oko 13,7 g šećera na 100 g, uz oko 36 mg vitamina C i oko 1,6 g vlakana. Vrednosti zavise od sorte i zrelosti, pa ih treba čitati kao okvirne.
-
----
-
-## Pečeni kesten i dunja sa heljdom u kajganici od pečuraka
-
-https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-sa-heljdom-u-kajganici-od-pecuraka
-
-Kajgana od pečuraka sa dunjom i kestenom uz heljdu: jesenji zdrav obrok za 50 minuta. Recept i saveti iz UNA Zdrave Hrane u Kragujevcu.
-
-**Q: Da li je ovaj recept bez glutena?**
-
-Heljda i kesten su prirodno bez glutena, a ostali sastojci takođe. Ako imate celijakiju, birajte heljdu sa oznakom da je bez glutena jer se može desiti unakrsna kontaminacija tokom prerade. Pitajte u radnji za proverene proizvode.
-
-**Q: Mogu li da koristim sirovu dunju bez kuvanja?**
-
-Dunja se retko jede sirova jer je tvrda i oporog ukusa, zato je u ovom receptu pečemo u tiganju. Kuvanje ili pečenje je blago smanjuje vitamin C, ali vlakna i pektin ostaju sačuvani.
-
-**Q: Čime mogu da zamenim kesten?**
-
-Ako nemate kesten, možete koristiti pečeni krompir ili batat u kockicama, ili jednostavno više heljde i orašastih plodova. Ukus će biti drugačiji, ali jelo ostaje sito i jesenje.
-
-**Q: Koje pečurke su najbolje za ovaj recept?**
-
-Šampinjoni i bukovače su idealni jer se brzo spremaju i lako se nabavljaju. Pazite da pečurke dolaze od proverenog uzgajivača ili da imaju deklaraciju, a divlje pečurke koristite samo ako ih je pregledao stručnjak.
 
 ---
 
