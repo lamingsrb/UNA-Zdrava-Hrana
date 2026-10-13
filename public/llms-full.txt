@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečurke i dunja u ražanim knedlama sa suvim šljivama
+
+https://unazdravahrana.com/recepti/pecurke-i-dunja-u-razanim-knedlama-sa-suvim-sljivama
+
+Ako vam se jesenji meni već vrti oko istih namirnica, ovaj recept donosi nešto drugačije: ražane knedle punjene pirjanim pečurkama, a uz njih sos od dunje i pečenog luka sa pirinčem iz tiganja. Nema dosadnog pečenja u rerni po ko zna koji put.
+
+**Q: Može li se recept pripremiti bez glutena?**
+
+Ražano brašno sadrži gluten. Za varijantu bez glutena koristite heljdino brašno i proverite da je označeno kao bezglutensko. Testo će biti nešto krhkije, pa knedle oblikujte pažljivo i kuvajte ih na blagom ključanju. U radnji vam rado savetujemo koje brašno da izaberete.
+
+**Q: Koje pečurke su najbolje za nadev?**
+
+Najlakše je koristiti šampinjone ili bukovače, jer su dostupni i imaju blag ukus. Važno je da ih dobro ispržite dok ne ispari sva tečnost, inače će nadev kvasiti testo. Divlje pečurke koristite samo ako ste potpuno sigurni da ih prepoznajete.
+
+**Q: Mogu li knedle da pripremim unapred?**
+
+Možete. Oblikovane, nekuvane knedle ostavite na pobrašnjenoj dasci u frižideru do nekoliko sati, a kuvajte ih neposredno pre posluživanja. Već skuvane se mogu čuvati do 2 dana u frižideru i podgrejati na tiganju.
+
+**Q: Zašto dunju kuvam, a ne pečem?**
+
+Dunja je tvrda i trpka dok je sirova, a kuvanjem u malo vode omekšava i dobija blagu slast. Tako se lako pretvara u grub sos koji se uklapa uz slane knedle. Ako više volite pečen ukus, možete je ispeći u rerni, ali će priprema trajati duže.
+
+---
+
 ## Biljni ili surutkin protein: šta da izaberem?
 
 https://unazdravahrana.com/blog/biljni-ili-surutkin-protein-sta-da-izaberem
@@ -617,30 +641,6 @@ Može, samo izaberite onaj bez dodatog šećera. Kuvan ili pečen oljušten kest
 **Q: Da li je dunja sirova jestiva?**
 
 Sirova dunja je tvrda i trpka, pa se gotovo uvek termički obrađuje. Seme dunje ne treba jesti, jer sadrži jedinjenja koja se u želucu razlažu do cijanovodonične kiseline, pa ga uklonite pre kuvanja.
-
----
-
-## Pečene dunje sa orasima i čijom uz kremasti jogurt
-
-https://unazdravahrana.com/recepti/pecene-dunje-sa-orasima-i-cijom-uz-kremasti-jogurt
-
-Pečene dunje sa medom, cimetom, orasima i čijom uz kremasti jogurt. Jednostavan jesenji desert bez glutena, gotov za sat vremena.
-
-**Q: Zašto se dunja ne jede sirova?**
-
-Sirova dunja je obično veoma tvrda i opora, pa se uglavnom priprema kuvanjem ili pečenjem. Toplota je omekšava i izvlači njenu prirodnu slatkoću i miris.
-
-**Q: Da li ovaj desert može da se pripremi unapred?**
-
-Može. Ispecite dunje dan ranije, čuvajte ih u frižideru i pred služenje ih ugrejte. Jogurt, orahe i čiju dodajte tek na kraju.
-
-**Q: Da li je recept bez glutena?**
-
-Sastojci sami po sebi ne sadrže gluten. Ako imate celijakiju, proverite deklaracije na orasima, čiji i jogurtu da nisu pakovani u pogonu sa glutenskim primesama.
-
-**Q: Mogu li da koristim dunje sa starog stabla iz dvorišta?**
-
-Naravno, domaće dunje su često i najukusnije. Samo ih dobro operite, uklonite jezgro sa semenkama i odsecite eventualno oštećene delove.
 
 ---
 
