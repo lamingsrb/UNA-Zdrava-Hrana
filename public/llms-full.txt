@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamini iz tegle: kome zaista trebaju, a kome ne
+
+https://unazdravahrana.com/blog/vitamini-iz-tegle-kome-zaista-trebaju-a-kome-ne
+
+Za zdrave odrasle koji se raznovrsno hrane, dokazi da multivitamini štite srce ili smanjuju rizik od raka su nedovoljni, dok su trudnice, osobe koje planiraju trudnoću i ljudi sa utvrđenim nedostatkom grupe kojima suplementi mogu imati smisla. Beta-karoten i vitamin E se ne preporučuju za prevenciju bolesti, a pri kombinovanju više preparata treba paziti na gornje podnošljive nivoe unosa.
+
+**Q: Da li zdrav čovek treba da uzima multivitamine?**
+
+Za zdrave odrasle koji se raznovrsno hrane, dokazi da multivitamini štite od srčanih bolesti ili raka su nedovoljni. To ne znači da su štetni, već da nema pouzdane potvrde koristi. Ako sumnjate na nedostatak, prvo proverite ishranu i krvnu sliku.
+
+**Q: Kome suplementi zaista imaju smisla?**
+
+Najjasniji primer su žene koje planiraju trudnoću ili mogu da zatrudne i trudnice, kojima se preporučuje folna kiselina (400–800 µg dnevno). Koristi mogu imati i osobe starije od 50 godina i ljudi sa utvrđenim nedostatkom, na primer vitamina D, uz preporuku lekara.
+
+**Q: Može li se pretrpeti šteta od previše vitamina?**
+
+Može. Beta-karoten je kod pušača povećao rizik od raka pluća, pa se on i vitamin E ne preporučuju za prevenciju bolesti. Za vitamin B6 gornja granica je 12,5 mg dnevno, a za vitamin E 300 mg. Pošto se unos iz više preparata sabira, uporedite deklaracije svega što uzimate.
+
+---
+
 ## Zašto paradajz ne crveni u vrućinama i kada ga brati
 
 https://unazdravahrana.com/blog/zasto-paradajz-ne-crveni-u-vrucinama-i-kada-ga-brati
@@ -653,30 +673,6 @@ Najbolje je da je pre pirjanja kratko prokuvaš u slanoj vodi, a pirjanje u tiga
 **Q: Da li ovo jelo može da se pripremi unapred?**
 
 Može se skuvati dan ranije i podgrejati na tiganju. Semenke i susam uvek dodaj tek pri služenju, da ostanu hrskavi.
-
----
-
-## Jesenji pilav od ovsa sa pečurkama, dunjom i kestenom
-
-https://unazdravahrana.com/recepti/jesenji-pilav-od-ovsa-sa-pecurkama-dunjom-i-kestenom
-
-Kad zahladi, poželimo nešto toplo, zasitno i mirisno, a da nas posle ne optereti. Ovaj pilav pravimo od celog ovsa (zrna), koji se kuva slično kao pirinač, ali ima prijatan, malo orašast zalogaj.
-
-**Q: Da li se oves mora potapati pre kuvanja?**
-
-Ne mora, ali potapanje od 20 minuta skraćuje kuvanje i zrna ravnomernije omekšaju. Ako ga preskočite, računajte na nešto duže kuvanje i po potrebi dodajte još vode.
-
-**Q: Može li se jelo spremiti bez dunje?**
-
-Može. Dunja daje blagu kiselkastu notu i aromu, ali je možete zameniti čvrstom jabukom ili kruškom. Jelo će biti slađe, pa smanjite med ili ga izostavite.
-
-**Q: Da li je jelo pogodno za ljude bez glutena?**
-
-Oves je sam po sebi bez glutena, ali se tokom prerade često kontaminira. Ako izbegavate gluten, birajte proizvod sa jasnom oznakom da je bez glutena. Za savet nas slobodno pitajte u radnji, a kod zdravstvenih ograničenja posavetujte se sa lekarom.
-
-**Q: Mogu li da pripremim jelo unapred?**
-
-Naravno. Skuvajte oves i ostavite ga odvojeno od pečuraka, dunje i kestena, pa sve spojite pri podgrevanju. Tako će tekstura ostati lepša.
 
 ---
 
