@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Superhrana u Srbiji: šta se isplati, kako se jede i gde
+
+https://unazdravahrana.com/blog/superhrana-u-srbiji-sta-se-isplati-kako-se-jede-i-gde
+
+Superhrana je marketinški, a ne naučni pojam, pa zvanične preporuke (SZO, Batut) i dalje stavljaju u prvi plan voće, povrće, integralne žitarice i mahunarke. Tekst objašnjava kako se koriste čia i domaće semenke, poput lana i suncokreta, koje su jeftinija alternativa egzotičnim namirnicama.
+
+**Q: Šta je superhrana i da li je to naučni pojam?**
+
+Superhrana nije naučna kategorija, već trgovački izraz za namirnice bogate hranljivim materijama. Nijedna namirnica sama po sebi ne popravlja ishranu, a u Evropskoj uniji se izraz „superfood“ sme koristiti samo uz odobrenu, konkretnu zdravstvenu tvrdnju.
+
+**Q: Koliko voća i povrća dnevno preporučuje Svetska zdravstvena organizacija?**
+
+SZO preporučuje najmanje 400 g voća i povrća dnevno za sve starije od 10 godina. Za decu od 2 do 5 godina preporuka je najmanje 250 g, a za uzrast 6–9 godina najmanje 350 g. Krompir, batat i drugi skrobni koreni se ne računaju u tih 400 g.
+
+**Q: Kako se koristi čia seme?**
+
+Kašiku čije potopite u jogurt ili mleko i ostavite preko noći, pa dobijate gust puding za doručak. Možete je dodati i u ovsenu kašu ili smuti. Čiu uvek ostavite da upije tečnost i ne gutajte je suvu u većoj količini.
+
+**Q: Da li je čia bolja od lanenog semena ili suncokreta?**
+
+Po sadržaju proteina nije: čia ima oko 16,5 g na 100 g, lan oko 18,3 g, a jezgro suncokreta oko 20,8 g. Lan i suncokret su jeftiniji i lakše dostupni, a čia se izdvaja teksturom jer pravi gel.
+
+---
+
 ## Pčelinji polen: kako ga birati, jesti i čuvati
 
 https://unazdravahrana.com/blog/pcelinji-polen-kako-ga-birati-jesti-i-cuvati
@@ -635,12 +659,6 @@ Ne, ako je kora čista i dobro oprana. Veliki deo vlakana nalazi se u kori: jabu
 ## Šećer u krvi na putu: 5 stvari koje ga ruše i šta da uradite
 
 https://unazdravahrana.com/blog/secer-u-krvi-na-putu-5-stvari-koje-ga-ruse-i-sta-da-uradite
-
----
-
-## Povišeni trigliceridi? Pogledajte šta jedete za doručak
-
-https://unazdravahrana.com/blog/poviseni-trigliceridi-pogledajte-sta-jedete-za-dorucak
 
 ---
 
