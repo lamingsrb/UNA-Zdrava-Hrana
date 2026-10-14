@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pčelinji polen: kako ga birati, jesti i čuvati
+
+https://unazdravahrana.com/blog/pcelinji-polen-kako-ga-birati-jesti-i-cuvati
+
+Pčelinji polen je cvetni prah koji pčele sabijaju u zrnca; prema srpskom pravilniku razlikuje se neosušeni (najmanje 60% suve materije) i osušeni (najmanje 92%), a sastav jako varira prema biljci i području. Zvanična optimalna doza ne postoji, pa se preporučuje postepeno uvođenje, dok su dokazi o zdravstvenim koristima uglavnom pretklinički.
+
+**Q: Šta je pčelinji polen?**
+
+Pčelinji polen je cvetni prah koji pčele skupljaju i sabijaju u mala zrnca, a pčelar ga hvata na ulazu u košnicu. To nije med, propolis ni mleč, već poseban pčelinji proizvod čija boja i sastav zavise od cveća sa kog potiče.
+
+**Q: Koliko pčelinjeg polena treba jesti dnevno?**
+
+Zvanično utvrđena optimalna doza ne postoji. Preporučuje se početi sa nekoliko zrnaca, najviše pola kašičice, pratiti reakciju nekoliko sati i tek onda postepeno povećavati količinu do one koja vam prija.
+
+**Q: Koja je razlika između svežeg i osušenog pčelinjeg polena?**
+
+Prema Pravilniku o kvalitetu meda i drugih proizvoda pčela, neosušeni (svež) polen mora imati najmanje 60% suve materije, a osušeni najmanje 92%. Osušeni polen je praktično suv proizvod, dok se vlažniji svež polen brže kvari.
+
+**Q: Da li pčelinji polen jača imunitet?**
+
+Za to nema dovoljno čvrstih kliničkih dokaza. Većina studija o polifenolima i antiinflamatornom dejstvu polena je eksperimentalna i pretklinička, pa polen treba shvatiti kao hranljiv dodatak ishrani, a ne kao lek.
+
+---
+
 ## Pečene dunje sa kestenom i bademom uz čia puding
 
 https://unazdravahrana.com/recepti/pecene-dunje-sa-kestenom-i-bademom-uz-cia-puding
@@ -620,28 +644,4 @@ https://unazdravahrana.com/blog/poviseni-trigliceridi-pogledajte-sta-jedete-za-d
 
 ---
 
-## Mango recepti: 7 jednostavnih ideja za smutije, deserte i
-
-https://unazdravahrana.com/blog/mango-recepti-7-jednostavnih-ideja-za-smutije-deserte-i
-
-Članak daje 7 jednostavnih recepata sa mangom (smutiji, čia puding, salata) koji se prave za oko 10 minuta, uz savete kako da prepoznate zreo plod. Objašnjava i kako se mango čuva na sobnoj temperaturi, u frižideru i zamrzivaču, te navodi okvirne hranljive vrednosti.
-
-**Q: Kako da prepoznam zreo mango?**
-
-Zrelost manga najbolje se procenjuje opipom, a ne bojom. Zreo plod blago popušta kad ga lagano pritisnete dlanom, a oko peteljke se ponekad oseti voćni miris. Boja kore zavisi od sorte, pa crvenkast obraz sam po sebi ne znači da je mango zreo.
-
-**Q: Kako se čuva mango?**
-
-Neosušen mango čuva se na sobnoj temperaturi dok ne sazri, a kad omekša prebacuje se u frižider, gde cele plodove možete držati okvirno do pet dana. Oguljen i iseckan mango stoji nekoliko dana u zatvorenoj posudi u frižideru, a u zamrzivaču do oko šest meseci.
-
-**Q: Može li zamrznut mango da se koristi za smuti?**
-
-Da, zamrznute kockice manga su najpraktičniji oblik za smutije i sladoled. Iseckajte mango, rasporedite kockice na tacnu da se ne slepe, pa ih sipajte u kesu. Za gušći, kašičarski smuti koristite zamrznut mango i manje tečnosti.
-
-**Q: Koliko kalorija i šećera ima mango?**
-
-Prema USDA podacima, sirov mango ima oko 60 kcal, 15 g ugljenih hidrata i oko 13,7 g šećera na 100 g, uz oko 36 mg vitamina C i oko 1,6 g vlakana. Vrednosti zavise od sorte i zrelosti, pa ih treba čitati kao okvirne.
-
----
-
-Last updated: 2026-10-13
+Last updated: 2026-10-14
