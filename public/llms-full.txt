@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečurke u dunja-kesten sosu uz heljdine njoke
+
+https://unazdravahrana.com/recepti/pecurke-u-dunja-kesten-sosu-uz-heljdine-njoke
+
+Evo jednog jesenjeg jela koje se kuva za nepun sat, a na tanjiru izgleda kao da ste se zaista potrudili: heljdini njoki sa pečurkama u sosu od dunje i kestena.
+
+**Q: Mogu li njoke da napravim bez glutena?**
+
+Heljda botanički nije žitarica i ne sadrži gluten, ali brašno se ponekad melje u pogonima gde se melje i pšenica. Ako je potpuna bezglutenska ishrana neophodna, pitajte u radnji za brašna sa jasnom oznakom da su bezglutenska.
+
+**Q: Može li se sos od dunje i kestena napraviti unapred?**
+
+Može. Sos se lako sprema dan unapred i čuva u frižideru u zatvorenoj posudi. Pre služenja ga samo zagrejte uz malo vode ili supe ako je pregust.
+
+**Q: Gde mogu da nađem pečen ili kuvan kesten van sezone?**
+
+Kuvan i očišćen kesten se prodaje vakumiran, pa ga lako koristite tokom cele godine. Za konkretan izbor i proizvođače pitajte u našoj radnji.
+
+**Q: Da li je ovo jelo pogodno za decu?**
+
+Jeste, ukus je blag i blago sladak od dunje. Samo obratite pažnju da su sve pečurke sigurne i dobro termički obrađene, a orahe za najmanje sitnije seckajte ili izostavite.
+
+---
+
 ## Krem čorba od pečuraka i kestena sa dunjom i bundevom
 
 https://unazdravahrana.com/recepti/krem-corba-od-pecuraka-i-kestena-sa-dunjom-i-bundevom
@@ -653,30 +677,6 @@ Prema EFSA, preporučeni unos je 95 mg dnevno za odrasle žene i 110 mg za odras
 **Q: Da li vitamin C iz hrane uklanja pigmentne mrlje?**
 
 Nema dokaza da oralni vitamin C smanjuje hiperpigmentacije. Zna se da podržava sintezu kolagena i pomaže zaštitu kože od UV oštećenja, naročito uz vitamin E, ali mrlje se rešavaju lokalnom negom i zaštitom od sunca.
-
----
-
-## Detoksikacija vodom: koliko piti i šta čaj tu zaista radi
-
-https://unazdravahrana.com/blog/detoksikacija-vodom-koliko-piti-i-sta-caj-tu-zaista-radi
-
-Telo samo čisti organizam preko jetre i bubrega, a voda te organe samo podržava; veće količine ne izbacuju toksine brže. EFSA preporučuje ukupno 2,0 L vode dnevno za žene i 2,5 L za muškarce (uključujući hranu), dok čajevi od koprive i maslačka imaju samo tradicionalnu primenu i određene mere opreza.
-
-**Q: Da li pijenje više vode izbacuje toksine iz organizma?**
-
-Ne postoje jaki dokazi za to. Jetra, bubrezi, pluća, creva i koža čiste telo svakog dana, a voda samo podržava njihov rad. Dovoljna hidratacija, manje alkohola i raznovrsna ishrana su ono što zaista pomaže.
-
-**Q: Koliko vode treba piti dnevno prema EFSA?**
-
-EFSA određuje adekvatan dnevni unos ukupne vode od 2,0 litra za žene i 2,5 litra za muškarce. U to ulaze voda za piće, ostala pića i vlaga iz hrane, pa iz pića dolazi otprilike 70–80% te količine.
-
-**Q: Može li se popiti previše vode?**
-
-Može. Preterano unošenje vode, naročito uz stroge detoks programe, može izazvati hiponatremiju, odnosno pad natrijuma u krvi, što je ređe ali ozbiljno stanje. Najbolji vodič su žeđ i svetla boja urina, a ne unapred zadat cilj od četiri litra.
-
-**Q: Da li je čaj od maslačka bezbedan za svakoga?**
-
-Nije. Maslačak može podsticati lučenje žuči, pa se ne preporučuje kod bolesti jetre, žučnih kamenaca i drugih bolesti žučnih puteva bez saveta lekara. Njegova upotreba se zasniva na tradiciji, a zaštitno dejstvo na jetru potvrđeno je uglavnom u studijama na životinjama.
 
 ---
 
