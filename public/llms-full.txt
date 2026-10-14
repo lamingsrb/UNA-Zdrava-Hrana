@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji ćuftići od pečuraka i kestena sa pečenom dunjom
+
+https://unazdravahrana.com/recepti/jesenji-cuftici-od-pecuraka-i-kestena-sa-pecenom-dunjom
+
+Pečeni ćuftići od pečuraka i kestena uz medom pečenu dunju. Zdrav jesenji ručak za sat vremena. Sastojke nađite u UNA Zdravoj Hrani.
+
+**Q: Mogu li ćuftiće da pripremim unapred?**
+
+Da. Smesu možete oblikovati i držati u frižideru do jednog dana pre pečenja, ili ispeći ćuftiće i podgrejati ih u rerni. U zatvorenoj posudi u frižideru stoje oko 3 dana.
+
+**Q: Da li je recept bez glutena?**
+
+Kesten, pečurke i dunja su prirodno bez glutena. Ovsene pahuljice mogu imati tragove glutena, pa ako izbegavate gluten, izaberite one označene kao bezglutenske i proverite deklaraciju. U radnji vam rado pomognemo oko izbora.
+
+**Q: Šta ako nemam dunju?**
+
+Možete je zameniti čvrstom jabukom ili krušku, ali ćete dobiti blaži ukus bez karakteristične dunjine kiselkastosti. Dunja kod nas dolazi u sezoni, otprilike od oktobra do decembra.
+
+**Q: Zašto se semenke dunje ne jedu?**
+
+Seme dunje sadrži izvesnu količinu cijanogenih glikozida, pa se uklanja pre pečenja. Meso voća je potpuno bezbedno i ukusno.
+
+---
+
 ## Superhrana u Srbiji: šta se isplati, kako se jede i gde
 
 https://unazdravahrana.com/blog/superhrana-u-srbiji-sta-se-isplati-kako-se-jede-i-gde
@@ -653,12 +677,6 @@ EFSA navodi 25 g vlakana dnevno kao dovoljno za normalan rad creva kod odraslih,
 **Q: Da li treba ljuštiti jabuku i krušku?**
 
 Ne, ako je kora čista i dobro oprana. Veliki deo vlakana nalazi se u kori: jabuka sa korom ima oko 2,4 g vlakana na 100 g, a oljuštena samo oko 1,3 g.
-
----
-
-## Šećer u krvi na putu: 5 stvari koje ga ruše i šta da uradite
-
-https://unazdravahrana.com/blog/secer-u-krvi-na-putu-5-stvari-koje-ga-ruse-i-sta-da-uradite
 
 ---
 
