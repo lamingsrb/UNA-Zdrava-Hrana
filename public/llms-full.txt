@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Paradajz: vitamini, minerali i likopen u jednom plodu
+
+https://unazdravahrana.com/blog/paradajz-vitamini-minerali-i-likopen-u-jednom-plodu
+
+Paradajz je niskokalorična namirnica (oko 18 kcal na 100 g) koja daje vitamin C, vitamin K, folate, kalijum i likopen, ali nije dominantan izvor ovih nutrijenata. Likopen se bolje iskorišćava iz kuvanog paradajza uz malo masnoće, dok sirov čuva više vitamina C, pa je najbolje kombinovati oba oblika.
+
+**Q: Koliko kalorija i koji vitamini i minerali se nalaze u paradajzu?**
+
+Sto grama sirovog zrelog paradajza ima oko 18 kcal, oko 13,7 mg vitamina C, 7,9 µg vitamina K, 15 µg folata i 237 mg kalijuma. Vrednosti variraju zavisno od sorte i zrelosti, pa ih treba shvatiti kao orijentir.
+
+**Q: Da li je zdraviji sirov ili kuvan paradajz?**
+
+Nijedan oblik nije bolji u svemu. Sirov paradajz čuva više vitamina C, a kuvan ili pečen daje likopen koji se bolje iskorišćava. Zato je najbolje kombinovati oba oblika tokom nedelje.
+
+**Q: Kako da telo bolje iskoristi likopen iz paradajza?**
+
+Likopen je liposolubilan, pa ga treba jesti uz masnoću, na primer uz maslinovo ulje, orahe ili avokado. Usitnjavanje i kuvanje takođe povećavaju njegovu dostupnost, a zagrevanje na oko 88 °C već posle 15 do 30 minuta povećava količinu likopena.
+
+**Q: Da li jedan paradajz pokriva dnevne potrebe za vitaminom C?**
+
+Ne. Sto grama paradajza daje oko 14 mg vitamina C, a EFSA preporučuje 110 mg dnevno za muškarce i 95 mg za žene. Ostatak treba nadoknaditi paprikom, citrusima, kupusom i drugim voćem i povrćem.
+
+---
+
 ## Čaj u štapiću: kako je nastao Schargo Tea i kako da
 
 https://unazdravahrana.com/blog/caj-u-stapicu-kako-je-nastao-schargo-tea-i-kako-da
@@ -631,30 +655,6 @@ Sastojci u receptu su prirodno bez glutena. Ako imaš celijakiju ili izraženu o
 ## Jedete li prvo povrće ili hleb? Redosled utiče na šećer
 
 https://unazdravahrana.com/blog/jedete-li-prvo-povrce-ili-hleb-redosled-utice-na-secer
-
----
-
-## Rog paprika: 7 recepata od pečenja do ajvara
-
-https://unazdravahrana.com/blog/rog-paprika-7-recepata-od-pecenja-do-ajvara
-
-Članak daje sedam ideja za rog papriku, od pečenja i punjenja do namaza, salate i domaćeg ajvara, uz savete za izbor i čuvanje paprike. Objašnjava i nutritivnu vrednost crvene paprike, uz napomenu da toplota smanjuje vitamin C i da zimnicu treba solitи umereno.
-
-**Q: Kako izabrati rog papriku za pečenje i ajvar?**
-
-Tražite duge, mesnate i glatke rogove tamnocrvene boje, čvrste i sjajne kože, sa svežom zelenom drškom. Paprika koja je teška za svoju veličinu ima više mesa, a manje vode i semenki. Izbegavajte mekane, naborane ili pegave komade, naročito oko drške.
-
-**Q: Kako čuvati rog papriku do pečenja?**
-
-Nekoliko dana je čuvajte u frižideru, u papirnoj kesi ili otvorenoj posudi, a ne u zatvorenoj plastici u kojoj se skuplja vlaga. Ako imate veću količinu, bolje je odmah planirati pečenje i spremanje zimnice.
-
-**Q: Koliko vitamina C ima crvena paprika i gubi li se pri pečenju?**
-
-Prema USDA bazi, 100 g sirove slatke crvene paprike ima oko 127,7 mg vitamina C i oko 26 kcal. To su okvirne vrednosti za slatku crvenu papriku, ne posebno za rog papriku. Toplota smanjuje vitamin C, dok vlakna i karotenoidi uglavnom ostaju u gotovom proizvodu.
-
-**Q: Kako napraviti domaći ajvar?**
-
-Ispecite paprike (po želji uz patlidžane), oljuštite ih, ocedite višak soka pa ih samelite ili iseckajte. Ukuvavajte na tihoj vatri uz stalno mešanje, uz ulje i so po ukusu, dok ne dobije gustinu. Solite postepeno, jer slani namazi i zimnica lako dodaju previše soli.
 
 ---
 
