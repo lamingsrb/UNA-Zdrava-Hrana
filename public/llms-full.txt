@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Granita od kafe: ledeni desert bez aparata za sladoled
+
+https://unazdravahrana.com/blog/granita-od-kafe-ledeni-desert-bez-aparata-za-sladoled
+
+Granita je sicilijanski poluzamrznuti desert koji se pravi od zaslađene kafe, plitke posude, zamrzivača i viljuške, bez mašine za sladoled. Članak daje recept (250 ml espresa, 250 ml vode, 80 g šećera), pravila za rastresitu teksturu i činjenice o kofeinu (EFSA) i zameni belog šećera kokosovim.
+
+**Q: Kako napraviti granitu od kafe bez aparata za sladoled?**
+
+Pomešajte 250 ml espresa, 250 ml vode i oko 80 g šećera, sipajte u plitku posudu i stavite u zamrzivač. Na svakih pola sata izgrebite smesu viljuškom; za oko tri sata dobijate rastresite kristale leda.
+
+**Q: Zašto mi se granita smrzla u čvrst blok?**
+
+Najčešći razlozi su duboka posuda, premalo šećera ili preskočeno struganje. Blok možete iseckati na kocke i kratko izmiksati sa malo hladne kafe, pa dobijate nešto između granite i frapea.
+
+**Q: Ima li granita od kafe kofeina?**
+
+Da, granita je i dalje kafa, a količina kofeina zavisi od jačine kafe koju koristite. EFSA navodi da za zdrave odrasle osobe pojedinačne doze do 200 mg i ukupan dnevni unos do 400 mg ne izazivaju zabrinutost, a za trudnice je granica 200 mg dnevno.
+
+**Q: Da li je kokosov šećer zdraviji od belog u granite?**
+
+Ne značajno: ima sličan broj kalorija i ugljenih hidrata kao beli šećer i računa se kao dodati šećer. Razlika u glikemijskom indeksu je mala, pa ga birajte zbog karamelastog ukusa, a ne zbog zdravlja.
+
+---
+
 ## Kremasti ječam sa dunjom, kestenom i sunčanicama
 
 https://unazdravahrana.com/recepti/kremasti-jecam-sa-dunjom-kestenom-i-suncanicama
@@ -649,30 +673,6 @@ Svako sveže voće operite pod mlazom hladne vode pre jela, kako savetuje i Batu
 **Q: Da li je uvozno voće loše za životnu sredinu?**
 
 Zavisi od načina prevoza, a ne samo od pređenih kilometara. Voće koje putuje brodom (banane, citrusi, avokado, ananas) ima znatno manji otisak od osetljivog voća koje stiže avionom. Prema Our World in Data, izbor namirnica obično znači više od toga da li su lokalne.
-
----
-
-## Kako izabrati prave proteine: vodič za svakog od nas
-
-https://unazdravahrana.com/blog/kako-izabrati-prave-proteine-vodic-za-svakog-od-nas
-
-Odrasloj osobi je prema EFSA potrebno oko 0,83 g proteina po kilogramu telesne mase dnevno, dok sportisti i stariji preporučeno unose više (od 1,0 do 2,0 g/kg). Najbolje je kombinovati životinjske i biljne izvore, jer komplementarnost biljnih proteina može nadoknaditi nižu pojedinačnu iskoristivost.
-
-**Q: Koliko proteina dnevno treba odrasloj osobi?**
-
-Evropska agencija za bezbednost hrane (EFSA) navodi referentni unos od 0,83 g proteina po kilogramu telesne mase dnevno. Za osobu od 70 kg to je oko 58 g na dan, a većina odraslih Evropljana to već unosi ishranom.
-
-**Q: Koliko proteina treba onima koji redovno treniraju?**
-
-Prema stavu Međunarodnog društva za sportsku ishranu (ISSN), većini onih koji redovno treniraju preporučuje se 1,4–2,0 g/kg dnevno. Kod izdržljivosti to je 1,0–1,6 g/kg, a kod snage i eksplozivnih sportova 1,6–2,0 g/kg.
-
-**Q: Da li starijim osobama treba više proteina?**
-
-Da, stručna društva (PROT-AGE, ESPEN) preporučuju zdravim osobama starijim od 65 godina najmanje 1,0–1,2 g/kg dnevno, a onima sa bolešću ili slabijim apetitom 1,2–1,5 g/kg. Ako imate bubrežne ili druge hronične probleme, količinu proteina dogovorite sa lekarom.
-
-**Q: Jesu li biljni proteini lošiji od životinjskih?**
-
-Nisu, ali pojedinačni biljni proteini često imaju niži kvalitet (DIAAS) od jaja ili mesa. Kombinovanjem različitih biljnih izvora, na primer žitarica i mahunarki, može se postići visoka efikasnost i samo iz biljaka.
 
 ---
 
