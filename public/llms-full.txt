@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Čaj u štapiću: kako je nastao Schargo Tea i kako da
+
+https://unazdravahrana.com/blog/caj-u-stapicu-kako-je-nastao-schargo-tea-i-kako-da
+
+---
+
 ## Granita od kafe: ledeni desert bez aparata za sladoled
 
 https://unazdravahrana.com/blog/granita-od-kafe-ledeni-desert-bez-aparata-za-sladoled
@@ -649,30 +655,6 @@ Prema USDA bazi, 100 g sirove slatke crvene paprike ima oko 127,7 mg vitamina C 
 **Q: Kako napraviti domaći ajvar?**
 
 Ispecite paprike (po želji uz patlidžane), oljuštite ih, ocedite višak soka pa ih samelite ili iseckajte. Ukuvavajte na tihoj vatri uz stalno mešanje, uz ulje i so po ukusu, dok ne dobije gustinu. Solite postepeno, jer slani namazi i zimnica lako dodaju previše soli.
-
----
-
-## Egzotično voće u Srbiji: da li ga treba jesti?
-
-https://unazdravahrana.com/blog/egzoticno-voce-u-srbiji-da-li-ga-treba-jesti
-
-Članak objašnjava da je za zdravlje važnije koliko voća jedete (najmanje pet porcija, 400 g dnevno) nego da li je domaće ili egzotično. Egzotično voće nema osnova za strah, ali ga treba oprati i birati pažljivo, uz domaće sezonsko voće kao osnovu ishrane.
-
-**Q: Da li je egzotično voće zdravo?**
-
-Jeste, ako vam pomaže da unesete preporučenih najmanje 400 g voća i povrća dnevno, odnosno pet porcija. Preporuke SZO i Instituta Batut ne prave razliku između domaćeg i egzotičnog voća, ali domaće sezonsko voće treba da ostane osnova ishrane.
-
-**Q: Da li je egzotično voće prskano više od domaćeg?**
-
-Nema osnova da se svako egzotično voće proglasi opasnim. EFSA beleži više prekoračenja dozvoljenih granica kod hrane iz trećih zemalja i kod pojedinih proizvoda, poput pitahaje i maracuje, ali ocenjuje da je rizik za potrošače u celini nizak.
-
-**Q: Kako oprati voće pre jela?**
-
-Svako sveže voće operite pod mlazom hladne vode pre jela, kako savetuje i Batut. Voće sa korom koju ne jedete, poput banane, manga, ananasa i avokada, operite pre sečenja da nož ne prenese koru na meso.
-
-**Q: Da li je uvozno voće loše za životnu sredinu?**
-
-Zavisi od načina prevoza, a ne samo od pređenih kilometara. Voće koje putuje brodom (banane, citrusi, avokado, ananas) ima znatno manji otisak od osetljivog voća koje stiže avionom. Prema Our World in Data, izbor namirnica obično znači više od toga da li su lokalne.
 
 ---
 
