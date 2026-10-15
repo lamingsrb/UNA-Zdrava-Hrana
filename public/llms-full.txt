@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji čorbast ćuvetč od pečuraka, kestena i dunje
+
+https://unazdravahrana.com/recepti/jesenji-corbast-cuvetc-od-pecuraka-kestena-i-dunje
+
+Jesenji ćuvetč od pečuraka, kestena i dunje: toplo varivo na tihoj vatri, bez glutena i mesa. Recept za 4 porcije, gotov za oko sat vremena.
+
+**Q: Može li se ovo varivo napraviti bez glutena?**
+
+Da, recept je prirodno bez glutena jer kesten, pečurke i dunja ne sadrže gluten. Samo pazite da supa i paradajz pire/ajvar koje koristite nemaju dodate sastojke sa glutenom, a za prilog izaberite heljdu ili pirinač umesto hleba.
+
+**Q: Zašto dunja mora da se kuva, može li sirova?**
+
+Sirova dunja je zbog taninâ trpka i oporog ukusa, pa se uglavnom jede kuvana, pečena ili u kompotu. U varivu omekša, oplemeni se i daje blagu voćnu kiselkastost.
+
+**Q: Mogu li da koristim smrznute ili konzervirane pečurke?**
+
+Možete, ali ocedite i dobro osušite konzervirane pečurke, a smrznute prvo propržite na jakoj vatri da ispare višak vode. Sveže pečurke daju najbolju teksturu i ukus.
+
+**Q: Kako da varivo bude gušće bez brašna?**
+
+Kesten radi posao: malo ga zgnječite kašikom o zid lonca pa će zgusnuti sos. Ako želite još gušće, krčkajte nepoklopljeno nekoliko minuta duže ili dodajte kašiku čije koja upija tečnost.
+
+---
+
 ## Vitamini iz tegle: kome zaista trebaju, a kome ne
 
 https://unazdravahrana.com/blog/vitamini-iz-tegle-kome-zaista-trebaju-a-kome-ne
@@ -652,28 +676,4 @@ Počnite sporo: jednom do dvaput nedeljno uveče, pa postepeno češće, uz hidr
 
 ---
 
-## Pečurke sa dunjom, kestenom i semenkama u tiganju
-
-https://unazdravahrana.com/recepti/pecurke-sa-dunjom-kestenom-i-semenkama-u-tiganju
-
-Kad se jesen uhoda, na stolu hoćemo nešto toplo, a opet lagano. Ovaj recept je brz tiganj od pečuraka, komadića dunje i kuvanog kestena, začinjen belim lukom i majčinom dušicom, a na kraju posut prženim semenkama bundeve i susama.
-
-**Q: Da li je ovo jelo bez glutena?**
-
-Same namirnice u receptu su bez glutena. Ako ga služiš uz heljdu ili pirinač, proveri na pakovanju da je proizvod označen kao bez glutena, jer se zrna ponekad mešaju sa žitaricama tokom prerade. Kod intolerancije ili celijakije to je važno, a u radnji možemo zajedno da pogledamo oznake.
-
-**Q: Mogu li da koristim konzervirani ili vakumirani kesten?**
-
-Može, ako je već kuvan i oljušten. Samo ga isecka i dodaj na kraju, kao u receptu. Pazi da nije slađen ili u sirupu, jer će jelo biti preslatko.
-
-**Q: Dunja mi je uvek trpka. Kako da je omekšam?**
-
-Najbolje je da je pre pirjanja kratko prokuvaš u slanoj vodi, a pirjanje u tiganju će dovršiti posao. Zrelija, žuta dunja je blaža od zelenkaste. Kriške dunje prija i malo meda ili kašika jabukovog sirćeta za balans, ako više voliš slađi ukus.
-
-**Q: Da li ovo jelo može da se pripremi unapred?**
-
-Može se skuvati dan ranije i podgrejati na tiganju. Semenke i susam uvek dodaj tek pri služenju, da ostanu hrskavi.
-
----
-
-Last updated: 2026-10-14
+Last updated: 2026-10-15

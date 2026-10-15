@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Jesenji čorbast ćuvetč od pečuraka, kestena i dunje](https://unazdravahrana.com/recepti/jesenji-corbast-cuvetc-od-pecuraka-kestena-i-dunje)
 - [Vitamini iz tegle: kome zaista trebaju, a kome ne](https://unazdravahrana.com/blog/vitamini-iz-tegle-kome-zaista-trebaju-a-kome-ne)
 - [Zašto paradajz ne crveni u vrućinama i kada ga brati](https://unazdravahrana.com/blog/zasto-paradajz-ne-crveni-u-vrucinama-i-kada-ga-brati)
 - [Pečurke u dunja-kesten sosu uz heljdine njoke](https://unazdravahrana.com/recepti/pecurke-u-dunja-kesten-sosu-uz-heljdine-njoke)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Fibrilacija atrija i ishrana: šta zaista znamo, a šta ne](https://unazdravahrana.com/blog/fibrilacija-atrija-i-ishrana-sta-zaista-znamo-a-sta-ne)
 - [Pečeni kesten i dunja u ovsenom crumble-u sa čijom](https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-u-ovsenom-crumble-u-sa-cijom)
 - [Dunja pečena sa kestenom, čijom i heljdinim pahuljicama](https://unazdravahrana.com/recepti/dunja-pecena-sa-kestenom-cijom-i-heljdinim-pahuljicama)
-- [Pita od dunje i ovsa bez maslaca i belog brašna](https://unazdravahrana.com/recepti/pita-od-dunje-i-ovsa-bez-maslaca-i-belog-brasna)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-14
+Last updated: 2026-10-15
