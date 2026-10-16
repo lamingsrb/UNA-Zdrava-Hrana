@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Preplanuli ten sa tanjira: šta stvarno pomaže, a šta je mit
+
+https://unazdravahrana.com/blog/preplanuli-ten-sa-tanjira-sta-stvarno-pomaze-a-sta-je-mit
+
+Hrana bogata karotenoidima, poput šargarepe i paradajza, može da podrži zdravlje kože, ali dokazi su skromni i nijedna namirnica ne zamenjuje kremu sa SPF 30 ili višim. Visoke doze beta-karotena iz suplemenata mogu povećati rizik od raka pluća kod pušača, pa je bezbednije birati celu hranu sa tanjira.
+
+**Q: Da li šargarepa zaista pomaže da se brže preplanemo?**
+
+Ne postoje pouzdani dokazi da šargarepa ubrzava tamnjenje. Beta-karoten iz hrane može malo da podrži otpornost kože na crvenilo od sunca, ali je efekat skroman i ne zamenjuje zaštitu. Preplanulost je i sama znak oštećenja kože od UV zračenja.
+
+**Q: Može li hrana da zameni kremu za sunčanje?**
+
+Ne može. Čak i namirnice bogate karotenoidima, kao što su paradajz i šargarepa, daju samo ograničenu podršku koži, a studije su male i rezultati se razilaze. Svetska zdravstvena organizacija preporučuje širokospektralnu kremu sa SPF 30 ili višim, nanetu 20 do 30 minuta pre izlaska i ponovo na svaka dva sata.
+
+**Q: Koje namirnice su dobre za kožu tokom leta?**
+
+Dobar izbor su šargarepa, paradajz, voće jarkih boja (kajsija, breskva, lubenica), lisnato povrće, orašasti plodovi i čia seme. Karotenoidi se bolje iskorišćavaju uz malo zdrave masti, pa paradajz kombinujte sa maslinovim uljem, a šargarepu sa šakom orašastih plodova.
+
+**Q: Da li je bezbedno uzimati suplemente beta-karotena za ten?**
+
+Nije preporučljivo. Studije ATBC i CARET pokazale su da visoke doze beta-karotena iz dodataka povećavaju rizik od raka pluća kod pušača. Taj rizik se ne odnosi na šargarepu i paradajz iz ishrane, pa je bolje karotenoide unositi hranom nego kapsulama.
+
+---
+
 ## Pečeni kesten i dunja u šarenoj salati sa tahini dresingom
 
 https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-u-sarenoj-salati-sa-tahini-dresingom
@@ -653,30 +677,6 @@ Može. Ispecite dunje s kestenom, ohladite ih i sačuvajte u frižideru do tri d
 **Q: Da li je ovaj recept pogodan za decu?**
 
 Jeste, ukus je blag i slatkast. Samo vodite računa da orasi i semenke budu sitnije seckani za mlađu decu, a med ne dajte deci mlađoj od godinu dana. Za sva pitanja o ishrani dece posavetujte se sa pedijatrom.
-
----
-
-## Pita od dunje i ovsa bez maslaca i belog brašna
-
-https://unazdravahrana.com/recepti/pita-od-dunje-i-ovsa-bez-maslaca-i-belog-brasna
-
-Kad se pomene pita od jabuka, svi pomislimo na testo sa puno maslaca i belog brašna. Ova jesenja pita ide drugim putem: dunja je ovde glavna zvezda, a "testo" je zapravo sočna smesa od ovsenih pahuljica, mlevenog badema i rendane dunje.
-
-**Q: Da li se dunja može jesti sirova?**
-
-Sirova dunja je tvrda i trpka, pa se retko jede takva. U ovom receptu se kratko propirja, što je omekšava i izvlači aromu. Semenke i središte uvek izvadite, jer se semenke ne jedu.
-
-**Q: Zašto pita nema maslac ni belo brašno, a ipak je sočna?**
-
-Sočnost dolazi od rendane dunje koja puštanjem soka vlaži ovsene pahuljice i mleveni badem. Mali deo masnoće dolazi iz ulja i oraštastih plodova, pa nam maslac nije potreban.
-
-**Q: Može li se pita napraviti bez meda?**
-
-Može. Možete smanjiti med na jednu kašiku ili ga izostaviti, a pitu zasladiti samo dunjom i malo cimeta. Ukus će biti manje sladak, ali i dalje prijatan. Ako želite drugi prirodni zaslađivač, pitajte nas u radnji.
-
-**Q: Da li je ova pita pogodna za ljude sa intolerancijom na gluten?**
-
-Moguće je, ako koristite ovsene pahuljice i prašak za pecivo sa oznakom da su bez glutena. Obične ovsene pahuljice mogu sadržati tragove glutena zbog zajedničke prerade. Za ozbiljnu celijakiju uvek proverite deklaraciju, a za zdravstvena pitanja posavetujte se sa lekarom.
 
 ---
 
