@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Povremeni post: šta nauka kaže, a šta je još otvoreno
+
+https://unazdravahrana.com/blog/povremeni-post-sta-nauka-kaze-a-sta-je-jos-otvoreno
+
+Povremeni post je pravilo o tome kada se jede, a ne šta, i može dovesti do gubitka težine, ali nema dokaza da je bolji od običnog smanjenja kalorija. Efekti na holesterol, šećer, pritisak i upalu su obećavajući, ali nedosledni i zasnovani na kratkim studijama, pa se post ne sme shvatiti kao lek.
+
+**Q: Šta je povremeni post?**
+
+Povremeni post je zajednički naziv za rasporede ishrane u kojima se obroci jedu u određenom vremenskom okviru, a ostatak vremena prolazi bez hrane. Nije dijeta sa spiskom namirnica, već pravilo o tome kada se jede. Najpoznatiji oblici su 12:12, 14:10, 16:8 i 18:6.
+
+**Q: Da li povremeni post pomaže pri mršavljenju?**
+
+Može dovesti do gubitka težine, ali nema dokaza da je u tome bolji od drugih načina da se jede manje. U jednoj meta-analizi 26 studija smanjenje težine bilo je oko 1,6 kg, a u istanbulskom ispitivanju režim 16:8 i običan manji unos kalorija dali su sličan rezultat, oko 7% manje težine.
+
+**Q: Utiče li povremeni post na holesterol i šećer u krvi?**
+
+Neke studije beleže niži ukupni holesterol, LDL i insulin, ali rezultati nisu jednoznačni. Jedna meta-analiza je našla i porast triglicerida, a druga nije našla značajnu korist za pritisak, glukozu i lipide u odnosu na samo smanjenje kalorija. Poboljšanja često prate gubitak težine, a ne sam sat obroka.
+
+**Q: Može li povremeni post da leči upalu ili artritis?**
+
+Ne. Preliminarni nalazi kod reumatoidnog artritisa ukazuju na manji bol u zglobovima i niže markere upale, ali su dokazi rasuti, dugoročnih studija nema i potrebna su dodatna randomizovana ispitivanja. Povremeni post se ne sme shvatiti kao lečenje.
+
+---
+
 ## Preplanuli ten sa tanjira: šta stvarno pomaže, a šta je mit
 
 https://unazdravahrana.com/blog/preplanuli-ten-sa-tanjira-sta-stvarno-pomaze-a-sta-je-mit
@@ -653,30 +677,6 @@ Sirova dunja je tvrda i trpka pa se retko jede takva. Kuvanjem, pirjanjem ili pe
 **Q: Kako da preliv ostane hrskav?**
 
 Ne pokrivajte posudu tokom pečenja i ne preterujte sa tečnošću u prelivu. Ako ga služite sutradan, kratko ga zagrejte u rerni, a ne u mikrotalasnoj.
-
----
-
-## Dunja pečena sa kestenom, čijom i heljdinim pahuljicama
-
-https://unazdravahrana.com/recepti/dunja-pecena-sa-kestenom-cijom-i-heljdinim-pahuljicama
-
-Dunja je prava jesenja namirnica, ali većina je pamti samo kao tvrdu, trpku voćku iz bakine ostave. Pečenjem dunja omekša, a trpkost se znatno ublaži, pa dobijete mirisno i nežno voće.
-
-**Q: Zašto se dunja ne jede sirova?**
-
-Sirova dunja je tvrda i sadrži mnogo tanina, zbog čega je trpka i neprijatna za jelo. Zato se najčešće kuva ili peče, a tada postaje mekana i slatkasta.
-
-**Q: Da li je ovaj dezert bezglutenski?**
-
-Dunja, kesten, heljda, orasi i čija prirodno ne sadrže gluten, ali heljdine pahuljice ponekad mogu biti pakovane u pogonima gde se prerađuju i druge žitarice. Ako vam je gluten problem, birajte pahuljice sa oznakom da su bezglutenske i pitajte nas u radnji.
-
-**Q: Može li se pripremiti unapred?**
-
-Može. Ispecite dunje s kestenom, ohladite ih i sačuvajte u frižideru do tri dana, a posip napravite i čuvajte odvojeno. Pred služenje dunje kratko podgrejte i dodajte posip.
-
-**Q: Da li je ovaj recept pogodan za decu?**
-
-Jeste, ukus je blag i slatkast. Samo vodite računa da orasi i semenke budu sitnije seckani za mlađu decu, a med ne dajte deci mlađoj od godinu dana. Za sva pitanja o ishrani dece posavetujte se sa pedijatrom.
 
 ---
 
