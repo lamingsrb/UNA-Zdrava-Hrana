@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji sivi ovsen tart od dunje, kestena i kakao nibsa
+
+https://unazdravahrana.com/recepti/jesenji-sivi-ovsen-tart-od-dunje-kestena-i-kakao-nibsa
+
+Jesenji tart od dunje i kestena sa korom od ovsa i oraha, bez belog brašna i šećera. Jednostavan recept za 1 sat. Sastojke nađite u UNA.
+
+**Q: Da li je ovaj tart bez glutena?**
+
+Kora ne sadrži pšenično brašno, a kesten je prirodno bez glutena. Ovas se često preradjuje u pogonima gde dolazi u kontakt sa glutenom, pa ako ste osetljivi ili imate celijakiju, uzmite ovsene pahuljice sa jasnom oznakom da su bez glutena i pitajte u radnji za odgovarajući izbor.
+
+**Q: Mogu li tart da pripremim dan ranije?**
+
+Može. Čak je i bolji sutradan, jer se nadev lepo stegne. Čuvajte ga pokrivenog u frižiteru i izvadite pola sata pre posluživanja.
+
+**Q: Čime mogu da zamenim med ako pravim tart za najmlađe?**
+
+Medu se ne preporučuje deci mlađoj od godinu dana, pa je za njih bolje zameniti ga pastom od urmi ili sirupom od urmi. Za stariju decu i odrasle med je u redu, ali sve zasladjivače koristite umereno.
+
+**Q: Zašto se dunja kuva, ne jede sirova?**
+
+Sirova dunja je tvrda i trpka zbog tanina. Kuvanjem ili pečenjem omekša i dobije sladak, mirisan ukus, a pektin koji sadrži pomaže da se nadev prirodno zgusne.
+
+---
+
 ## Čačanska kajsija: da li cena prati kvalitet?
 
 https://unazdravahrana.com/blog/cacanska-kajsija-da-li-cena-prati-kvalitet
@@ -635,30 +659,6 @@ Moguće je, ako koristite ovsene pahuljice i prašak za pecivo sa oznakom da su 
 ## Ulje paprene metvice za glavobolju: šta stvarno znamo
 
 https://unazdravahrana.com/blog/ulje-paprene-metvice-za-glavobolju-sta-stvarno-znamo
-
----
-
-## Vitamini za menopauzu: kako da izaberete pravi suplement
-
-https://unazdravahrana.com/blog/vitamini-za-menopauzu-kako-da-izaberete-pravi-suplement
-
-Suplementi ne leče menopauzu niti zamenjuju raznovrsnu ishranu, a jedina potvrđena zdravstvena tvrdnja odnosi se na kalcijum i vitamin D u očuvanju koštane mase posle menopauze. Pri izboru obratite pažnju na dnevnu dozu, jedinice mere, upis u bazu Ministarstva zdravlja i upozorenja za rizične grupe.
-
-**Q: Da li vitamini mogu da leče simptome menopauze?**
-
-Ne. Menopauza nastaje zbog pada nivoa estrogena, a ne zbog manjka vitamina, pa suplement može samo da dopuni ishranu. Srpski Pravilnik o dodacima ishrani zabranjuje da im se pripisuju svojstva lečenja bolesti.
-
-**Q: Koji sastojci imaju potvrđen efekat kod žena u postmenopauzi?**
-
-Za kalcijum, samostalno ili uz vitamin D, postoji zdravstvena tvrdnja o smanjenju gubitka koštane mase kod žena u postmenopauzi. Za ostale uobičajene sastojke, poput biljnih ekstrakata, posavetujte se sa lekarom ili farmaceutom.
-
-**Q: Koliko vitamina D dnevno je dovoljno za žene u menopauzi?**
-
-EFSA navodi adekvatan unos od 15 µg dnevno za odrasle, a NIH preporučuje 15 mcg (600 IU) za žene od 51 do 70 godina i 20 mcg (800 IU) posle 70. Razlike potiču iz različitih metoda, a gornja podnošljiva granica po EFSA iznosi 100 µg dnevno.
-
-**Q: Na šta da obratim pažnju na deklaraciji dodatka ishrani?**
-
-Proverite dnevnu dozu (ne samo dozu po tableti), jedinice mere, broj upisa u bazu Ministarstva zdravlja i upozorenja za trudnice, dojilje i osobe sa hroničnim bolestima. Nedostatak tih podataka je razlog za oprez.
 
 ---
 
