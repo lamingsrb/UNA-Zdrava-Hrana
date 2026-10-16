@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Bezglutenska testenina: kako izabrati pravu i šta proveriti](https://unazdravahrana.com/blog/bezglutenska-testenina-kako-izabrati-pravu-i-sta-proveriti)
 - [Paradajz: vitamini, minerali i likopen u jednom plodu](https://unazdravahrana.com/blog/paradajz-vitamini-minerali-i-likopen-u-jednom-plodu)
 - [Čaj u štapiću: kako je nastao Schargo Tea i kako da](https://unazdravahrana.com/blog/caj-u-stapicu-kako-je-nastao-schargo-tea-i-kako-da)
 - [Granita od kafe: ledeni desert bez aparata za sladoled](https://unazdravahrana.com/blog/granita-od-kafe-ledeni-desert-bez-aparata-za-sladoled)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [5 vrsta voća za crevo: jabuka, kivi, kruška i društvo](https://unazdravahrana.com/blog/5-vrsta-voca-za-crevo-jabuka-kivi-kruska-i-drustvo)
 - [Pčelinji polen: doza, upozorenja i kako izabrati kvalitetan](https://unazdravahrana.com/blog/pcelinji-polen-doza-upozorenja-i-kako-izabrati-kvalitetan)
 - [Kakao i čaj za radni dan: šta nam studije kažu o sedenju](https://unazdravahrana.com/blog/kakao-i-caj-za-radni-dan-sta-nam-studije-kazu-o-sedenju)
-- [Dunja i kesten u tiganj-palačinkama od heljde](https://unazdravahrana.com/recepti/dunja-i-kesten-u-tiganj-palacinkama-od-heljde)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-15
+Last updated: 2026-10-16

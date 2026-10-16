@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Bezglutenska testenina: kako izabrati pravu i šta proveriti
+
+https://unazdravahrana.com/blog/bezglutenska-testenina-kako-izabrati-pravu-i-sta-proveriti
+
+Članak objašnjava šta znači oznaka „bez glutena“ (do 20 mg/kg), kako prepoznati simbol precrtanog klasa i licencu, i po čemu se razlikuju kukuruzna, pirinčana, heljdina i testenina od leblebija. Savetuje da se uvek čita lista sastojaka, posebno kod heljde, i da se kod celijakije biraju proizvodi sa jasnom oznakom, a ne samo „prirodno bez glutena“.
+
+**Q: Šta znači oznaka „bez glutena“ na pakovanju testenine?**
+
+Znači da gotov proizvod sadrži najviše 20 mg glutena po kilogramu (20 ppm). Tu granicu propisuju Uredba (EU) 828/2014 i srpski pravilnik, a ista vrednost se koristi i u međunarodnom standardu Codex.
+
+**Q: Kako prepoznati bezglutensku testeninu na polici u Srbiji?**
+
+Tražite natpis „bez glutena“ i/ili simbol precrtanog klasa pšenice sa registracionim brojem licence. Znak u Srbiji dodeljuje Udruženje Srbije za celijakiju u okviru sistema AOECS. Ne oslanjajte se samo na reč „kukuruzna“ ili „pirinčana“ u nazivu.
+
+**Q: Da li je heljdina testenina uvek bez glutena?**
+
+Nije. Heljda prirodno ne sadrži gluten, ali se može kontaminirati pri mlevenju, a neke heljdine testenine (poput soba rezanaca) prave se uz dodatak pšeničnog brašna. Zato uvek pročitajte listu sastojaka i potražite oznaku „bez glutena“.
+
+**Q: Koja bezglutenska testenina je dobar prvi izbor za početnike i decu?**
+
+Kukuruzna i pirinčana testenina imaju blag, neutralan ukus i lako se prihvataju, pa su dobar prvi izbor za one koji tek prelaze na ishranu bez glutena i za decu. Testenina od leblebija ima čvršći zalogaj i izraženiji ukus, a vrednosti proteina i vlakana proverite na deklaraciji.
+
+---
+
 ## Paradajz: vitamini, minerali i likopen u jednom plodu
 
 https://unazdravahrana.com/blog/paradajz-vitamini-minerali-i-likopen-u-jednom-plodu
@@ -652,10 +676,4 @@ Sastojci u receptu su prirodno bez glutena. Ako imaš celijakiju ili izraženu o
 
 ---
 
-## Jedete li prvo povrće ili hleb? Redosled utiče na šećer
-
-https://unazdravahrana.com/blog/jedete-li-prvo-povrce-ili-hleb-redosled-utice-na-secer
-
----
-
-Last updated: 2026-10-15
+Last updated: 2026-10-16
