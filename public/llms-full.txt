@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni kesten i dunja u šarenoj salati sa tahini dresingom
+
+https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-u-sarenoj-salati-sa-tahini-dresingom
+
+Kad se spoje slatkast pečeni kesten, aromatična, trpka dunja i prženi šampinjoni, dobijete jesenju salatu koja je topla, sita i sasvim drugačija od letnjih zelenih lista.
+
+**Q: Može li se dunja jesti sirova u ovoj salati?**
+
+Sirova dunja je trpka i tvrda, pa se obično ne jede sveža. Zato je u ovom receptu kratko propržimo da omekša i dobije slatkasti ukus, a da ne izgubi zalogaj.
+
+**Q: Da li je salata bez glutena i laktoze?**
+
+Po sastojcima jeste, jer ne sadrži žitarice sa glutenom ni mlečne proizvode. Kesten je prirodno bez glutena, a dresing je na bazi tahinija. Ako imate celijakiju ili težu intoleranciju, proverite deklaracije proizvoda koje kupujete.
+
+**Q: Mogu li da koristim kuvan kesten iz teglice ili kesice?**
+
+Možete, samo izaberite onaj bez dodatog šećera ili sirupa. Kesten se u ovoj salati dodaje na kraju, pa ga je dovoljno samo prelomiti i po želji kratko podgrejati.
+
+**Q: Da li se salata može pripremiti unapred?**
+
+Delimično. Dresing i pečene sastojke možete pripremiti dan ranije i čuvati odvojeno u frižideru, a zelene listove tek pred služenje spojiti sa njima. Tako zelenilo ostane hrskavo.
+
+---
+
 ## Jesenji sivi ovsen tart od dunje, kestena i kakao nibsa
 
 https://unazdravahrana.com/recepti/jesenji-sivi-ovsen-tart-od-dunje-kestena-i-kakao-nibsa
@@ -653,12 +677,6 @@ Može. Možete smanjiti med na jednu kašiku ili ga izostaviti, a pitu zasladiti
 **Q: Da li je ova pita pogodna za ljude sa intolerancijom na gluten?**
 
 Moguće je, ako koristite ovsene pahuljice i prašak za pecivo sa oznakom da su bez glutena. Obične ovsene pahuljice mogu sadržati tragove glutena zbog zajedničke prerade. Za ozbiljnu celijakiju uvek proverite deklaraciju, a za zdravstvena pitanja posavetujte se sa lekarom.
-
----
-
-## Ulje paprene metvice za glavobolju: šta stvarno znamo
-
-https://unazdravahrana.com/blog/ulje-paprene-metvice-za-glavobolju-sta-stvarno-znamo
 
 ---
 
