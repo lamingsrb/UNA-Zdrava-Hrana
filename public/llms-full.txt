@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kvinoja: kako se kuva i da li je zaista bez glutena?
+
+https://unazdravahrana.com/blog/kvinoja-kako-se-kuva-i-da-li-je-zaista-bez-glutena
+
+Kvinoja je seme biljke iz Anda koje se jede kao žitarica, prirodno je bez glutena i sadrži svih devet esencijalnih aminokiselina. Kuva se nakon ispiranja u odnosu oko 1:2 sa vodom, a osobe sa celijakijom treba da biraju pakovanja označena kao „bez glutena“ i da se konsultuju sa lekarom.
+
+**Q: Kako se kuva kvinoja?**
+
+Kvinoju prvo isperite u situ pod hladnom vodom oko 30 sekundi da uklonite gorke saponine. Zatim je kuvajte u odnosu 1:2 sa vodom: kad provri, smanjite vatru, poklopite i krčkajte oko 15 minuta, pa ostavite da odstoji. Ako zrna ispadnu previše meka, sledeći put smanjite vodu na oko 1,5 do 1,75 šolje po šolji kvinoje.
+
+**Q: Da li kvinoja sadrži gluten?**
+
+Kvinoja prirodno ne sadrži gluten, pa je čest izbor ljudi koji izbegavaju pšenicu, ječam i raž. Međutim, postoji rizik od unakrsne kontaminacije u preradi i pakovanju, a pojedine sorte mogu sadržati epitope koji kod osoba sa celijakijom izazivaju reakciju. Zato obolelima savetujemo pakovanja sa oznakom „bez glutena“.
+
+**Q: Da li je kvinoja bezbedna za osobe sa celijakijom?**
+
+Jedna manja klinička studija sa 19 osoba pokazala je da su 50 g kvinoje dnevno tokom šest nedelja dobro podnosili, ali to nije dokaz za sve obolele. Druga studija je kod nekih sorti našla epitope koji mogu izazvati reakciju. Pre uvođenja kvinoje u ishranu razgovarajte sa lekarom ili nutricionistom i birajte označena pakovanja bez glutena.
+
+**Q: Koja je razlika između bele, crvene i crne kvinoje?**
+
+Crvena i crna kvinoja duguju boju betalainima i u nekim studijama imaju viši sadržaj polifenola od bele. Rezultati o proteinima, vlaknima i mineralima se ne slažu, pa nijedna boja nije dokazano „najzdravija“. U kuhinji je bela najblaža i najmekša, crvena ostaje čvršća i razdvojenija, a crna ima najizraženiji ukus i najhrskaviju teksturu.
+
+---
+
 ## Bezglutenska testenina: kako izabrati pravu i šta proveriti
 
 https://unazdravahrana.com/blog/bezglutenska-testenina-kako-izabrati-pravu-i-sta-proveriti
@@ -649,30 +673,6 @@ Naravno, šampinjoni i bukovače su idealni za ovo jelo jer se brzo pirjaju. Za 
 **Q: Koliko dugo se jelo čuva i može li se zamrznuti?**
 
 U frižideru stoji do 2 dana u zatvorenoj posudi. Zamrzavanje je moguće, ali heljda i pečurke posle odmrzavanja mogu postati mekše. Za najbolji ukus pripremite sveže.
-
----
-
-## Pečurke i dunja u tepsiji sa kestenom i bademima
-
-https://unazdravahrana.com/recepti/pecurke-i-dunja-u-tepsiji-sa-kestenom-i-bademima
-
-Jesen u Kragujevcu ima svoj miris: pečeni kesten, dunja koja ispuni celu kuću i pečurke sa pijace. Ovaj recept spaja sva tri u jednu tepsiju koju pripremaš bez mnogo posla: iseckaš, začiniš, ubaciš u rernu i pustiš da pečenje odradi ostalo.
-
-**Q: Može li se dunja jesti sirova?**
-
-Sirova dunja je veoma tvrda, kisela i opora, pa se najčešće priprema pečena, kuvana ili u kompotu. Toplotna obrada je čini mekom i slađom, zato je u ovom receptu pečemo u rerni.
-
-**Q: Kako da pripremim svež kesten da se lakše ljušti?**
-
-Zaseci ljusku pre kuvanja ili pečenja, skuvaj ga dvadesetak minuta i ljušti dok je topao. Kada se ohladi, ljuska se čvršće drži. Sirov kesten se ne jede, jer je gorak i brašnjav, a toplota ga čini slatkim i jestivim.
-
-**Q: Mogu li da koristim divlje pečurke?**
-
-Preporučujemo kupovne pečurke poznatog porekla, poput šampinjona ili bukovača. Divlje pečurke beri i koristi samo ako ih sigurno prepoznaješ ili ih je pregledao stručnjak, a u slučaju sumnje bolje ih ne jedi.
-
-**Q: Da li je ovo jelo bez glutena?**
-
-Sastojci u receptu su prirodno bez glutena. Ako imaš celijakiju ili izraženu osetljivost, proveri deklaracije na začinima i dodacima, a za savet o proizvodima bez glutena pitaj u radnji.
 
 ---
 
