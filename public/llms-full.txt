@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Čačanska kajsija: da li cena prati kvalitet?
+
+https://unazdravahrana.com/blog/cacanska-kajsija-da-li-cena-prati-kvalitet
+
+---
+
 ## Kvinoja: kako se kuva i da li je zaista bez glutena?
 
 https://unazdravahrana.com/blog/kvinoja-kako-se-kuva-i-da-li-je-zaista-bez-glutena
@@ -653,26 +659,6 @@ EFSA navodi adekvatan unos od 15 µg dnevno za odrasle, a NIH preporučuje 15 mc
 **Q: Na šta da obratim pažnju na deklaraciji dodatka ishrani?**
 
 Proverite dnevnu dozu (ne samo dozu po tableti), jedinice mere, broj upisa u bazu Ministarstva zdravlja i upozorenja za trudnice, dojilje i osobe sa hroničnim bolestima. Nedostatak tih podataka je razlog za oprez.
-
----
-
-## Pirjane pečurke sa heljdom, semenkama i kajsijama
-
-https://unazdravahrana.com/recepti/pirjane-pecurke-sa-heljdom-semenkama-i-kajsijama
-
-Kad se dani skrate i kiša zakuca na prozor, ovakvo jelo je pravi izbor: topla, zasitna posuda od heljde, pirjanih pečuraka i hrskavih semenki, sa malo slatkoće od suvih kajsija. Sprema se u jednom tiganju i loncu, za oko pola sata, a miriše kao jesen u kuhinji.
-
-**Q: Da li je ovo jelo bez glutena?**
-
-Heljda sama po sebi ne sadrži gluten, ali se ponekad pakuje u pogonima gde se obrađuju i žitarice sa glutenom. Ako imate celijakiju ili osetljivost, potražite pakovanje sa jasnom oznakom "bez glutena" i proverite i sojin sos, koji često sadrži pšenicu.
-
-**Q: Mogu li da koristim obične šampinjone iz prodavnice?**
-
-Naravno, šampinjoni i bukovače su idealni za ovo jelo jer se brzo pirjaju. Za ukus možete kombinovati obe vrste. Pečurke se uvek peku ili pirjaju do kraja, ne jedu se sirove u ovakvim jelima.
-
-**Q: Koliko dugo se jelo čuva i može li se zamrznuti?**
-
-U frižideru stoji do 2 dana u zatvorenoj posudi. Zamrzavanje je moguće, ali heljda i pečurke posle odmrzavanja mogu postati mekše. Za najbolji ukus pripremite sveže.
 
 ---
 
