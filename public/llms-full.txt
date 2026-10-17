@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## NBC Kids: škola kuvanja za decu i kako da kuvate zajedno
+
+https://unazdravahrana.com/blog/nbc-kids-skola-kuvanja-za-decu-i-kako-da-kuvate-zajedno
+
+NBC Kids je škola hrane i kuvanja za decu i tinejdžere od 5 do 17 godina, koju je pokrenula Vanja Puškar u okviru koncepta New Balkan Cuisine, sa četiri uzrasna nivoa i sezonskim modulima. Tekst objašnjava šta istraživanja kažu o kuvanju sa decom, navodi preporuke SZO za dečju ishranu i daje savete kako da zajedno kuvate kod kuće.
+
+**Q: Šta je NBC Kids i za koji uzrast je namenjen?**
+
+NBC Kids je škola hrane i kuvanja za decu i tinejdžere od 5 do 17 godina, koju je pokrenula Vanja Puškar iz New Balkan Cuisine. Program ima četiri nivoa: Explorer (5–7), Maker (8–10), Cook (11–13) i Creator (14–17 godina). Sadržaj se kroz sezonske module postepeno nadograđuje, pa polaznici stiču sve veću samostalnost.
+
+**Q: Da li kuvanje sa decom zaista utiče na zdrave navike?**
+
+Kuvanje sa decom podržava znanje o hrani i samopouzdanje u kuhinji, a postoje blagi, ali ne i konačni dokazi o većem unosu povrća. Sistematski pregled 21 studije pokazao je mali pozitivan efekat, a programi sa više od šest sati kuvanja imali su najveći uticaj. Nijedan kurs ne menja jelovnik preko noći, ali dete koje učestvuje u pripremi lakše prihvata nove ukuse.
+
+**Q: Koliko voća i povrća dete treba da jede dnevno prema SZO?**
+
+Preporuka zavisi od uzrasta: deca od 2 do 5 godina najmanje 250 g dnevno, deca od 6 do 9 godina najmanje 350 g, a svi stariji od 10 godina najmanje 400 g dnevno. Zato za mlađe polaznike nije potrebno 400 g. Ugljene hidrate bi trebalo unositi pre svega iz integralnih žitarica, povrća, voća i mahunarki.
+
+**Q: Kako da dete uključim u kuvanje kod kuće?**
+
+Mališani od 5 do 7 godina mogu da peru povrće, kidaju začinsko bilje i mešaju testo drvenom kašikom. Osnovci mogu da počnu sa prvim sečenjem i merenjem, uz odgovarajući nož i nadzor. Cilj nije savršen rezultat, već dodir sa namirnicom i osećaj da je obrok i njihovo delo.
+
+---
+
 ## Povremeni post: šta nauka kaže, a šta je još otvoreno
 
 https://unazdravahrana.com/blog/povremeni-post-sta-nauka-kaze-a-sta-je-jos-otvoreno
@@ -660,24 +684,4 @@ Ne. Ishrana je deo sveobuhvatne kontrole faktora rizika i načina života, ali n
 
 ---
 
-## Pečeni kesten i dunja u ovsenom crumble-u sa čijom
-
-https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-u-ovsenom-crumble-u-sa-cijom
-
-Topli ovseni crumble sa dunjom, kestenom, bademima i čijom. Bez maslaca i belog brašna, gotov za sat vremena. Jesenji recept iz UNA Zdrave Hrane.
-
-**Q: Može li se crumble napraviti bez glutena?**
-
-Može. Kesten je prirodno bez glutena, a ovsene pahuljice treba da budu označene kao bezglutenske, jer se obični ovas često obrađuje uz žitarice koje sadrže gluten. U radnji vam možemo pokazati šta imamo na stanju, a ako imate celijakiju, svakako se konsultujte sa lekarom.
-
-**Q: Da li je dunja jestiva sirova?**
-
-Sirova dunja je tvrda i trpka pa se retko jede takva. Kuvanjem, pirjanjem ili pečenjem postaje mekana i slatkastija, a vlakna i pektin se tokom kuvanja čuvaju.
-
-**Q: Kako da preliv ostane hrskav?**
-
-Ne pokrivajte posudu tokom pečenja i ne preterujte sa tečnošću u prelivu. Ako ga služite sutradan, kratko ga zagrejte u rerni, a ne u mikrotalasnoj.
-
----
-
-Last updated: 2026-10-16
+Last updated: 2026-10-17
