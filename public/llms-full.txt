@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Maslinovo ulje: kako da izaberete pravo i čemu služi u
+
+https://unazdravahrana.com/blog/maslinovo-ulje-kako-da-izaberete-pravo-i-cemu-sluzi-u
+
+---
+
 ## Orzo sa pečurkama, dunjom i kestenom iz jedne tepsije
 
 https://unazdravahrana.com/recepti/orzo-sa-pecurkama-dunjom-i-kestenom-iz-jedne-tepsije
@@ -657,30 +663,6 @@ Za to nema potvrde. EFSA je 2018. zaključila da veza između crnog čaja i oču
 **Q: Šta je najbolje za one koji sede ceo dan?**
 
 Kretanje. SZO preporučuje 150–300 minuta aerobne aktivnosti umerenog intenziteta nedeljno, vežbe jačanja mišića 2 ili više dana nedeljno i smanjenje sedentarnog ponašanja. Kakao je eventualno dodatak, ne zamena za ustajanje sa stolice.
-
----
-
-## Dunja i kesten u tiganj-palačinkama od heljde
-
-https://unazdravahrana.com/recepti/dunja-i-kesten-u-tiganj-palacinkama-od-heljde
-
-Heljdine palačinke sa dinstanom dunjom i kestenom: bez glutena, belog brašna i šećera. Jesenji doručak za 50 minuta, sve u jednom tiganju.
-
-**Q: Može li se recept napraviti bez jajeta?**
-
-Može. Zamenite jaje jednom kašikom mlevenog lanenog semena umućenog u tri kašike vode, pa ostavite 5 minuta da se zgusne. Palačinke će biti malo nežnije, zato ih okrećite pažljivo.
-
-**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten?**
-
-Heljda i kesten su prirodno bez glutena, ali heljdino brašno ponekad dolazi iz mlinova koji prerađuju i žitarice sa glutenom. Zato na pakovanju proverite oznaku da je proizvod bez glutena, a u radnji vam rado pokažemo odgovarajuće opcije.
-
-**Q: Čime mogu zameniti dunju ako je ne nađem?**
-
-Najbliža zamena je tvrda jesenja jabuka ili kruška, ali će vreme dinstanja biti kraće, oko 10 minuta. Ukus će biti blaži, pa po želji dodajte malo limunovog soka.
-
-**Q: Mogu li se palačinke zamrznuti?**
-
-Mogu. Ohlađene palačinke složite sa papirom za pečenje između i zamrznite u kutiji. Odmrznite na sobnoj temperaturi i kratko podgrejte u tiganju. Fil je bolje praviti svež.
 
 ---
 
