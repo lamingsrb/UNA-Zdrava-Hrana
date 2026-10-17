@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vežbanje po vrućini: 7 grešaka koje ne smete da pravite
+
+https://unazdravahrana.com/blog/vezbanje-po-vrucini-7-gresaka-koje-ne-smete-da-pravite
+
+Članak objašnjava kako bezbedno vežbati po vrućini: naporne treninge treba pomeriti na rano jutro, a Batut savetuje izbegavanje boravka napolju od 10 do 17 časova. Opisuje česte greške, poput verovanja da je znojenje mera uspeha, pijenja premalo ili previše vode i izbora pogrešnog napitka.
+
+**Q: Koje je najbolje vreme za vežbanje po vrućini?**
+
+Naporan trening je najbezbednije ostaviti za rano jutro. Batut savetuje da se boravak na otvorenom, kao i naporni treninzi, izbegavaju od 10 do 17 časova, a ako se aktivnost ne može odložiti, preporučuje najhladniji deo dana, između 4 i 7 ujutru.
+
+**Q: Da li je više znojenja znak boljeg treninga?**
+
+Ne. Znoj je način na koji se telo hladi, a ne dokaz da topite masnoće. Gubitak težine posle treninga na pripeci je uglavnom tečnost koja se vraća čim popijete vodu. Znojenjem se gube i voda i so, pa duži i jači trening na vrućini znači veći gubitak oba.
+
+**Q: Koliko vode treba piti kada vežbamo po vrućini?**
+
+Batut za zdrave odrasle savetuje 8 do 10 čaša vode dnevno, uz 1 do 3 dodatne čaše za svaki sat fizičke aktivnosti. Pijte redovno u gutljajima, ne litar odjednom, i ne više nego što ste izgubili znojenjem, jer preterano pijenje može dovesti do opasno niskog nivoa natrijuma u krvi.
+
+**Q: Šta je najbolje piti tokom vežbanja leti?**
+
+Batut preporučuje vodu sobne temperature, a ne hladne gazirane slatke napitke ili energetska pića. Za kraće vežbanje, do otprilike sat vremena, obična voda je dovoljna.
+
+---
+
 ## NBC Kids: škola kuvanja za decu i kako da kuvate zajedno
 
 https://unazdravahrana.com/blog/nbc-kids-skola-kuvanja-za-decu-i-kako-da-kuvate-zajedno
@@ -657,30 +681,6 @@ Ne previše: sirovi šampinjoni imaju oko 3 g proteina na 100 g, pa ne zamenjuju
 **Q: Da li je složenac s kinoom bez glutena?**
 
 Kinoa je prirodno bez glutena, pa je dobar izbor i za osobe sa celijakijom. Pazite samo da i ostali sastojci, poput supe i začina, ne sadrže gluten.
-
----
-
-## Fibrilacija atrija i ishrana: šta zaista znamo, a šta ne
-
-https://unazdravahrana.com/blog/fibrilacija-atrija-i-ishrana-sta-zaista-znamo-a-sta-ne
-
-Tekst razdvaja dokazano od neutemeljenog u ishrani kod fibrilacije atrija: smernice ESC 2024 jasno preporučuju smanjenje alkohola, dok zabrana kafe za sve nije potkrepljena, a čajevi i dalje nisu posebno ispitani. Naglašava da nijedna namirnica ne zamenjuje terapiju i da svaku promenu treba uskladiti s lekarom.
-
-**Q: Da li alkohol utiče na fibrilaciju atrija?**
-
-Da, alkohol je faktor sa najčvršćom podrškom u smernicama. ESC 2024 preporučuje najviše 3 standardna pića nedeljno (do 30 g čistog alkohola) radi smanjenja povratka aritmije. Redovnim pijancima cilj apstinencije smanjio je povratke aritmije i njeno opterećenje.
-
-**Q: Moram li da izbacim kafu ako imam fibrilaciju atrija?**
-
-Ne nužno. Smernice ne traže opšte odricanje od kofeina, osim ako je on vaš lični okidač simptoma. U ispitivanju DECAF aritmija se vratila kod 47% onih koji su pili kafu i kod 64% onih koji su je izbacili. Količinu kafe uskladite sa lekarom.
-
-**Q: Jesu li čajevi bez kofeina bezbedni kod fibrilacije atrija?**
-
-Nijedan pronađeni izvor ne potvrđuje da je čaj bez kofeina posebno koristan ili bezbedan kod fibrilacije atrija. Čaj shvatite kao topao napitak, a ne terapiju. Proverite sastav zbog kofeina, a ako koristite lekove, posebno razrednjivače krvi, pitajte lekara pre uvođenja nove biljke.
-
-**Q: Može li ishrana da zameni terapiju kod fibrilacije atrija?**
-
-Ne. Ishrana je deo sveobuhvatne kontrole faktora rizika i načina života, ali nijedna namirnica ne zamenjuje terapiju koju je odredio kardiolog. Svaku promenu ishrane ili suplemenata uskladite sa lekarom.
 
 ---
 
