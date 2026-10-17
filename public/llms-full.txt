@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Orzo sa pečurkama, dunjom i kestenom iz jedne tepsije
+
+https://unazdravahrana.com/recepti/orzo-sa-pecurkama-dunjom-i-kestenom-iz-jedne-tepsije
+
+Jesenji orzo iz jedne tepsije: pečurke, dunja i pečeni kesten uz hrskave semenke bundeve. Zdrav ručak za 45 minuta, posan i lak.
+
+**Q: Može li se ovo jelo spremiti kao posno ili veganski?**
+
+Da. Recept je već posan i veganski ako koristite povrtnu supu i maslinovo ulje. Samo pazite da supa nema dodate mlečne sastojke, a ako vam je potreban 'sirast' ukus, dodajte malo kvasca u pahuljicama.
+
+**Q: Gde da nađem dunju van sezone?**
+
+Dunja je jesenje voće, pa je najbolje spremati ovo jelo od oktobra do decembra. Van sezone slobodno je zamenite čvrstom kiselkastom jabukom, a kesten bi mogao da se zameni očišćenim orasima ili bademima.
+
+**Q: Da li je ovo jelo pogodno za osobe sa intolerancijom na gluten?**
+
+Klasičan orzo sadrži gluten, pa nije pogodan za celijakiju. Isto jelo možete napraviti sa kuvanom heljdom ili prosom, a kesten je prirodno bez glutena. Za sigurnost uvek proverite deklaraciju na pakovanju.
+
+**Q: Mogu li sam da beram pečurke za ovaj recept?**
+
+Preporučujemo da koristite samo pečurke u čiju ste ispravnost potpuno sigurni, na primer kupljene šampinjone ili bukovače. Mnoge otrovne gljive liče na jestive, pa berite samo ako vas je proverio iskusan gljivar ili stručnjak.
+
+---
+
 ## Vežbanje po vrućini: 7 grešaka koje ne smete da pravite
 
 https://unazdravahrana.com/blog/vezbanje-po-vrucini-7-gresaka-koje-ne-smete-da-pravite
@@ -657,30 +681,6 @@ Najbliža zamena je tvrda jesenja jabuka ili kruška, ali će vreme dinstanja bi
 **Q: Mogu li se palačinke zamrznuti?**
 
 Mogu. Ohlađene palačinke složite sa papirom za pečenje između i zamrznite u kutiji. Odmrznite na sobnoj temperaturi i kratko podgrejte u tiganju. Fil je bolje praviti svež.
-
----
-
-## Složenci s gljivama: 6 sočnih recepata za ručak
-
-https://unazdravahrana.com/blog/slozenci-s-gljivama-6-socnih-recepata-za-rucak
-
-Članak donosi šest recepata za složenac s gljivama (klasični s krompirom, s piletinom, s kinoom bez glutena, vegetarijanski i drugi) za brz ručak iz rerne. Objašnjava zašto šampinjoni, koji sadrže oko 92% vode, mogu da učine jelo vodenastim i daje pet pravila da se to izbegne.
-
-**Q: Zašto složenac s gljivama ispadne vodenast?**
-
-Šampinjoni sadrže oko 92 g vode na 100 g, pa je u rerni otpuste u tepsiju. Ako su još i zbijeni, sirovi i pokriveni, kuvaju se u sopstvenoj tečnosti umesto da porumene.
-
-**Q: Kako sprečiti da gljive u rerni puste previše vode?**
-
-Obrišite ih umesto da ih perete, rasporedite ih bez zbijanja i isecite na deblje komade. Najbolje ih je prvo kratko propržiti na tiganju dok tečnost ne ispari, a tepsiju pokriti samo na početku pečenja.
-
-**Q: Da li su gljive dobar izvor proteina?**
-
-Ne previše: sirovi šampinjoni imaju oko 3 g proteina na 100 g, pa ne zamenjuju meso po količini proteina. Za siti ručak dodajte jaja, sir, mahunarke, piletinu ili kinou.
-
-**Q: Da li je složenac s kinoom bez glutena?**
-
-Kinoa je prirodno bez glutena, pa je dobar izbor i za osobe sa celijakijom. Pazite samo da i ostali sastojci, poput supe i začina, ne sadrže gluten.
 
 ---
 
