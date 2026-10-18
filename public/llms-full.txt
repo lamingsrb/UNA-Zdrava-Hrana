@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pire čorba od kestena, pečuraka i dunje sa čijom
+
+https://unazdravahrana.com/recepti/pire-corba-od-kestena-pecuraka-i-dunje-sa-cijom
+
+Baršunasta jesenja čorba od kestena, pečuraka i dunje, posuta čijom i semenkama. Bez pavlake, gotova za 50 minuta. Recept iz UNA Zdrave Hrane.
+
+**Q: Da li je ova čorba bez glutena i laktoze?**
+
+Sami sastojci recepta su prirodno bez glutena i bez mlečnih proizvoda. Ako imate intoleranciju, proverite da supa od povrća ili kupljeni kesten nemaju dodatke koji ih sadrže.
+
+**Q: Mogu li umesto dunje da stavim jabuku ili krušku?**
+
+Možete, ali ukus će biti blaži i slađi. Dunja daje karakterističnu kiselkastu, aromatičnu notu. Ako koristite jabuku, dodajte malo više limunovog soka na kraju.
+
+**Q: Kako da čorba ispadne još kremastija?**
+
+Blendirajte duže i dok je čorba još vruća. Možete dodati i još šaku kuvanog kestena, jer upravo on daje gustinu i baršunastu teksturu bez ikakvih mlečnih proizvoda.
+
+**Q: Može li se čorba praviti unapred?**
+
+Da, čak je i bolja sutradan kad se ukusi sjedine. Čuvajte je u frižideru do 3 dana ili zamrznite. Topping od pečuraka, čije i semenki dodajte tek pri serviranju.
+
+---
+
 ## Dunja-kesten humus sa pečurkama i tostiranim semenkama
 
 https://unazdravahrana.com/recepti/dunja-kesten-humus-sa-pecurkama-i-tostiranim-semenkama
@@ -621,30 +645,6 @@ Možete. Oblikovane, nekuvane knedle ostavite na pobrašnjenoj dasci u frižider
 **Q: Zašto dunju kuvam, a ne pečem?**
 
 Dunja je tvrda i trpka dok je sirova, a kuvanjem u malo vode omekšava i dobija blagu slast. Tako se lako pretvara u grub sos koji se uklapa uz slane knedle. Ako više volite pečen ukus, možete je ispeći u rerni, ali će priprema trajati duže.
-
----
-
-## Biljni ili surutkin protein: šta da izaberem?
-
-https://unazdravahrana.com/blog/biljni-ili-surutkin-protein-sta-da-izaberem
-
-Za rekreativce su surutkin i biljni protein (grašak, pirinač) uporedivi kada je reč o mišićima, a izbor zavisi od podnošenja laktoze, ukusa i cene. Osobama sa nepodnošenjem laktoze više odgovara surutkin izolat ili biljna mešavina, a mešanje biljnih izvora popunjava aminokiseline koje pojedinačnim fale.
-
-**Q: Koliko proteina dnevno treba rekreativcu?**
-
-Odrasla osoba prema EFSA treba oko 0,83 g proteina po kilogramu telesne mase dnevno. Trkačima se preporučuje 1,0 do 1,6 g/kg, a onima koji treniraju snagu 1,6 do 2,0 g/kg. Taj unos se računa iz ukupne ishrane, a prah samo popunjava razliku.
-
-**Q: Da li je biljni protein jednako dobar kao surutkin za mišiće?**
-
-Za rekreativce jeste uporediv. Ispitivanja sa grašom i pirinčem nisu pokazala značajnu razliku u mišićnoj masi i snazi u odnosu na surutku. Biljni proteini često imaju manje nekih esencijalnih aminokiselina, pa je mešavina izvora pametniji izbor.
-
-**Q: Koji surutkin protein je bolji za nepodnošenje laktoze?**
-
-Izolat surutke je bolji izbor od koncentrata jer ima 90% proteina ili više i znatno manje laktoze. Nije uvek potpuno bez laktoze, pa treba pročitati deklaraciju na pakovanju. Veoma osetljivima je bezbednija biljna opcija.
-
-**Q: Zašto je mešavina graška i pirinča bolja od jednog biljnog proteina?**
-
-Svaki biljni izvor ima aminokiseline kojih drugom nedostaje, pa se u kombinaciji međusobno dopunjuju. Zato mešavine, poput graška i pirinča, postižu viši kvalitet proteina nego pojedinačni izvori. Isto važi i za obroke, na primer pasulj uz pirinač.
 
 ---
 
