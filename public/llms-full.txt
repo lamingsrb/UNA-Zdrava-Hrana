@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zelena glina za masnu kosu: šta zna, a šta ne zna
+
+https://unazdravahrana.com/blog/zelena-glina-za-masnu-kosu-sta-zna-a-sta-ne-zna
+
+Zelena glina može privremeno da upije višak sebuma sa površine vlasišta, ali nema pouzdanih dokaza da trajno menja njegovu proizvodnju, a tvrdnje o detoksikaciji i rastu kose potiču iz marketinga. Članak objašnjava zašto se kosa masti, daje oprezan postupak upotrebe i upozorava da svrab, ljuspice i crvenilo zahtevaju dermatologa.
+
+**Q: Da li zelena glina pomaže kod masne kose?**
+
+Zelena glina može privremeno da upije višak masnoće sa površine vlasišta, ali nema pouzdanih dokaza da trajno smanjuje lučenje sebuma. Studija na koži pokazala je trenutno smanjenje masnoće, bez regulacije proizvodnje sebuma.
+
+**Q: Zašto se kosa brzo masti?**
+
+Masnoću pravi sebum, prirodno ulje lojnih žlezda. Količina zavisi od uzrasta, hormona (androgena) i aktivnosti žlezda, pa je masna kosa najčešće osobina vlasišta, a ne greška u nezi.
+
+**Q: Kako se zelena glina nanosi na kosu?**
+
+Prvo uradite probu iza uha, zatim prah umešajte sa mlakom vodom do gustine jogurta. Nanosite na vlasište, ne na dužine, ne dozvolite da se potpuno osuši i temeljno isperite mlakom vodom. Počnite retko i pratite reakciju vlasišta.
+
+**Q: Kada masnu kosu treba pokazati dermatologu?**
+
+Ako uz masnoću imate ljuspice, crvenilo ili svrab, može biti reč o seboroičnom dermatitisu. U tom slučaju pravi sagovornik je dermatolog, a ne kućna maska.
+
+---
+
 ## Jesenji bulgur-pilav sa dunjom, pečurkama i lešnicima
 
 https://unazdravahrana.com/recepti/jesenji-bulgur-pilav-sa-dunjom-pecurkama-i-lesnicima
@@ -621,30 +645,6 @@ Sastojci su prirodno bez glutena i bez mlečnih proizvoda. Pošto su kod intoler
 **Q: Kako da znam da je dunja dovoljno kuvana?**
 
 Probodite krišku viljuškom: kada ulazi bez otpora i kriška je mekana, ali ne raspala, gotova je. Zavisno od sorte i debljine kriški to traje oko 20 do 30 minuta.
-
----
-
-## Dunja i kesten u kremastoj supi od pečuraka sa čijom
-
-https://unazdravahrana.com/recepti/dunja-i-kesten-u-kremastoj-supi-od-pecuraka-sa-cijom
-
-Kremasta jesenja supa od pečuraka, dunje i kestena sa čijom. Bez mleka i belog brašna, gotova za oko sat vremena. Isprobaj recept iz UNA.
-
-**Q: Mogu li da koristim kesten iz tegle ili kesu umesto svežeg?**
-
-Možeš, samo obrati pažnju da je kesten bez dodatog šećera ili soli. Već očišćen kesten dodatno ti skraćuje pripremu supe.
-
-**Q: Da li je ova supa pogodna za ljude sa intolerancijom na laktozu?**
-
-Jeste, recept ne sadrži mleko ni mlečne proizvode, a kremasta tekstura dolazi od kestena i miksiranja. Za osobe sa intolerancijom na gluten proveri da bujon i začini koje koristiš nisu sa dodacima koji sadrže gluten.
-
-**Q: Zašto se dunja mora kuvati?**
-
-Sirova dunja je veoma tvrda i opora zbog tanina, pa se gotovo uvek termički obrađuje. Kuvanjem omekša i dobije prijatnu, blago kiselkastu aromu.
-
-**Q: Mogu li da skuvam supu unapred?**
-
-Naravno. Supa se čuva u frižideru nekoliko dana, a može i da se zamrzne. Čiju i komadiće kestena dodaj tek pri posluženju da zadrže hrskavost.
 
 ---
 
