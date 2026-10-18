@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten humus sa pečurkama i tostiranim semenkama
+
+https://unazdravahrana.com/recepti/dunja-kesten-humus-sa-pecurkama-i-tostiranim-semenkama
+
+Topli namaz od pečene dunje i kestena sa pirjanim pečurkama i tostiranim semenkama. Zdrav jesenji recept bez glutena, za sat vremena.
+
+**Q: Može li se namaz napraviti bez dunje?**
+
+Može. Umesto dunje stavite pečenu jabuku ili krušku, samo dodajte malo više limunovog soka da dobijete istu blagu kiselost. Ukus će biti nešto slađi i manje aromatičan.
+
+**Q: Da li je recept bez glutena?**
+
+Sami sastojci recepta ne sadrže gluten: dunja, kesten, pečurke, tahini i semenke ga prirodno nemaju. Ako ga služite uz hleb ili tost, potražite varijantu bez glutena. Osobe sa celijakijom treba da provere oznake na pakovanjima gotovih sastojaka.
+
+**Q: Može li se kesten zameniti nečim drugim?**
+
+Ako ne možete da nađete kesten, može se koristiti kuvani leblebija ili beli pasulj. Namaz će biti drugačijeg, manje slatkastog ukusa, ali će zadržati kremastu teksturu.
+
+**Q: Koliko dugo traje priprema i može li se raditi unapred?**
+
+Ukupno oko sat vremena, od čega je većina pečenje u rerni. Namaz se može napraviti dan unapred, a pečurke i tostirane semenke pripremite neposredno pre posluživanja.
+
+---
+
 ## Orzo: 4 ideje za ručak koje se kuvaju u jednoj šerpi
 
 https://unazdravahrana.com/blog/orzo-4-ideje-za-rucak-koje-se-kuvaju-u-jednoj-serpi
@@ -621,30 +645,6 @@ Izolat surutke je bolji izbor od koncentrata jer ima 90% proteina ili više i zn
 **Q: Zašto je mešavina graška i pirinča bolja od jednog biljnog proteina?**
 
 Svaki biljni izvor ima aminokiseline kojih drugom nedostaje, pa se u kombinaciji međusobno dopunjuju. Zato mešavine, poput graška i pirinča, postižu viši kvalitet proteina nego pojedinačni izvori. Isto važi i za obroke, na primer pasulj uz pirinač.
-
----
-
-## 5 vrsta voća za crevo: jabuka, kivi, kruška i društvo
-
-https://unazdravahrana.com/blog/5-vrsta-voca-za-crevo-jabuka-kivi-kruska-i-drustvo
-
-Članak pregleda pet vrsta voća koje gastroenterologinja dr Wendi LeBrett preporučuje pacijentima za zdravlje creva: jabuku, krušku, bobičasto voće, kivi i avokado, uz okvirne vrednosti vlakana po porciji. Naglašava postepeno uvođenje vlakana, preporuku SZO od najmanje 25 g dnevno i činjenicu da su dokazi o kiviju obećavajući, ali niske pouzdanosti.
-
-**Q: Koliko vlakana treba uneti dnevno?**
-
-Svetska zdravstvena organizacija preporučuje najmanje 25 g vlakana dnevno za osobe starije od 10 godina. Za decu od 2 do 5 godina preporuka je oko 15 g, a za uzrast od 6 do 9 godina oko 21 g.
-
-**Q: Koje voće ima najviše vlakana?**
-
-Među voćem iz članka maline prednjače sa oko 8 g vlakana u jednoj šolji (123 g). Slede kruška sa oko 5,5 g, kivi sa oko 5,4 g po šolji i jabuka sa korom sa oko 4,8 g po srednjem plodu. Avokado ima mnogo vlakana, ali broj zavisi od veličine i sorte ploda.
-
-**Q: Da li kivi pomaže kod zatvora?**
-
-Meta-analize iz 2022. pokazuju da kivi može povećati broj stolica nedeljno, ali je pouzdanost dokaza niska i potrebno je više većih studija. Zato ga treba shvatiti kao korisnu naviku za redovnost, a ne kao lek.
-
-**Q: Kako da povećam unos vlakana bez nadutosti?**
-
-Uvodite vlakna postepeno: dodajte jednu do dve porcije voća dnevno i pratite reakciju tela. Pijte dovoljno tečnosti, jer nagli skok unosa vlakana često izaziva nadutost i grčeve.
 
 ---
 
