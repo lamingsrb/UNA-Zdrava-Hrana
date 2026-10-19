@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamin D i pamćenje kod lošeg sna: šta zna nauka
+
+https://unazdravahrana.com/blog/vitamin-d-i-pamcenje-kod-loseg-sna-sta-zna-nauka
+
+Mala studija Univerziteta Emori (54 osobe) pokazala je oko 13% bolje rezultate na kognitivnom testu kod onih koji su uzimali najmanje 5.000 IU vitamina D, ali autori nalaz opisuju kao preliminaran, a doza prelazi evropsku gornju granicu od 100 µg dnevno. Članak objašnjava šta je pokazano, a šta nije, uz razumne korake poput razgovora s lekarom i provere nivoa vitamina D, kao i napomenu o B12 kod starijih.
+
+**Q: Da li vitamin D poboljšava pamćenje?**
+
+To još nije dokazano. Preliminarna studija Univerziteta Emori na 54 osobe sa lošim snom i blagim kognitivnim oštećenjem pokazala je oko 13% bolji rezultat na testu kod onih koji su uzimali najmanje 5.000 IU dnevno. Autori sami nalaz opisuju kao preliminaran, pa se iz njega ne može zaključiti da vitamin D čuva pamćenje.
+
+**Q: Koliko vitamina D dnevno je bezbedno uzimati?**
+
+EFSA određuje adekvatan unos od 15 µg dnevno za zdrave odrasle osobe, a gornju podnošljivu granicu od 100 µg dnevno. Doza iz Emori studije (5.000 IU, oko 125 µg po našem preračunu) premašuje tu granicu, pa se ne preporučuje samostalno uzimanje bez nalaza i nadzora lekara.
+
+**Q: Da li nedostatak vitamina D utiče na san?**
+
+Ranija istraživanja povezivala su nedostatak vitamina D sa problemima sa spavanjem, uključujući nesanicu i češća noćna buđenja. Ta veza je predmet daljeg proučavanja, a ako sumnjate na nedostatak, lekar može proveriti nivo vitamina D u krvi.
+
+**Q: Zašto stariji ljudi često imaju problem sa vitaminom B12?**
+
+Prema podacima američke Nacionalne akademije nauka, 10–30% starijih osoba možda ne može da apsorbuje B12 iz prirodne hrane. Zato se osobama starijim od 50 godina savetuje da preporučenih 2,4 µg dnevno obezbede uglavnom obogaćenom hranom ili suplementom.
+
+---
+
 ## Pečeni bundevini polutani punjeni kestenom i pečurkama
 
 https://unazdravahrana.com/recepti/peceni-bundevini-polutani-punjeni-kestenom-i-pecurkama
@@ -609,30 +633,6 @@ Kuvan i očišćen kesten se prodaje vakumiran, pa ga lako koristite tokom cele 
 **Q: Da li je ovo jelo pogodno za decu?**
 
 Jeste, ukus je blag i blago sladak od dunje. Samo obratite pažnju da su sve pečurke sigurne i dobro termički obrađene, a orahe za najmanje sitnije seckajte ili izostavite.
-
----
-
-## Krem čorba od pečuraka i kestena sa dunjom i bundevom
-
-https://unazdravahrana.com/recepti/krem-corba-od-pecuraka-i-kestena-sa-dunjom-i-bundevom
-
-Kad nastupe prve prohladne večeri, u kuhinji se najviše traži jedno: tanjir nečeg toplog, gustog i mirisnog. Ova krem čorba spaja ono što jesen najbolje daje: pečurke, kesten, bundevu i malo dunje, koja čorbi donosi prijatnu voćnu kiselkastost.
-
-**Q: Mogu li da koristim smrznut ili konzerviran kesten?**
-
-Možete. Smrznut ili vakuumiran, već oljušten kesten je praktična opcija i odlično staje u ovu čorbu. Samo pazite da ne bude kandiran ni zaslađen, jer bi pokvario slan ukus čorbe.
-
-**Q: Čime mogu da zamenim dunju ako je ne nađem?**
-
-Najbliža zamena je kiselkasta jabuka, koja će čorbi dati sličnu voćnu notu, ali se kuva kraće. Dunja daje specifičan miris i blagu trpkost, pa će ukus biti malo drugačiji, ali čorba će i dalje biti ukusna.
-
-**Q: Da li je čorba pogodna za osobe sa intolerancijom na gluten ili laktozu?**
-
-Čorba sama po sebi ne sadrži gluten ni mlečne proizvode, jer je kesten prirodno bez glutena, a kremastost dolazi od bundeve i paste od semenki. Samo proverite da li je supa koju koristite bez glutena, a uz čorbu poslužite odgovarajući hleb. Za sve zdravstvene dileme posavetujte se sa lekarom.
-
-**Q: Koliko dugo se čorba može čuvati?**
-
-U frižideru do 3–4 dana u dobro zatvorenoj posudi, a u zamrzivaču nekoliko nedelja. Pre ponovnog zagrevanja po potrebi dodajte malo vode, jer se čorba zgusne stajanjem.
 
 ---
 
