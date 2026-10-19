@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni bundevini polutani punjeni kestenom i pečurkama
+
+https://unazdravahrana.com/recepti/peceni-bundevini-polutani-punjeni-kestenom-i-pecurkama
+
+Pečena bundeva punjena heljdom, pečurkama i kestenom: zasitno jesenje glavno jelo iz jedne tepsije, bez belog brašna i mlečnih proizvoda.
+
+**Q: Može li se bundeva ljuštiti pre pečenja?**
+
+Može, ali nije obavezno. Kora hokaido bundeve je jestiva i omekša u rerni. Kod drugih vrsta, ako je kora tvrda, pojedite samo meso, a koru ostavite u tanjiru.
+
+**Q: Da li je ovo jelo bez glutena?**
+
+Sastojci (bundeva, pečurke, kesten, heljda, semenke) su prirodno bez glutena. Pošto se heljda ponekad pakuje u pogonima gde se obrađuju i žitarice sa glutenom, ako izbegavate gluten, birajte pakovanje sa jasnom oznakom da je bez glutena, a u radnji možete pitati za savet.
+
+**Q: Mogu li da pripremim jelo unapred?**
+
+Da. Nadev možete skuvati dan ranije i čuvati u frižideru, a bundevu ispeći neposredno pre služenja. Napunjene polutane možete i ostaviti u frižideru pa ih podgrejati u rerni 15 do 20 minuta.
+
+**Q: Čime da zamenim kesten ako ga nemam?**
+
+Možete koristiti grubo seckane orahe ili lešnike, ili kuvano sočivo. Ukus će biti drugačiji, ali jelo će i dalje biti zasitno i kremasto.
+
+---
+
 ## Pečeno povrće sa dunjom, kestenom i sočivom u tahini sosu
 
 https://unazdravahrana.com/recepti/peceno-povrce-sa-dunjom-kestenom-i-socivom-u-tahini-sosu
@@ -609,30 +633,6 @@ Najbliža zamena je kiselkasta jabuka, koja će čorbi dati sličnu voćnu notu,
 **Q: Koliko dugo se čorba može čuvati?**
 
 U frižideru do 3–4 dana u dobro zatvorenoj posudi, a u zamrzivaču nekoliko nedelja. Pre ponovnog zagrevanja po potrebi dodajte malo vode, jer se čorba zgusne stajanjem.
-
----
-
-## Jesenji ćuftići od pečuraka i kestena sa pečenom dunjom
-
-https://unazdravahrana.com/recepti/jesenji-cuftici-od-pecuraka-i-kestena-sa-pecenom-dunjom
-
-Pečeni ćuftići od pečuraka i kestena uz medom pečenu dunju. Zdrav jesenji ručak za sat vremena. Sastojke nađite u UNA Zdravoj Hrani.
-
-**Q: Mogu li ćuftiće da pripremim unapred?**
-
-Da. Smesu možete oblikovati i držati u frižideru do jednog dana pre pečenja, ili ispeći ćuftiće i podgrejati ih u rerni. U zatvorenoj posudi u frižideru stoje oko 3 dana.
-
-**Q: Da li je recept bez glutena?**
-
-Kesten, pečurke i dunja su prirodno bez glutena. Ovsene pahuljice mogu imati tragove glutena, pa ako izbegavate gluten, izaberite one označene kao bezglutenske i proverite deklaraciju. U radnji vam rado pomognemo oko izbora.
-
-**Q: Šta ako nemam dunju?**
-
-Možete je zameniti čvrstom jabukom ili krušku, ali ćete dobiti blaži ukus bez karakteristične dunjine kiselkastosti. Dunja kod nas dolazi u sezoni, otprilike od oktobra do decembra.
-
-**Q: Zašto se semenke dunje ne jedu?**
-
-Seme dunje sadrži izvesnu količinu cijanogenih glikozida, pa se uklanja pre pečenja. Meso voća je potpuno bezbedno i ukusno.
 
 ---
 
