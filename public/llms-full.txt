@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Bezglutensko brašno: vrste, primena i gde ga kupiti u
+
+https://unazdravahrana.com/blog/bezglutensko-brasno-vrste-primena-i-gde-ga-kupiti-u
+
+Članak objašnjava da ne postoji jedno bezglutensko brašno za sve namene, pa se rižino, heljdino, kukuruzno, bademovo, brašno od leblebija i gotove mešavine biraju prema nameni i često kombinuju. Daje praktične savete za mešanje, upozorava na moguću kontaminaciju glutenom i preporučuje da se pre promene ishrane obavi dijagnostika kod lekara.
+
+**Q: Zašto jedno bezglutensko brašno ne može da zameni pšenično u svemu?**
+
+Gluten daje testu elastičnost i zadržava vazduh, pa se bez njega testo lakše lomi, manje diže i drugačije upija tečnost. Zato se bezglutenska brašna biraju prema nameni i često mešaju, a recept za pšenično brašno retko radi bez prilagođavanja.
+
+**Q: Koje bezglutensko brašno je najbolje za zgušnjavanje sosova i čorbi?**
+
+Rižino brašno je najuniverzalnije za zgušnjavanje jer je neutralnog ukusa. Sos, čorba ili bešamel dobijaju gustinu bez promene ukusa.
+
+**Q: Kako da se snađem kao početnik u pečenju bez glutena?**
+
+Najlakše je krenuti od gotove mešavine za pecivo i proverenog recepta, jer je neko već izbalansirao više brašna i škrobova. Ne menjajte brašno 1:1, računajte na više tečnosti i duže odmaranje testa, a sastav i uputstvo uvek pročitajte.
+
+---
+
 ## Zelena glina za masnu kosu: šta zna, a šta ne zna
 
 https://unazdravahrana.com/blog/zelena-glina-za-masnu-kosu-sta-zna-a-sta-ne-zna
@@ -624,28 +644,4 @@ Za to nema dovoljno čvrstih kliničkih dokaza. Većina studija o polifenolima i
 
 ---
 
-## Pečene dunje sa kestenom i bademom uz čia puding
-
-https://unazdravahrana.com/recepti/pecene-dunje-sa-kestenom-i-bademom-uz-cia-puding
-
-Topla pečena dunja sa kestenom i bademima preko hladnog čia pudinga. Bez belog šećera i brašna, gotovo za oko 50 minuta.
-
-**Q: Da li se semenke dunje smeju jesti?**
-
-Ne preporučuje se. Semenke dunje sadrže cijanogeni glikozid, zato jezgro sa semenkama uvek izvadite pre kuvanja i bacite.
-
-**Q: Može li se dezert napraviti bez meda?**
-
-Može. Zrela dunja je dovoljno aromatična da bude prijatna i sa manje meda, a možete ga zameniti javorovim sirupom ili izostaviti, pa slatkoću prilagoditi ukusu.
-
-**Q: Da li je ovaj recept bez glutena i laktoze?**
-
-Sastojci su prirodno bez glutena i bez mlečnih proizvoda. Pošto su kod intolerancija bitni tragovi i način proizvodnje, pročitajte deklaracije na pakovanjima ili pitajte u radnji.
-
-**Q: Kako da znam da je dunja dovoljno kuvana?**
-
-Probodite krišku viljuškom: kada ulazi bez otpora i kriška je mekana, ali ne raspala, gotova je. Zavisno od sorte i debljine kriški to traje oko 20 do 30 minuta.
-
----
-
-Last updated: 2026-10-18
+Last updated: 2026-10-19

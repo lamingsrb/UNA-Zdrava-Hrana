@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Bezglutensko brašno: vrste, primena i gde ga kupiti u](https://unazdravahrana.com/blog/bezglutensko-brasno-vrste-primena-i-gde-ga-kupiti-u)
 - [Zelena glina za masnu kosu: šta zna, a šta ne zna](https://unazdravahrana.com/blog/zelena-glina-za-masnu-kosu-sta-zna-a-sta-ne-zna)
 - [Jesenji bulgur-pilav sa dunjom, pečurkama i lešnicima](https://unazdravahrana.com/recepti/jesenji-bulgur-pilav-sa-dunjom-pecurkama-i-lesnicima)
 - [Pire čorba od kestena, pečuraka i dunje sa čijom](https://unazdravahrana.com/recepti/pire-corba-od-kestena-pecuraka-i-dunje-sa-cijom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Bezglutenska testenina: kako izabrati pravu i šta proveriti](https://unazdravahrana.com/blog/bezglutenska-testenina-kako-izabrati-pravu-i-sta-proveriti)
 - [Paradajz: vitamini, minerali i likopen u jednom plodu](https://unazdravahrana.com/blog/paradajz-vitamini-minerali-i-likopen-u-jednom-plodu)
 - [Čaj u štapiću: kako je nastao Schargo Tea i kako da](https://unazdravahrana.com/blog/caj-u-stapicu-kako-je-nastao-schargo-tea-i-kako-da)
-- [Granita od kafe: ledeni desert bez aparata za sladoled](https://unazdravahrana.com/blog/granita-od-kafe-ledeni-desert-bez-aparata-za-sladoled)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-18
+Last updated: 2026-10-19
