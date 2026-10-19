@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeno povrće sa dunjom, kestenom i sočivom u tahini sosu
+
+https://unazdravahrana.com/recepti/peceno-povrce-sa-dunjom-kestenom-i-socivom-u-tahini-sosu
+
+Jesenski ručak sa sočivom, pečenim pečurkama, dunjom i kestenom uz tahini sos. Zdrav, sit i brz recept iz UNA Zdrave Hrane u Kragujevcu.
+
+**Q: Može li se ovo jelo pripremiti unapred?**
+
+Da. Sočivo i pečeno povrće se mogu skuvati dan ranije i čuvati odvojeno u frižideru. Sos od tahinija umutite sveže ili ga čuvajte posebno, pa sve spojite tek pri serviranju kako povrće ne bi omeklalo od vlage.
+
+**Q: Da li je recept pogodan za veganski i bezglutenski režim?**
+
+Sastojci su biljnog porekla i prirodno bez laktoze, a bez glutena su ako su svi proizvodi (kesten, tahini, sočivo) deklarisani bez tragova glutena. Za osobe sa celijakijom uvek proverite deklaraciju na pakovanju ili pitajte prodavca u radnji.
+
+**Q: Mogu li da koristim sveže divlje pečurke iz šume?**
+
+Preporučujemo gajene pečurke poput šampinjona ili bukovača. Divlje pečurke koristite samo ako ih je prethodno pregledao obučen mikolog, jer su pojedine otrovne vrste vrlo slične jestivim, a trovanja mogu biti ozbiljna uz odložene simptome.
+
+---
+
 ## Vitamin C kod prehlade: koliko zaista pomaže?
 
 https://unazdravahrana.com/blog/vitamin-c-kod-prehlade-koliko-zaista-pomaze
@@ -613,30 +633,6 @@ Možete je zameniti čvrstom jabukom ili krušku, ali ćete dobiti blaži ukus b
 **Q: Zašto se semenke dunje ne jedu?**
 
 Seme dunje sadrži izvesnu količinu cijanogenih glikozida, pa se uklanja pre pečenja. Meso voća je potpuno bezbedno i ukusno.
-
----
-
-## Superhrana u Srbiji: šta se isplati, kako se jede i gde
-
-https://unazdravahrana.com/blog/superhrana-u-srbiji-sta-se-isplati-kako-se-jede-i-gde
-
-Superhrana je marketinški, a ne naučni pojam, pa zvanične preporuke (SZO, Batut) i dalje stavljaju u prvi plan voće, povrće, integralne žitarice i mahunarke. Tekst objašnjava kako se koriste čia i domaće semenke, poput lana i suncokreta, koje su jeftinija alternativa egzotičnim namirnicama.
-
-**Q: Šta je superhrana i da li je to naučni pojam?**
-
-Superhrana nije naučna kategorija, već trgovački izraz za namirnice bogate hranljivim materijama. Nijedna namirnica sama po sebi ne popravlja ishranu, a u Evropskoj uniji se izraz „superfood“ sme koristiti samo uz odobrenu, konkretnu zdravstvenu tvrdnju.
-
-**Q: Koliko voća i povrća dnevno preporučuje Svetska zdravstvena organizacija?**
-
-SZO preporučuje najmanje 400 g voća i povrća dnevno za sve starije od 10 godina. Za decu od 2 do 5 godina preporuka je najmanje 250 g, a za uzrast 6–9 godina najmanje 350 g. Krompir, batat i drugi skrobni koreni se ne računaju u tih 400 g.
-
-**Q: Kako se koristi čia seme?**
-
-Kašiku čije potopite u jogurt ili mleko i ostavite preko noći, pa dobijate gust puding za doručak. Možete je dodati i u ovsenu kašu ili smuti. Čiu uvek ostavite da upije tečnost i ne gutajte je suvu u većoj količini.
-
-**Q: Da li je čia bolja od lanenog semena ili suncokreta?**
-
-Po sadržaju proteina nije: čia ima oko 16,5 g na 100 g, lan oko 18,3 g, a jezgro suncokreta oko 20,8 g. Lan i suncokret su jeftiniji i lakše dostupni, a čia se izdvaja teksturom jer pravi gel.
 
 ---
 
