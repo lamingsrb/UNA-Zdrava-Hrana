@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Testenina s tikvicama i avokadom: 5 letnjih jela za 20
+
+https://unazdravahrana.com/blog/testenina-s-tikvicama-i-avokadom-5-letnjih-jela-za-20
+
+---
+
 ## Vitamin D i pamćenje kod lošeg sna: šta zna nauka
 
 https://unazdravahrana.com/blog/vitamin-d-i-pamcenje-kod-loseg-sna-sta-zna-nauka
@@ -609,30 +615,6 @@ Poređajte plodove u jednom sloju, peteljkom nagore, na mestu van direktnog sunc
 **Q: Da li paradajz treba držati u frižideru?**
 
 Za sazrevanje ne, jer hladnoća smanjuje aromu. Potpuno zreo paradajz koji ne možete da pojedete u naredna dan-dva može kratko u frižider, ali nakon oko sedam dana na 4 °C gubi deo supstanci koje stvaraju aromu.
-
----
-
-## Pečurke u dunja-kesten sosu uz heljdine njoke
-
-https://unazdravahrana.com/recepti/pecurke-u-dunja-kesten-sosu-uz-heljdine-njoke
-
-Evo jednog jesenjeg jela koje se kuva za nepun sat, a na tanjiru izgleda kao da ste se zaista potrudili: heljdini njoki sa pečurkama u sosu od dunje i kestena.
-
-**Q: Mogu li njoke da napravim bez glutena?**
-
-Heljda botanički nije žitarica i ne sadrži gluten, ali brašno se ponekad melje u pogonima gde se melje i pšenica. Ako je potpuna bezglutenska ishrana neophodna, pitajte u radnji za brašna sa jasnom oznakom da su bezglutenska.
-
-**Q: Može li se sos od dunje i kestena napraviti unapred?**
-
-Može. Sos se lako sprema dan unapred i čuva u frižideru u zatvorenoj posudi. Pre služenja ga samo zagrejte uz malo vode ili supe ako je pregust.
-
-**Q: Gde mogu da nađem pečen ili kuvan kesten van sezone?**
-
-Kuvan i očišćen kesten se prodaje vakumiran, pa ga lako koristite tokom cele godine. Za konkretan izbor i proizvođače pitajte u našoj radnji.
-
-**Q: Da li je ovo jelo pogodno za decu?**
-
-Jeste, ukus je blag i blago sladak od dunje. Samo obratite pažnju da su sve pečurke sigurne i dobro termički obrađene, a orahe za najmanje sitnije seckajte ili izostavite.
 
 ---
 
