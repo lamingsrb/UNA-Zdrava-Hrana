@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vitamin C kod prehlade: koliko zaista pomaže?
+
+https://unazdravahrana.com/blog/vitamin-c-kod-prehlade-koliko-zaista-pomaze
+
+Prema Cochrane pregledu, redovan unos vitamina C ne smanjuje učestalost prehlade u opštoj populaciji, ali može skratiti njeno trajanje za oko 8% kod odraslih i 14% kod dece. Uzimanje tek pošto simptomi počnu nema dosledan efekat, a većina ljudi potrebnu količinu (95–110 mg dnevno) dobija iz ishrane.
+
+**Q: Da li vitamin C skraćuje trajanje prehlade?**
+
+Kod ljudi koji ga unose redovno, prehlada u proseku traje nešto kraće: oko 8% kod odraslih i oko 14% kod dece. To je razlika od manje od jednog dana, a ne lek za prehladu.
+
+**Q: Treba li uzeti vitamin C kad se pojave prvi simptomi prehlade?**
+
+Dokazi su slabi. Analize pokazuju da vitamin C uzet tek pošto simptomi počnu nema dosledan efekat na trajanje ni težinu prehlade. Pojedinačni ogledi sa visokim dozama nisu pravilo i ne treba ih samoinicijativno oponašati.
+
+**Q: Koliko vitamina C je potrebno dnevno i koliko je previše?**
+
+EFSA preporučuje 110 mg dnevno za odrasle muškarce i 95 mg za odrasle žene, što se lako postiže ishranom (paprika, citrusi, kupus). NIH navodi gornji podnošljivi nivo od 2.000 mg dnevno za odrasle, a iznad toga mogu se javiti dijareja i grčevi u stomaku.
+
+---
+
 ## Bezglutensko brašno: vrste, primena i gde ga kupiti u
 
 https://unazdravahrana.com/blog/bezglutensko-brasno-vrste-primena-i-gde-ga-kupiti-u
@@ -617,30 +637,6 @@ Kašiku čije potopite u jogurt ili mleko i ostavite preko noći, pa dobijate gu
 **Q: Da li je čia bolja od lanenog semena ili suncokreta?**
 
 Po sadržaju proteina nije: čia ima oko 16,5 g na 100 g, lan oko 18,3 g, a jezgro suncokreta oko 20,8 g. Lan i suncokret su jeftiniji i lakše dostupni, a čia se izdvaja teksturom jer pravi gel.
-
----
-
-## Pčelinji polen: kako ga birati, jesti i čuvati
-
-https://unazdravahrana.com/blog/pcelinji-polen-kako-ga-birati-jesti-i-cuvati
-
-Pčelinji polen je cvetni prah koji pčele sabijaju u zrnca; prema srpskom pravilniku razlikuje se neosušeni (najmanje 60% suve materije) i osušeni (najmanje 92%), a sastav jako varira prema biljci i području. Zvanična optimalna doza ne postoji, pa se preporučuje postepeno uvođenje, dok su dokazi o zdravstvenim koristima uglavnom pretklinički.
-
-**Q: Šta je pčelinji polen?**
-
-Pčelinji polen je cvetni prah koji pčele skupljaju i sabijaju u mala zrnca, a pčelar ga hvata na ulazu u košnicu. To nije med, propolis ni mleč, već poseban pčelinji proizvod čija boja i sastav zavise od cveća sa kog potiče.
-
-**Q: Koliko pčelinjeg polena treba jesti dnevno?**
-
-Zvanično utvrđena optimalna doza ne postoji. Preporučuje se početi sa nekoliko zrnaca, najviše pola kašičice, pratiti reakciju nekoliko sati i tek onda postepeno povećavati količinu do one koja vam prija.
-
-**Q: Koja je razlika između svežeg i osušenog pčelinjeg polena?**
-
-Prema Pravilniku o kvalitetu meda i drugih proizvoda pčela, neosušeni (svež) polen mora imati najmanje 60% suve materije, a osušeni najmanje 92%. Osušeni polen je praktično suv proizvod, dok se vlažniji svež polen brže kvari.
-
-**Q: Da li pčelinji polen jača imunitet?**
-
-Za to nema dovoljno čvrstih kliničkih dokaza. Većina studija o polifenolima i antiinflamatornom dejstvu polena je eksperimentalna i pretklinička, pa polen treba shvatiti kao hranljiv dodatak ishrani, a ne kao lek.
 
 ---
 
