@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Heljdina kaša sa dunjom, kestenom i pečurkama za doručak
+
+https://unazdravahrana.com/recepti/heljdina-kasa-sa-dunjom-kestenom-i-pecurkama-za-dorucak
+
+Topla heljdina kaša sa dunjom, kestenom i pečurkama, uz tahini i bundevine semenke. Zdrav jesenji doručak za 45 minuta, prirodno bez glutena.
+
+**Q: Da li je ovaj doručak bez glutena?**
+
+Heljda, kesten, dunja i pečurke su prirodno bez glutena. Ipak, ako imate celijakiju, birajte heljdu i ostale sastojke čija ambalaža jasno kaže da su bez glutena, jer postoji mogućnost zagađenja tokom prerade. U radnji vam rado pokažemo odgovarajuće proizvode.
+
+**Q: Da li se kaša može pripremiti unapred?**
+
+Može. Skuvajte heljdu i spremite smesu od pečuraka, dunje i kestena veče ranije, čuvajte odvojeno u frižideru. Ujutru ih podgrejte u tiganju uz malo vode i dodajte tahini i semenke tek pred služenje.
+
+**Q: Koje pečurke su najbolje za ovo jelo?**
+
+Šampinjoni i bukovače su praktičan i siguran izbor jer se lako nalaze i brzo se spremaju. Šumske pečurke koristite samo ako ih je pregledao iskusan poznavalac, jer zamena sa otrovnim vrstama može biti opasna. Kad ste u nedoumici, bolje ih ne jedite.
+
+---
+
 ## Jesenji ražani hlebčići sa dunjom, kestenom i pečurkama
 
 https://unazdravahrana.com/recepti/jesenji-razani-hlebcici-sa-dunjom-kestenom-i-pecurkama
@@ -591,30 +611,6 @@ Ne. Sto grama paradajza daje oko 14 mg vitamina C, a EFSA preporučuje 110 mg dn
 ## Čaj u štapiću: kako je nastao Schargo Tea i kako da
 
 https://unazdravahrana.com/blog/caj-u-stapicu-kako-je-nastao-schargo-tea-i-kako-da
-
----
-
-## Granita od kafe: ledeni desert bez aparata za sladoled
-
-https://unazdravahrana.com/blog/granita-od-kafe-ledeni-desert-bez-aparata-za-sladoled
-
-Granita je sicilijanski poluzamrznuti desert koji se pravi od zaslađene kafe, plitke posude, zamrzivača i viljuške, bez mašine za sladoled. Članak daje recept (250 ml espresa, 250 ml vode, 80 g šećera), pravila za rastresitu teksturu i činjenice o kofeinu (EFSA) i zameni belog šećera kokosovim.
-
-**Q: Kako napraviti granitu od kafe bez aparata za sladoled?**
-
-Pomešajte 250 ml espresa, 250 ml vode i oko 80 g šećera, sipajte u plitku posudu i stavite u zamrzivač. Na svakih pola sata izgrebite smesu viljuškom; za oko tri sata dobijate rastresite kristale leda.
-
-**Q: Zašto mi se granita smrzla u čvrst blok?**
-
-Najčešći razlozi su duboka posuda, premalo šećera ili preskočeno struganje. Blok možete iseckati na kocke i kratko izmiksati sa malo hladne kafe, pa dobijate nešto između granite i frapea.
-
-**Q: Ima li granita od kafe kofeina?**
-
-Da, granita je i dalje kafa, a količina kofeina zavisi od jačine kafe koju koristite. EFSA navodi da za zdrave odrasle osobe pojedinačne doze do 200 mg i ukupan dnevni unos do 400 mg ne izazivaju zabrinutost, a za trudnice je granica 200 mg dnevno.
-
-**Q: Da li je kokosov šećer zdraviji od belog u granite?**
-
-Ne značajno: ima sličan broj kalorija i ugljenih hidrata kao beli šećer i računa se kao dodati šećer. Razlika u glikemijskom indeksu je mala, pa ga birajte zbog karamelastog ukusa, a ne zbog zdravlja.
 
 ---
 
