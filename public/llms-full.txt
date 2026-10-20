@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Suplementi za decu: šta ima smisla, a šta pitati lekara
+
+https://unazdravahrana.com/blog/suplementi-za-decu-sta-ima-smisla-a-sta-pitati-lekara
+
+Članak objašnjava kada suplementi za decu imaju smisla i prolazi kroz vitamin D, omega-3, probiotike i multivitamine, uz navođenje onoga što kažu NIH i EFSA. Naglašava da suplementi ne zamenjuju raznovrsnu ishranu ni savet pedijatra i da gornja granica unosa nije cilj, već plafon.
+
+**Q: Da li svako dete treba da uzima suplemente?**
+
+Ne. Dete koje jede raznovrsno, boravi napolju i redovno ide na preglede retko treba mnogo preparata. Suplement ima smisla razmatrati kada postoji konkretan razlog, poput uzrasta, ishrane, terapije ili preporuke pedijatra.
+
+**Q: Koliko vitamina D preporučuje NIH za decu?**
+
+NIH navodi 400 IU (10 mcg) dnevno za odojčad do 12 meseci i 600 IU (15 mcg) za decu od 1 do 18 godina. Doza za konkretno dete je stvar dogovora s pedijatrom, a gornja granica nije cilj, već plafon.
+
+**Q: Kako da preračunam mikrograme vitamina D u internacionalne jedinice?**
+
+Važi pravilo 1 mcg = 40 IU. Kapi od 400 IU zato sadrže 10 mcg vitamina D. Proverite i druge proizvode koje dete uzima, jer se vitamin D nalazi i u multivitaminima i obogaćenim namirnicama.
+
+**Q: Da li svi probiotici deluju isto?**
+
+Ne. Probiotik nije jedna stvar, već hiljade različitih sojeva, a dokazi važe za konkretan soj, a ne za reč „probiotik“ na kutiji. Zato je važno da deklaracija navodi tačan soj, a izbor treba dogovoriti s lekarom.
+
+---
+
 ## Testenina s tikvicama i avokadom: 5 letnjih jela za 20
 
 https://unazdravahrana.com/blog/testenina-s-tikvicama-i-avokadom-5-letnjih-jela-za-20
@@ -594,28 +618,4 @@ Može. Beta-karoten je kod pušača povećao rizik od raka pluća, pa se on i vi
 
 ---
 
-## Zašto paradajz ne crveni u vrućinama i kada ga brati
-
-https://unazdravahrana.com/blog/zasto-paradajz-ne-crveni-u-vrucinama-i-kada-ga-brati
-
-Na temperaturama iznad oko 30 °C paradajz slabo stvara likopen pa plodovi ostaju zeleni ili narandžasti, dok rast ne staje. Najbolje je ubrati ga na prvom rumenilu i dosaziti na 13 do 21 °C van direktnog sunca, a frižider izbegavati jer gubi aromu.
-
-**Q: Zašto paradajz ne crveni kada je veoma vruće?**
-
-Crvenu boju daje likopen, a biljka ga slabo stvara kada su plodovi duže izloženi temperaturi iznad oko 30 °C. Plod i dalje raste, ali se promena boje usporava ili zaustavlja, a plodovi umesto crvenih postaju narandžasti zbog beta-karotena.
-
-**Q: Kada je pravo vreme za berbu paradajza?**
-
-Paradajz treba ubrati kada se na vrhu ploda, nasuprot peteljci, pojavi prvo rumenilo. U toj fazi plod je dovoljno zreo da završi sazrevanje u kući bez gubitka ukusa, a na biljci se ne izlaže vrućini.
-
-**Q: Kako dosaziti paradajz kod kuće?**
-
-Poređajte plodove u jednom sloju, peteljkom nagore, na mestu van direktnog sunca na 13 do 21 °C. Na oko 21 °C sazrevaju za oko dve nedelje, a na oko 13 °C za oko mesec dana. Proveravajte ih svaki drugi dan i odmah uklonite one koji trule.
-
-**Q: Da li paradajz treba držati u frižideru?**
-
-Za sazrevanje ne, jer hladnoća smanjuje aromu. Potpuno zreo paradajz koji ne možete da pojedete u naredna dan-dva može kratko u frižider, ali nakon oko sedam dana na 4 °C gubi deo supstanci koje stvaraju aromu.
-
----
-
-Last updated: 2026-10-19
+Last updated: 2026-10-20

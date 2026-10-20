@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Suplementi za decu: šta ima smisla, a šta pitati lekara](https://unazdravahrana.com/blog/suplementi-za-decu-sta-ima-smisla-a-sta-pitati-lekara)
 - [Testenina s tikvicama i avokadom: 5 letnjih jela za 20](https://unazdravahrana.com/blog/testenina-s-tikvicama-i-avokadom-5-letnjih-jela-za-20)
 - [Vitamin D i pamćenje kod lošeg sna: šta zna nauka](https://unazdravahrana.com/blog/vitamin-d-i-pamcenje-kod-loseg-sna-sta-zna-nauka)
 - [Pečeni bundevini polutani punjeni kestenom i pečurkama](https://unazdravahrana.com/recepti/peceni-bundevini-polutani-punjeni-kestenom-i-pecurkama)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Povremeni post: šta nauka kaže, a šta je još otvoreno](https://unazdravahrana.com/blog/povremeni-post-sta-nauka-kaze-a-sta-je-jos-otvoreno)
 - [Preplanuli ten sa tanjira: šta stvarno pomaže, a šta je mit](https://unazdravahrana.com/blog/preplanuli-ten-sa-tanjira-sta-stvarno-pomaze-a-sta-je-mit)
 - [Pečeni kesten i dunja u šarenoj salati sa tahini dresingom](https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-u-sarenoj-salati-sa-tahini-dresingom)
-- [Jesenji sivi ovsen tart od dunje, kestena i kakao nibsa](https://unazdravahrana.com/recepti/jesenji-sivi-ovsen-tart-od-dunje-kestena-i-kakao-nibsa)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-19
+Last updated: 2026-10-20
