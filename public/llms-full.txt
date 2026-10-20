@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenji ražani hlebčići sa dunjom, kestenom i pečurkama
+
+https://unazdravahrana.com/recepti/jesenji-razani-hlebcici-sa-dunjom-kestenom-i-pecurkama
+
+Punjene ražane lepinjice iz tiganja sa dunjom, kestenom i pečurkama. Jesenji recept bez kvasca, gotov za sat vremena. Savet i sastojci u UNA radnji.
+
+**Q: Može li testo da se napravi unapred?**
+
+Najbolje je da testo mesiš neposredno pre pečenja jer se u njemu nalazi prašak za pecivo. Fil, međutim, možeš lako da spremiš dan ranije i čuvaš ga u frižideru.
+
+**Q: Da li je jelo prikladno za vegane?**
+
+Jeste, ako jogurt zameniš biljnim jogurtom bez dodatog šećera. Ostali sastojci su biljnog porekla.
+
+**Q: Šta ako dunja ostane tvrda u filu?**
+
+Narendaj je sitnije i duže dinstaj uz poklopac, uz kašiku vode. Dunja je tvrda voćka i potrebno joj je vreme da omekša, pa je rende najlakši način da fil bude gotov na vreme.
+
+**Q: Mogu li lepinjice da se ispeku u rerni?**
+
+Mogu. Premaži ih maslinovim uljem i peci na oko 200 °C dvadesetak minuta, dok ne porumene. Ukus će biti malo drugačiji od onog iz tiganja, ali jednako dobar.
+
+---
+
 ## Dunja-kesten sa pečurkama u ražanim kroketima iz rerne
 
 https://unazdravahrana.com/recepti/dunja-kesten-sa-pecurkama-u-razanim-kroketima-iz-rerne
@@ -591,30 +615,6 @@ Da, granita je i dalje kafa, a količina kofeina zavisi od jačine kafe koju kor
 **Q: Da li je kokosov šećer zdraviji od belog u granite?**
 
 Ne značajno: ima sličan broj kalorija i ugljenih hidrata kao beli šećer i računa se kao dodati šećer. Razlika u glikemijskom indeksu je mala, pa ga birajte zbog karamelastog ukusa, a ne zbog zdravlja.
-
----
-
-## Kremasti ječam sa dunjom, kestenom i sunčanicama
-
-https://unazdravahrana.com/recepti/kremasti-jecam-sa-dunjom-kestenom-i-suncanicama
-
-Kad zahladi, kuća traži nešto što se jede kašikom, što greje i što se ne sprema ceo dan. Ovaj ječam je upravo to: gust, kremast variv koji se kuva u jednom loncu, a po ukusu je negde između rižota i jesenje čorbe.
-
-**Q: Da li je ovo jelo bezglutensko?**
-
-Ne. Ječam sadrži gluten. Kesten je prirodno bez glutena, ali ječam nije. Za bezglutensku verziju zamenite ječam heljdom ili prosom i proverite deklaraciju na pakovanju. Ako imate celijakiju, posavetujte se sa lekarom.
-
-**Q: Mogu li da koristim divlje pečurke?**
-
-Samo ako ste potpuno sigurni u prepoznavanje vrste. Ako niste, koristite bukovače ili šampinjone iz prodavnice. Divlje pečurke nemojte jesti često u većim količinama, jer mogu akumulirati teške metale iz zemljišta, a pogrešno prepoznavanje može biti opasno.
-
-**Q: Kako da očistim dunju i šta sa semenkama?**
-
-Dunju oljuštite, isecite na četvrtine i izvadite srž sa semenkama. Semenke ne jedite, bacite ih. Ako meso potamni, prelijte ga malo limunovog soka.
-
-**Q: Može li se pripremiti unapred?**
-
-Može. Čuva se do 3 dana u frižideru u zatvorenoj posudi. Pri podgrevanju dodajte malo vode ili bujona jer ječam upija tečnost.
 
 ---
 
