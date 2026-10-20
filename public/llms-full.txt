@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten sa pečurkama u ražanim kroketima iz rerne
+
+https://unazdravahrana.com/recepti/dunja-kesten-sa-pecurkama-u-razanim-kroketima-iz-rerne
+
+Jesen u Kragujevcu ima svoj miris: pečeni kesten sa ulice, dunje koje stoje na ormanu i korpe pečuraka sa pijace.
+
+**Q: Može li se dunja zameniti jabukom?**
+
+Može. Kiselkasta jabuka (npr. greni smit) narendana na isti način daje sličnu svežinu, ali će kroketići biti manje aromatični. Jabuci nije potrebno duže krčkanje, dovoljno je 2–3 minuta.
+
+**Q: Da li se kroketići mogu praviti bez kestena?**
+
+Mogu. Kesten možete zameniti kuvanim i izgnječenim sočivom ili leblebijama u istoj količini. Dobićete malo drugačiji, manje slatkast ukus, ali će kroketići ostati sočni i dobro oblikovani.
+
+**Q: Zašto se smesa raspada pri oblikovanju?**
+
+Najčešće je previše vlažna ili nije odstajala. Ostavite je 10–15 minuta da pahuljice upiju tečnost, dodajte kašiku brašna i oblikujte kroketiće mokrim rukama.
+
+---
+
 ## Veganski jesenski recepti: 5 jela od bundeve, gljiva i
 
 https://unazdravahrana.com/blog/veganski-jesenski-recepti-5-jela-od-bundeve-gljiva-i
@@ -595,30 +615,6 @@ Dunju oljuštite, isecite na četvrtine i izvadite srž sa semenkama. Semenke ne
 **Q: Može li se pripremiti unapred?**
 
 Može. Čuva se do 3 dana u frižideru u zatvorenoj posudi. Pri podgrevanju dodajte malo vode ili bujona jer ječam upija tečnost.
-
----
-
-## Jesenji čorbast ćuvetč od pečuraka, kestena i dunje
-
-https://unazdravahrana.com/recepti/jesenji-corbast-cuvetc-od-pecuraka-kestena-i-dunje
-
-Jesenji ćuvetč od pečuraka, kestena i dunje: toplo varivo na tihoj vatri, bez glutena i mesa. Recept za 4 porcije, gotov za oko sat vremena.
-
-**Q: Može li se ovo varivo napraviti bez glutena?**
-
-Da, recept je prirodno bez glutena jer kesten, pečurke i dunja ne sadrže gluten. Samo pazite da supa i paradajz pire/ajvar koje koristite nemaju dodate sastojke sa glutenom, a za prilog izaberite heljdu ili pirinač umesto hleba.
-
-**Q: Zašto dunja mora da se kuva, može li sirova?**
-
-Sirova dunja je zbog taninâ trpka i oporog ukusa, pa se uglavnom jede kuvana, pečena ili u kompotu. U varivu omekša, oplemeni se i daje blagu voćnu kiselkastost.
-
-**Q: Mogu li da koristim smrznute ili konzervirane pečurke?**
-
-Možete, ali ocedite i dobro osušite konzervirane pečurke, a smrznute prvo propržite na jakoj vatri da ispare višak vode. Sveže pečurke daju najbolju teksturu i ukus.
-
-**Q: Kako da varivo bude gušće bez brašna?**
-
-Kesten radi posao: malo ga zgnječite kašikom o zid lonca pa će zgusnuti sos. Ako želite još gušće, krčkajte nepoklopljeno nekoliko minuta duže ili dodajte kašiku čije koja upija tečnost.
 
 ---
 
