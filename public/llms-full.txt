@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Spavate 8 sati, a budite se umorni? Evo šta je u igri
+
+https://unazdravahrana.com/blog/spavate-8-sati-a-budite-se-umorni-evo-sta-je-u-igri
+
+---
+
 ## Heljdina kaša sa dunjom, kestenom i pečurkama za doručak
 
 https://unazdravahrana.com/recepti/heljdina-kasa-sa-dunjom-kestenom-i-pecurkama-za-dorucak
@@ -605,12 +611,6 @@ Likopen je liposolubilan, pa ga treba jesti uz masnoću, na primer uz maslinovo 
 **Q: Da li jedan paradajz pokriva dnevne potrebe za vitaminom C?**
 
 Ne. Sto grama paradajza daje oko 14 mg vitamina C, a EFSA preporučuje 110 mg dnevno za muškarce i 95 mg za žene. Ostatak treba nadoknaditi paprikom, citrusima, kupusom i drugim voćem i povrćem.
-
----
-
-## Čaj u štapiću: kako je nastao Schargo Tea i kako da
-
-https://unazdravahrana.com/blog/caj-u-stapicu-kako-je-nastao-schargo-tea-i-kako-da
 
 ---
 
