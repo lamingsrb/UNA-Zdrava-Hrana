@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Veganski jesenski recepti: 5 jela od bundeve, gljiva i
+
+https://unazdravahrana.com/blog/veganski-jesenski-recepti-5-jela-od-bundeve-gljiva-i
+
+Članak donosi pet veganskih jesenskih recepata od bundeve, pečuraka i kestena, uz objašnjenje čime se te namirnice razlikuju i gde ih najbolje koristiti. Uz praktične savete (pečenje bundeve, kratko pranje pečuraka, priprema kestena) navode se i nutritivne napomene, na primer o vitaminu A, vitaminu D i zasićenim mastima.
+
+**Q: Kako da bundeva u čorbi dobije najbolji ukus?**
+
+Bundevu prvo ispecite u rerni oko 35–45 minuta na 200 °C, pa je tek onda blendajte s lukom, belim lukom, supom i kokosovim mlekom. Pečenje karamelizuje šećere i daje dubinu ukusa koju kuvanje u vodi ne može da postigne.
+
+**Q: Kako se pečurke pravilno pripremaju da ne postanu vodnjikave?**
+
+Ne perite ih dugo i ne potapajte ih, već ih obrišite vlažnom krpom, jer upiju vodu. Pržite ih na jakoj vatri bez mešanja dok ne dobiju boju i posolite ih tek na kraju.
+
+**Q: Kako se najlakše peče kesten u rerni?**
+
+Kesten zasecite, pecite 20–25 minuta na oko 200 °C i ogulite ga dok je još topao. Tako se kora lakše skida, a kesten je spreman za pire, punjenje ili salatu.
+
+**Q: Da li su pečurke iz prodavnice dobar izvor vitamina D?**
+
+Obično nisu, jer se pečurke iz prodavnice najčešće gaje u mraku i sadrže malo vitamina D ili ga nemaju. Birajte ih zbog ukusa i teksture, a ne kao izvor tog vitamina.
+
+---
+
 ## Suplementi za decu: šta ima smisla, a šta pitati lekara
 
 https://unazdravahrana.com/blog/suplementi-za-decu-sta-ima-smisla-a-sta-pitati-lekara
@@ -595,26 +619,6 @@ Možete, ali ocedite i dobro osušite konzervirane pečurke, a smrznute prvo pro
 **Q: Kako da varivo bude gušće bez brašna?**
 
 Kesten radi posao: malo ga zgnječite kašikom o zid lonca pa će zgusnuti sos. Ako želite još gušće, krčkajte nepoklopljeno nekoliko minuta duže ili dodajte kašiku čije koja upija tečnost.
-
----
-
-## Vitamini iz tegle: kome zaista trebaju, a kome ne
-
-https://unazdravahrana.com/blog/vitamini-iz-tegle-kome-zaista-trebaju-a-kome-ne
-
-Za zdrave odrasle koji se raznovrsno hrane, dokazi da multivitamini štite srce ili smanjuju rizik od raka su nedovoljni, dok su trudnice, osobe koje planiraju trudnoću i ljudi sa utvrđenim nedostatkom grupe kojima suplementi mogu imati smisla. Beta-karoten i vitamin E se ne preporučuju za prevenciju bolesti, a pri kombinovanju više preparata treba paziti na gornje podnošljive nivoe unosa.
-
-**Q: Da li zdrav čovek treba da uzima multivitamine?**
-
-Za zdrave odrasle koji se raznovrsno hrane, dokazi da multivitamini štite od srčanih bolesti ili raka su nedovoljni. To ne znači da su štetni, već da nema pouzdane potvrde koristi. Ako sumnjate na nedostatak, prvo proverite ishranu i krvnu sliku.
-
-**Q: Kome suplementi zaista imaju smisla?**
-
-Najjasniji primer su žene koje planiraju trudnoću ili mogu da zatrudne i trudnice, kojima se preporučuje folna kiselina (400–800 µg dnevno). Koristi mogu imati i osobe starije od 50 godina i ljudi sa utvrđenim nedostatkom, na primer vitamina D, uz preporuku lekara.
-
-**Q: Može li se pretrpeti šteta od previše vitamina?**
-
-Može. Beta-karoten je kod pušača povećao rizik od raka pluća, pa se on i vitamin E ne preporučuju za prevenciju bolesti. Za vitamin B6 gornja granica je 12,5 mg dnevno, a za vitamin E 300 mg. Pošto se unos iz više preparata sabira, uporedite deklaracije svega što uzimate.
 
 ---
 
