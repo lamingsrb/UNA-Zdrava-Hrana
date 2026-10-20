@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Perimenopauza: 34% žena nije sigurno da li je u njoj
+
+https://unazdravahrana.com/blog/perimenopauza-34-zena-nije-sigurno-da-li-je-u-njoj
+
+Studija iz jula 2026. pokazala je da je 34% žena starijih od 35 godina nesigurno u svoju reproduktivnu fazu, najviše u dobi od 40 do 44 godine. Perimenopauzu je teško prepoznati jer nema potvrdnog testa, a simptomi se preklapaju sa stresom, PMS-om i tegobama štitaste žlezde, pa su beleženje ciklusa i razgovor sa lekarom najkorisniji koraci.
+
+**Q: Kako da znam da li sam u perimenopauzi?**
+
+Perimenopauzu najčešće ukazuju promene u ciklusu (kraći, duži ili nepravilan), talasi vrućine, noćno znojenje, nesanica i promene raspoloženja. Za žene starije od 45 godina simptomi i promene ciklusa su najpouzdaniji pokazatelji, a analiza krvi najčešće nije potrebna. Korisno je nekoliko meseci beležiti ciklus i simptome i doneti beleške ginekologu.
+
+**Q: Kada obično počinje perimenopauza?**
+
+Najčešće se primeti u četrdesetim godinama, ali neke žene promene osete već u tridesetim, a neke tek u pedesetim. Može trajati nekoliko godina, a menopauza se konstatuje kada prođe 12 uzastopnih meseci bez menstruacije.
+
+**Q: Mogu li da zatrudnim u perimenopauzi?**
+
+Da, u perimenopauzi je i dalje moguća ovulacija, pa i trudnoća. Žene koje ne žele trudnoću treba da koriste kontracepciju sve dok nemaju 12 meseci bez menstruacije, jer nepravilan ciklus ne znači da je trudnoća isključena.
+
+**Q: Da li biljni preparati i suplementi pomažu kod simptoma menopauze?**
+
+Prema američkom centru NCCIH, fitoestrogeni, biljke i dijetetski suplementi nisu jasno pokazali da ublažavaju simptome menopauze. Dokazi za black cohosh su nedosledni, uz retke prijavljene slučajeve oštećenja jetre, zato preparate ne treba uzimati na svoju ruku, već se posavetovati sa lekarom ili farmaceutom.
+
+---
+
 ## Spavate 8 sati, a budite se umorni? Evo šta je u igri
 
 https://unazdravahrana.com/blog/spavate-8-sati-a-budite-se-umorni-evo-sta-je-u-igri
@@ -587,30 +611,6 @@ Nije. Heljda prirodno ne sadrži gluten, ali se može kontaminirati pri mlevenju
 **Q: Koja bezglutenska testenina je dobar prvi izbor za početnike i decu?**
 
 Kukuruzna i pirinčana testenina imaju blag, neutralan ukus i lako se prihvataju, pa su dobar prvi izbor za one koji tek prelaze na ishranu bez glutena i za decu. Testenina od leblebija ima čvršći zalogaj i izraženiji ukus, a vrednosti proteina i vlakana proverite na deklaraciji.
-
----
-
-## Paradajz: vitamini, minerali i likopen u jednom plodu
-
-https://unazdravahrana.com/blog/paradajz-vitamini-minerali-i-likopen-u-jednom-plodu
-
-Paradajz je niskokalorična namirnica (oko 18 kcal na 100 g) koja daje vitamin C, vitamin K, folate, kalijum i likopen, ali nije dominantan izvor ovih nutrijenata. Likopen se bolje iskorišćava iz kuvanog paradajza uz malo masnoće, dok sirov čuva više vitamina C, pa je najbolje kombinovati oba oblika.
-
-**Q: Koliko kalorija i koji vitamini i minerali se nalaze u paradajzu?**
-
-Sto grama sirovog zrelog paradajza ima oko 18 kcal, oko 13,7 mg vitamina C, 7,9 µg vitamina K, 15 µg folata i 237 mg kalijuma. Vrednosti variraju zavisno od sorte i zrelosti, pa ih treba shvatiti kao orijentir.
-
-**Q: Da li je zdraviji sirov ili kuvan paradajz?**
-
-Nijedan oblik nije bolji u svemu. Sirov paradajz čuva više vitamina C, a kuvan ili pečen daje likopen koji se bolje iskorišćava. Zato je najbolje kombinovati oba oblika tokom nedelje.
-
-**Q: Kako da telo bolje iskoristi likopen iz paradajza?**
-
-Likopen je liposolubilan, pa ga treba jesti uz masnoću, na primer uz maslinovo ulje, orahe ili avokado. Usitnjavanje i kuvanje takođe povećavaju njegovu dostupnost, a zagrevanje na oko 88 °C već posle 15 do 30 minuta povećava količinu likopena.
-
-**Q: Da li jedan paradajz pokriva dnevne potrebe za vitaminom C?**
-
-Ne. Sto grama paradajza daje oko 14 mg vitamina C, a EFSA preporučuje 110 mg dnevno za muškarce i 95 mg za žene. Ostatak treba nadoknaditi paprikom, citrusima, kupusom i drugim voćem i povrćem.
 
 ---
 
