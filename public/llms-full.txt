@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečena dunja sa kestenom i čijom u jesenjem jogurt kupu
+
+https://unazdravahrana.com/recepti/pecena-dunja-sa-kestenom-i-cijom-u-jesenjem-jogurt-kupu
+
+Kad se u oktobru pojave prve žute dunje, u mnogim kuhinjama zamiriše na stare dane. Ovaj recept je lagan, topao doručak ili užina, bez kuvanja na šporetu i bez dosadnog mešanja: dunja se lagano peče u rerni sa cimetom, kesten se samo isitni, a sve se slaže u čašu preko gustog jogurta i čia semenki.
+
+**Q: Mogu li da koristim sirovu dunju umesto pečene?**
+
+Ne preporučujemo. Sirova dunja je tvrda, trpka i teško se jede, a pečenje je upravo ono što je čini mekom i slatkom. Zato je u ovom receptu uvek pečemo ili kuvamo.
+
+**Q: Da li je recept pogodan za ljude sa intolerancijom na laktozu?**
+
+Jeste, ako umesto običnog jogurta izaberete biljni jogurt bez dodatog šećera ili jogurt bez laktoze. Ostali sastojci (dunja, kesten, čia, orašasti plodovi) ne sadrže mlečne proizvode. Kod alergija i intolerancija uvek proverite deklaraciju na pakovanju.
+
+**Q: Može li se pripremiti večer ranije?**
+
+Može. Ispecite dunju i spremite čia mešavinu, pa slažite kup ujutru ili ostavite sve složeno preko noći. Čia će tada biti mekša, a ukusi će se bolje sjediniti.
+
+**Q: Je li ovo zdrav doručak za decu?**
+
+Prijatna je kombinacija voća, vlakana i proteina iz jogurta, uz minimum dodatog šećera. Deci mlađoj od tri godine seckane orahe izostavite ili ih fino sameljite zbog rizika od gutanja. Za posebne potrebe u ishrani dece posavetujte se sa pedijatrom.
+
+---
+
 ## Kokosova voda: za šta je dobra i kome treba umerenost
 
 https://unazdravahrana.com/blog/kokosova-voda-za-sta-je-dobra-i-kome-treba-umerenost
@@ -587,30 +611,6 @@ Sirova dunja je tvrda i trpka zbog tanina. Kuvanjem ili pečenjem omekša i dobi
 ## Čačanska kajsija: da li cena prati kvalitet?
 
 https://unazdravahrana.com/blog/cacanska-kajsija-da-li-cena-prati-kvalitet
-
----
-
-## Kvinoja: kako se kuva i da li je zaista bez glutena?
-
-https://unazdravahrana.com/blog/kvinoja-kako-se-kuva-i-da-li-je-zaista-bez-glutena
-
-Kvinoja je seme biljke iz Anda koje se jede kao žitarica, prirodno je bez glutena i sadrži svih devet esencijalnih aminokiselina. Kuva se nakon ispiranja u odnosu oko 1:2 sa vodom, a osobe sa celijakijom treba da biraju pakovanja označena kao „bez glutena“ i da se konsultuju sa lekarom.
-
-**Q: Kako se kuva kvinoja?**
-
-Kvinoju prvo isperite u situ pod hladnom vodom oko 30 sekundi da uklonite gorke saponine. Zatim je kuvajte u odnosu 1:2 sa vodom: kad provri, smanjite vatru, poklopite i krčkajte oko 15 minuta, pa ostavite da odstoji. Ako zrna ispadnu previše meka, sledeći put smanjite vodu na oko 1,5 do 1,75 šolje po šolji kvinoje.
-
-**Q: Da li kvinoja sadrži gluten?**
-
-Kvinoja prirodno ne sadrži gluten, pa je čest izbor ljudi koji izbegavaju pšenicu, ječam i raž. Međutim, postoji rizik od unakrsne kontaminacije u preradi i pakovanju, a pojedine sorte mogu sadržati epitope koji kod osoba sa celijakijom izazivaju reakciju. Zato obolelima savetujemo pakovanja sa oznakom „bez glutena“.
-
-**Q: Da li je kvinoja bezbedna za osobe sa celijakijom?**
-
-Jedna manja klinička studija sa 19 osoba pokazala je da su 50 g kvinoje dnevno tokom šest nedelja dobro podnosili, ali to nije dokaz za sve obolele. Druga studija je kod nekih sorti našla epitope koji mogu izazvati reakciju. Pre uvođenja kvinoje u ishranu razgovarajte sa lekarom ili nutricionistom i birajte označena pakovanja bez glutena.
-
-**Q: Koja je razlika između bele, crvene i crne kvinoje?**
-
-Crvena i crna kvinoja duguju boju betalainima i u nekim studijama imaju viši sadržaj polifenola od bele. Rezultati o proteinima, vlaknima i mineralima se ne slažu, pa nijedna boja nije dokazano „najzdravija“. U kuhinji je bela najblaža i najmekša, crvena ostaje čvršća i razdvojenija, a crna ima najizraženiji ukus i najhrskaviju teksturu.
 
 ---
 
