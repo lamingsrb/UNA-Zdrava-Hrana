@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Obroci u pravo vreme: da li sat na zidu utiče na
+
+https://unazdravahrana.com/blog/obroci-u-pravo-vreme-da-li-sat-na-zidu-utice-na
+
+Hrononutricija proučava kako vreme unosa hrane utiče na biološki sat i metabolizam, ali konačnih dokaza za univerzalna pravila još nema. Kasna večera može pogoršati podnošenje šećera kod nekih ljudi, dok ograničen prozor za jelo daje skroman gubitak težine bez dokazane prednosti nad samim smanjenjem kalorija.
+
+**Q: Šta je hrononutricija?**
+
+Hrononutricija je oblast koja proučava kako se vreme unosa hrane povezuje sa unutrašnjim biološkim satom i cirkadijalnim ritmovima, a ne samo šta i koliko jedemo. Raspored obroka služi kao signal perifernim satovima u tkivima koja regulišu metabolizam.
+
+**Q: Da li je kasna večera loša za šećer u krvi?**
+
+U nekim kontrolisanim ogledima kasna večera (oko 22:00) dovela je do više prosečne glukoze nego rana (oko 18:00), a efekat je bio izraženiji kod nosilaca određene genetske varijante. Efekat nije isti kod svih, pa ne postoji univerzalan sat do kog se sme jesti.
+
+**Q: Da li je preskakanje doručka štetno?**
+
+Veliki posmatrački radovi povezuju preskakanje doručka sa lošijim zdravstvenim pokazateljima, ali je to povezanost, a ne dokaz uzroka. Ljudi koji preskaču doručak često se razlikuju i po drugim navikama, pa nema razloga za paniku ako niste gladni ujutru.
+
+**Q: Da li ograničen prozor za jelo pomaže pri mršavljenju?**
+
+Meta-analize pokazuju skroman gubitak težine, u proseku oko 1,5 do 1,8 kg. Kada se kombinuje sa smanjenjem kalorija, nije nađena dodatna korist u odnosu na samo smanjenje kalorija. Osobe sa dijabetesom, trudnice, dojilje i oni sa istorijom poremećaja ishrane trebalo bi da se posavetuju sa lekarom pre uvođenja posta.
+
+---
+
 ## Pečeni ćufte-kolutovi od kestena i pečuraka sa dunjom
 
 https://unazdravahrana.com/recepti/peceni-cufte-kolutovi-od-kestena-i-pecuraka-sa-dunjom
@@ -601,30 +625,6 @@ Možete, samo izaberite onaj bez dodatog šećera ili sirupa. Kesten se u ovoj s
 **Q: Da li se salata može pripremiti unapred?**
 
 Delimično. Dresing i pečene sastojke možete pripremiti dan ranije i čuvati odvojeno u frižideru, a zelene listove tek pred služenje spojiti sa njima. Tako zelenilo ostane hrskavo.
-
----
-
-## Jesenji sivi ovsen tart od dunje, kestena i kakao nibsa
-
-https://unazdravahrana.com/recepti/jesenji-sivi-ovsen-tart-od-dunje-kestena-i-kakao-nibsa
-
-Jesenji tart od dunje i kestena sa korom od ovsa i oraha, bez belog brašna i šećera. Jednostavan recept za 1 sat. Sastojke nađite u UNA.
-
-**Q: Da li je ovaj tart bez glutena?**
-
-Kora ne sadrži pšenično brašno, a kesten je prirodno bez glutena. Ovas se često preradjuje u pogonima gde dolazi u kontakt sa glutenom, pa ako ste osetljivi ili imate celijakiju, uzmite ovsene pahuljice sa jasnom oznakom da su bez glutena i pitajte u radnji za odgovarajući izbor.
-
-**Q: Mogu li tart da pripremim dan ranije?**
-
-Može. Čak je i bolji sutradan, jer se nadev lepo stegne. Čuvajte ga pokrivenog u frižiteru i izvadite pola sata pre posluživanja.
-
-**Q: Čime mogu da zamenim med ako pravim tart za najmlađe?**
-
-Medu se ne preporučuje deci mlađoj od godinu dana, pa je za njih bolje zameniti ga pastom od urmi ili sirupom od urmi. Za stariju decu i odrasle med je u redu, ali sve zasladjivače koristite umereno.
-
-**Q: Zašto se dunja kuva, ne jede sirova?**
-
-Sirova dunja je tvrda i trpka zbog tanina. Kuvanjem ili pečenjem omekša i dobije sladak, mirisan ukus, a pektin koji sadrži pomaže da se nadev prirodno zgusne.
 
 ---
 
