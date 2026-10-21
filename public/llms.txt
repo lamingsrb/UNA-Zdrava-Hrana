@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Kokosova voda: za šta je dobra i kome treba umerenost](https://unazdravahrana.com/blog/kokosova-voda-za-sta-je-dobra-i-kome-treba-umerenost)
 - [Perimenopauza: 34% žena nije sigurno da li je u njoj](https://unazdravahrana.com/blog/perimenopauza-34-zena-nije-sigurno-da-li-je-u-njoj)
 - [Spavate 8 sati, a budite se umorni? Evo šta je u igri](https://unazdravahrana.com/blog/spavate-8-sati-a-budite-se-umorni-evo-sta-je-u-igri)
 - [Heljdina kaša sa dunjom, kestenom i pečurkama za doručak](https://unazdravahrana.com/recepti/heljdina-kasa-sa-dunjom-kestenom-i-pecurkama-za-dorucak)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Dunja-kesten humus sa pečurkama i tostiranim semenkama](https://unazdravahrana.com/recepti/dunja-kesten-humus-sa-pecurkama-i-tostiranim-semenkama)
 - [Orzo: 4 ideje za ručak koje se kuvaju u jednoj šerpi](https://unazdravahrana.com/blog/orzo-4-ideje-za-rucak-koje-se-kuvaju-u-jednoj-serpi)
 - [Cimet, čia i laneno seme uz dijabetes: šta dokazi zaista](https://unazdravahrana.com/blog/cimet-cia-i-laneno-seme-uz-dijabetes-sta-dokazi-zaista)
-- [Maslinovo ulje: kako da izaberete pravo i čemu služi u](https://unazdravahrana.com/blog/maslinovo-ulje-kako-da-izaberete-pravo-i-cemu-sluzi-u)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-20
+Last updated: 2026-10-21

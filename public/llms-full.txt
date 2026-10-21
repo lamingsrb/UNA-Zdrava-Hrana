@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kokosova voda: za šta je dobra i kome treba umerenost
+
+https://unazdravahrana.com/blog/kokosova-voda-za-sta-je-dobra-i-kome-treba-umerenost
+
+Kokosova voda je lagano, prirodno osvežavajuće piće sa oko 19 kcal i oko 250 mg kalijuma na 100 g, ali hidrira otprilike kao obična voda i nije potpuna zamena za sportski napitak posle dugih treninga. Osobe sa bolešću bubrega ili one koje piju lekove koji utiču na kalijum treba da se prvo posavetuju sa lekarom.
+
+**Q: Da li je kokosova voda bolja od obične vode?**
+
+Ne nužno. Studije pokazuju da sveža kokosova voda hidrira slično kao obična voda. Prijatna je alternativa ako ne volite običnu vodu ili želite nešto bolje od zaslađenih sokova, ali poseban učinak na kondiciju nije potvrđen.
+
+**Q: Koliko kalorija i kalijuma ima kokosova voda?**
+
+Prema USDA podacima, 100 g kokosove vode ima oko 19 kcal, oko 2,6 g prirodnih šećera i oko 250 mg kalijuma. Sastav varira zavisno od vrste i zrelosti kokosa, pa je najpouzdanije proveriti deklaraciju proizvoda.
+
+**Q: Da li je kokosova voda dobra posle treninga?**
+
+Posle lakšeg do umerenog treninga može da posluži, uz običnu vodu. Za duge i naporne treninge nije potpuna zamena za sportski napitak, jer ima malo natrijuma, a znoj ga gubi u većoj meri.
+
+**Q: Ko treba da izbegava ili ograniči kokosovu vodu?**
+
+Osobe sa hroničnom bolešću bubrega i oni koji piju lekove koji zadržavaju kalijum (na primer neke lekove za pritisak) treba da se posavetuju sa lekarom pre većeg unosa. Višak kalijuma može izazvati opasnu hiperkalijemiju.
+
+---
+
 ## Perimenopauza: 34% žena nije sigurno da li je u njoj
 
 https://unazdravahrana.com/blog/perimenopauza-34-zena-nije-sigurno-da-li-je-u-njoj
@@ -590,28 +614,4 @@ Crvena i crna kvinoja duguju boju betalainima i u nekim studijama imaju viši sa
 
 ---
 
-## Bezglutenska testenina: kako izabrati pravu i šta proveriti
-
-https://unazdravahrana.com/blog/bezglutenska-testenina-kako-izabrati-pravu-i-sta-proveriti
-
-Članak objašnjava šta znači oznaka „bez glutena“ (do 20 mg/kg), kako prepoznati simbol precrtanog klasa i licencu, i po čemu se razlikuju kukuruzna, pirinčana, heljdina i testenina od leblebija. Savetuje da se uvek čita lista sastojaka, posebno kod heljde, i da se kod celijakije biraju proizvodi sa jasnom oznakom, a ne samo „prirodno bez glutena“.
-
-**Q: Šta znači oznaka „bez glutena“ na pakovanju testenine?**
-
-Znači da gotov proizvod sadrži najviše 20 mg glutena po kilogramu (20 ppm). Tu granicu propisuju Uredba (EU) 828/2014 i srpski pravilnik, a ista vrednost se koristi i u međunarodnom standardu Codex.
-
-**Q: Kako prepoznati bezglutensku testeninu na polici u Srbiji?**
-
-Tražite natpis „bez glutena“ i/ili simbol precrtanog klasa pšenice sa registracionim brojem licence. Znak u Srbiji dodeljuje Udruženje Srbije za celijakiju u okviru sistema AOECS. Ne oslanjajte se samo na reč „kukuruzna“ ili „pirinčana“ u nazivu.
-
-**Q: Da li je heljdina testenina uvek bez glutena?**
-
-Nije. Heljda prirodno ne sadrži gluten, ali se može kontaminirati pri mlevenju, a neke heljdine testenine (poput soba rezanaca) prave se uz dodatak pšeničnog brašna. Zato uvek pročitajte listu sastojaka i potražite oznaku „bez glutena“.
-
-**Q: Koja bezglutenska testenina je dobar prvi izbor za početnike i decu?**
-
-Kukuruzna i pirinčana testenina imaju blag, neutralan ukus i lako se prihvataju, pa su dobar prvi izbor za one koji tek prelaze na ishranu bez glutena i za decu. Testenina od leblebija ima čvršći zalogaj i izraženiji ukus, a vrednosti proteina i vlakana proverite na deklaraciji.
-
----
-
-Last updated: 2026-10-20
+Last updated: 2026-10-21
