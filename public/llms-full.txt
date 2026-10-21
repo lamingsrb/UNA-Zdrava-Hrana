@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Što jesti posle vađenja zuba: prvi dan, prvi dani
+
+https://unazdravahrana.com/blog/sto-jesti-posle-vadjenja-zuba-prvi-dan-prvi-dani
+
+Posle vađenja zuba sačekajte da popusti anestezija, pa jedite mekanu, mlaku i glatku hranu (supe, pireovi, jogurt, kajgana), bez slamke, vruće, hrskave i oštre hrane. Cilj je da krvni ugrušak ostane na mestu i spreči suvi alveolitis, a tačna uputstva uvek daje vaš stomatolog.
+
+**Q: Kada smem da jedem posle vađenja zuba?**
+
+Sačekajte da popusti lokalna anestezija kako ne biste ugrizli ili opekli obraz i jezik. Izvori se razlikuju: neka NHS uputstva govore o jednom satu, druga o tri sata, pa je najbolje da pitate svog stomatologa.
+
+**Q: Šta je najbolje jesti prvi dan posle vađenja zuba?**
+
+Mlaku krem supu, jogurt, pire od krompira ili bundeve i glatku ovsenu kašu, uz jelo kašikom ili iz čaše. Hrana treba da bude mlaka, glatka i da ne traži žvakanje.
+
+**Q: Zašto ne smem da koristim slamku posle vađenja zuba?**
+
+Sisanje može da istisne krvni ugrušak iz alveole, a ugrušak štiti ranu dok zarasta. Gubitak ugruška može dovesti do suvog alveolitisa i jakog bola, pa se držite roka koji vam je dao stomatolog.
+
+**Q: Koju hranu treba izbegavati posle vađenja zuba?**
+
+Izbegavajte vruću, ljutu, hrskavu i oštru hranu (čips, krekeri, tvrd hleb), kao i sitna zrna poput pirinča, kus-kusa, kinoe i semenki koja mogu ući u ranu. Alkohol, gazirana pića i pušenje takođe treba izbegavati, a rokovi zavise od preporuke stomatologa.
+
+---
+
 ## Obroci u pravo vreme: da li sat na zidu utiče na
 
 https://unazdravahrana.com/blog/obroci-u-pravo-vreme-da-li-sat-na-zidu-utice-na
@@ -601,30 +625,6 @@ Dobar izbor su šargarepa, paradajz, voće jarkih boja (kajsija, breskva, lubeni
 **Q: Da li je bezbedno uzimati suplemente beta-karotena za ten?**
 
 Nije preporučljivo. Studije ATBC i CARET pokazale su da visoke doze beta-karotena iz dodataka povećavaju rizik od raka pluća kod pušača. Taj rizik se ne odnosi na šargarepu i paradajz iz ishrane, pa je bolje karotenoide unositi hranom nego kapsulama.
-
----
-
-## Pečeni kesten i dunja u šarenoj salati sa tahini dresingom
-
-https://unazdravahrana.com/recepti/peceni-kesten-i-dunja-u-sarenoj-salati-sa-tahini-dresingom
-
-Kad se spoje slatkast pečeni kesten, aromatična, trpka dunja i prženi šampinjoni, dobijete jesenju salatu koja je topla, sita i sasvim drugačija od letnjih zelenih lista.
-
-**Q: Može li se dunja jesti sirova u ovoj salati?**
-
-Sirova dunja je trpka i tvrda, pa se obično ne jede sveža. Zato je u ovom receptu kratko propržimo da omekša i dobije slatkasti ukus, a da ne izgubi zalogaj.
-
-**Q: Da li je salata bez glutena i laktoze?**
-
-Po sastojcima jeste, jer ne sadrži žitarice sa glutenom ni mlečne proizvode. Kesten je prirodno bez glutena, a dresing je na bazi tahinija. Ako imate celijakiju ili težu intoleranciju, proverite deklaracije proizvoda koje kupujete.
-
-**Q: Mogu li da koristim kuvan kesten iz teglice ili kesice?**
-
-Možete, samo izaberite onaj bez dodatog šećera ili sirupa. Kesten se u ovoj salati dodaje na kraju, pa ga je dovoljno samo prelomiti i po želji kratko podgrejati.
-
-**Q: Da li se salata može pripremiti unapred?**
-
-Delimično. Dresing i pečene sastojke možete pripremiti dan ranije i čuvati odvojeno u frižideru, a zelene listove tek pred služenje spojiti sa njima. Tako zelenilo ostane hrskavo.
 
 ---
 
