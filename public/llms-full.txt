@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni ćufte-kolutovi od kestena i pečuraka sa dunjom
+
+https://unazdravahrana.com/recepti/peceni-cufte-kolutovi-od-kestena-i-pecuraka-sa-dunjom
+
+Pečeni medaljoni od kestena i pečuraka sa karamelizovanom dunjom: jesenje bezmesno jelo iz rerne, gotovo za sat vremena.
+
+**Q: Mogu li medaljoni da se prave bez jaja?**
+
+Mogu. Umesto jajeta koristite lanenu zamenu: 1 kašiku mlevenog lana pomešanu sa 3 kašike vode, ostavljenu 10 minuta da se zgusne. Masa će biti malo osetljivija pa je dobro da se pre oblikovanja ohladi 15 minuta u frižideru.
+
+**Q: Da li je jelo bez glutena?**
+
+Kesten je prirodno bez glutena, ali ovsene pahuljice često mogu biti kontaminirane tragovima glutena. Ako ste osetljivi na gluten, birajte pahuljice sa jasnom oznakom da su bezglutenske, a u radnji vam rado pomažemo da ih nađete.
+
+**Q: Može li se dunja zameniti nečim drugim?**
+
+Može, jabukom ili krušku, ali ćete dobiti blaži i slađi ukus. Dunja daje prijatnu kiselkastu notu i čvršću teksturu, pa je kod jabuke dovoljno skratiti vreme krčkanja na 6–8 minuta.
+
+---
+
 ## Pečena dunja sa kestenom i čijom u jesenjem jogurt kupu
 
 https://unazdravahrana.com/recepti/pecena-dunja-sa-kestenom-i-cijom-u-jesenjem-jogurt-kupu
@@ -605,12 +625,6 @@ Medu se ne preporučuje deci mlađoj od godinu dana, pa je za njih bolje zamenit
 **Q: Zašto se dunja kuva, ne jede sirova?**
 
 Sirova dunja je tvrda i trpka zbog tanina. Kuvanjem ili pečenjem omekša i dobije sladak, mirisan ukus, a pektin koji sadrži pomaže da se nadev prirodno zgusne.
-
----
-
-## Čačanska kajsija: da li cena prati kvalitet?
-
-https://unazdravahrana.com/blog/cacanska-kajsija-da-li-cena-prati-kvalitet
 
 ---
 
