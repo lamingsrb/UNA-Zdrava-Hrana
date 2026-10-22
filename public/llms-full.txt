@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Aparat za pirinač i paru za 2.299 din: kako ga iskoristiti
+
+https://unazdravahrana.com/blog/aparat-za-pirinac-i-paru-za-2299-din-kako-ga-iskoristiti
+
+Lidl je od 15. do 21. oktobra nudio Silvercrest aparat za pirinač sa umetkom za paru i održavanjem toplote po ceni od 2.299 dinara; ponuda je istekla, pa treba proveriti da li ga još ima. Članak objašnjava kome ovakav aparat ima smisla, šta ide na umetak a šta u posudu, i kako kuvanje na pari pomaže da se postigne preporuka od 400 g voća i povrća dnevno.
+
+**Q: Koliko košta Silvercrest aparat za pirinač iz Lidla i da li ponuda još važi?**
+
+Lidl je od 15. do 21. oktobra, do isteka zaliha, nudio Silvercrest aparat za kuvanje pirinča po ceni od 2.299 dinara. Ponuda je istekla 21. oktobra, pa cenu i dostupnost proverite na lidl.rs ili u najbližoj prodavnici.
+
+**Q: Šta se kuva na umetku za paru, a šta u glavnoj posudi aparata?**
+
+Pirinač i ostale žitarice idu u glavnu posudu sa vodom, a povrće i riba na umetak iznad. Brokoli, karfiol, tikvice i spanać su dobar izbor za paru, a tačna vremena zavise od modela, pa pratite uputstvo i proverite viljuškom.
+
+**Q: Zašto je kuvanje na pari bolje od kuvanja povrća u ključaloj vodi?**
+
+Na pari povrće ne dolazi u direktan kontakt s vodom, pa se, prema izvorima koje navode domaći mediji, čuva veći deo vitamina i prirodni ukus. Za većinu povrća dovoljno je oko sedam do osam minuta, dok dugo kuvanje smanjuje vitamine osetljive na toplotu poput vitamina C i folne kiseline.
+
+**Q: Koliko povrća i voća treba jesti dnevno i koliko često ribu?**
+
+Svetska zdravstvena organizacija preporučuje 400 grama voća i povrća dnevno, odnosno oko pet porcija od po 80 grama. Institut „Batut" savetuje da riba bude na jelovniku barem dva puta nedeljno.
+
+---
+
 ## Dunja: kako da je izaberete, spremite i uklopite u ishranu
 
 https://unazdravahrana.com/blog/dunja-kako-da-je-izaberete-spremite-i-uklopite-u-ishranu
@@ -597,12 +621,6 @@ Suvi orzo ima oko 370 kcal na 100 g, a kuvani oko 160 kcal na 100 g, jer testeni
 **Q: Kako spriječiti da se orzo slepi ili pretvori u kašu?**
 
 Mešajte češće nego kod običnih makarona, naročito u prvim minutima, i dobro posolite vodu. Probajte zrno pre isteka vremena i izvadite ga kad ima blagi otpor pod zubima. Kod čorbe orzo dodajte tek u poslednjih desetak minuta jer upija tečnost i nastavlja da bubri.
-
----
-
-## Cimet, čia i laneno seme uz dijabetes: šta dokazi zaista
-
-https://unazdravahrana.com/blog/cimet-cia-i-laneno-seme-uz-dijabetes-sta-dokazi-zaista
 
 ---
 
