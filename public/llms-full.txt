@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdravlje je novi luksuz: živeti bolje, ne samo duže
+
+https://unazdravahrana.com/blog/zdravlje-je-novi-luksuz-ziveti-bolje-ne-samo-duze
+
+---
+
 ## Kimči: šta je, kako se pravi i da li zaista pomaže varenju
 
 https://unazdravahrana.com/blog/kimci-sta-je-kako-se-pravi-i-da-li-zaista-pomaze-varenju
@@ -583,30 +589,6 @@ Preporuka zavisi od uzrasta: deca od 2 do 5 godina najmanje 250 g dnevno, deca o
 **Q: Kako da dete uključim u kuvanje kod kuće?**
 
 Mališani od 5 do 7 godina mogu da peru povrće, kidaju začinsko bilje i mešaju testo drvenom kašikom. Osnovci mogu da počnu sa prvim sečenjem i merenjem, uz odgovarajući nož i nadzor. Cilj nije savršen rezultat, već dodir sa namirnicom i osećaj da je obrok i njihovo delo.
-
----
-
-## Povremeni post: šta nauka kaže, a šta je još otvoreno
-
-https://unazdravahrana.com/blog/povremeni-post-sta-nauka-kaze-a-sta-je-jos-otvoreno
-
-Povremeni post je pravilo o tome kada se jede, a ne šta, i može dovesti do gubitka težine, ali nema dokaza da je bolji od običnog smanjenja kalorija. Efekti na holesterol, šećer, pritisak i upalu su obećavajući, ali nedosledni i zasnovani na kratkim studijama, pa se post ne sme shvatiti kao lek.
-
-**Q: Šta je povremeni post?**
-
-Povremeni post je zajednički naziv za rasporede ishrane u kojima se obroci jedu u određenom vremenskom okviru, a ostatak vremena prolazi bez hrane. Nije dijeta sa spiskom namirnica, već pravilo o tome kada se jede. Najpoznatiji oblici su 12:12, 14:10, 16:8 i 18:6.
-
-**Q: Da li povremeni post pomaže pri mršavljenju?**
-
-Može dovesti do gubitka težine, ali nema dokaza da je u tome bolji od drugih načina da se jede manje. U jednoj meta-analizi 26 studija smanjenje težine bilo je oko 1,6 kg, a u istanbulskom ispitivanju režim 16:8 i običan manji unos kalorija dali su sličan rezultat, oko 7% manje težine.
-
-**Q: Utiče li povremeni post na holesterol i šećer u krvi?**
-
-Neke studije beleže niži ukupni holesterol, LDL i insulin, ali rezultati nisu jednoznačni. Jedna meta-analiza je našla i porast triglicerida, a druga nije našla značajnu korist za pritisak, glukozu i lipide u odnosu na samo smanjenje kalorija. Poboljšanja često prate gubitak težine, a ne sam sat obroka.
-
-**Q: Može li povremeni post da leči upalu ili artritis?**
-
-Ne. Preliminarni nalazi kod reumatoidnog artritisa ukazuju na manji bol u zglobovima i niže markere upale, ali su dokazi rasuti, dugoročnih studija nema i potrebna su dodatna randomizovana ispitivanja. Povremeni post se ne sme shvatiti kao lečenje.
 
 ---
 
