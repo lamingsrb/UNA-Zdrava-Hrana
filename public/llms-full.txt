@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni kesten-dunja kolutići sa kinoa kremom i bukovačama
+
+https://unazdravahrana.com/recepti/peceni-kesten-dunja-kolutici-sa-kinoa-kremom-i-bukovacama
+
+Evo jesenje kombinacije koju ste verovatno već probali na više načina, ali ovaj put dunja i kesten idu u sasvim drugačiju ulogu: dunju kratko karamelizujemo u tiganju zajedno sa bukovačama, a kesten dobija glavnu reč u kremi od kinoe.
+
+**Q: Da li je ovaj recept bez glutena?**
+
+Sami sastojci (kinoa, kesten, dunja, bukovače) su prirodno bez glutena. Ako ste osetljivi ili imate celijakiju, proverite na pakovanju kinoe, začina i supe da su označeni kao bez glutena, jer se tragovi mogu pojaviti pri preradi.
+
+**Q: Mogu li kesten da zamenim nečim ako ga ne nađem?**
+
+Možete koristiti kuvani leblebiju ili belu pasulj za kremu, ukus će biti blaži. Pečeni kesten iz tegle ili vakuuma je najbrži, a sveži treba ukrstiti nožem, ispeći ili skuvati pa oljuštiti dok je još topao.
+
+**Q: Da li se dunja jede sirova?**
+
+Sirova dunja je tvrda, trpka i teško svarljiva, zato se gotovo uvek termički obrađuje (pirjanje, pečenje, kuvanje). Zato je i u ovom receptu prethodno prženje u tiganju do mekoće.
+
+**Q: Može li se jelo pripremiti unapred?**
+
+Može. Kremu od kinoe i kestena i pržene dunje i pečurke čuvajte odvojeno u frižideru do 2 dana, pa pred serviranje zagrejte u tiganju uz kašiku vode. Seme i peršun dodajte tek na kraju.
+
+---
+
 ## Mlinci sa dunjom, kestenom i bukovačama iz rerne
 
 https://unazdravahrana.com/recepti/mlinci-sa-dunjom-kestenom-i-bukovacama-iz-rerne
@@ -561,30 +585,6 @@ https://unazdravahrana.com/blog/cimet-cia-i-laneno-seme-uz-dijabetes-sta-dokazi-
 ## Maslinovo ulje: kako da izaberete pravo i čemu služi u
 
 https://unazdravahrana.com/blog/maslinovo-ulje-kako-da-izaberete-pravo-i-cemu-sluzi-u
-
----
-
-## Orzo sa pečurkama, dunjom i kestenom iz jedne tepsije
-
-https://unazdravahrana.com/recepti/orzo-sa-pecurkama-dunjom-i-kestenom-iz-jedne-tepsije
-
-Jesenji orzo iz jedne tepsije: pečurke, dunja i pečeni kesten uz hrskave semenke bundeve. Zdrav ručak za 45 minuta, posan i lak.
-
-**Q: Može li se ovo jelo spremiti kao posno ili veganski?**
-
-Da. Recept je već posan i veganski ako koristite povrtnu supu i maslinovo ulje. Samo pazite da supa nema dodate mlečne sastojke, a ako vam je potreban 'sirast' ukus, dodajte malo kvasca u pahuljicama.
-
-**Q: Gde da nađem dunju van sezone?**
-
-Dunja je jesenje voće, pa je najbolje spremati ovo jelo od oktobra do decembra. Van sezone slobodno je zamenite čvrstom kiselkastom jabukom, a kesten bi mogao da se zameni očišćenim orasima ili bademima.
-
-**Q: Da li je ovo jelo pogodno za osobe sa intolerancijom na gluten?**
-
-Klasičan orzo sadrži gluten, pa nije pogodan za celijakiju. Isto jelo možete napraviti sa kuvanom heljdom ili prosom, a kesten je prirodno bez glutena. Za sigurnost uvek proverite deklaraciju na pakovanju.
-
-**Q: Mogu li sam da beram pečurke za ovaj recept?**
-
-Preporučujemo da koristite samo pečurke u čiju ste ispravnost potpuno sigurni, na primer kupljene šampinjone ili bukovače. Mnoge otrovne gljive liče na jestive, pa berite samo ako vas je proverio iskusan gljivar ili stručnjak.
 
 ---
 
