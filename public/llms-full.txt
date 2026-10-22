@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja: kako da je izaberete, spremite i uklopite u ishranu
+
+https://unazdravahrana.com/blog/dunja-kako-da-je-izaberete-spremite-i-uklopite-u-ishranu
+
+Dunja je jesenji plod bogat pektinom i vlaknima, koji je zbog tanina trpak i tvrd pa se jede termički obrađen (kuvan, pečen, u džemu). Članak objašnjava kako izabrati zrelu dunju, njene nutritivne vrednosti, šta nauka zaista zna o njenoj lekovitosti i zašto semenke ne treba jesti.
+
+**Q: Zašto se dunja ne jede sirova?**
+
+Sirova dunja je tvrda i oporog ukusa zbog tanina koji stežu usta. Kuvanje, pečenje ili pravljenje džema ublažava trpkost i čini plod mekanim i aromatičnim.
+
+**Q: Koliko kalorija i vlakana ima dunja?**
+
+Na 100 grama sirove dunje ima oko 57 kcal, oko 15 g ugljenih hidrata, oko 1,9 g vlakana i 15 mg vitamina C. Plod je više od 80% voda, a vrednosti se u različitim bazama malo razlikuju.
+
+**Q: Da li je dunja lekovita?**
+
+Dunji se u preglednim radovima pripisuju antioksidativna i druga svojstva, ali su to rezultati laboratorijskih i pretkliničkih istraživanja, ne dokaz da leči ljude. Ako imate zdravstvenih tegoba, posavetujte se sa lekarom.
+
+**Q: Da li se semenke dunje smeju jesti?**
+
+Ne. Semenke dunje sadrže nitrilna jedinjenja koja mogu biti toksična u većim količinama, pa ih pri pripremi uvek izvadite i bacite, a ne stavljajte ih ni u čaj ni u napitke.
+
+---
+
 ## Pečeni kesten-dunja kolutići sa kinoa kremom i bukovačama
 
 https://unazdravahrana.com/recepti/peceni-kesten-dunja-kolutici-sa-kinoa-kremom-i-bukovacama
@@ -579,12 +603,6 @@ Mešajte češće nego kod običnih makarona, naročito u prvim minutima, i dobr
 ## Cimet, čia i laneno seme uz dijabetes: šta dokazi zaista
 
 https://unazdravahrana.com/blog/cimet-cia-i-laneno-seme-uz-dijabetes-sta-dokazi-zaista
-
----
-
-## Maslinovo ulje: kako da izaberete pravo i čemu služi u
-
-https://unazdravahrana.com/blog/maslinovo-ulje-kako-da-izaberete-pravo-i-cemu-sluzi-u
 
 ---
 
