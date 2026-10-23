@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenska variva: 4 recepta za ručak koji greje
+
+https://unazdravahrana.com/blog/jesenska-variva-4-recepta-za-rucak-koji-greje
+
+Članak donosi četiri jednostavna recepta za jesenska variva od mahunarki i povrća, uz osnovne savete o potapanju pasulja, veličini porcije i dodavanju soli pri kraju kuvanja. Objašnjava i zašto su mahunarke dobar izvor vlakana i biljnih proteina, posebno u kombinaciji sa žitaricama.
+
+**Q: Da li treba potapati pasulj pre kuvanja?**
+
+Da, pasulj se preporučuje potapati preko noći, a vodu u kojoj se potapao treba baciti i kuvati ga u svežoj vodi do potpune mekoće. Tako je lakši za varenje, a potapanje i temeljno kuvanje mogu da ublaže nadutost. Sočivo, za razliku od pasulja, ne traži potapanje.
+
+**Q: Koliko mahunarki treba jesti i kolika je jedna porcija?**
+
+Prema pregledu Evropske komisije, jedna porcija mahunarki je otprilike 70–100 g sirovih ili 150–200 g kuvanih. Preporuke o učestalosti se razlikuju, od bar jednom nedeljno do tri porcije nedeljno. Za početak je razuman cilj jedno vareno jelo od mahunarki nedeljno.
+
+**Q: Kada u variva treba dodati so?**
+
+So je najbolje dodati tek pri kraju kuvanja, uz probu, jer variva lako postanu preslana. SZO preporučuje odraslima manje od 5 g soli dnevno. Ukus je bolje graditi začinima, lovorom, belim lukom i sveže mlevenim biberom.
+
+**Q: Zašto mahunarke treba kombinovati sa žitaricama?**
+
+Biljni proteini mahunarki nisu potpuni, ali se to lako nadoknađuje žitaricama u istom obroku. Zato se pasulj ili sočivo dobro slažu sa ječmom, pirinčem ili parčetom dobrog hleba. Takva kombinacija daje i više vlakana i veću sitost.
+
+---
+
 ## Bundeva u kuhinji: 5 jela i kako da ih uspete
 
 https://unazdravahrana.com/blog/bundeva-u-kuhinji-5-jela-i-kako-da-ih-uspete
@@ -583,26 +607,6 @@ Sastojci su biljnog porekla i prirodno bez laktoze, a bez glutena su ako su svi 
 **Q: Mogu li da koristim sveže divlje pečurke iz šume?**
 
 Preporučujemo gajene pečurke poput šampinjona ili bukovača. Divlje pečurke koristite samo ako ih je prethodno pregledao obučen mikolog, jer su pojedine otrovne vrste vrlo slične jestivim, a trovanja mogu biti ozbiljna uz odložene simptome.
-
----
-
-## Vitamin C kod prehlade: koliko zaista pomaže?
-
-https://unazdravahrana.com/blog/vitamin-c-kod-prehlade-koliko-zaista-pomaze
-
-Prema Cochrane pregledu, redovan unos vitamina C ne smanjuje učestalost prehlade u opštoj populaciji, ali može skratiti njeno trajanje za oko 8% kod odraslih i 14% kod dece. Uzimanje tek pošto simptomi počnu nema dosledan efekat, a većina ljudi potrebnu količinu (95–110 mg dnevno) dobija iz ishrane.
-
-**Q: Da li vitamin C skraćuje trajanje prehlade?**
-
-Kod ljudi koji ga unose redovno, prehlada u proseku traje nešto kraće: oko 8% kod odraslih i oko 14% kod dece. To je razlika od manje od jednog dana, a ne lek za prehladu.
-
-**Q: Treba li uzeti vitamin C kad se pojave prvi simptomi prehlade?**
-
-Dokazi su slabi. Analize pokazuju da vitamin C uzet tek pošto simptomi počnu nema dosledan efekat na trajanje ni težinu prehlade. Pojedinačni ogledi sa visokim dozama nisu pravilo i ne treba ih samoinicijativno oponašati.
-
-**Q: Koliko vitamina C je potrebno dnevno i koliko je previše?**
-
-EFSA preporučuje 110 mg dnevno za odrasle muškarce i 95 mg za odrasle žene, što se lako postiže ishranom (paprika, citrusi, kupus). NIH navodi gornji podnošljivi nivo od 2.000 mg dnevno za odrasle, a iznad toga mogu se javiti dijareja i grčevi u stomaku.
 
 ---
 
