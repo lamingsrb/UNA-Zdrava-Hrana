@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten gulaš sa pečurkama i bademima
+
+https://unazdravahrana.com/recepti/dunja-kesten-gulas-sa-pecurkama-i-bademima
+
+Biljni gulaš od dunje, kestena i pečuraka sa bademima: jedan lonac, bez glutena i laktoze, gotov za sat vremena. Jesenji recept iz UNA Zdrave Hrane.
+
+**Q: Može li gulaš da se spremi unapred?**
+
+Može, i bolji je sutradan. Čuvajte ga u frižideru u zatvorenoj posudi do tri dana i podgrejte na laganoj vatri uz malo vode, jer se sos tokom odmaranja zgusne.
+
+**Q: Da li je jelo pogodno za ljude koji izbegavaju gluten i laktozu?**
+
+Po sastavu jeste: kesten je bez glutena, a u receptu nema brašna ni mlečnih proizvoda. Ako imate celijakiju, proverite da povrtna supa, začini i paradajz pire nemaju tragove glutena, a za prilog izaberite heljdu ili krompir.
+
+**Q: Mogu li da koristim smrznutu ili tegla dunju?**
+
+Najbolje radi sveža dunja u sezoni, jer zadržava oblik i daje prijatnu kiselkastost. Smrznuta dunja se brže raskuva, pa je dodajte tek u poslednjih 10 do 15 minuta.
+
+**Q: Kako da gulaš bude gušći bez brašna?**
+
+Izgnječite deo kestena kašikom o zid lonca i umešajte mlevene bademe, to je dovoljno. Ako želite još gušći sos, krčkajte poslednjih nekoliko minuta bez poklopca.
+
+---
+
 ## Pečurke i kesten u dunja-ječam prženom pilafu
 
 https://unazdravahrana.com/recepti/pecurke-i-kesten-u-dunja-jecam-przenom-pilafu
@@ -593,30 +617,6 @@ Rižino brašno je najuniverzalnije za zgušnjavanje jer je neutralnog ukusa. So
 **Q: Kako da se snađem kao početnik u pečenju bez glutena?**
 
 Najlakše je krenuti od gotove mešavine za pecivo i proverenog recepta, jer je neko već izbalansirao više brašna i škrobova. Ne menjajte brašno 1:1, računajte na više tečnosti i duže odmaranje testa, a sastav i uputstvo uvek pročitajte.
-
----
-
-## Zelena glina za masnu kosu: šta zna, a šta ne zna
-
-https://unazdravahrana.com/blog/zelena-glina-za-masnu-kosu-sta-zna-a-sta-ne-zna
-
-Zelena glina može privremeno da upije višak sebuma sa površine vlasišta, ali nema pouzdanih dokaza da trajno menja njegovu proizvodnju, a tvrdnje o detoksikaciji i rastu kose potiču iz marketinga. Članak objašnjava zašto se kosa masti, daje oprezan postupak upotrebe i upozorava da svrab, ljuspice i crvenilo zahtevaju dermatologa.
-
-**Q: Da li zelena glina pomaže kod masne kose?**
-
-Zelena glina može privremeno da upije višak masnoće sa površine vlasišta, ali nema pouzdanih dokaza da trajno smanjuje lučenje sebuma. Studija na koži pokazala je trenutno smanjenje masnoće, bez regulacije proizvodnje sebuma.
-
-**Q: Zašto se kosa brzo masti?**
-
-Masnoću pravi sebum, prirodno ulje lojnih žlezda. Količina zavisi od uzrasta, hormona (androgena) i aktivnosti žlezda, pa je masna kosa najčešće osobina vlasišta, a ne greška u nezi.
-
-**Q: Kako se zelena glina nanosi na kosu?**
-
-Prvo uradite probu iza uha, zatim prah umešajte sa mlakom vodom do gustine jogurta. Nanosite na vlasište, ne na dužine, ne dozvolite da se potpuno osuši i temeljno isperite mlakom vodom. Počnite retko i pratite reakciju vlasišta.
-
-**Q: Kada masnu kosu treba pokazati dermatologu?**
-
-Ako uz masnoću imate ljuspice, crvenilo ili svrab, može biti reč o seboroičnom dermatitisu. U tom slučaju pravi sagovornik je dermatolog, a ne kućna maska.
 
 ---
 
