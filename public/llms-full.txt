@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Bundeva u kuhinji: 5 jela i kako da ih uspete
+
+https://unazdravahrana.com/blog/bundeva-u-kuhinji-5-jela-i-kako-da-ih-uspete
+
+---
+
 ## Dunja-kesten gulaš sa pečurkama i bademima
 
 https://unazdravahrana.com/recepti/dunja-kesten-gulas-sa-pecurkama-i-bademima
@@ -597,26 +603,6 @@ Dokazi su slabi. Analize pokazuju da vitamin C uzet tek pošto simptomi počnu n
 **Q: Koliko vitamina C je potrebno dnevno i koliko je previše?**
 
 EFSA preporučuje 110 mg dnevno za odrasle muškarce i 95 mg za odrasle žene, što se lako postiže ishranom (paprika, citrusi, kupus). NIH navodi gornji podnošljivi nivo od 2.000 mg dnevno za odrasle, a iznad toga mogu se javiti dijareja i grčevi u stomaku.
-
----
-
-## Bezglutensko brašno: vrste, primena i gde ga kupiti u
-
-https://unazdravahrana.com/blog/bezglutensko-brasno-vrste-primena-i-gde-ga-kupiti-u
-
-Članak objašnjava da ne postoji jedno bezglutensko brašno za sve namene, pa se rižino, heljdino, kukuruzno, bademovo, brašno od leblebija i gotove mešavine biraju prema nameni i često kombinuju. Daje praktične savete za mešanje, upozorava na moguću kontaminaciju glutenom i preporučuje da se pre promene ishrane obavi dijagnostika kod lekara.
-
-**Q: Zašto jedno bezglutensko brašno ne može da zameni pšenično u svemu?**
-
-Gluten daje testu elastičnost i zadržava vazduh, pa se bez njega testo lakše lomi, manje diže i drugačije upija tečnost. Zato se bezglutenska brašna biraju prema nameni i često mešaju, a recept za pšenično brašno retko radi bez prilagođavanja.
-
-**Q: Koje bezglutensko brašno je najbolje za zgušnjavanje sosova i čorbi?**
-
-Rižino brašno je najuniverzalnije za zgušnjavanje jer je neutralnog ukusa. Sos, čorba ili bešamel dobijaju gustinu bez promene ukusa.
-
-**Q: Kako da se snađem kao početnik u pečenju bez glutena?**
-
-Najlakše je krenuti od gotove mešavine za pecivo i proverenog recepta, jer je neko već izbalansirao više brašna i škrobova. Ne menjajte brašno 1:1, računajte na više tečnosti i duže odmaranje testa, a sastav i uputstvo uvek pročitajte.
 
 ---
 
