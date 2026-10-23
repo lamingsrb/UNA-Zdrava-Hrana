@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečurke i kesten u dunja-ječam prženom pilafu
+
+https://unazdravahrana.com/recepti/pecurke-i-kesten-u-dunja-jecam-przenom-pilafu
+
+Kad zahladi, na stolu nam trebaju jela koja greju i siće, a opet ne opterećuju. Ovaj recept je lagan jesenji ručak iz jednog tiganja: na tamo-vamo pržen kuvani ječam sa belim lukom i majčinom dušicom dodajemo karamelizovane kriške dunje, pečurke i omiljeni kesten.
+
+**Q: Može li se dunja jesti sirova ili je bolje da se skuva?**
+
+Sirova dunja je veoma tvrda, trpka i teška za varenje, pa se najčešće jede kuvana, pečena ili dinstana. Seme dunje ne treba jesti, zato ga uvek uklonite pre pripreme.
+
+**Q: Da li je ovo jelo pogodno za vegane?**
+
+Da, recept je u potpunosti biljni — ne sadrži mleko, jaja ni meso. Samo proverite da vam ječam i ostali sastojci nisu pakovani sa dodacima životinjskog porekla.
+
+**Q: Kako da recept prilagodim ako ne jedem gluten?**
+
+Zamenite ječam kuvanom heljdom ili prosom. Kesten, dunja i pečurke su prirodno bez glutena, ali ako imate celijakiju, proverite deklaraciju svakog pakovanog sastojka.
+
+---
+
 ## Pečena dunja i kesten u jesenjem kus-kus tabuleu
 
 https://unazdravahrana.com/recepti/pecena-dunja-i-kesten-u-jesenjem-kus-kus-tabuleu
@@ -597,30 +617,6 @@ Prvo uradite probu iza uha, zatim prah umešajte sa mlakom vodom do gustine jogu
 **Q: Kada masnu kosu treba pokazati dermatologu?**
 
 Ako uz masnoću imate ljuspice, crvenilo ili svrab, može biti reč o seboroičnom dermatitisu. U tom slučaju pravi sagovornik je dermatolog, a ne kućna maska.
-
----
-
-## Jesenji bulgur-pilav sa dunjom, pečurkama i lešnicima
-
-https://unazdravahrana.com/recepti/jesenji-bulgur-pilav-sa-dunjom-pecurkama-i-lesnicima
-
-Bulgur-pilav sa dunjom, pečurkama i prepečenim lešnicima: zasitno jesenje jelo za 45 minuta, iz jedne šerpe. Recept i saveti.
-
-**Q: Mogu li da koristim divlje pečurke iz šume?**
-
-Preporučujemo pečurke iz proverenih izvora, poput šampinjona ili bukovača. Branje divljih pečuraka je rizično bez iskusnog poznavaoca, jer se otrovne vrste lako pomešaju sa jestivim, a simptomi trovanja mogu da se jave tek nekoliko sati kasnije. Ako ih ipak sami berete, obavezno ih pokažite stručnoj osobi pre upotrebe.
-
-**Q: Da li se semenke dunje jedu?**
-
-Ne. Seme dunje sadrži jedinjenja koja treba izbegavati, pa ga uvek uklonite zajedno sa jezgrom pre pripreme. Meso ploda je bezbedno i koristi se u kuvanju.
-
-**Q: Da li je jelo pogodno za vegane i ljude sa intolerancijom na laktozu?**
-
-Bez jogurta jelo je potpuno biljno i bez laktoze. Bulgur sadrži gluten, pa nije pogodan za osobe sa celijakijom; u tom slučaju zamenite ga heljdom ili prosom i proverite da je pakovanje označeno kao bezglutensko.
-
-**Q: Može li se pripremiti unapred?**
-
-Može. Pilav je dobar i sutradan, podgrejan uz malo vode. Najbolje je da lešnike, susam i svež peršun dodate tek neposredno pre služenja.
 
 ---
 
