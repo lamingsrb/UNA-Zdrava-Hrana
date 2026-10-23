@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečena dunja i kesten u jesenjem kus-kus tabuleu
+
+https://unazdravahrana.com/recepti/pecena-dunja-i-kesten-u-jesenjem-kus-kus-tabuleu
+
+Topla jesenja salata od pečene dunje, kestena i pečuraka na integralnom kus-kusu sa peršunom i limunom. Gotova za 50 minuta.
+
+**Q: Mogu li da pripremim ovu salatu dan ranije?**
+
+Može. Žitarica, dunja, kesten i pečurke dobro podnose stajanje u frižideru do dva dana. Peršun, semenke i čiju dodajte tek pred služenje da ostanu sveži i hrskavi.
+
+**Q: Da li je kus-kus pogodan za osobe koje izbegavaju gluten?**
+
+Nije, kus-kus se pravi od pšenice i sadrži gluten. Za bezglutensku varijantu zamenite ga kuvanim pirinčem, heljdom ili kinoom i uvek proverite deklaraciju proizvoda.
+
+**Q: Zašto dunja mora da se peče, zar ne može sirova?**
+
+Sirova dunja je tvrda i trpka, pa se retko jede sirova. Pečenjem omekša, dobije slatkastu aromu i lepo se slaže sa kestenom i pečurkama.
+
+**Q: Može li se kesten zameniti nečim drugim?**
+
+Može. Ako nemate kesten, uzmite prženi orah, lešnik ili bademe. Salata će biti hrskavija i manje slatka, ali će i dalje biti sita i ukusna.
+
+---
+
 ## Ječam u kuhinji: koji izabrati i kako ga skuvati
 
 https://unazdravahrana.com/blog/jecam-u-kuhinji-koji-izabrati-i-kako-ga-skuvati
@@ -597,30 +621,6 @@ Bez jogurta jelo je potpuno biljno i bez laktoze. Bulgur sadrži gluten, pa nije
 **Q: Može li se pripremiti unapred?**
 
 Može. Pilav je dobar i sutradan, podgrejan uz malo vode. Najbolje je da lešnike, susam i svež peršun dodate tek neposredno pre služenja.
-
----
-
-## Pire čorba od kestena, pečuraka i dunje sa čijom
-
-https://unazdravahrana.com/recepti/pire-corba-od-kestena-pecuraka-i-dunje-sa-cijom
-
-Baršunasta jesenja čorba od kestena, pečuraka i dunje, posuta čijom i semenkama. Bez pavlake, gotova za 50 minuta. Recept iz UNA Zdrave Hrane.
-
-**Q: Da li je ova čorba bez glutena i laktoze?**
-
-Sami sastojci recepta su prirodno bez glutena i bez mlečnih proizvoda. Ako imate intoleranciju, proverite da supa od povrća ili kupljeni kesten nemaju dodatke koji ih sadrže.
-
-**Q: Mogu li umesto dunje da stavim jabuku ili krušku?**
-
-Možete, ali ukus će biti blaži i slađi. Dunja daje karakterističnu kiselkastu, aromatičnu notu. Ako koristite jabuku, dodajte malo više limunovog soka na kraju.
-
-**Q: Kako da čorba ispadne još kremastija?**
-
-Blendirajte duže i dok je čorba još vruća. Možete dodati i još šaku kuvanog kestena, jer upravo on daje gustinu i baršunastu teksturu bez ikakvih mlečnih proizvoda.
-
-**Q: Može li se čorba praviti unapred?**
-
-Da, čak je i bolja sutradan kad se ukusi sjedine. Čuvajte je u frižideru do 3 dana ili zamrznite. Topping od pečuraka, čije i semenki dodajte tek pri serviranju.
 
 ---
 
