@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Antibiotici i slatkiši: šta nova studija kaže o crevima](https://unazdravahrana.com/blog/antibiotici-i-slatkisi-sta-nova-studija-kaze-o-crevima)
 - [Aparat za pirinač i paru za 2.299 din: kako ga iskoristiti](https://unazdravahrana.com/blog/aparat-za-pirinac-i-paru-za-2299-din-kako-ga-iskoristiti)
 - [Dunja: kako da je izaberete, spremite i uklopite u ishranu](https://unazdravahrana.com/blog/dunja-kako-da-je-izaberete-spremite-i-uklopite-u-ishranu)
 - [Pečeni kesten-dunja kolutići sa kinoa kremom i bukovačama](https://unazdravahrana.com/recepti/peceni-kesten-dunja-kolutici-sa-kinoa-kremom-i-bukovacama)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Dunja-kesten sa pečurkama u ražanim kroketima iz rerne](https://unazdravahrana.com/recepti/dunja-kesten-sa-pecurkama-u-razanim-kroketima-iz-rerne)
 - [Veganski jesenski recepti: 5 jela od bundeve, gljiva i](https://unazdravahrana.com/blog/veganski-jesenski-recepti-5-jela-od-bundeve-gljiva-i)
 - [Suplementi za decu: šta ima smisla, a šta pitati lekara](https://unazdravahrana.com/blog/suplementi-za-decu-sta-ima-smisla-a-sta-pitati-lekara)
-- [Testenina s tikvicama i avokadom: 5 letnjih jela za 20](https://unazdravahrana.com/blog/testenina-s-tikvicama-i-avokadom-5-letnjih-jela-za-20)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-22
+Last updated: 2026-10-23

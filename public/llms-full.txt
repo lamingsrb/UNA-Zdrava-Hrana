@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Antibiotici i slatkiši: šta nova studija kaže o crevima
+
+https://unazdravahrana.com/blog/antibiotici-i-slatkisi-sta-nova-studija-kaze-o-crevima
+
+Studija objavljena u časopisu Nature na teško bolesnim pacijentima pokazala je da slatkiši tokom antibiotske terapije dodatno narušavaju raznovrsnost crevnog mikrobioma i podstiču rast bakterije Enterococcus faecium. Rezultati su opservacioni i nisu potvrđeni za zdrave osobe na kratkom kursu antibiotika, ali je razumno privremeno ograničiti slatkiše i zaslađena pića.
+
+**Q: Da li slatkiši štete crevima dok pijem antibiotike?**
+
+Nova studija objavljena u časopisu Nature pokazala je da slatkiši sami nisu bili povezani sa slabijim mikrobiomom, ali su uz antibiotike pojačali štetu po crevne bakterije. Studija je rađena na teško bolesnim pacijentima, pa nije potvrđeno da isti efekat važi za zdrave osobe. Za svaki slučaj, razumno je ograničiti slatkiše tokom terapije.
+
+**Q: Da li treba potpuno izbaciti šećer tokom antibiotske terapije?**
+
+Ne, nije potrebna stroga dijeta. Istraživači preporučuju umerenost, odnosno izbegavanje slatkiša i zaslađenih pića u kratkom periodu dok se uzimaju antibiotici. Ostatak ishrane može da ostane uobičajen i raznovrstan.
+
+**Q: Šta jesti umesto slatkiša dok pijem antibiotike?**
+
+Umesto keksa probajte šaku neslanih orašastih plodova, umesto voćnog jogurta obični jogurt sa malo voća, a umesto gaziranih sokova vodu ili nezaslađen biljni čaj. Za doručak birajte ovsene pahuljice ili integralne žitarice umesto zaslađenih. Prirodni šećeri iz suvog voća i sokova takođe nisu za preterivanje.
+
+**Q: Koliko šećera je preporučeno dnevno prema Svetskoj zdravstvenoj organizaciji?**
+
+SZO preporučuje da slobodni šećeri budu ispod 10% ukupnog energetskog unosa, a smanjenje ispod 5% donosi dodatne koristi. Slobodni šećeri su oni koji se dodaju hrani i pićima, kao i šećeri iz meda, sirupa i voćnih sokova. To je opšti okvir, a ne posebno pravilo za period antibiotika.
+
+---
+
 ## Aparat za pirinač i paru za 2.299 din: kako ga iskoristiti
 
 https://unazdravahrana.com/blog/aparat-za-pirinac-i-paru-za-2299-din-kako-ga-iskoristiti
@@ -600,28 +624,4 @@ Ukupno oko sat vremena, od čega je većina pečenje u rerni. Namaz se može nap
 
 ---
 
-## Orzo: 4 ideje za ručak koje se kuvaju u jednoj šerpi
-
-https://unazdravahrana.com/blog/orzo-4-ideje-za-rucak-koje-se-kuvaju-u-jednoj-serpi
-
-Orzo je sitna testenina od durum griza oblika pirinča, koja se kuva 8 do 10 minuta i odlično se uklapa u brza jela iz jedne šerpe. Članak donosi četiri ideje za ručak (pečurke, hladna salata, paradajz sos i čorba), savete za kuvanje bez lepljenja i orijentacione nutritivne vrednosti.
-
-**Q: Šta je orzo?**
-
-Orzo je sitna testenina (pastina) oblika krupnog zrna pirinča, napravljena od griza tvrde pšenice (durum). Nije ni ječam ni pirinač, iako italijansko ime doslovno znači ječam. Sadrži gluten, pa osobe sa celijakijom treba da traže posebno označene bezglutenske proizvode.
-
-**Q: Koliko se kuva orzo?**
-
-Orzo se kuva u dobro posoljenoj vodi otprilike 8 do 10 minuta, do al dente teksture. Tačno vreme proverite na pakovanju jer se razlikuje među proizvođačima. Ako se jelo dalje krčka u sosu, orzo nastavlja da omekšava, pa ga probajte pre isteka vremena.
-
-**Q: Koliko kalorija ima orzo?**
-
-Suvi orzo ima oko 370 kcal na 100 g, a kuvani oko 160 kcal na 100 g, jer testenina tokom kuvanja upije vodu. Standardna porcija je oko 56 g suvog orzoa, što posle kuvanja daje otprilike jednu šolju. Vrednosti su orijentacione i razlikuju se od izvora do izvora.
-
-**Q: Kako spriječiti da se orzo slepi ili pretvori u kašu?**
-
-Mešajte češće nego kod običnih makarona, naročito u prvim minutima, i dobro posolite vodu. Probajte zrno pre isteka vremena i izvadite ga kad ima blagi otpor pod zubima. Kod čorbe orzo dodajte tek u poslednjih desetak minuta jer upija tečnost i nastavlja da bubri.
-
----
-
-Last updated: 2026-10-22
+Last updated: 2026-10-23
