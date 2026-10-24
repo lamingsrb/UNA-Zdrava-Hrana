@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Planirate trudnoću? Namirnice bogate folatima
+
+https://unazdravahrana.com/blog/planirate-trudnocu-namirnice-bogate-folatima
+
+Članak objašnjava razliku između folata iz hrane i sintetičke folne kiseline, preporučene dnevne unose pre i tokom trudnoće i najbolje namirnice, poput spanaća i mahunarki. Naglašava da hrana bogata folatima daje dobru osnovu, ali da o suplementu treba razgovarati sa lekarom.
+
+**Q: Koja je razlika između folata i folne kiseline?**
+
+Folat je prirodni oblik vitamina B9 koji se nalazi u hrani, dok je folna kiselina sintetički oblik iz suplemenata i obogaćene hrane. Prema CDC, folna kiselina je jedini oblik za koji je dokazano da pomaže u prevenciji defekata neuralne cevi.
+
+**Q: Kada treba početi sa unosom folne kiseline pre trudnoće?**
+
+SZO preporučuje dodatak od 400 μg folne kiseline dnevno od trenutka kada žena počne da pokušava da zatrudni pa do 12. nedelje trudnoće. Kritični period počinje najmanje mesec dana pre začeća, a o suplementu se treba posavetovati sa lekarom.
+
+**Q: Koje namirnice su najbogatije folatima?**
+
+Među namirnicama sa najviše folata su spanać, džigerica, špargla i prokelj, a odličan izvor su i mahunarke poput crnookog graška i sočiva. Na primer, ½ šolje kuvanog spanaća daje oko 131 mcg DFE, što je 33% dnevne vrednosti.
+
+**Q: Mogu li dovoljno folata da unesem samo hranom?**
+
+Hrana bogata folatima je dobra osnova, ali NIH upozorava da je unos od 600 mcg DFE koliko se preporučuje u trudnoći teško postići samo ishranom. Zato odluku o suplementu treba da donesete sa lekarom ili ginekologom.
+
+---
+
 ## Grah, jogurt, varivo: kako pratiti makroe kad hrana ne
 
 https://unazdravahrana.com/blog/grah-jogurt-varivo-kako-pratiti-makroe-kad-hrana-ne
@@ -587,30 +611,6 @@ Ranija istraživanja povezivala su nedostatak vitamina D sa problemima sa spavan
 **Q: Zašto stariji ljudi često imaju problem sa vitaminom B12?**
 
 Prema podacima američke Nacionalne akademije nauka, 10–30% starijih osoba možda ne može da apsorbuje B12 iz prirodne hrane. Zato se osobama starijim od 50 godina savetuje da preporučenih 2,4 µg dnevno obezbede uglavnom obogaćenom hranom ili suplementom.
-
----
-
-## Pečeni bundevini polutani punjeni kestenom i pečurkama
-
-https://unazdravahrana.com/recepti/peceni-bundevini-polutani-punjeni-kestenom-i-pecurkama
-
-Pečena bundeva punjena heljdom, pečurkama i kestenom: zasitno jesenje glavno jelo iz jedne tepsije, bez belog brašna i mlečnih proizvoda.
-
-**Q: Može li se bundeva ljuštiti pre pečenja?**
-
-Može, ali nije obavezno. Kora hokaido bundeve je jestiva i omekša u rerni. Kod drugih vrsta, ako je kora tvrda, pojedite samo meso, a koru ostavite u tanjiru.
-
-**Q: Da li je ovo jelo bez glutena?**
-
-Sastojci (bundeva, pečurke, kesten, heljda, semenke) su prirodno bez glutena. Pošto se heljda ponekad pakuje u pogonima gde se obrađuju i žitarice sa glutenom, ako izbegavate gluten, birajte pakovanje sa jasnom oznakom da je bez glutena, a u radnji možete pitati za savet.
-
-**Q: Mogu li da pripremim jelo unapred?**
-
-Da. Nadev možete skuvati dan ranije i čuvati u frižideru, a bundevu ispeći neposredno pre služenja. Napunjene polutane možete i ostaviti u frižideru pa ih podgrejati u rerni 15 do 20 minuta.
-
-**Q: Čime da zamenim kesten ako ga nemam?**
-
-Možete koristiti grubo seckane orahe ili lešnike, ili kuvano sočivo. Ukus će biti drugačiji, ali jelo će i dalje biti zasitno i kremasto.
 
 ---
 
