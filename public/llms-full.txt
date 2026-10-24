@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja pita od dunje i jabuka sa ovsenom korom
+
+https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-sa-ovsenom-korom
+
+Jednostavna pita od dunje i jabuka sa korom od ovsenih pahuljica i lešnika. Bez maslaca i belog brašna. Recept za jesen, gotovo za sat vremena.
+
+**Q: Može li pita bez maslaca i belog brašna da ispadne sočna?**
+
+Može. Sočnost dolazi od ribanog voća, a ovsene pahuljice upiju tečnost iz smese i daju mekanu, ali čvrstu strukturu. Važno je da smesu ostavite 5 minuta da odstoji pre nego što je utisnete u kalup.
+
+**Q: Da li dunja mora da se kuva pre nego što se doda u pitu?**
+
+Ne mora. Kada se dunja sitno izriba, ispeče se zajedno sa jabukama za 35 do 40 minuta i omekša. Ako vam je dunja veoma tvrda, možete je ribati što sitnije ili je prethodno kratko dinstati nekoliko minuta.
+
+**Q: Može li se pita praviti bez meda?**
+
+Može. Med možete zameniti javorovim sirupom ili sirupom od urmi. Ako više volite manje slatko, dovoljno je smanjiti količinu na dve kašike, jer voće samo daje dosta slasti.
+
+**Q: Za koga je ova pita pogodna?**
+
+Pogodna je za celu porodicu, uključujući i decu, a bez glutena može biti ako koristite bezglutenske ovsene pahuljice. Sadrži jaja i orašaste plodove, pa je neprikladna za osobe sa alergijom na njih. Ako imate zdravstvena pitanja u vezi sa ishranom, posavetujte se sa lekarom.
+
+---
+
 ## Planirate trudnoću? Namirnice bogate folatima
 
 https://unazdravahrana.com/blog/planirate-trudnocu-namirnice-bogate-folatima
@@ -587,30 +611,6 @@ Ne. Probiotik nije jedna stvar, već hiljade različitih sojeva, a dokazi važe 
 ## Testenina s tikvicama i avokadom: 5 letnjih jela za 20
 
 https://unazdravahrana.com/blog/testenina-s-tikvicama-i-avokadom-5-letnjih-jela-za-20
-
----
-
-## Vitamin D i pamćenje kod lošeg sna: šta zna nauka
-
-https://unazdravahrana.com/blog/vitamin-d-i-pamcenje-kod-loseg-sna-sta-zna-nauka
-
-Mala studija Univerziteta Emori (54 osobe) pokazala je oko 13% bolje rezultate na kognitivnom testu kod onih koji su uzimali najmanje 5.000 IU vitamina D, ali autori nalaz opisuju kao preliminaran, a doza prelazi evropsku gornju granicu od 100 µg dnevno. Članak objašnjava šta je pokazano, a šta nije, uz razumne korake poput razgovora s lekarom i provere nivoa vitamina D, kao i napomenu o B12 kod starijih.
-
-**Q: Da li vitamin D poboljšava pamćenje?**
-
-To još nije dokazano. Preliminarna studija Univerziteta Emori na 54 osobe sa lošim snom i blagim kognitivnim oštećenjem pokazala je oko 13% bolji rezultat na testu kod onih koji su uzimali najmanje 5.000 IU dnevno. Autori sami nalaz opisuju kao preliminaran, pa se iz njega ne može zaključiti da vitamin D čuva pamćenje.
-
-**Q: Koliko vitamina D dnevno je bezbedno uzimati?**
-
-EFSA određuje adekvatan unos od 15 µg dnevno za zdrave odrasle osobe, a gornju podnošljivu granicu od 100 µg dnevno. Doza iz Emori studije (5.000 IU, oko 125 µg po našem preračunu) premašuje tu granicu, pa se ne preporučuje samostalno uzimanje bez nalaza i nadzora lekara.
-
-**Q: Da li nedostatak vitamina D utiče na san?**
-
-Ranija istraživanja povezivala su nedostatak vitamina D sa problemima sa spavanjem, uključujući nesanicu i češća noćna buđenja. Ta veza je predmet daljeg proučavanja, a ako sumnjate na nedostatak, lekar može proveriti nivo vitamina D u krvi.
-
-**Q: Zašto stariji ljudi često imaju problem sa vitaminom B12?**
-
-Prema podacima američke Nacionalne akademije nauka, 10–30% starijih osoba možda ne može da apsorbuje B12 iz prirodne hrane. Zato se osobama starijim od 50 godina savetuje da preporučenih 2,4 µg dnevno obezbede uglavnom obogaćenom hranom ili suplementom.
 
 ---
 
