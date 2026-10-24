@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ćuftice od kestena i heljde sa pirjanom dunjom
+
+https://unazdravahrana.com/recepti/cuftice-od-kestena-i-heljde-sa-pirjanom-dunjom
+
+Pečene ćuftice od kestena, heljde i šampinjona uz pirjanu dunju. Jesenji, zdrav i bezglutenski recept, gotov za sat vremena.
+
+**Q: Može li se ovaj recept napraviti bez glutena?**
+
+Može, ako koristite heljdu i ovsene pahuljice sa oznakom da su bez glutena, jer se obične pahuljice često prave u pogonima gde ima kontakta sa glutenom. Kesten, pečurke, dunja i čija sami po sebi ne sadrže gluten. Za savet o odgovarajućim proizvodima pitajte u radnji.
+
+**Q: Čemu služi čija u smesi?**
+
+Natopljena u vodi čija stvara gelastu masu koja vezuje sastojke, pa zamenjuje jaje i ćuftice ostaju čvrste. Zato je važno da je pustite da nabubri bar 10 minuta pre mešanja.
+
+**Q: Kako da ćuftice ne budu suve ili da se ne raspadaju?**
+
+Pečurke dobro iscedite i pirjajte dok ne ispare, jer višak tečnosti razmekšava smesu. Ako se i dalje raspada, dodajte kašiku-dve ovsenih pahuljica, a smesu ostavite 10 minuta da odstoji pre oblikovanja. Ćuftice premažite mrvicom ulja da se zlatno zapeku.
+
+**Q: Mogu li kesten da kupim već ogulјen?**
+
+Naravno, to vam skraćuje posao. Ako koristite svež kesten, zasecite ga, ispecite ili skuvajte i ogulite dok je još topao jer se tada lakše čisti. Za izbor pakovanog kestena pitajte u radnji.
+
+---
+
 ## Jesenja pita od dunje i jabuka sa ovsenom korom
 
 https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-sa-ovsenom-korom
@@ -605,12 +629,6 @@ Važi pravilo 1 mcg = 40 IU. Kapi od 400 IU zato sadrže 10 mcg vitamina D. Prov
 **Q: Da li svi probiotici deluju isto?**
 
 Ne. Probiotik nije jedna stvar, već hiljade različitih sojeva, a dokazi važe za konkretan soj, a ne za reč „probiotik“ na kutiji. Zato je važno da deklaracija navodi tačan soj, a izbor treba dogovoriti s lekarom.
-
----
-
-## Testenina s tikvicama i avokadom: 5 letnjih jela za 20
-
-https://unazdravahrana.com/blog/testenina-s-tikvicama-i-avokadom-5-letnjih-jela-za-20
 
 ---
 
