@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Grah, jogurt, varivo: kako pratiti makroe kad hrana ne](https://unazdravahrana.com/blog/grah-jogurt-varivo-kako-pratiti-makroe-kad-hrana-ne)
 - [Jesenska variva: 4 recepta za ručak koji greje](https://unazdravahrana.com/blog/jesenska-variva-4-recepta-za-rucak-koji-greje)
 - [Bundeva u kuhinji: 5 jela i kako da ih uspete](https://unazdravahrana.com/blog/bundeva-u-kuhinji-5-jela-i-kako-da-ih-uspete)
 - [Dunja-kesten gulaš sa pečurkama i bademima](https://unazdravahrana.com/recepti/dunja-kesten-gulas-sa-pecurkama-i-bademima)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Pečeni ćufte-kolutovi od kestena i pečuraka sa dunjom](https://unazdravahrana.com/recepti/peceni-cufte-kolutovi-od-kestena-i-pecuraka-sa-dunjom)
 - [Pečena dunja sa kestenom i čijom u jesenjem jogurt kupu](https://unazdravahrana.com/recepti/pecena-dunja-sa-kestenom-i-cijom-u-jesenjem-jogurt-kupu)
 - [Kokosova voda: za šta je dobra i kome treba umerenost](https://unazdravahrana.com/blog/kokosova-voda-za-sta-je-dobra-i-kome-treba-umerenost)
-- [Perimenopauza: 34% žena nije sigurno da li je u njoj](https://unazdravahrana.com/blog/perimenopauza-34-zena-nije-sigurno-da-li-je-u-njoj)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24
