@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Zdrava hrana online ili u radnji: zašto birati uživo](https://unazdravahrana.com/blog/zdrava-hrana-online-ili-u-radnji-zasto-birati-uzivo)
 - [Ćuftice od kestena i heljde sa pirjanom dunjom](https://unazdravahrana.com/recepti/cuftice-od-kestena-i-heljde-sa-pirjanom-dunjom)
 - [Jesenja pita od dunje i jabuka sa ovsenom korom](https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-sa-ovsenom-korom)
 - [Planirate trudnoću? Namirnice bogate folatima](https://unazdravahrana.com/blog/planirate-trudnocu-namirnice-bogate-folatima)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Zdravlje je novi luksuz: živeti bolje, ne samo duže](https://unazdravahrana.com/blog/zdravlje-je-novi-luksuz-ziveti-bolje-ne-samo-duze)
 - [Kimči: šta je, kako se pravi i da li zaista pomaže varenju](https://unazdravahrana.com/blog/kimci-sta-je-kako-se-pravi-i-da-li-zaista-pomaze-varenju)
 - [Što jesti posle vađenja zuba: prvi dan, prvi dani](https://unazdravahrana.com/blog/sto-jesti-posle-vadjenja-zuba-prvi-dan-prvi-dani)
-- [Obroci u pravo vreme: da li sat na zidu utiče na](https://unazdravahrana.com/blog/obroci-u-pravo-vreme-da-li-sat-na-zidu-utice-na)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-24
+Last updated: 2026-10-25

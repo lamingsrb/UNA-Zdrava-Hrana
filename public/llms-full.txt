@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdrava hrana online ili u radnji: zašto birati uživo
+
+https://unazdravahrana.com/blog/zdrava-hrana-online-ili-u-radnji-zasto-birati-uzivo
+
+Tekst poredi kupovinu zdrave hrane online i u radnji i objašnjava prednosti izbora uživo: čitanje cele deklaracije, odgovor stručnog osoblja na licu mesta i jasnije razumevanje oznaka. Daje i praktične savete za prepoznavanje sertifikovanih organskih proizvoda i pravilan odabir dodataka ishrani, uz napomenu da ne postoji poznata studija o uticaju načina kupovine na zdravlje.
+
+**Q: Kako da prepoznam sertifikovan organski proizvod?**
+
+Sertifikovani organski proizvod nosi oznaku organske proizvodnje, nacionalni znak i šifru ovlašćene kontrolne organizacije. Reči poput „bio“ ili „eko“ same po sebi nisu garancija, zato uvek proverite i ostale oznake na ambalaži.
+
+**Q: Da li je svaki sastojak organski ako je gotov proizvod označen kao organski?**
+
+Ne nužno. Kod prerađenih proizvoda, poput testenine, keksa ili pločica, oznaka na gotovom proizvodu ne znači da je baš svaki sastojak organski. Zato pročitajte spisak sastojaka i pitajte ako vam nešto nije jasno.
+
+**Q: Šta mora da piše na deklaraciji dodataka ishrani u Srbiji?**
+
+Dodaci ishrani u prometu u Srbiji moraju da imaju propisanu deklaraciju, što uređuje Pravilnik o dodacima ishrani. Deklaracija i reklama ne smeju da pripisuju proizvodu svojstva prevencije, tretiranja ili lečenja bolesti, pa budite oprezni kod proizvoda koji obećavaju da „leče“.
+
+**Q: Zašto je bolje kupiti zdravu hranu u radnji nego online?**
+
+U radnji proizvod možete uzeti u ruke i pročitati celu deklaraciju, odmah postaviti pitanje osobi koja poznaje asortiman i uporediti dva proizvoda jedan pored drugog. Ne postoji poznata studija o uticaju načina kupovine na zdravlje, ali kupovina uživo pruža više prilika za informisan izbor.
+
+---
+
 ## Ćuftice od kestena i heljde sa pirjanom dunjom
 
 https://unazdravahrana.com/recepti/cuftice-od-kestena-i-heljde-sa-pirjanom-dunjom
@@ -608,28 +632,4 @@ Obično nisu, jer se pečurke iz prodavnice najčešće gaje u mraku i sadrže m
 
 ---
 
-## Suplementi za decu: šta ima smisla, a šta pitati lekara
-
-https://unazdravahrana.com/blog/suplementi-za-decu-sta-ima-smisla-a-sta-pitati-lekara
-
-Članak objašnjava kada suplementi za decu imaju smisla i prolazi kroz vitamin D, omega-3, probiotike i multivitamine, uz navođenje onoga što kažu NIH i EFSA. Naglašava da suplementi ne zamenjuju raznovrsnu ishranu ni savet pedijatra i da gornja granica unosa nije cilj, već plafon.
-
-**Q: Da li svako dete treba da uzima suplemente?**
-
-Ne. Dete koje jede raznovrsno, boravi napolju i redovno ide na preglede retko treba mnogo preparata. Suplement ima smisla razmatrati kada postoji konkretan razlog, poput uzrasta, ishrane, terapije ili preporuke pedijatra.
-
-**Q: Koliko vitamina D preporučuje NIH za decu?**
-
-NIH navodi 400 IU (10 mcg) dnevno za odojčad do 12 meseci i 600 IU (15 mcg) za decu od 1 do 18 godina. Doza za konkretno dete je stvar dogovora s pedijatrom, a gornja granica nije cilj, već plafon.
-
-**Q: Kako da preračunam mikrograme vitamina D u internacionalne jedinice?**
-
-Važi pravilo 1 mcg = 40 IU. Kapi od 400 IU zato sadrže 10 mcg vitamina D. Proverite i druge proizvode koje dete uzima, jer se vitamin D nalazi i u multivitaminima i obogaćenim namirnicama.
-
-**Q: Da li svi probiotici deluju isto?**
-
-Ne. Probiotik nije jedna stvar, već hiljade različitih sojeva, a dokazi važe za konkretan soj, a ne za reč „probiotik“ na kutiji. Zato je važno da deklaracija navodi tačan soj, a izbor treba dogovoriti s lekarom.
-
----
-
-Last updated: 2026-10-24
+Last updated: 2026-10-25
