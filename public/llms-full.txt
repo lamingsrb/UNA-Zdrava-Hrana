@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten tarta sa bukovačama i ovsenim brašnom
+
+https://unazdravahrana.com/recepti/dunja-kesten-tarta-sa-bukovacama-i-ovsenim-brasnom
+
+Jesenja slana tarta sa dunjom, kestenom i bukovačama na kori od ovsenog i spelt brašna, bez maslaca. Gotova za sat vremena.
+
+**Q: Zašto se semenke dunje ne koriste?**
+
+Semenke dunje sadrže cijanogene glikozide, pa ih ne treba jesti niti dodavati jelima. Zato dunju uvek očistite od semenika i semenki pre pripreme.
+
+**Q: Može li kora da se napravi unapred?**
+
+Može. Kora se može ispeći dan unapred i čuvati dobro pokrivena na sobnoj temperaturi. Nadev dodajte i pecite tek pred služenje.
+
+**Q: Da li je tarta pogodna za osobe koje ne podnose laktozu?**
+
+Recept ne sadrži mleko ni mlečne proizvode, pa je pogodan za osobe koje izbegavaju laktozu. Ako imate celijakiju ili osetljivost na gluten, koristite samo brašna sa jasnom oznakom da ne sadrže gluten, a za savet o izboru pitajte u radnji.
+
+---
+
 ## Zapečena dunja i kesten sa bukovačama i čijom, jedna tepsija
 
 https://unazdravahrana.com/recepti/zapecena-dunja-i-kesten-sa-bukovacama-i-cijom-jedna-tepsija
@@ -591,26 +611,6 @@ Prema američkom centru NCCIH, fitoestrogeni, biljke i dijetetski suplementi nis
 ## Spavate 8 sati, a budite se umorni? Evo šta je u igri
 
 https://unazdravahrana.com/blog/spavate-8-sati-a-budite-se-umorni-evo-sta-je-u-igri
-
----
-
-## Heljdina kaša sa dunjom, kestenom i pečurkama za doručak
-
-https://unazdravahrana.com/recepti/heljdina-kasa-sa-dunjom-kestenom-i-pecurkama-za-dorucak
-
-Topla heljdina kaša sa dunjom, kestenom i pečurkama, uz tahini i bundevine semenke. Zdrav jesenji doručak za 45 minuta, prirodno bez glutena.
-
-**Q: Da li je ovaj doručak bez glutena?**
-
-Heljda, kesten, dunja i pečurke su prirodno bez glutena. Ipak, ako imate celijakiju, birajte heljdu i ostale sastojke čija ambalaža jasno kaže da su bez glutena, jer postoji mogućnost zagađenja tokom prerade. U radnji vam rado pokažemo odgovarajuće proizvode.
-
-**Q: Da li se kaša može pripremiti unapred?**
-
-Može. Skuvajte heljdu i spremite smesu od pečuraka, dunje i kestena veče ranije, čuvajte odvojeno u frižideru. Ujutru ih podgrejte u tiganju uz malo vode i dodajte tahini i semenke tek pred služenje.
-
-**Q: Koje pečurke su najbolje za ovo jelo?**
-
-Šampinjoni i bukovače su praktičan i siguran izbor jer se lako nalaze i brzo se spremaju. Šumske pečurke koristite samo ako ih je pregledao iskusan poznavalac, jer zamena sa otrovnim vrstama može biti opasna. Kad ste u nedoumici, bolje ih ne jedite.
 
 ---
 
