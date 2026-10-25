@@ -4,6 +4,26 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jesenja pita od dunje i jabuka bez maslaca, sa bademom
+
+https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-bez-maslaca-sa-bademom
+
+Sočna jesenja pita od dunje i jabuka bez maslaca i belog brašna: integralno brašno, bademi i med. Jednostavan recept za 1 sat.
+
+**Q: Zašto dunju prvo dinstam, a jabuke ne?**
+
+Dunja je tvrda i opora, pa joj je potrebno više vremena da omekša nego što pita provede u rerni. Jabuke su mekše i dovoljno je da se ispeku u pitu.
+
+**Q: Može li pita bez jaja?**
+
+Može, zamenom od mlevenog lanenog semena i vode (vidi savete). Testo će biti nešto zbijenije, ali ukus ostaje lep.
+
+**Q: Da li je ova pita pogodna za decu?**
+
+Jeste, pravi se bez rafinisanog šećera i belog brašna, a slatkoću daju voće i malo meda. Napomena: med se ne daje deci mlađoj od godinu dana, pa za njih izostavi med ili se posavetuj sa pedijatrom.
+
+---
+
 ## Proizvodi bez glutena: šta tražiti na polici i gde ih naći
 
 https://unazdravahrana.com/blog/proizvodi-bez-glutena-sta-traziti-na-polici-i-gde-ih-naci
@@ -591,26 +611,6 @@ Narendaj je sitnije i duže dinstaj uz poklopac, uz kašiku vode. Dunja je tvrda
 **Q: Mogu li lepinjice da se ispeku u rerni?**
 
 Mogu. Premaži ih maslinovim uljem i peci na oko 200 °C dvadesetak minuta, dok ne porumene. Ukus će biti malo drugačiji od onog iz tiganja, ali jednako dobar.
-
----
-
-## Dunja-kesten sa pečurkama u ražanim kroketima iz rerne
-
-https://unazdravahrana.com/recepti/dunja-kesten-sa-pecurkama-u-razanim-kroketima-iz-rerne
-
-Jesen u Kragujevcu ima svoj miris: pečeni kesten sa ulice, dunje koje stoje na ormanu i korpe pečuraka sa pijace.
-
-**Q: Može li se dunja zameniti jabukom?**
-
-Može. Kiselkasta jabuka (npr. greni smit) narendana na isti način daje sličnu svežinu, ali će kroketići biti manje aromatični. Jabuci nije potrebno duže krčkanje, dovoljno je 2–3 minuta.
-
-**Q: Da li se kroketići mogu praviti bez kestena?**
-
-Mogu. Kesten možete zameniti kuvanim i izgnječenim sočivom ili leblebijama u istoj količini. Dobićete malo drugačiji, manje slatkast ukus, ali će kroketići ostati sočni i dobro oblikovani.
-
-**Q: Zašto se smesa raspada pri oblikovanju?**
-
-Najčešće je previše vlažna ili nije odstajala. Ostavite je 10–15 minuta da pahuljice upiju tečnost, dodajte kašiku brašna i oblikujte kroketiće mokrim rukama.
 
 ---
 
