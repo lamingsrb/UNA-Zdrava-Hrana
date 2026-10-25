@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zapečena dunja i kesten sa bukovačama i čijom, jedna tepsija
+
+https://unazdravahrana.com/recepti/zapecena-dunja-i-kesten-sa-bukovacama-i-cijom-jedna-tepsija
+
+Kad počne sezona dunja i kestena, a bukovače se nađu na tezgi, pitanje je šta sve to da napravimo bez gomile sudova i bez dugog stajanja kraj šporeta.
+
+**Q: Može li se recept pripremiti unapred?**
+
+Može. Pripremite tepsiju do koraka sa pečurkama, ostavite u frižideru i ispecite kad vam zatreba, ali posip dodajte tek pred kraj pečenja da ostane hrskav.
+
+**Q: Šta ako ne volim kiselkast ukus dunje?**
+
+Pečenjem dunja omekša i postaje blaža i mirisnija. Ako i dalje želite blaži ukus, dodajte još malo meda ili zamenite pola dunje jabukom.
+
+**Q: Da li je jelo pogodno za vegane?**
+
+Jeste, ako med zamenite javorovim sirupom i izostavite jogurt za služenje ili ga zamenite biljnim jogurtom.
+
+**Q: Mogu li da koristim kesten iz tegle ili vakuuma?**
+
+Naravno. Kuvani, oljušteni kesten iz vakuuma je najpraktičniji. Proverite deklaraciju da nema dodatog šećera ili aroma, a pre dodavanja ga samo prepolovite.
+
+---
+
 ## Jesenja pita od dunje i jabuka bez maslaca, sa bademom
 
 https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-bez-maslaca-sa-bademom
@@ -587,30 +611,6 @@ Može. Skuvajte heljdu i spremite smesu od pečuraka, dunje i kestena veče rani
 **Q: Koje pečurke su najbolje za ovo jelo?**
 
 Šampinjoni i bukovače su praktičan i siguran izbor jer se lako nalaze i brzo se spremaju. Šumske pečurke koristite samo ako ih je pregledao iskusan poznavalac, jer zamena sa otrovnim vrstama može biti opasna. Kad ste u nedoumici, bolje ih ne jedite.
-
----
-
-## Jesenji ražani hlebčići sa dunjom, kestenom i pečurkama
-
-https://unazdravahrana.com/recepti/jesenji-razani-hlebcici-sa-dunjom-kestenom-i-pecurkama
-
-Punjene ražane lepinjice iz tiganja sa dunjom, kestenom i pečurkama. Jesenji recept bez kvasca, gotov za sat vremena. Savet i sastojci u UNA radnji.
-
-**Q: Može li testo da se napravi unapred?**
-
-Najbolje je da testo mesiš neposredno pre pečenja jer se u njemu nalazi prašak za pecivo. Fil, međutim, možeš lako da spremiš dan ranije i čuvaš ga u frižideru.
-
-**Q: Da li je jelo prikladno za vegane?**
-
-Jeste, ako jogurt zameniš biljnim jogurtom bez dodatog šećera. Ostali sastojci su biljnog porekla.
-
-**Q: Šta ako dunja ostane tvrda u filu?**
-
-Narendaj je sitnije i duže dinstaj uz poklopac, uz kašiku vode. Dunja je tvrda voćka i potrebno joj je vreme da omekša, pa je rende najlakši način da fil bude gotov na vreme.
-
-**Q: Mogu li lepinjice da se ispeku u rerni?**
-
-Mogu. Premaži ih maslinovim uljem i peci na oko 200 °C dvadesetak minuta, dok ne porumene. Ukus će biti malo drugačiji od onog iz tiganja, ali jednako dobar.
 
 ---
 
