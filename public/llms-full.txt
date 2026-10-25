@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Proizvodi bez glutena: šta tražiti na polici i gde ih naći
+
+https://unazdravahrana.com/blog/proizvodi-bez-glutena-sta-traziti-na-polici-i-gde-ih-naci
+
+---
+
 ## Zdrava hrana online ili u radnji: zašto birati uživo
 
 https://unazdravahrana.com/blog/zdrava-hrana-online-ili-u-radnji-zasto-birati-uzivo
@@ -605,30 +611,6 @@ Mogu. Kesten možete zameniti kuvanim i izgnječenim sočivom ili leblebijama u 
 **Q: Zašto se smesa raspada pri oblikovanju?**
 
 Najčešće je previše vlažna ili nije odstajala. Ostavite je 10–15 minuta da pahuljice upiju tečnost, dodajte kašiku brašna i oblikujte kroketiće mokrim rukama.
-
----
-
-## Veganski jesenski recepti: 5 jela od bundeve, gljiva i
-
-https://unazdravahrana.com/blog/veganski-jesenski-recepti-5-jela-od-bundeve-gljiva-i
-
-Članak donosi pet veganskih jesenskih recepata od bundeve, pečuraka i kestena, uz objašnjenje čime se te namirnice razlikuju i gde ih najbolje koristiti. Uz praktične savete (pečenje bundeve, kratko pranje pečuraka, priprema kestena) navode se i nutritivne napomene, na primer o vitaminu A, vitaminu D i zasićenim mastima.
-
-**Q: Kako da bundeva u čorbi dobije najbolji ukus?**
-
-Bundevu prvo ispecite u rerni oko 35–45 minuta na 200 °C, pa je tek onda blendajte s lukom, belim lukom, supom i kokosovim mlekom. Pečenje karamelizuje šećere i daje dubinu ukusa koju kuvanje u vodi ne može da postigne.
-
-**Q: Kako se pečurke pravilno pripremaju da ne postanu vodnjikave?**
-
-Ne perite ih dugo i ne potapajte ih, već ih obrišite vlažnom krpom, jer upiju vodu. Pržite ih na jakoj vatri bez mešanja dok ne dobiju boju i posolite ih tek na kraju.
-
-**Q: Kako se najlakše peče kesten u rerni?**
-
-Kesten zasecite, pecite 20–25 minuta na oko 200 °C i ogulite ga dok je još topao. Tako se kora lakše skida, a kesten je spreman za pire, punjenje ili salatu.
-
-**Q: Da li su pečurke iz prodavnice dobar izvor vitamina D?**
-
-Obično nisu, jer se pečurke iz prodavnice najčešće gaje u mraku i sadrže malo vitamina D ili ga nemaju. Birajte ih zbog ukusa i teksture, a ne kao izvor tog vitamina.
 
 ---
 
