@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Dunja-orah namaz bez šećera i kesten krem u tegli](https://unazdravahrana.com/recepti/dunja-orah-namaz-bez-secera-i-kesten-krem-u-tegli)
 - [Dunja-kesten tarta sa bukovačama i ovsenim brašnom](https://unazdravahrana.com/recepti/dunja-kesten-tarta-sa-bukovacama-i-ovsenim-brasnom)
 - [Zapečena dunja i kesten sa bukovačama i čijom, jedna tepsija](https://unazdravahrana.com/recepti/zapecena-dunja-i-kesten-sa-bukovacama-i-cijom-jedna-tepsija)
 - [Jesenja pita od dunje i jabuka bez maslaca, sa bademom](https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-bez-maslaca-sa-bademom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Aparat za pirinač i paru za 2.299 din: kako ga iskoristiti](https://unazdravahrana.com/blog/aparat-za-pirinac-i-paru-za-2299-din-kako-ga-iskoristiti)
 - [Dunja: kako da je izaberete, spremite i uklopite u ishranu](https://unazdravahrana.com/blog/dunja-kako-da-je-izaberete-spremite-i-uklopite-u-ishranu)
 - [Pečeni kesten-dunja kolutići sa kinoa kremom i bukovačama](https://unazdravahrana.com/recepti/peceni-kesten-dunja-kolutici-sa-kinoa-kremom-i-bukovacama)
-- [Mlinci sa dunjom, kestenom i bukovačama iz rerne](https://unazdravahrana.com/recepti/mlinci-sa-dunjom-kestenom-i-bukovacama-iz-rerne)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-25
+Last updated: 2026-10-26

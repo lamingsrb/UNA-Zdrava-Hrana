@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-orah namaz bez šećera i kesten krem u tegli
+
+https://unazdravahrana.com/recepti/dunja-orah-namaz-bez-secera-i-kesten-krem-u-tegli
+
+Kad se u Bresnici zaore prvi jesenji vetrovi, a na pijaci se pojave žute, mirisne dunje, u mojoj kuhinji uvek počne isti ritual: veliki lonac, drvena varjača i tegle koje čekaju. Ovaj recept je malo drugačiji od klasične džem-priče.
+
+**Q: Da li dunja mora da se kuva, može li se jesti sirova?**
+
+Sirova dunja je tvrda, trpka i teško svarljiva, zato se gotovo uvek kuva, peče ili dinsta. Kuvanjem omekšava i postaje slatkasta, a baš to nam treba za ovaj namaz.
+
+**Q: Mogu li da napravim namaz bez ikakvog zaslađivača?**
+
+Naravno. Jabuka i kesten već daju prirodnu slatkoću, pa mnogi namaz vole i bez meda. Probajte prvo bez, pa dodajte po ukusu na kraju kuvanja.
+
+**Q: Koliko dugo se namaz čuva?**
+
+Pošto sadrži manje šećera od klasičnog džema, čuva se u frižideru u zatvorenoj tegli oko 10 dana. Za duže čuvanje zamrznite u manjim porcijama i odmrzavajte po potrebi.
+
+**Q: Da li je ovaj namaz pogodan za decu?**
+
+Jeste, deci obično prija zbog blagog, slatkastog ukusa. Samo pazite na orahe ako postoji alergija na orašaste plodove, a u tom slučaju ih slobodno izostavite ili zamenite semenkama.
+
+---
+
 ## Dunja-kesten tarta sa bukovačama i ovsenim brašnom
 
 https://unazdravahrana.com/recepti/dunja-kesten-tarta-sa-bukovacama-i-ovsenim-brasnom
@@ -608,10 +632,4 @@ Prema američkom centru NCCIH, fitoestrogeni, biljke i dijetetski suplementi nis
 
 ---
 
-## Spavate 8 sati, a budite se umorni? Evo šta je u igri
-
-https://unazdravahrana.com/blog/spavate-8-sati-a-budite-se-umorni-evo-sta-je-u-igri
-
----
-
-Last updated: 2026-10-25
+Last updated: 2026-10-26
