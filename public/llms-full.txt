@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten supa-krem sa pečurkama i čija semenkama
+
+https://unazdravahrana.com/recepti/dunja-kesten-supa-krem-sa-pecurkama-i-cija-semenkama
+
+Jesenja supa-krem od dunje i kestena sa prženim bukovačama i čija semenkama. Bez glutena i mleka, gotova za 50 minuta. Recept iz UNA Zdrave Hrane.
+
+**Q: Može li se supa napraviti bez kestena?**
+
+Može, ali će biti ređa i manje kremasta. Kesten je ovde zgušnjivač i daje slatkast ukus. Umesto njega možete dodati krompir ili batat, uz nešto više soli i začina.
+
+**Q: Da li je supa pogodna za ljude koji ne unose gluten i laktozu?**
+
+Recept sam po sebi ne sadrži ni gluten ni mlečne proizvode. Pazite samo da kupovna supa ili začin koji koristite nemaju dodatke koji ih sadrže, i uvek pročitajte deklaraciju. Ako imate celijakiju ili ozbiljnu intoleranciju, posavetujte se sa lekarom.
+
+**Q: Zašto dunja ne sme da se jede sirova?**
+
+Nije opasna, ali je zbog tvrdoće i trpkog ukusa retko jedemo sirovu. Kuvanjem, pečenjem ili pirjanjem postaje mekana i aromatična, pa se zato najčešće koristi za džemove, kompote i ovakva jela.
+
+**Q: Mogu li da pripremim supu unapred?**
+
+Da. Skuvajte i izmiksajte krem, ohladite i sačuvajte u frižideru do 3 dana ili zamrznite. Pečurke ispržite i čiju dodajte tek pri služenju da zadrže teksturu.
+
+---
+
 ## Dunja-orah namaz bez šećera i kesten krem u tegli
 
 https://unazdravahrana.com/recepti/dunja-orah-namaz-bez-secera-i-kesten-krem-u-tegli
@@ -605,30 +629,6 @@ Posle lakšeg do umerenog treninga može da posluži, uz običnu vodu. Za duge i
 **Q: Ko treba da izbegava ili ograniči kokosovu vodu?**
 
 Osobe sa hroničnom bolešću bubrega i oni koji piju lekove koji zadržavaju kalijum (na primer neke lekove za pritisak) treba da se posavetuju sa lekarom pre većeg unosa. Višak kalijuma može izazvati opasnu hiperkalijemiju.
-
----
-
-## Perimenopauza: 34% žena nije sigurno da li je u njoj
-
-https://unazdravahrana.com/blog/perimenopauza-34-zena-nije-sigurno-da-li-je-u-njoj
-
-Studija iz jula 2026. pokazala je da je 34% žena starijih od 35 godina nesigurno u svoju reproduktivnu fazu, najviše u dobi od 40 do 44 godine. Perimenopauzu je teško prepoznati jer nema potvrdnog testa, a simptomi se preklapaju sa stresom, PMS-om i tegobama štitaste žlezde, pa su beleženje ciklusa i razgovor sa lekarom najkorisniji koraci.
-
-**Q: Kako da znam da li sam u perimenopauzi?**
-
-Perimenopauzu najčešće ukazuju promene u ciklusu (kraći, duži ili nepravilan), talasi vrućine, noćno znojenje, nesanica i promene raspoloženja. Za žene starije od 45 godina simptomi i promene ciklusa su najpouzdaniji pokazatelji, a analiza krvi najčešće nije potrebna. Korisno je nekoliko meseci beležiti ciklus i simptome i doneti beleške ginekologu.
-
-**Q: Kada obično počinje perimenopauza?**
-
-Najčešće se primeti u četrdesetim godinama, ali neke žene promene osete već u tridesetim, a neke tek u pedesetim. Može trajati nekoliko godina, a menopauza se konstatuje kada prođe 12 uzastopnih meseci bez menstruacije.
-
-**Q: Mogu li da zatrudnim u perimenopauzi?**
-
-Da, u perimenopauzi je i dalje moguća ovulacija, pa i trudnoća. Žene koje ne žele trudnoću treba da koriste kontracepciju sve dok nemaju 12 meseci bez menstruacije, jer nepravilan ciklus ne znači da je trudnoća isključena.
-
-**Q: Da li biljni preparati i suplementi pomažu kod simptoma menopauze?**
-
-Prema američkom centru NCCIH, fitoestrogeni, biljke i dijetetski suplementi nisu jasno pokazali da ublažavaju simptome menopauze. Dokazi za black cohosh su nedosledni, uz retke prijavljene slučajeve oštećenja jetre, zato preparate ne treba uzimati na svoju ruku, već se posavetovati sa lekarom ili farmaceutom.
 
 ---
 
