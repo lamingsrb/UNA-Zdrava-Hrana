@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Tost s avokadom i jajima: šta radi sa šećerom u krvi
+
+https://unazdravahrana.com/blog/tost-s-avokadom-i-jajima-sta-radi-sa-secerom-u-krvi
+
+Tost s avokadom i jajima kombinuje vlakna, zdrave masti i proteine, pa obično daje blaži porast šećera u krvi od doručka sastavljenog samo od brzih ugljenih hidrata, ali nijedna studija nije testirala baš ovu kombinaciju. Najviše zavisi od vrste i količine hleba, jer „integralni” ne znači uvek i bolji glikemijski odgovor.
+
+**Q: Da li tost s avokadom i jajima podiže šećer u krvi?**
+
+Obično manje nego doručak od samih brzih ugljenih hidrata, jer vlakna, masti i proteini ublažavaju porast. Ipak, nema studije koja je merila baš ovaj tost, pa je tačnije reći da „može pomoći” nego da garantuje stabilan šećer. Najviše utiče vrsta i količina hleba.
+
+**Q: Koliko vlakana ima pola avokada?**
+
+Pola Hass avokada (oko 68 g) daje oko 4,6 g vlakana i oko 10,5 g masti. To je otprilike petina dnevne preporuke Svetske zdravstvene organizacije od najmanje 25 g vlakana za odrasle.
+
+**Q: Da li je integralni hleb uvek bolji za šećer u krvi?**
+
+Ne. Prosečan glikemijski indeks integralnih hlebova je oko 69, a belih oko 75, što je mala razlika. Bolji izbor je gust hleb sa vidljivim celim zrnima i semenkama, ili hleb od proklijalih žitarica, nego mekan hleb koji je samo tamno obojen.
+
+**Q: Koliko jaja i avokada je dovoljno za doručak?**
+
+Dovoljno je pola avokada i jedno do dva jaja uz jednu do dve kriške hleba. Studije su koristile pola ploda, a ceo plod nije dao drugačiji efekat na glukozu. Ko ima povišen holesterol ili srčane tegobe, o broju jaja treba da se posavetuje s lekarom.
+
+---
+
 ## Dunja-kesten-bukovača lonac sa heljdom i čijom
 
 https://unazdravahrana.com/recepti/dunja-kesten-bukovaca-lonac-sa-heljdom-i-cijom
@@ -605,30 +629,6 @@ Kesten je prirodno bez glutena, ali ovsene pahuljice često mogu biti kontaminir
 **Q: Može li se dunja zameniti nečim drugim?**
 
 Može, jabukom ili krušku, ali ćete dobiti blaži i slađi ukus. Dunja daje prijatnu kiselkastu notu i čvršću teksturu, pa je kod jabuke dovoljno skratiti vreme krčkanja na 6–8 minuta.
-
----
-
-## Pečena dunja sa kestenom i čijom u jesenjem jogurt kupu
-
-https://unazdravahrana.com/recepti/pecena-dunja-sa-kestenom-i-cijom-u-jesenjem-jogurt-kupu
-
-Kad se u oktobru pojave prve žute dunje, u mnogim kuhinjama zamiriše na stare dane. Ovaj recept je lagan, topao doručak ili užina, bez kuvanja na šporetu i bez dosadnog mešanja: dunja se lagano peče u rerni sa cimetom, kesten se samo isitni, a sve se slaže u čašu preko gustog jogurta i čia semenki.
-
-**Q: Mogu li da koristim sirovu dunju umesto pečene?**
-
-Ne preporučujemo. Sirova dunja je tvrda, trpka i teško se jede, a pečenje je upravo ono što je čini mekom i slatkom. Zato je u ovom receptu uvek pečemo ili kuvamo.
-
-**Q: Da li je recept pogodan za ljude sa intolerancijom na laktozu?**
-
-Jeste, ako umesto običnog jogurta izaberete biljni jogurt bez dodatog šećera ili jogurt bez laktoze. Ostali sastojci (dunja, kesten, čia, orašasti plodovi) ne sadrže mlečne proizvode. Kod alergija i intolerancija uvek proverite deklaraciju na pakovanju.
-
-**Q: Može li se pripremiti večer ranije?**
-
-Može. Ispecite dunju i spremite čia mešavinu, pa slažite kup ujutru ili ostavite sve složeno preko noći. Čia će tada biti mekša, a ukusi će se bolje sjediniti.
-
-**Q: Je li ovo zdrav doručak za decu?**
-
-Prijatna je kombinacija voća, vlakana i proteina iz jogurta, uz minimum dodatog šećera. Deci mlađoj od tri godine seckane orahe izostavite ili ih fino sameljite zbog rizika od gutanja. Za posebne potrebe u ishrani dece posavetujte se sa pedijatrom.
 
 ---
 
