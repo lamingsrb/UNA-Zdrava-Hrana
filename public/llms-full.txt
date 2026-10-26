@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten-bukovača lonac sa heljdom i čijom
+
+https://unazdravahrana.com/recepti/dunja-kesten-bukovaca-lonac-sa-heljdom-i-cijom
+
+Jesen u Kragujevcu miriše na pečene kestenove, a tezga sa dunjama je prva stanica kad zahladi. Ovaj lonac je jelo iz jedne šerpe koje spaja sve što sezona daje: čvrstu dunju koja u kuvanju postaje mekana i blago slatkasta, pečen kesten, bukovače i integralnu heljdu koja jelo čini sitim.
+
+**Q: Da li dunja mora da se oljušti?**
+
+Ne mora. Kora je jestiva i omekša u kuvanju, ali treba dobro skinuti maljavu prevlaku četkicom ili krpom. Ako vam je kora previše tvrda, možete je oljuštiti tankim nožem. Semenke i tvrdu sredinu uvek izbacite jer se seme dunje ne jede.
+
+**Q: Mogu li da koristim samonikle pečurke koje sam sam ubrao?**
+
+Ne preporučujemo. Samonikle pečurke ne bi trebalo jesti ako vrstu nije pouzdano utvrdio stručnjak, a kuvanje ili prženje ne čini otrovnu pečurku bezbednom. Za ovaj recept koristite uzgajane bukovače od proverenog proizvođača.
+
+**Q: Da li je jelo pogodno za osobe koje izbegavaju gluten?**
+
+Heljda, kesten, dunja i čia prirodno ne sadrže gluten, ali zbog mogućeg unakrsnog kontakta u proizvodnji uvek proverite da je na pakovanju heljde označeno da je proizvod bez glutena. Ako imate celijakiju, posavetujte se sa lekarom.
+
+**Q: Može li se jelo pripremiti unapred?**
+
+Može, ali je najbolje pojesti ga isti ili sledeći dan. Čuvajte ga u frižideru u zatvorenoj posudi i podgrejte uz malo vode. Ne podgrevajte ga više puta.
+
+---
+
 ## Dunja-kesten supa-krem sa pečurkama i čija semenkama
 
 https://unazdravahrana.com/recepti/dunja-kesten-supa-krem-sa-pecurkama-i-cija-semenkama
@@ -605,30 +629,6 @@ Može. Ispecite dunju i spremite čia mešavinu, pa slažite kup ujutru ili osta
 **Q: Je li ovo zdrav doručak za decu?**
 
 Prijatna je kombinacija voća, vlakana i proteina iz jogurta, uz minimum dodatog šećera. Deci mlađoj od tri godine seckane orahe izostavite ili ih fino sameljite zbog rizika od gutanja. Za posebne potrebe u ishrani dece posavetujte se sa pedijatrom.
-
----
-
-## Kokosova voda: za šta je dobra i kome treba umerenost
-
-https://unazdravahrana.com/blog/kokosova-voda-za-sta-je-dobra-i-kome-treba-umerenost
-
-Kokosova voda je lagano, prirodno osvežavajuće piće sa oko 19 kcal i oko 250 mg kalijuma na 100 g, ali hidrira otprilike kao obična voda i nije potpuna zamena za sportski napitak posle dugih treninga. Osobe sa bolešću bubrega ili one koje piju lekove koji utiču na kalijum treba da se prvo posavetuju sa lekarom.
-
-**Q: Da li je kokosova voda bolja od obične vode?**
-
-Ne nužno. Studije pokazuju da sveža kokosova voda hidrira slično kao obična voda. Prijatna je alternativa ako ne volite običnu vodu ili želite nešto bolje od zaslađenih sokova, ali poseban učinak na kondiciju nije potvrđen.
-
-**Q: Koliko kalorija i kalijuma ima kokosova voda?**
-
-Prema USDA podacima, 100 g kokosove vode ima oko 19 kcal, oko 2,6 g prirodnih šećera i oko 250 mg kalijuma. Sastav varira zavisno od vrste i zrelosti kokosa, pa je najpouzdanije proveriti deklaraciju proizvoda.
-
-**Q: Da li je kokosova voda dobra posle treninga?**
-
-Posle lakšeg do umerenog treninga može da posluži, uz običnu vodu. Za duge i naporne treninge nije potpuna zamena za sportski napitak, jer ima malo natrijuma, a znoj ga gubi u većoj meri.
-
-**Q: Ko treba da izbegava ili ograniči kokosovu vodu?**
-
-Osobe sa hroničnom bolešću bubrega i oni koji piju lekove koji zadržavaju kalijum (na primer neke lekove za pritisak) treba da se posavetuju sa lekarom pre većeg unosa. Višak kalijuma može izazvati opasnu hiperkalijemiju.
 
 ---
 
