@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Varivo od mahuna bez mesa: ručak koji prija i drugi dan
+
+https://unazdravahrana.com/blog/varivo-od-mahuna-bez-mesa-rucak-koji-prija-i-drugi-dan
+
+Članak donosi jednostavan recept za varivo od mahuna bez mesa u jednom loncu, uz savete za biranje svežih ili smrznutih mahuna i pravilnu termičku obradu. Objašnjava kako prilagoditi gustinu, ukus i hranljivost varivoa za decu, rekreativce i početnike.
+
+**Q: Koliko se kuvaju mahune u varivu?**
+
+Mahune u varivu kuvajte oko 30–40 minuta na tihoj vatri, dok ne budu potpuno meke. Ne treba ih ostavljati „al dente“, jer sirove ili nedovoljno kuvane mahune mogu izazvati mučninu zbog prirodnog sastojka koji kuvanje neutrališe.
+
+**Q: Mogu li se za varivo koristiti smrznute mahune?**
+
+Da, smrznute mahune su potpuno u redu, posebno van sezone. Ne treba ih odmrzavati, već idu direktno u lonac, uz nešto kraće vreme kuvanja nego kod svežih.
+
+**Q: Kako da varivo od mahuna bude gušće?**
+
+Najlakše je da nekoliko kockica krompira zgnječite vilicom direktno u loncu. Možete i da dodate manje vode, jer konzistencija zavisi od krompira i količine tečnosti.
+
+**Q: Kako da varivo od mahuna bude hranljivije i sitnije?**
+
+U poslednjih 10 minuta kuvanja dodajte kuvani pasulj, sočivo ili leblebije za više proteina. Uz varivo poslužite integralni hleb ili kuvane žitarice da obrok bude kompletniji.
+
+---
+
 ## Dunja-kesten ovsene pločice sa čijom i goji bobicama
 
 https://unazdravahrana.com/recepti/dunja-kesten-ovsene-plocice-sa-cijom-i-goji-bobicama
@@ -645,12 +669,6 @@ Jelo je prirodno bez laktoze. Pirinač, kesten, dunja i pečurke ne sadrže glut
 **Q: Mogu li da pripremim jelo unapred?**
 
 Pirinač i kockice dunje možete pripremiti dan ranije i čuvati odvojeno u frižideru. Pečurke najbolje prženje isto veče, a spajanje svih sastojaka u tiganju traje samo nekoliko minuta.
-
----
-
-## Zdravlje je novi luksuz: živeti bolje, ne samo duže
-
-https://unazdravahrana.com/blog/zdravlje-je-novi-luksuz-ziveti-bolje-ne-samo-duze
 
 ---
 
