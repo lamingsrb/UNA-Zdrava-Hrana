@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kaki jabuka: jesenje voće koje vredi uvesti u jelovnik
+
+https://unazdravahrana.com/blog/kaki-jabuka-jesenje-voce-koje-vredi-uvesti-u-jelovnik
+
+Kaki je sezonski jesenji plod koji dolazi u dva tipa: Fuyu se jede čvrst, a oporni Hachiya tek kad je potpuno mekan. Sirov ima oko 70 kcal na 100 g i dobru količinu vlakana, a kao izvor vitamina C nije posebno izdašan.
+
+**Q: Da li se kaki jede čvrst ili mekan?**
+
+Zavisi od tipa. Fuyu nije oporan i jede se čvrst, kao jabuka, dok se Hachiya jede tek kad je potpuno zreo i mekan, jer nezreo sadrži mnogo tanina koji daje oporost.
+
+**Q: Koliko kalorija ima kaki?**
+
+Sirov kaki ima oko 70 kcal na 100 g, a jedan srednji plod od 168 g oko 118 kcal. Na 100 g sadrži oko 3,6 g vlakana i 12,5 g šećera.
+
+**Q: Zašto kaki ponekad ostavlja osećaj suvih usta?**
+
+Uzrok je tanin, jedinjenje koje daje oporost nezrelom plodu. Tokom sazrevanja njegova količina opada, zato oporni tip treba ostaviti na sobnoj temperaturi dok ne omekša kao zrela šljiva.
+
+**Q: Kako da prepoznam dobar kaki na pijaci?**
+
+Koža treba da je glatka i sjajna, bez većih modrica i ulubljenih, mokrih pega. Sitne tamne tačkice mogu biti u redu. Ako niste sigurni koji je tip, pitajte prodavca ili probajte mali komad.
+
+---
+
 ## Marmelada od mandarina: 3 sastojka, 45 minuta i par ideja
 
 https://unazdravahrana.com/blog/marmelada-od-mandarina-3-sastojka-45-minuta-i-par-ideja
@@ -609,30 +633,6 @@ https://unazdravahrana.com/blog/zdravlje-je-novi-luksuz-ziveti-bolje-ne-samo-duz
 ## Kimči: šta je, kako se pravi i da li zaista pomaže varenju
 
 https://unazdravahrana.com/blog/kimci-sta-je-kako-se-pravi-i-da-li-zaista-pomaze-varenju
-
----
-
-## Što jesti posle vađenja zuba: prvi dan, prvi dani
-
-https://unazdravahrana.com/blog/sto-jesti-posle-vadjenja-zuba-prvi-dan-prvi-dani
-
-Posle vađenja zuba sačekajte da popusti anestezija, pa jedite mekanu, mlaku i glatku hranu (supe, pireovi, jogurt, kajgana), bez slamke, vruće, hrskave i oštre hrane. Cilj je da krvni ugrušak ostane na mestu i spreči suvi alveolitis, a tačna uputstva uvek daje vaš stomatolog.
-
-**Q: Kada smem da jedem posle vađenja zuba?**
-
-Sačekajte da popusti lokalna anestezija kako ne biste ugrizli ili opekli obraz i jezik. Izvori se razlikuju: neka NHS uputstva govore o jednom satu, druga o tri sata, pa je najbolje da pitate svog stomatologa.
-
-**Q: Šta je najbolje jesti prvi dan posle vađenja zuba?**
-
-Mlaku krem supu, jogurt, pire od krompira ili bundeve i glatku ovsenu kašu, uz jelo kašikom ili iz čaše. Hrana treba da bude mlaka, glatka i da ne traži žvakanje.
-
-**Q: Zašto ne smem da koristim slamku posle vađenja zuba?**
-
-Sisanje može da istisne krvni ugrušak iz alveole, a ugrušak štiti ranu dok zarasta. Gubitak ugruška može dovesti do suvog alveolitisa i jakog bola, pa se držite roka koji vam je dao stomatolog.
-
-**Q: Koju hranu treba izbegavati posle vađenja zuba?**
-
-Izbegavajte vruću, ljutu, hrskavu i oštru hranu (čips, krekeri, tvrd hleb), kao i sitna zrna poput pirinča, kus-kusa, kinoe i semenki koja mogu ući u ranu. Alkohol, gazirana pića i pušenje takođe treba izbegavati, a rokovi zavise od preporuke stomatologa.
 
 ---
 
