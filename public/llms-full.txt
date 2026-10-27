@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Povrće na terasi u julu: 6 kultura i kad stižu plodovi
+
+https://unazdravahrana.com/blog/povrce-na-terasi-u-julu-6-kultura-i-kad-stizu-plodovi
+
+---
+
 ## Varivo od mahuna bez mesa: ručak koji prija i drugi dan
 
 https://unazdravahrana.com/blog/varivo-od-mahuna-bez-mesa-rucak-koji-prija-i-drugi-dan
@@ -645,30 +651,6 @@ Dunja je tvrđa od jabuke, pa joj treba više vremena. Posle dinstanja i pečenj
 **Q: Da li je jelo prikladno za decu?**
 
 Jeste, blagog je ukusa i mekane teksture. Samo isecite komade na manje i pazite da kesten bude dobro raspolovljen. Ako imate dileme oko ishrane male dece, posavetujte se sa pedijatrom.
-
----
-
-## Pržena riža sa dunjom, kestenom i bukovačama
-
-https://unazdravahrana.com/recepti/przena-riza-sa-dunjom-kestenom-i-bukovacama
-
-Kad neko kaže "jesen", mi u radnji odmah pomislimo na tiganj u kome pucketaju pečurke, a u kuhinji miriše dunja. Ovaj recept je jednostavna jednolončana varijanta: smeđi pirinač, kesten, bukovače i kockice dunje, začinjeno đumbirom i sojinim sosom, uz hrskave tostirane semenke na kraju.
-
-**Q: Može li se jelo pripremiti sa belim pirinčem?**
-
-Može. Beli pirinač se kuva kraće (oko 15 minuta), pa računajte na manje vremena. Smeđi pirinač je integralan i sadrži više vlakana, zato ga preporučujemo, ali ukus i tekstura su lepi i sa belim.
-
-**Q: Da li semenke dunje smeju da se jedu?**
-
-Ne. Semenke dunje sadrže jedinjenja koja ne treba unositi u ishranu, pa ih uvek uklonite zajedno sa jezgrom pre sečenja i kuvanja.
-
-**Q: Je li jelo pogodno za ljude bez glutena i laktoze?**
-
-Jelo je prirodno bez laktoze. Pirinač, kesten, dunja i pečurke ne sadrže gluten, ali sojin sos često sadrži pšenicu, pa za bezglutensku verziju proverite deklaraciju ili pitajte u radnji za odgovarajuću zamenu.
-
-**Q: Mogu li da pripremim jelo unapred?**
-
-Pirinač i kockice dunje možete pripremiti dan ranije i čuvati odvojeno u frižideru. Pečurke najbolje prženje isto veče, a spajanje svih sastojaka u tiganju traje samo nekoliko minuta.
 
 ---
 
