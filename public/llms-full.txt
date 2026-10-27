@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## UNA Zdrava Hrana u Kragujevcu: lokacija, radno vreme
+
+https://unazdravahrana.com/blog/una-zdrava-hrana-u-kragujevcu-lokacija-radno-vreme
+
+UNA Zdrava Hrana je prodavnica u ulici Slobodana Penezića Krcuna kod mosta u Bresnici u Kragujevcu, otvorena svakog dana: ponedeljak–subota 07:30–21:00, nedeljom 08:00–15:00. Nudi šest kategorija proizvoda: organske namirnice, suplemente i vitamine, čajeve i napitke, zdrave grickalice, superhranu i prirodnu kozmetiku.
+
+**Q: Gde se nalazi UNA Zdrava Hrana u Kragujevcu?**
+
+UNA Zdrava Hrana nalazi se u ulici Slobodana Penezića Krcuna, kod mosta u Bresnici, 34000 Kragujevac. Za dodatna uputstva za dolazak možete pozvati 034 387 257.
+
+**Q: Koje je radno vreme UNA Zdrave Hrane?**
+
+Prodavnica radi svakog dana: od ponedeljka do subote od 07:30 do 21:00, a nedeljom od 08:00 do 15:00. Za veću kupovinu nedeljom bolje je doći pre podne.
+
+**Q: Šta se može kupiti u UNA Zdravoj Hrani?**
+
+Asortiman obuhvata šest kategorija: organske proizvode, suplemente i vitamine, čajeve i napitke, zdrave grickalice, superhranu (čia, spirulina, goji) i prirodnu kozmetiku.
+
+**Q: Kako mogu da kontaktiram UNA Zdravu Hranu?**
+
+Možete pozvati telefon 034 387 257 ili poslati poruku na una.zdravahrana@gmail.com. Telefonom možete dobiti i uputstvo kako da stignete iz vašeg pravca.
+
+---
+
 ## Tost s avokadom i jajima: šta radi sa šećerom u krvi
 
 https://unazdravahrana.com/blog/tost-s-avokadom-i-jajima-sta-radi-sa-secerom-u-krvi
@@ -612,24 +636,4 @@ Meta-analize pokazuju skroman gubitak težine, u proseku oko 1,5 do 1,8 kg. Kada
 
 ---
 
-## Pečeni ćufte-kolutovi od kestena i pečuraka sa dunjom
-
-https://unazdravahrana.com/recepti/peceni-cufte-kolutovi-od-kestena-i-pecuraka-sa-dunjom
-
-Pečeni medaljoni od kestena i pečuraka sa karamelizovanom dunjom: jesenje bezmesno jelo iz rerne, gotovo za sat vremena.
-
-**Q: Mogu li medaljoni da se prave bez jaja?**
-
-Mogu. Umesto jajeta koristite lanenu zamenu: 1 kašiku mlevenog lana pomešanu sa 3 kašike vode, ostavljenu 10 minuta da se zgusne. Masa će biti malo osetljivija pa je dobro da se pre oblikovanja ohladi 15 minuta u frižideru.
-
-**Q: Da li je jelo bez glutena?**
-
-Kesten je prirodno bez glutena, ali ovsene pahuljice često mogu biti kontaminirane tragovima glutena. Ako ste osetljivi na gluten, birajte pahuljice sa jasnom oznakom da su bezglutenske, a u radnji vam rado pomažemo da ih nađete.
-
-**Q: Može li se dunja zameniti nečim drugim?**
-
-Može, jabukom ili krušku, ali ćete dobiti blaži i slađi ukus. Dunja daje prijatnu kiselkastu notu i čvršću teksturu, pa je kod jabuke dovoljno skratiti vreme krčkanja na 6–8 minuta.
-
----
-
-Last updated: 2026-10-26
+Last updated: 2026-10-27

@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [UNA Zdrava Hrana u Kragujevcu: lokacija, radno vreme](https://unazdravahrana.com/blog/una-zdrava-hrana-u-kragujevcu-lokacija-radno-vreme)
 - [Tost s avokadom i jajima: šta radi sa šećerom u krvi](https://unazdravahrana.com/blog/tost-s-avokadom-i-jajima-sta-radi-sa-secerom-u-krvi)
 - [Dunja-kesten-bukovača lonac sa heljdom i čijom](https://unazdravahrana.com/recepti/dunja-kesten-bukovaca-lonac-sa-heljdom-i-cijom)
 - [Dunja-kesten supa-krem sa pečurkama i čija semenkama](https://unazdravahrana.com/recepti/dunja-kesten-supa-krem-sa-pecurkama-i-cija-semenkama)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Pečurke i kesten u dunja-ječam prženom pilafu](https://unazdravahrana.com/recepti/pecurke-i-kesten-u-dunja-jecam-przenom-pilafu)
 - [Pečena dunja i kesten u jesenjem kus-kus tabuleu](https://unazdravahrana.com/recepti/pecena-dunja-i-kesten-u-jesenjem-kus-kus-tabuleu)
 - [Ječam u kuhinji: koji izabrati i kako ga skuvati](https://unazdravahrana.com/blog/jecam-u-kuhinji-koji-izabrati-i-kako-ga-skuvati)
-- [Antibiotici i slatkiši: šta nova studija kaže o crevima](https://unazdravahrana.com/blog/antibiotici-i-slatkisi-sta-nova-studija-kaze-o-crevima)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-26
+Last updated: 2026-10-27
