@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten ovsene pločice sa čijom i goji bobicama
+
+https://unazdravahrana.com/recepti/dunja-kesten-ovsene-plocice-sa-cijom-i-goji-bobicama
+
+Jesen u Srbiji miriše na dunje, a sve ono što smo već kuvali, pekli i punili ovog puta ostavljamo po strani. Ovo je užina koju možete poneti sa sobom: čvrste, sočne pločice od ovsenih pahuljica, pirjane dunje i pečenog kestena, sa čijom i goji bobicama.
+
+**Q: Mogu li pločice da napravim bez dunje?**
+
+Možete, ali onda gubite onaj prepoznatljiv jesenji ukus i vlažnost. Umesto dunje uzmite rendanu jabuku, a količinu meda smanjite, jer je jabuka slađa. Pločice će i dalje uspeti, samo će biti nešto mekše.
+
+**Q: Zašto mi se pločice mrve pri sečenju?**
+
+Najčešći razlozi su da smesa nije dovoljno utisnuta ili da ste je sekli još toplu. Utisnite je čvrsto, ispecite do zlatne boje i sačekajte da se potpuno ohladi u tepsiji. Ako je smesa i dalje presuva, dodajte kašiku vode ili još malo pirjane dunje.
+
+**Q: Da li su pločice bezglutenske?**
+
+Kesten, dunja, čia i goji ne sadrže gluten, ali ovas može biti kontaminiran. Ako je to važno, birajte ovsene pahuljice koje su izričito označene kao bezglutenske. U radnji vam rado pomažemo da pročitate deklaracije i izaberete pravo.
+
+**Q: Koliko dugo se čuvaju i mogu li da se zamrznu?**
+
+U frižideru, u zatvorenoj kutiji, stoje do nedelju dana. Pojedinačno umotane mogu se zamrznuti i odmrznuti preko noći u frižideru ili na sobnoj temperaturi nekoliko sati pre jela.
+
+---
+
 ## Kaki jabuka: jesenje voće koje vredi uvesti u jelovnik
 
 https://unazdravahrana.com/blog/kaki-jabuka-jesenje-voce-koje-vredi-uvesti-u-jelovnik
@@ -627,12 +651,6 @@ Pirinač i kockice dunje možete pripremiti dan ranije i čuvati odvojeno u fri�
 ## Zdravlje je novi luksuz: živeti bolje, ne samo duže
 
 https://unazdravahrana.com/blog/zdravlje-je-novi-luksuz-ziveti-bolje-ne-samo-duze
-
----
-
-## Kimči: šta je, kako se pravi i da li zaista pomaže varenju
-
-https://unazdravahrana.com/blog/kimci-sta-je-kako-se-pravi-i-da-li-zaista-pomaze-varenju
 
 ---
 
