@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Marmelada od mandarina: 3 sastojka, 45 minuta i par ideja
+
+https://unazdravahrana.com/blog/marmelada-od-mandarina-3-sastojka-45-minuta-i-par-ideja
+
+Osnovna marmelada od mandarina pravi se od 1 kg neprskanih mandarina, jednog limuna i 400 g šećera, uz trostruko kuvanje kore i oko 45 minuta krčkanja. Članak objašnjava kako pektin, šećer i kiselina utiču na gustinu, poredi šećer i med i napominje da marmelada ne zamenjuje svežu mandarinu.
+
+**Q: Koji su sastojci za osnovnu marmeladu od mandarina?**
+
+Za osnovni recept potrebni su 1 kg neprskanih mandarina, 1 neprskani limun i 400 g šećera. Kora ostaje u marmeladi, zato je važno da voće bude neprskano i dobro oprano.
+
+**Q: Koliko dugo se kuva marmelada od mandarina?**
+
+Voće se prvo prokuva tri puta u svežoj vodi da kora izgubi višak gorčine, a zatim se sa šećerom krčka oko 45 minuta uz povremeno mešanje. Gustinu proverite tako što kapnete malo marmelade na hladan tanjirić: ako se ne razlije, gotova je.
+
+**Q: Zašto je moja marmelada retka i kako da je zgusnem?**
+
+Za stezanje su potrebni uravnoteženi pektin, šećer i kiselina. Marmelada može biti retka zbog manje šećera, premalo limuna ili prekratkog kuvanja. Pomoći će duže krčkanje, više limuna ili dodatni pektin, a tačka želiranja je oko 104 °C.
+
+**Q: Da li med može da zameni šećer u marmeladi?**
+
+Može, ali med menja ukus i aromu, a i dalje se računa u slobodne šećere. Po grami ima manje kalorija od šećera, ali po kašici više jer je gušći. Med se ne sme davati bebama mlađim od 12 meseci zbog rizika od botulizma, pa za najmlađe koristite šećer.
+
+---
+
 ## UNA Zdrava Hrana u Kragujevcu: lokacija, radno vreme
 
 https://unazdravahrana.com/blog/una-zdrava-hrana-u-kragujevcu-lokacija-radno-vreme
@@ -609,30 +633,6 @@ Sisanje može da istisne krvni ugrušak iz alveole, a ugrušak štiti ranu dok z
 **Q: Koju hranu treba izbegavati posle vađenja zuba?**
 
 Izbegavajte vruću, ljutu, hrskavu i oštru hranu (čips, krekeri, tvrd hleb), kao i sitna zrna poput pirinča, kus-kusa, kinoe i semenki koja mogu ući u ranu. Alkohol, gazirana pića i pušenje takođe treba izbegavati, a rokovi zavise od preporuke stomatologa.
-
----
-
-## Obroci u pravo vreme: da li sat na zidu utiče na
-
-https://unazdravahrana.com/blog/obroci-u-pravo-vreme-da-li-sat-na-zidu-utice-na
-
-Hrononutricija proučava kako vreme unosa hrane utiče na biološki sat i metabolizam, ali konačnih dokaza za univerzalna pravila još nema. Kasna večera može pogoršati podnošenje šećera kod nekih ljudi, dok ograničen prozor za jelo daje skroman gubitak težine bez dokazane prednosti nad samim smanjenjem kalorija.
-
-**Q: Šta je hrononutricija?**
-
-Hrononutricija je oblast koja proučava kako se vreme unosa hrane povezuje sa unutrašnjim biološkim satom i cirkadijalnim ritmovima, a ne samo šta i koliko jedemo. Raspored obroka služi kao signal perifernim satovima u tkivima koja regulišu metabolizam.
-
-**Q: Da li je kasna večera loša za šećer u krvi?**
-
-U nekim kontrolisanim ogledima kasna večera (oko 22:00) dovela je do više prosečne glukoze nego rana (oko 18:00), a efekat je bio izraženiji kod nosilaca određene genetske varijante. Efekat nije isti kod svih, pa ne postoji univerzalan sat do kog se sme jesti.
-
-**Q: Da li je preskakanje doručka štetno?**
-
-Veliki posmatrački radovi povezuju preskakanje doručka sa lošijim zdravstvenim pokazateljima, ali je to povezanost, a ne dokaz uzroka. Ljudi koji preskaču doručak često se razlikuju i po drugim navikama, pa nema razloga za paniku ako niste gladni ujutru.
-
-**Q: Da li ograničen prozor za jelo pomaže pri mršavljenju?**
-
-Meta-analize pokazuju skroman gubitak težine, u proseku oko 1,5 do 1,8 kg. Kada se kombinuje sa smanjenjem kalorija, nije nađena dodatna korist u odnosu na samo smanjenje kalorija. Osobe sa dijabetesom, trudnice, dojilje i oni sa istorijom poremećaja ishrane trebalo bi da se posavetuju sa lekarom pre uvođenja posta.
 
 ---
 
