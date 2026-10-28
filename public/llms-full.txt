@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten humus od leblebija sa pečurkama i susamom
+
+https://unazdravahrana.com/recepti/dunja-kesten-humus-od-leblebija-sa-pecurkama-i-susamom
+
+Jesen u Kragujevcu ima svoj miris: pečena dunja, kesten sa roštilja i pečurke iz rerne. Ovaj recept spaja ta tri sastojka na način koji do sada nismo radili: u kremast, topao namaz-humus od leblebija, sa pečenim bukovačama preko vrha.
+
+**Q: Može li se dunja jesti sirova?**
+
+Zrela dunja se obično ne jede sirova jer je meso tvrdo i veoma kiselo. Zato se najčešće peče ili kuva, što je i ovde slučaj. Pečenjem postaje mekana, aromatična i blago slatka.
+
+**Q: Da li je ovaj namaz pogodan za ljude sa intolerancijom na laktozu?**
+
+Da, recept ne sadrži mlečne proizvode. Za osobe koje izbegavaju gluten sam namaz ne sadrži gluten, ali birajte hleb i krekere označene kao bezglutenski, i proverite deklaracije sastojaka.
+
+**Q: Mogu li pripremiti namaz unapred?**
+
+Naravno. Namaz se može napraviti dan unapred i čuvati u zatvorenoj tegli u frižideru do 3-4 dana. Pečene pečurke najbolje je pripremiti svežije i staviti ih na vrh neposredno pre služenja.
+
+**Q: Čime mogu zameniti kesten?**
+
+Ako ne možete da nađete kesten, možete koristiti pečeni batat (slatki krompir) ili dodatnu količinu leblebija. Ukus će biti nešto drugačiji, ali tekstura i kremastost ostaju. Za savet o zamenama pitajte u radnji.
+
+---
+
 ## Trčanje ili teretana? Zašto telu trebaju oba
 
 https://unazdravahrana.com/blog/trcanje-ili-teretana-zasto-telu-trebaju-oba
@@ -613,30 +637,6 @@ Na pari povrće ne dolazi u direktan kontakt s vodom, pa se, prema izvorima koje
 **Q: Koliko povrća i voća treba jesti dnevno i koliko često ribu?**
 
 Svetska zdravstvena organizacija preporučuje 400 grama voća i povrća dnevno, odnosno oko pet porcija od po 80 grama. Institut „Batut" savetuje da riba bude na jelovniku barem dva puta nedeljno.
-
----
-
-## Dunja: kako da je izaberete, spremite i uklopite u ishranu
-
-https://unazdravahrana.com/blog/dunja-kako-da-je-izaberete-spremite-i-uklopite-u-ishranu
-
-Dunja je jesenji plod bogat pektinom i vlaknima, koji je zbog tanina trpak i tvrd pa se jede termički obrađen (kuvan, pečen, u džemu). Članak objašnjava kako izabrati zrelu dunju, njene nutritivne vrednosti, šta nauka zaista zna o njenoj lekovitosti i zašto semenke ne treba jesti.
-
-**Q: Zašto se dunja ne jede sirova?**
-
-Sirova dunja je tvrda i oporog ukusa zbog tanina koji stežu usta. Kuvanje, pečenje ili pravljenje džema ublažava trpkost i čini plod mekanim i aromatičnim.
-
-**Q: Koliko kalorija i vlakana ima dunja?**
-
-Na 100 grama sirove dunje ima oko 57 kcal, oko 15 g ugljenih hidrata, oko 1,9 g vlakana i 15 mg vitamina C. Plod je više od 80% voda, a vrednosti se u različitim bazama malo razlikuju.
-
-**Q: Da li je dunja lekovita?**
-
-Dunji se u preglednim radovima pripisuju antioksidativna i druga svojstva, ali su to rezultati laboratorijskih i pretkliničkih istraživanja, ne dokaz da leči ljude. Ako imate zdravstvenih tegoba, posavetujte se sa lekarom.
-
-**Q: Da li se semenke dunje smeju jesti?**
-
-Ne. Semenke dunje sadrže nitrilna jedinjenja koja mogu biti toksična u većim količinama, pa ih pri pripremi uvek izvadite i bacite, a ne stavljajte ih ni u čaj ni u napitke.
 
 ---
 
