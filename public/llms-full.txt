@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ko treba da pazi na paradajz: 4 stanja i čime ga zameniti
+
+https://unazdravahrana.com/blog/ko-treba-da-pazi-na-paradajz-4-stanja-i-cime-ga-zameniti
+
+Paradajz većini ljudi prija, ali može da smeta kod alergije na polen (oralni alergijski sindrom), refluksa, hronične bolesti bubrega (zbog kalijuma) i osetljivosti na histamin. Mitovi o kamenu u bubregu i artritisu uglavnom nemaju oslonac, a o ishrani je pametno razgovarati sa lekarom ili nutricionistom.
+
+**Q: Zašto me svrbe usta posle jedenja sirovog paradajza?**
+
+Najčešći uzrok je oralni alergijski sindrom, koji se javlja kod ljudi sa alergijom na polen trava ili breze. Proteini u sirovom paradajzu liče na alergene polena, pa ih imuni sistem pomeša. Kuvani paradajz često prolazi bez problema, jer su ti proteini osetljivi na toplotu.
+
+**Q: Da li paradajz izaziva refluks i žgaravicu?**
+
+Paradajz i proizvodi od njega često se navode kao okidači refluksa, ali se podnošljivost razlikuje od osobe do osobe. Najbolje je dve do tri nedelje voditi dnevnik ishrane i videti da li se tegobe stalno javljaju posle paradajza. Ako žgaravica ne prolazi ili se ponavlja, obratite se lekaru.
+
+**Q: Sme li paradajz kod bolesti bubrega?**
+
+Kod hronične bolesti bubrega bitan je kalijum, a ne sam paradajz. Svež paradajz u uobičajenim porcijama obično je u redu u ranijim stadijumima sa normalnim kalijumom, dok koncentrovani proizvodi (pire, sok, sušeni paradajz) imaju znatno više kalijuma. Dozvoljenu količinu određuje nefrolog ili nutricionista na osnovu vaših nalaza.
+
+**Q: Da li paradajz izaziva kamen u bubregu ili pogoršava artritis?**
+
+Kamen u bubregu je uglavnom mit: paradajz ima malo oksalata i bogat je citratima koji pomažu u sprečavanju kamenaca. Za pogoršanje artritisa nema naučnih dokaza ni za ni protiv, a većina priča je anegdotska. Ako primetite da vam neka hrana smeta, beležite to i posavetujte se sa lekarom.
+
+---
+
 ## Testenina i povrće: 6 ideja od ručka za poneti do tople
 
 https://unazdravahrana.com/blog/testenina-i-povrce-6-ideja-od-rucka-za-poneti-do-tople
@@ -595,30 +619,6 @@ Sirova dunja je tvrda i trpka, pa se retko jede sirova. Pečenjem omekša, dobij
 **Q: Može li se kesten zameniti nečim drugim?**
 
 Može. Ako nemate kesten, uzmite prženi orah, lešnik ili bademe. Salata će biti hrskavija i manje slatka, ali će i dalje biti sita i ukusna.
-
----
-
-## Ječam u kuhinji: koji izabrati i kako ga skuvati
-
-https://unazdravahrana.com/blog/jecam-u-kuhinji-koji-izabrati-i-kako-ga-skuvati
-
-Ječam se prodaje kao ljušteni (45–60 min kuvanja, više vlakana), okrugli (25–35 min), pahuljice i slad, a vremena i sastav zavise od proizvođača. Beta-glukani iz ječma, uz najmanje 3 g dnevno, prema EFSA mogu da pomognu u snižavanju LDL holesterola, ali ne zamenjuju terapiju.
-
-**Q: Koja je razlika između ljuštenog i okruglog ječma?**
-
-Ljušteni ječam ima uklonjenu samo nejestivu spoljnu ljusku, pa zadržava više vlakana, ali se kuva duže (oko 45–60 minuta). Okrugli ječam je dodatno obrađen, belji je i mekši i kuva se brže (oko 25–35 minuta). Nazivi na tržištu nisu ujednačeni, pa se oslonite na uputstvo na pakovanju.
-
-**Q: Koliko se kuva ječam?**
-
-Okrugli ječam se kuva okvirno 25–35 minuta, a ljušteni oko 45–60 minuta. Pahuljice se pripremaju kratko, slično ovsenim. Vremena zavise od proizvođača i stepena obrade, pa uvek važi uputstvo na konkretnom pakovanju.
-
-**Q: Da li ječam snižava holesterol?**
-
-Prema zaključku EFSA, beta-glukani iz ječma, u količini od najmanje 3 g dnevno, doprinose snižavanju LDL holesterola kod odraslih. Treba imati na umu da 3 g beta-glukana nije isto što i 3 g ječma, jer su beta-glukani samo deo zrna. Ječam ne zamenjuje terapiju, a ako imate povišen holesterol, posavetujte se sa lekarom.
-
-**Q: Koliko vlakana ima ječam?**
-
-Prema USDA podacima, sirov ljušteni ječam ima oko 17,3 g vlakana na 100 g, a okrugli oko 15,6 g. Kuvan okrugli ječam ima oko 3,8 g vlakana i 123 kcal na 100 g, jer zrno tokom kuvanja upija vodu. Zato obratite pažnju da li se podatak odnosi na sirov ili kuvan ječam.
 
 ---
 
