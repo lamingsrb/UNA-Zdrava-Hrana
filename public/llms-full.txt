@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Testenina i povrće: 6 ideja od ručka za poneti do tople
+
+https://unazdravahrana.com/blog/testenina-i-povrce-6-ideja-od-rucka-za-poneti-do-tople
+
+---
+
 ## Jesenji ražani paprikaš od bukovače, kestena i dunje
 
 https://unazdravahrana.com/recepti/jesenji-razani-paprikas-od-bukovace-kestena-i-dunje
@@ -613,30 +619,6 @@ Prema zaključku EFSA, beta-glukani iz ječma, u količini od najmanje 3 g dnevn
 **Q: Koliko vlakana ima ječam?**
 
 Prema USDA podacima, sirov ljušteni ječam ima oko 17,3 g vlakana na 100 g, a okrugli oko 15,6 g. Kuvan okrugli ječam ima oko 3,8 g vlakana i 123 kcal na 100 g, jer zrno tokom kuvanja upija vodu. Zato obratite pažnju da li se podatak odnosi na sirov ili kuvan ječam.
-
----
-
-## Antibiotici i slatkiši: šta nova studija kaže o crevima
-
-https://unazdravahrana.com/blog/antibiotici-i-slatkisi-sta-nova-studija-kaze-o-crevima
-
-Studija objavljena u časopisu Nature na teško bolesnim pacijentima pokazala je da slatkiši tokom antibiotske terapije dodatno narušavaju raznovrsnost crevnog mikrobioma i podstiču rast bakterije Enterococcus faecium. Rezultati su opservacioni i nisu potvrđeni za zdrave osobe na kratkom kursu antibiotika, ali je razumno privremeno ograničiti slatkiše i zaslađena pića.
-
-**Q: Da li slatkiši štete crevima dok pijem antibiotike?**
-
-Nova studija objavljena u časopisu Nature pokazala je da slatkiši sami nisu bili povezani sa slabijim mikrobiomom, ali su uz antibiotike pojačali štetu po crevne bakterije. Studija je rađena na teško bolesnim pacijentima, pa nije potvrđeno da isti efekat važi za zdrave osobe. Za svaki slučaj, razumno je ograničiti slatkiše tokom terapije.
-
-**Q: Da li treba potpuno izbaciti šećer tokom antibiotske terapije?**
-
-Ne, nije potrebna stroga dijeta. Istraživači preporučuju umerenost, odnosno izbegavanje slatkiša i zaslađenih pića u kratkom periodu dok se uzimaju antibiotici. Ostatak ishrane može da ostane uobičajen i raznovrstan.
-
-**Q: Šta jesti umesto slatkiša dok pijem antibiotike?**
-
-Umesto keksa probajte šaku neslanih orašastih plodova, umesto voćnog jogurta obični jogurt sa malo voća, a umesto gaziranih sokova vodu ili nezaslađen biljni čaj. Za doručak birajte ovsene pahuljice ili integralne žitarice umesto zaslađenih. Prirodni šećeri iz suvog voća i sokova takođe nisu za preterivanje.
-
-**Q: Koliko šećera je preporučeno dnevno prema Svetskoj zdravstvenoj organizaciji?**
-
-SZO preporučuje da slobodni šećeri budu ispod 10% ukupnog energetskog unosa, a smanjenje ispod 5% donosi dodatne koristi. Slobodni šećeri su oni koji se dodaju hrani i pićima, kao i šećeri iz meda, sirupa i voćnih sokova. To je opšti okvir, a ne posebno pravilo za period antibiotika.
 
 ---
 
