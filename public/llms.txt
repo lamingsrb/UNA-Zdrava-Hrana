@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Trčanje ili teretana? Zašto telu trebaju oba](https://unazdravahrana.com/blog/trcanje-ili-teretana-zasto-telu-trebaju-oba)
 - [Kakao kuglice od leblebija: slatkiš koji pravite za 15](https://unazdravahrana.com/blog/kakao-kuglice-od-leblebija-slatkis-koji-pravite-za-15)
 - [Povrće na terasi u julu: 6 kultura i kad stižu plodovi](https://unazdravahrana.com/blog/povrce-na-terasi-u-julu-6-kultura-i-kad-stizu-plodovi)
 - [Varivo od mahuna bez mesa: ručak koji prija i drugi dan](https://unazdravahrana.com/blog/varivo-od-mahuna-bez-mesa-rucak-koji-prija-i-drugi-dan)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Ćuftice od kestena i heljde sa pirjanom dunjom](https://unazdravahrana.com/recepti/cuftice-od-kestena-i-heljde-sa-pirjanom-dunjom)
 - [Jesenja pita od dunje i jabuka sa ovsenom korom](https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-sa-ovsenom-korom)
 - [Planirate trudnoću? Namirnice bogate folatima](https://unazdravahrana.com/blog/planirate-trudnocu-namirnice-bogate-folatima)
-- [Grah, jogurt, varivo: kako pratiti makroe kad hrana ne](https://unazdravahrana.com/blog/grah-jogurt-varivo-kako-pratiti-makroe-kad-hrana-ne)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-27
+Last updated: 2026-10-28

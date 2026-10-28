@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Trčanje ili teretana? Zašto telu trebaju oba
+
+https://unazdravahrana.com/blog/trcanje-ili-teretana-zasto-telu-trebaju-oba
+
+---
+
 ## Kakao kuglice od leblebija: slatkiš koji pravite za 15
 
 https://unazdravahrana.com/blog/kakao-kuglice-od-leblebija-slatkis-koji-pravite-za-15
@@ -634,28 +640,4 @@ Ne. Semenke dunje sadrže nitrilna jedinjenja koja mogu biti toksična u većim 
 
 ---
 
-## Pečeni kesten-dunja kolutići sa kinoa kremom i bukovačama
-
-https://unazdravahrana.com/recepti/peceni-kesten-dunja-kolutici-sa-kinoa-kremom-i-bukovacama
-
-Evo jesenje kombinacije koju ste verovatno već probali na više načina, ali ovaj put dunja i kesten idu u sasvim drugačiju ulogu: dunju kratko karamelizujemo u tiganju zajedno sa bukovačama, a kesten dobija glavnu reč u kremi od kinoe.
-
-**Q: Da li je ovaj recept bez glutena?**
-
-Sami sastojci (kinoa, kesten, dunja, bukovače) su prirodno bez glutena. Ako ste osetljivi ili imate celijakiju, proverite na pakovanju kinoe, začina i supe da su označeni kao bez glutena, jer se tragovi mogu pojaviti pri preradi.
-
-**Q: Mogu li kesten da zamenim nečim ako ga ne nađem?**
-
-Možete koristiti kuvani leblebiju ili belu pasulj za kremu, ukus će biti blaži. Pečeni kesten iz tegle ili vakuuma je najbrži, a sveži treba ukrstiti nožem, ispeći ili skuvati pa oljuštiti dok je još topao.
-
-**Q: Da li se dunja jede sirova?**
-
-Sirova dunja je tvrda, trpka i teško svarljiva, zato se gotovo uvek termički obrađuje (pirjanje, pečenje, kuvanje). Zato je i u ovom receptu prethodno prženje u tiganju do mekoće.
-
-**Q: Može li se jelo pripremiti unapred?**
-
-Može. Kremu od kinoe i kestena i pržene dunje i pečurke čuvajte odvojeno u frižideru do 2 dana, pa pred serviranje zagrejte u tiganju uz kašiku vode. Seme i peršun dodajte tek na kraju.
-
----
-
-Last updated: 2026-10-27
+Last updated: 2026-10-28
