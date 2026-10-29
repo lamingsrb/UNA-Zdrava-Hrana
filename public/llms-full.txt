@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Crohn i kolitis: zašto vam smeta hrana koju ste ranije jeli
+
+https://unazdravahrana.com/blog/crohn-i-kolitis-zasto-vam-smeta-hrana-koju-ste-ranije-jeli
+
+---
+
 ## Obroci za slab apetit tokom lečenja: 6 jednostavnih ideja
 
 https://unazdravahrana.com/blog/obroci-za-slab-apetit-tokom-lecenja-6-jednostavnih-ideja
@@ -599,30 +605,6 @@ Pečurke dobro iscedite i pirjajte dok ne ispare, jer višak tečnosti razmekša
 **Q: Mogu li kesten da kupim već ogulјen?**
 
 Naravno, to vam skraćuje posao. Ako koristite svež kesten, zasecite ga, ispecite ili skuvajte i ogulite dok je još topao jer se tada lakše čisti. Za izbor pakovanog kestena pitajte u radnji.
-
----
-
-## Jesenja pita od dunje i jabuka sa ovsenom korom
-
-https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-sa-ovsenom-korom
-
-Jednostavna pita od dunje i jabuka sa korom od ovsenih pahuljica i lešnika. Bez maslaca i belog brašna. Recept za jesen, gotovo za sat vremena.
-
-**Q: Može li pita bez maslaca i belog brašna da ispadne sočna?**
-
-Može. Sočnost dolazi od ribanog voća, a ovsene pahuljice upiju tečnost iz smese i daju mekanu, ali čvrstu strukturu. Važno je da smesu ostavite 5 minuta da odstoji pre nego što je utisnete u kalup.
-
-**Q: Da li dunja mora da se kuva pre nego što se doda u pitu?**
-
-Ne mora. Kada se dunja sitno izriba, ispeče se zajedno sa jabukama za 35 do 40 minuta i omekša. Ako vam je dunja veoma tvrda, možete je ribati što sitnije ili je prethodno kratko dinstati nekoliko minuta.
-
-**Q: Može li se pita praviti bez meda?**
-
-Može. Med možete zameniti javorovim sirupom ili sirupom od urmi. Ako više volite manje slatko, dovoljno je smanjiti količinu na dve kašike, jer voće samo daje dosta slasti.
-
-**Q: Za koga je ova pita pogodna?**
-
-Pogodna je za celu porodicu, uključujući i decu, a bez glutena može biti ako koristite bezglutenske ovsene pahuljice. Sadrži jaja i orašaste plodove, pa je neprikladna za osobe sa alergijom na njih. Ako imate zdravstvena pitanja u vezi sa ishranom, posavetujte se sa lekarom.
 
 ---
 
