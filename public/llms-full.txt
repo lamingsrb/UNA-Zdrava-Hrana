@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Baka Elen (100) i stacionarni bicikl: šta zaista možemo
+
+https://unazdravahrana.com/blog/baka-elen-100-i-stacionarni-bicikl-sta-zaista-mozemo
+
+Članak prati priču stogodišnje Elen Džons, koja kao tajnu vitalnosti navodi radoznalost, aktivnost i društvo, i poredi je sa preporukama SZO i stručnih društava o kretanju i unosu proteina u starijem dobu. Naglašava da je to životna priča jedne osobe, a ne dokaz uzročnosti, i daje praktične savete o rasporedu proteina i oprezu sa suplementima.
+
+**Q: Koliko fizičke aktivnosti preporučuje SZO odraslima?**
+
+Svetska zdravstvena organizacija preporučuje odraslima najmanje 150 do 300 minuta umerene aerobne aktivnosti nedeljno, na primer oko 30 minuta brzog hoda dnevno, pet dana u nedelji. Starijima se savetuje da to kombinuju sa vežbama snage i ravnoteže.
+
+**Q: Koliko proteina dnevno treba osobama starijim od 65 godina?**
+
+Stručne grupe PROT-AGE i ESPEN preporučuju zdravim starijim osobama najmanje 1,0 do 1,2 grama proteina po kilogramu telesne mase dnevno. Osobi od 70 kg to znači oko 70 do 84 grama dnevno. Za pothranjene ili bolesne preporuka je 1,2 do 1,5 g/kg.
+
+**Q: Kako rasporediti proteine tokom dana?**
+
+Bolje je proteine rasporediti kroz dan, otprilike 25 grama u svaki od tri glavna obroka, nego ih uneti uglavnom uveče. Takav raspored pomaže sintezi mišićnih proteina. Dobri izvori su jaja, jogurt, mahunarke, riba, sir, orašasti plodovi i semenke.
+
+**Q: Šta Elen Džons smatra tajnom svoje vitalnosti?**
+
+Elen Džons, koja je u 100. godini i redovno vozi stacionarni bicikl, ne pripisuje formu suplementima ni strogoj rutini. Kao ključne navodi radoznalost, svakodnevnu aktivnost i ljubav i društvo ljudi oko sebe. To je lično iskustvo, a ne dokaz da te navike uzrokuju dug život.
+
+---
+
 ## 10 navika zdrave ishrane koje možete uvesti već danas
 
 https://unazdravahrana.com/blog/10-navika-zdrave-ishrane-koje-mozete-uvesti-vec-danas
@@ -581,30 +605,6 @@ Biljni proteini mahunarki nisu potpuni, ali se to lako nadoknađuje žitaricama 
 ## Bundeva u kuhinji: 5 jela i kako da ih uspete
 
 https://unazdravahrana.com/blog/bundeva-u-kuhinji-5-jela-i-kako-da-ih-uspete
-
----
-
-## Dunja-kesten gulaš sa pečurkama i bademima
-
-https://unazdravahrana.com/recepti/dunja-kesten-gulas-sa-pecurkama-i-bademima
-
-Biljni gulaš od dunje, kestena i pečuraka sa bademima: jedan lonac, bez glutena i laktoze, gotov za sat vremena. Jesenji recept iz UNA Zdrave Hrane.
-
-**Q: Može li gulaš da se spremi unapred?**
-
-Može, i bolji je sutradan. Čuvajte ga u frižideru u zatvorenoj posudi do tri dana i podgrejte na laganoj vatri uz malo vode, jer se sos tokom odmaranja zgusne.
-
-**Q: Da li je jelo pogodno za ljude koji izbegavaju gluten i laktozu?**
-
-Po sastavu jeste: kesten je bez glutena, a u receptu nema brašna ni mlečnih proizvoda. Ako imate celijakiju, proverite da povrtna supa, začini i paradajz pire nemaju tragove glutena, a za prilog izaberite heljdu ili krompir.
-
-**Q: Mogu li da koristim smrznutu ili tegla dunju?**
-
-Najbolje radi sveža dunja u sezoni, jer zadržava oblik i daje prijatnu kiselkastost. Smrznuta dunja se brže raskuva, pa je dodajte tek u poslednjih 10 do 15 minuta.
-
-**Q: Kako da gulaš bude gušći bez brašna?**
-
-Izgnječite deo kestena kašikom o zid lonca i umešajte mlevene bademe, to je dovoljno. Ako želite još gušći sos, krčkajte poslednjih nekoliko minuta bez poklopca.
 
 ---
 
