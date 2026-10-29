@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## 10 navika zdrave ishrane koje možete uvesti već danas
+
+https://unazdravahrana.com/blog/10-navika-zdrave-ishrane-koje-mozete-uvesti-vec-danas
+
+---
+
 ## Srce na tanjiru: šta da jedete, a šta da ograničite
 
 https://unazdravahrana.com/blog/srce-na-tanjiru-sta-da-jedete-a-sta-da-ogranicite
@@ -599,26 +605,6 @@ Najbolje radi sveža dunja u sezoni, jer zadržava oblik i daje prijatnu kiselka
 **Q: Kako da gulaš bude gušći bez brašna?**
 
 Izgnječite deo kestena kašikom o zid lonca i umešajte mlevene bademe, to je dovoljno. Ako želite još gušći sos, krčkajte poslednjih nekoliko minuta bez poklopca.
-
----
-
-## Pečurke i kesten u dunja-ječam prženom pilafu
-
-https://unazdravahrana.com/recepti/pecurke-i-kesten-u-dunja-jecam-przenom-pilafu
-
-Kad zahladi, na stolu nam trebaju jela koja greju i siće, a opet ne opterećuju. Ovaj recept je lagan jesenji ručak iz jednog tiganja: na tamo-vamo pržen kuvani ječam sa belim lukom i majčinom dušicom dodajemo karamelizovane kriške dunje, pečurke i omiljeni kesten.
-
-**Q: Može li se dunja jesti sirova ili je bolje da se skuva?**
-
-Sirova dunja je veoma tvrda, trpka i teška za varenje, pa se najčešće jede kuvana, pečena ili dinstana. Seme dunje ne treba jesti, zato ga uvek uklonite pre pripreme.
-
-**Q: Da li je ovo jelo pogodno za vegane?**
-
-Da, recept je u potpunosti biljni — ne sadrži mleko, jaja ni meso. Samo proverite da vam ječam i ostali sastojci nisu pakovani sa dodacima životinjskog porekla.
-
-**Q: Kako da recept prilagodim ako ne jedem gluten?**
-
-Zamenite ječam kuvanom heljdom ili prosom. Kesten, dunja i pečurke su prirodno bez glutena, ali ako imate celijakiju, proverite deklaraciju svakog pakovanog sastojka.
 
 ---
 
