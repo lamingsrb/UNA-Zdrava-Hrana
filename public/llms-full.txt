@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kesten-dunja kaša sa bukovačom i čijom za slab apetit
+
+https://unazdravahrana.com/recepti/kesten-dunja-kasa-sa-bukovacom-i-cijom-za-slab-apetit
+
+Nežna jesenja kaša od kestena, dunje i bukovače sa čijom — mekano, hranljivo jelo za slab apetit. Recept i saveti iz UNA Zdrave Hrane.
+
+**Q: Može li kaša da se pripremi bez pečuraka?**
+
+Može. Bez bukovače jelo je još blažeg ukusa, a sitno seckane orahe ili kašiku bademovog putera možete koristiti za dodatnu hranljivost.
+
+**Q: Da li se kesten može zameniti nečim drugim?**
+
+Kesten daje poseban slatkast ukus i kremastu teksturu. Ako ga nemate, možete koristiti pire od pečene bundeve ili batata, uz dodatak mlevenog badema radi gustine.
+
+**Q: Je li ovo jelo prikladno za osobe sa zdravstvenim problemima i slabim apetitom?**
+
+Jelo je blago, mekano i lako za pripremu, ali nije zamena za medicinski savet. Količine kalorija i proteina u ishrani kod bolesti određuju lekar ili klinički nutricionista, pa im se obratite za individualni plan.
+
+**Q: Koliko dugo može da stoji u frižideru?**
+
+Kaša se u zatvorenoj posudi čuva u frižideru do 2 dana. Pečurke čuvajte odvojeno, a pre jela sve dobro zagrejte.
+
+---
+
 ## Kremasti kesten-dunja puding sa čijom, hladan i lagan
 
 https://unazdravahrana.com/recepti/kremasti-kesten-dunja-puding-sa-cijom-hladan-i-lagan
@@ -599,30 +623,6 @@ Grčki jogurt od punomasnog mleka ima oko 9 g proteina na 100 g, a običan jogur
 **Q: Koji je najlakši način da pratim makroe ako sam početnik?**
 
 Za početnike je često najodrživije da prate ukupne kalorije, a makroe samo okvirno, ili da namirnice razvrstaju po dominantnom makrou (pasulj među ugljene hidrate, grčki jogurt među proteine). Najvažnije je da izaberete jedan metod i držite ga se.
-
----
-
-## Jesenska variva: 4 recepta za ručak koji greje
-
-https://unazdravahrana.com/blog/jesenska-variva-4-recepta-za-rucak-koji-greje
-
-Članak donosi četiri jednostavna recepta za jesenska variva od mahunarki i povrća, uz osnovne savete o potapanju pasulja, veličini porcije i dodavanju soli pri kraju kuvanja. Objašnjava i zašto su mahunarke dobar izvor vlakana i biljnih proteina, posebno u kombinaciji sa žitaricama.
-
-**Q: Da li treba potapati pasulj pre kuvanja?**
-
-Da, pasulj se preporučuje potapati preko noći, a vodu u kojoj se potapao treba baciti i kuvati ga u svežoj vodi do potpune mekoće. Tako je lakši za varenje, a potapanje i temeljno kuvanje mogu da ublaže nadutost. Sočivo, za razliku od pasulja, ne traži potapanje.
-
-**Q: Koliko mahunarki treba jesti i kolika je jedna porcija?**
-
-Prema pregledu Evropske komisije, jedna porcija mahunarki je otprilike 70–100 g sirovih ili 150–200 g kuvanih. Preporuke o učestalosti se razlikuju, od bar jednom nedeljno do tri porcije nedeljno. Za početak je razuman cilj jedno vareno jelo od mahunarki nedeljno.
-
-**Q: Kada u variva treba dodati so?**
-
-So je najbolje dodati tek pri kraju kuvanja, uz probu, jer variva lako postanu preslana. SZO preporučuje odraslima manje od 5 g soli dnevno. Ukus je bolje graditi začinima, lovorom, belim lukom i sveže mlevenim biberom.
-
-**Q: Zašto mahunarke treba kombinovati sa žitaricama?**
-
-Biljni proteini mahunarki nisu potpuni, ali se to lako nadoknađuje žitaricama u istom obroku. Zato se pasulj ili sočivo dobro slažu sa ječmom, pirinčem ili parčetom dobrog hleba. Takva kombinacija daje i više vlakana i veću sitost.
 
 ---
 
