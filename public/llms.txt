@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Srce na tanjiru: šta da jedete, a šta da ograničite](https://unazdravahrana.com/blog/srce-na-tanjiru-sta-da-jedete-a-sta-da-ogranicite)
 - [Ko treba da pazi na paradajz: 4 stanja i čime ga zameniti](https://unazdravahrana.com/blog/ko-treba-da-pazi-na-paradajz-4-stanja-i-cime-ga-zameniti)
 - [Testenina i povrće: 6 ideja od ručka za poneti do tople](https://unazdravahrana.com/blog/testenina-i-povrce-6-ideja-od-rucka-za-poneti-do-tople)
 - [Jesenji ražani paprikaš od bukovače, kestena i dunje](https://unazdravahrana.com/recepti/jesenji-razani-paprikas-od-bukovace-kestena-i-dunje)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Dunja-kesten tarta sa bukovačama i ovsenim brašnom](https://unazdravahrana.com/recepti/dunja-kesten-tarta-sa-bukovacama-i-ovsenim-brasnom)
 - [Zapečena dunja i kesten sa bukovačama i čijom, jedna tepsija](https://unazdravahrana.com/recepti/zapecena-dunja-i-kesten-sa-bukovacama-i-cijom-jedna-tepsija)
 - [Jesenja pita od dunje i jabuka bez maslaca, sa bademom](https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-bez-maslaca-sa-bademom)
-- [Proizvodi bez glutena: šta tražiti na polici i gde ih naći](https://unazdravahrana.com/blog/proizvodi-bez-glutena-sta-traziti-na-polici-i-gde-ih-naci)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-28
+Last updated: 2026-10-29

@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Srce na tanjiru: šta da jedete, a šta da ograničite
+
+https://unazdravahrana.com/blog/srce-na-tanjiru-sta-da-jedete-a-sta-da-ogranicite
+
+Članak objašnjava kako ishrana utiče na zdravlje srca i daje praktične smernice zasnovane na preporukama SZO i ESC: manje soli (ispod 5 g dnevno), zamena zasićenih masti nezasićenim i više vlakana iz integralnih žitarica. Naglašava da ishrana ne zamenjuje terapiju i da plan ishrane treba dogovoriti sa lekarom ili nutricionistom.
+
+**Q: Koliko soli dnevno je preporučeno za zdravlje srca?**
+
+Svetska zdravstvena organizacija preporučuje manje od 5 grama soli dnevno, otprilike jednu ravnu kafenu kašičicu, računajući i so iz gotove hrane. Veliki deo soli stiže iz suhomesnatih proizvoda, gotovih supa, konzervi, peciva i sireva, a ne iz solnice.
+
+**Q: Koje masti su bolje za srce?**
+
+Birajte nezasićene masti iz ribe, avokada, orašastih plodova i biljnih ulja, na primer maslinovog. Zasićene masti treba da čine manje od 10% ukupnog energetskog unosa, a trans-masti manje od 1%. Najvažnije je zameniti zasićene masti nezasićenim.
+
+**Q: Koliko vlakana treba uneti dnevno za zdravo srce?**
+
+Evropsko udruženje kardiologa (ESC) preporučuje 30 do 45 grama vlakana dnevno, najbolje iz integralnih žitarica, povrća i mahunarki. Svakih dodatnih 7 grama vlakana dnevno povezano je sa oko 9% nižim rizikom od koronarne bolesti.
+
+**Q: Koliko crvenog mesa je preporučeno nedeljno?**
+
+ESC preporučuje najviše 350 do 500 grama crvenog mesa nedeljno, a prerađeno meso treba smanjiti što je više moguće. U praksi to znači da meso bude jedan od sastojaka na tanjiru, a da se tokom nedelje češće biraju mahunarke i riba.
+
+---
+
 ## Ko treba da pazi na paradajz: 4 stanja i čime ga zameniti
 
 https://unazdravahrana.com/blog/ko-treba-da-pazi-na-paradajz-4-stanja-i-cime-ga-zameniti
@@ -598,28 +622,4 @@ Zamenite ječam kuvanom heljdom ili prosom. Kesten, dunja i pečurke su prirodno
 
 ---
 
-## Pečena dunja i kesten u jesenjem kus-kus tabuleu
-
-https://unazdravahrana.com/recepti/pecena-dunja-i-kesten-u-jesenjem-kus-kus-tabuleu
-
-Topla jesenja salata od pečene dunje, kestena i pečuraka na integralnom kus-kusu sa peršunom i limunom. Gotova za 50 minuta.
-
-**Q: Mogu li da pripremim ovu salatu dan ranije?**
-
-Može. Žitarica, dunja, kesten i pečurke dobro podnose stajanje u frižideru do dva dana. Peršun, semenke i čiju dodajte tek pred služenje da ostanu sveži i hrskavi.
-
-**Q: Da li je kus-kus pogodan za osobe koje izbegavaju gluten?**
-
-Nije, kus-kus se pravi od pšenice i sadrži gluten. Za bezglutensku varijantu zamenite ga kuvanim pirinčem, heljdom ili kinoom i uvek proverite deklaraciju proizvoda.
-
-**Q: Zašto dunja mora da se peče, zar ne može sirova?**
-
-Sirova dunja je tvrda i trpka, pa se retko jede sirova. Pečenjem omekša, dobije slatkastu aromu i lepo se slaže sa kestenom i pečurkama.
-
-**Q: Može li se kesten zameniti nečim drugim?**
-
-Može. Ako nemate kesten, uzmite prženi orah, lešnik ili bademe. Salata će biti hrskavija i manje slatka, ali će i dalje biti sita i ukusna.
-
----
-
-Last updated: 2026-10-28
+Last updated: 2026-10-29
