@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kremasti kesten-dunja puding sa čijom, hladan i lagan
+
+https://unazdravahrana.com/recepti/kremasti-kesten-dunja-puding-sa-cijom-hladan-i-lagan
+
+Kad apetit oslabi, a teška i mirisna jela ne idu, često pomaže nešto malo, meko i hladno. Ovaj puding upravo to i jeste: gladak, blago sladak, bez jakog mirisa, a opet hranljiv.
+
+**Q: Može li se puding napraviti bez kuvanja dunje?**
+
+Ne preporučujemo. Sirova dunja je tvrda i opora, a kuvanjem omekša i postane slatkasta, pa se lako samelje u glatku kremu. Zato je kuvanje važan korak ovog recepta.
+
+**Q: Da li je puding bez glutena?**
+
+Sastojci sami po sebi ne sadrže gluten: kesten, dunja, čija i ovsen ili bademov napitak. Ako izbegavate gluten zbog celijakije, proverite na deklaraciji da biljni napitak od ovsa nosi oznaku da je bez glutena, jer ovas može biti kontaminiran.
+
+**Q: Mogu li da ga zaslađujem manje ili uopšte ne?**
+
+Naravno. Dunja i kesten daju prirodnu slast, pa mnogima med nije potreban. Probajte smesu pre nego što dodate zaslađivač pa prilagodite po ukusu.
+
+**Q: Je li pogodan za osobe sa slabijim apetitom?**
+
+Zbog mekane teksture i hladnog služenja često je lakši za jelo, ali nije zamena za savet struke. Ako imate zdravstvene tegobe ili se lečite, jelovnik prilagodite uz lekara ili nutricionistu.
+
+---
+
 ## Baka Elen (100) i stacionarni bicikl: šta zaista možemo
 
 https://unazdravahrana.com/blog/baka-elen-100-i-stacionarni-bicikl-sta-zaista-mozemo
@@ -599,12 +623,6 @@ So je najbolje dodati tek pri kraju kuvanja, uz probu, jer variva lako postanu p
 **Q: Zašto mahunarke treba kombinovati sa žitaricama?**
 
 Biljni proteini mahunarki nisu potpuni, ali se to lako nadoknađuje žitaricama u istom obroku. Zato se pasulj ili sočivo dobro slažu sa ječmom, pirinčem ili parčetom dobrog hleba. Takva kombinacija daje i više vlakana i veću sitost.
-
----
-
-## Bundeva u kuhinji: 5 jela i kako da ih uspete
-
-https://unazdravahrana.com/blog/bundeva-u-kuhinji-5-jela-i-kako-da-ih-uspete
 
 ---
 
