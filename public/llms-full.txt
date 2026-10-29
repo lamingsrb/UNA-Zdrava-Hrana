@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Obroci za slab apetit tokom lečenja: 6 jednostavnih ideja
+
+https://unazdravahrana.com/blog/obroci-za-slab-apetit-tokom-lecenja-6-jednostavnih-ideja
+
+Članak daje šest jednostavnih ideja za obroke osobama sa slabim apetitom tokom onkološkog lečenja, uz pravila: manji i češći obroci, protein prvi, tečnost između obroka. Navodi okvirne ESPEN preporuke za energiju i proteine i upozorava da kantarion i grejpfrut mogu da utiču na dejstvo lekova, pa sve treba proveriti sa lekarom.
+
+**Q: Koliko obroka dnevno treba jesti kad je apetit slab tokom lečenja?**
+
+Preporučuje se 5–6 manjih obroka dnevno, a poželjno je jesti po rasporedu, otprilike na svaka 2 sata, umesto čekanja da se javi glad. Najveći obrok pojedite kad je apetit najjači, a proteinsku hranu jedite prvu.
+
+**Q: Zašto se tečnost ne pije uz obrok kad je apetit slab?**
+
+Veća količina tečnosti uz obrok (preko 120–180 ml) stvara osećaj sitosti i smanjuje količinu pojedene hrane. Zato uz obrok pijte samo male gutljaje, a ostalu tečnost između obroka.
+
+**Q: Koliko proteina i kalorija je potrebno bolesnicima tokom onkološkog lečenja?**
+
+ESPEN navodi okvirno 25–30 kcal po kilogramu telesne mase i više od 1 g proteina po kilogramu dnevno, a po mogućnosti do 1,5 g. Tačan cilj zavisi od bolesti, terapije i funkcije bubrega, pa ga odredite sa lekarom ili nutricionistom.
+
+**Q: Mogu li biljni čajevi i sokovi da utiču na onkološku terapiju?**
+
+Mogu. Kantarion može smanjiti izloženost nekim onkološkim lekovima, a sok od grejpfruta može povećati izloženost pojedinim lekovima i rizik od toksičnosti. Pre uzimanja bilo kog biljnog dodatka ili soka posavetujte se sa lekarom.
+
+---
+
 ## Topla dunja-kesten-bukovača kašika za slab apetit
 
 https://unazdravahrana.com/recepti/topla-dunja-kesten-bukovaca-kasika-za-slab-apetit
@@ -599,30 +623,6 @@ Može. Med možete zameniti javorovim sirupom ili sirupom od urmi. Ako više vol
 **Q: Za koga je ova pita pogodna?**
 
 Pogodna je za celu porodicu, uključujući i decu, a bez glutena može biti ako koristite bezglutenske ovsene pahuljice. Sadrži jaja i orašaste plodove, pa je neprikladna za osobe sa alergijom na njih. Ako imate zdravstvena pitanja u vezi sa ishranom, posavetujte se sa lekarom.
-
----
-
-## Planirate trudnoću? Namirnice bogate folatima
-
-https://unazdravahrana.com/blog/planirate-trudnocu-namirnice-bogate-folatima
-
-Članak objašnjava razliku između folata iz hrane i sintetičke folne kiseline, preporučene dnevne unose pre i tokom trudnoće i najbolje namirnice, poput spanaća i mahunarki. Naglašava da hrana bogata folatima daje dobru osnovu, ali da o suplementu treba razgovarati sa lekarom.
-
-**Q: Koja je razlika između folata i folne kiseline?**
-
-Folat je prirodni oblik vitamina B9 koji se nalazi u hrani, dok je folna kiselina sintetički oblik iz suplemenata i obogaćene hrane. Prema CDC, folna kiselina je jedini oblik za koji je dokazano da pomaže u prevenciji defekata neuralne cevi.
-
-**Q: Kada treba početi sa unosom folne kiseline pre trudnoće?**
-
-SZO preporučuje dodatak od 400 μg folne kiseline dnevno od trenutka kada žena počne da pokušava da zatrudni pa do 12. nedelje trudnoće. Kritični period počinje najmanje mesec dana pre začeća, a o suplementu se treba posavetovati sa lekarom.
-
-**Q: Koje namirnice su najbogatije folatima?**
-
-Među namirnicama sa najviše folata su spanać, džigerica, špargla i prokelj, a odličan izvor su i mahunarke poput crnookog graška i sočiva. Na primer, ½ šolje kuvanog spanaća daje oko 131 mcg DFE, što je 33% dnevne vrednosti.
-
-**Q: Mogu li dovoljno folata da unesem samo hranom?**
-
-Hrana bogata folatima je dobra osnova, ali NIH upozorava da je unos od 600 mcg DFE koliko se preporučuje u trudnoći teško postići samo ishranom. Zato odluku o suplementu treba da donesete sa lekarom ili ginekologom.
 
 ---
 
