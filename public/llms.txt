@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Kašalj u hladnim danima: šta smiruje grlo, a šta čeka lekara](https://unazdravahrana.com/blog/kasalj-u-hladnim-danima-sta-smiruje-grlo-a-sta-ceka-lekara)
 - [Crohn i kolitis: zašto vam smeta hrana koju ste ranije jeli](https://unazdravahrana.com/blog/crohn-i-kolitis-zasto-vam-smeta-hrana-koju-ste-ranije-jeli)
 - [Obroci za slab apetit tokom lečenja: 6 jednostavnih ideja](https://unazdravahrana.com/blog/obroci-za-slab-apetit-tokom-lecenja-6-jednostavnih-ideja)
 - [Topla dunja-kesten-bukovača kašika za slab apetit](https://unazdravahrana.com/recepti/topla-dunja-kesten-bukovaca-kasika-za-slab-apetit)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Dunja-kesten ovsene pločice sa čijom i goji bobicama](https://unazdravahrana.com/recepti/dunja-kesten-ovsene-plocice-sa-cijom-i-goji-bobicama)
 - [Kaki jabuka: jesenje voće koje vredi uvesti u jelovnik](https://unazdravahrana.com/blog/kaki-jabuka-jesenje-voce-koje-vredi-uvesti-u-jelovnik)
 - [Marmelada od mandarina: 3 sastojka, 45 minuta i par ideja](https://unazdravahrana.com/blog/marmelada-od-mandarina-3-sastojka-45-minuta-i-par-ideja)
-- [UNA Zdrava Hrana u Kragujevcu: lokacija, radno vreme](https://unazdravahrana.com/blog/una-zdrava-hrana-u-kragujevcu-lokacija-radno-vreme)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-29
+Last updated: 2026-10-30

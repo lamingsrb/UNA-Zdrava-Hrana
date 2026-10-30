@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kašalj u hladnim danima: šta smiruje grlo, a šta čeka lekara
+
+https://unazdravahrana.com/blog/kasalj-u-hladnim-danima-sta-smiruje-grlo-a-sta-ceka-lekara
+
+Članak objašnjava šta od kućnih navika može da ublaži kašalj (med za decu stariju od 12 meseci, topli napici, majčina dušica prema EMA) i koliko kašalj normalno traje. Navodi i granice samopomoći: kašalj duži od tri nedelje ili sa alarmantnim simptomima treba da pregleda lekar.
+
+**Q: Da li med stvarno pomaže kod kašlja?**
+
+Cochrane pregled iz 2018. (šest studija, 899 dece uzrasta od 12 meseci do 18 godina) pokazuje da med verovatno ublažava kašalj i poboljšava san više nego placebo, ali su dokazi ograničeni. Zato je tačnije reći da med može pomoći, a ne da rešava kašalj.
+
+**Q: Od kog uzrasta sme da se daje med detetu?**
+
+Med se ne daje deci mlađoj od 12 meseci zbog rizika od botulizma kod odojčadi. Spore su otporne na toplotu, pa ne pomaže ni prokuvavanje meda niti njegovo dodavanje u kuvanu hranu.
+
+**Q: Koliko dugo traje kašalj posle prehlade?**
+
+Akutni kašalj traje kraće od tri nedelje, a subakutni od tri do osam nedelja. Kašalj posle obične prehlade zna da potraje i to samo po sebi nije alarm, ali kašalj duži od tri nedelje treba da pregleda lekar.
+
+**Q: Da li je majčina dušica dokazano sredstvo za kašalj?**
+
+Evropska agencija za lekove (EMA) priznaje preparate majčine dušice za produktivan kašalj uz prehladu na osnovu tradicionalne upotrebe, jer nema dovoljno placebo-kontrolisanih studija. Pri kupovini proverite deklaraciju i status proizvoda.
+
+---
+
 ## Crohn i kolitis: zašto vam smeta hrana koju ste ranije jeli
 
 https://unazdravahrana.com/blog/crohn-i-kolitis-zasto-vam-smeta-hrana-koju-ste-ranije-jeli
@@ -584,28 +608,4 @@ U radnji proizvod možete uzeti u ruke i pročitati celu deklaraciju, odmah post
 
 ---
 
-## Ćuftice od kestena i heljde sa pirjanom dunjom
-
-https://unazdravahrana.com/recepti/cuftice-od-kestena-i-heljde-sa-pirjanom-dunjom
-
-Pečene ćuftice od kestena, heljde i šampinjona uz pirjanu dunju. Jesenji, zdrav i bezglutenski recept, gotov za sat vremena.
-
-**Q: Može li se ovaj recept napraviti bez glutena?**
-
-Može, ako koristite heljdu i ovsene pahuljice sa oznakom da su bez glutena, jer se obične pahuljice često prave u pogonima gde ima kontakta sa glutenom. Kesten, pečurke, dunja i čija sami po sebi ne sadrže gluten. Za savet o odgovarajućim proizvodima pitajte u radnji.
-
-**Q: Čemu služi čija u smesi?**
-
-Natopljena u vodi čija stvara gelastu masu koja vezuje sastojke, pa zamenjuje jaje i ćuftice ostaju čvrste. Zato je važno da je pustite da nabubri bar 10 minuta pre mešanja.
-
-**Q: Kako da ćuftice ne budu suve ili da se ne raspadaju?**
-
-Pečurke dobro iscedite i pirjajte dok ne ispare, jer višak tečnosti razmekšava smesu. Ako se i dalje raspada, dodajte kašiku-dve ovsenih pahuljica, a smesu ostavite 10 minuta da odstoji pre oblikovanja. Ćuftice premažite mrvicom ulja da se zlatno zapeku.
-
-**Q: Mogu li kesten da kupim već ogulјen?**
-
-Naravno, to vam skraćuje posao. Ako koristite svež kesten, zasecite ga, ispecite ili skuvajte i ogulite dok je još topao jer se tada lakše čisti. Za izbor pakovanog kestena pitajte u radnji.
-
----
-
-Last updated: 2026-10-29
+Last updated: 2026-10-30
