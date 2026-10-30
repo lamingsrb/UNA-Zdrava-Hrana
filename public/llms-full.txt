@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vrućina i krv: kako da se ohladite i ostanete lagani
+
+https://unazdravahrana.com/blog/vrucina-i-krv-kako-da-se-ohladite-i-ostanete-lagani
+
+Tokom toplotnih talasa srce i bubrezi rade više, a gubitak tečnosti zgušnjava krv, pa su posebno ugroženi stariji i hronični bolesnici. Pomažu redovno unošenje tečnosti, lagani obroci, sobna temperatura ispod 32 °C danju i dogovor sa lekarom o terapiji.
+
+**Q: Zašto vrućina opterećuje srce i krv?**
+
+Dok se telo bori da se rashladi, srce i bubrezi rade više, a gubitak tečnosti zgušnjava krv i sužava krvne sudove. To može da pogorša postojeće hronične bolesti srca i krvnih sudova, ali nije razlog za paniku.
+
+**Q: Koliko vode treba piti po vrućini?**
+
+SZO savetuje oko jednu čašu vode na sat, odnosno najmanje 2–3 litra dnevno za zdrave odrasle. Pijte redovno, ne tek kada ožednite, a ako imate bolest srca ili bubrega, količinu tečnosti dogovorite sa lekarom.
+
+**Q: Ko je najugroženiji tokom toplotnog talasa?**
+
+Najugroženije su osobe starije od 65 godina i oni sa srčanim, plućnim ili bubrežnim oboljenjima, kao i mala deca. Korisno je redovno proveravati kako su stariji komšije i rođaci i da li piju dovoljno vode.
+
+**Q: Koja sobna temperatura je bezbedna tokom vrućina?**
+
+Batut preporučuje da sobna temperatura tokom dana bude ispod 32 °C, a tokom noći ispod 24 °C. To je naročito važno za decu do dve godine, osobe starije od 60 godina i hronične bolesnike.
+
+---
+
 ## Zdravija ishrana bez zapinjanja: 8 prepreka i kako ih rešiti
 
 https://unazdravahrana.com/blog/zdravija-ishrana-bez-zapinjanja-8-prepreka-i-kako-ih-resiti
@@ -599,12 +623,6 @@ Može, zamenom od mlevenog lanenog semena i vode (vidi savete). Testo će biti n
 **Q: Da li je ova pita pogodna za decu?**
 
 Jeste, pravi se bez rafinisanog šećera i belog brašna, a slatkoću daju voće i malo meda. Napomena: med se ne daje deci mlađoj od godinu dana, pa za njih izostavi med ili se posavetuj sa pedijatrom.
-
----
-
-## Proizvodi bez glutena: šta tražiti na polici i gde ih naći
-
-https://unazdravahrana.com/blog/proizvodi-bez-glutena-sta-traziti-na-polici-i-gde-ih-naci
 
 ---
 
