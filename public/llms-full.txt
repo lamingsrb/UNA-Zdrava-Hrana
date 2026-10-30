@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Žitarice: koju izabrati i kako je uvesti u svaki obrok
+
+https://unazdravahrana.com/blog/zitarice-koju-izabrati-i-kako-je-uvesti-u-svaki-obrok
+
+Članak objašnjava razliku između integralnih i rafinisanih žitarica i poredi pšenicu, ovas, heljdu, proso, kinou, pirinač i kukuruz po vlaknima i upotrebi u kuhinji. Navodi koje su žitarice prirodno bez glutena, na šta paziti kod kontaminacije i kako ih postepeno uvesti u doručak, ručak i večeru.
+
+**Q: Koja je razlika između integralnih i rafinisanih žitarica?**
+
+Integralno zrno ima sva tri dela: mekinje, klicu i endosperm, pa zadržava vlakna, vitamine i minerale. Rafinisano zadržava samo endosperm. Na primer, integralno pšenično brašno ima oko 10,7 g vlakana na 100 g, a belo oko 2,7 g.
+
+**Q: Koje žitarice su prirodno bez glutena?**
+
+Prirodno bez glutena su pirinač, kukuruz, heljda, proso, amarant i kinoa. Heljda nema veze sa pšenicom i ne sadrži gluten. Ovas može biti kontaminiran tokom prerade, pa za celijakiju tražite jasnu oznaku "bez glutena" (najviše 20 mg/kg).
+
+**Q: Da li je pirinač bezbedan ako može da sadrži arsen?**
+
+Pirinač može da sadrži arsen, pa ga je razumno ne jesti svaki dan i smenjivati ga drugim žitaricama. Prema FDA, kuvanje u velikoj količini vode (6-10 delova vode na 1 deo pirinča) uz ceđenje smanjuje neorganski arsen za 40-60%, ali smanjuje i hranljive materije.
+
+**Q: Kako da prepoznam pravi integralni hleb?**
+
+Tamna boja nije dokaz, jer hleb može biti samo potamnjen karamelom ili sladom. Na deklaraciji tražite integralno brašno kao prvi sastojak. Ako prelazite sa belog hleba, možete početi mešanjem pola belog i pola integralnog brašna.
+
+---
+
 ## Setva za kasnu jesen: šta još stiže da se posadi i berba do
 
 https://unazdravahrana.com/blog/setva-za-kasnu-jesen-sta-jos-stize-da-se-posadi-i-berba-do
@@ -603,30 +627,6 @@ Može. Kora se može ispeći dan unapred i čuvati dobro pokrivena na sobnoj tem
 **Q: Da li je tarta pogodna za osobe koje ne podnose laktozu?**
 
 Recept ne sadrži mleko ni mlečne proizvode, pa je pogodan za osobe koje izbegavaju laktozu. Ako imate celijakiju ili osetljivost na gluten, koristite samo brašna sa jasnom oznakom da ne sadrže gluten, a za savet o izboru pitajte u radnji.
-
----
-
-## Zapečena dunja i kesten sa bukovačama i čijom, jedna tepsija
-
-https://unazdravahrana.com/recepti/zapecena-dunja-i-kesten-sa-bukovacama-i-cijom-jedna-tepsija
-
-Kad počne sezona dunja i kestena, a bukovače se nađu na tezgi, pitanje je šta sve to da napravimo bez gomile sudova i bez dugog stajanja kraj šporeta.
-
-**Q: Može li se recept pripremiti unapred?**
-
-Može. Pripremite tepsiju do koraka sa pečurkama, ostavite u frižideru i ispecite kad vam zatreba, ali posip dodajte tek pred kraj pečenja da ostane hrskav.
-
-**Q: Šta ako ne volim kiselkast ukus dunje?**
-
-Pečenjem dunja omekša i postaje blaža i mirisnija. Ako i dalje želite blaži ukus, dodajte još malo meda ili zamenite pola dunje jabukom.
-
-**Q: Da li je jelo pogodno za vegane?**
-
-Jeste, ako med zamenite javorovim sirupom i izostavite jogurt za služenje ili ga zamenite biljnim jogurtom.
-
-**Q: Mogu li da koristim kesten iz tegle ili vakuuma?**
-
-Naravno. Kuvani, oljušteni kesten iz vakuuma je najpraktičniji. Proverite deklaraciju da nema dodatog šećera ili aroma, a pre dodavanja ga samo prepolovite.
 
 ---
 
