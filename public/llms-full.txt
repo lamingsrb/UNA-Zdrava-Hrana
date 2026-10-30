@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdravija ishrana bez zapinjanja: 8 prepreka i kako ih rešiti
+
+https://unazdravahrana.com/blog/zdravija-ishrana-bez-zapinjanja-8-prepreka-i-kako-ih-resiti
+
+Članak opisuje osam najčešćih prepreka u zdravijoj ishrani, među njima emocionalno jedenje, želju za slatkim, jelo vani i prevelike porcije, uz praktične savete za svaku. Naglašava da savršen jelovnik nije potreban, da navike traže 2 do 5 meseci i da je bolje krenuti od malih koraka.
+
+**Q: Koliko traje da zdrava navika postane automatska?**
+
+Pregled 20 studija pokazuje da zdravstvene navike obično traže 2 do 5 meseci da postanu automatske, uz veliku razliku među ljudima (od 4 do 335 dana). Čuveni „21 dan“ nema oslonac u tim podacima. Zato je bolje kretati od jedne male navike nego od potpunog preokreta.
+
+**Q: Koliko šećera dnevno je preporučljivo unositi?**
+
+SZO savetuje da slobodni šećeri budu manji od 10 % dnevnog unosa energije, što je oko 50 g (oko 12 kafenih kašičica) za osobu koja unosi oko 2000 kcal. Dodatno smanjenje ispod 5 % je uslovna preporuka. Slobodni šećeri uključuju i med, sirupe i voćne sokove.
+
+**Q: Koliko voća i povrća treba jesti dnevno?**
+
+SZO preporučuje najmanje 400 g, odnosno 5 porcija voća i povrća dnevno. U tu količinu ne ulaze krompir, batat, manioka i druge skrobne korenaste namirnice. Ako jedete vani i povrća je malo, nadoknadite ga doručkom ili večerom.
+
+**Q: Šta ako jedem iz emocija, kad sam nervozan ili umoran?**
+
+Pre nego što posegnete za hranom, zastanite minut i pitajte se da li ste gladni ili vam treba pauza. Ako je pauza, probajte čaj ili kratku šetnju. Ako hrana postaje jedini način da se nosite sa emocijama, razgovor sa lekarom ili psihologom je dobar korak.
+
+---
+
 ## Kašalj u hladnim danima: šta smiruje grlo, a šta čeka lekara
 
 https://unazdravahrana.com/blog/kasalj-u-hladnim-danima-sta-smiruje-grlo-a-sta-ceka-lekara
@@ -581,30 +605,6 @@ Jeste, pravi se bez rafinisanog šećera i belog brašna, a slatkoću daju voće
 ## Proizvodi bez glutena: šta tražiti na polici i gde ih naći
 
 https://unazdravahrana.com/blog/proizvodi-bez-glutena-sta-traziti-na-polici-i-gde-ih-naci
-
----
-
-## Zdrava hrana online ili u radnji: zašto birati uživo
-
-https://unazdravahrana.com/blog/zdrava-hrana-online-ili-u-radnji-zasto-birati-uzivo
-
-Tekst poredi kupovinu zdrave hrane online i u radnji i objašnjava prednosti izbora uživo: čitanje cele deklaracije, odgovor stručnog osoblja na licu mesta i jasnije razumevanje oznaka. Daje i praktične savete za prepoznavanje sertifikovanih organskih proizvoda i pravilan odabir dodataka ishrani, uz napomenu da ne postoji poznata studija o uticaju načina kupovine na zdravlje.
-
-**Q: Kako da prepoznam sertifikovan organski proizvod?**
-
-Sertifikovani organski proizvod nosi oznaku organske proizvodnje, nacionalni znak i šifru ovlašćene kontrolne organizacije. Reči poput „bio“ ili „eko“ same po sebi nisu garancija, zato uvek proverite i ostale oznake na ambalaži.
-
-**Q: Da li je svaki sastojak organski ako je gotov proizvod označen kao organski?**
-
-Ne nužno. Kod prerađenih proizvoda, poput testenine, keksa ili pločica, oznaka na gotovom proizvodu ne znači da je baš svaki sastojak organski. Zato pročitajte spisak sastojaka i pitajte ako vam nešto nije jasno.
-
-**Q: Šta mora da piše na deklaraciji dodataka ishrani u Srbiji?**
-
-Dodaci ishrani u prometu u Srbiji moraju da imaju propisanu deklaraciju, što uređuje Pravilnik o dodacima ishrani. Deklaracija i reklama ne smeju da pripisuju proizvodu svojstva prevencije, tretiranja ili lečenja bolesti, pa budite oprezni kod proizvoda koji obećavaju da „leče“.
-
-**Q: Zašto je bolje kupiti zdravu hranu u radnji nego online?**
-
-U radnji proizvod možete uzeti u ruke i pročitati celu deklaraciju, odmah postaviti pitanje osobi koja poznaje asortiman i uporediti dva proizvoda jedan pored drugog. Ne postoji poznata studija o uticaju načina kupovine na zdravlje, ali kupovina uživo pruža više prilika za informisan izbor.
 
 ---
 
