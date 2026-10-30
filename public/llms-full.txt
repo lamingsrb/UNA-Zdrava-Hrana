@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Setva za kasnu jesen: šta još stiže da se posadi i berba do
+
+https://unazdravahrana.com/blog/setva-za-kasnu-jesen-sta-jos-stize-da-se-posadi-i-berba-do
+
+Krajem oktobra klasična avgustovska setva je prošla, ali otporne kulture poput spanaća, matovilca, rukole i kelja uz agrotkaninu i malč mogu da prezime. Članak daje pregled kultura i rokova, savete za zalivanje i zaštitu od mraza, i plan setve od jula do proleća za sledeću godinu.
+
+**Q: Šta se još može posejati krajem oktobra?**
+
+Klasična avgustovska setva je prošla, ali se i dalje može računati na otporne kulture poput spanaća, matovilca, rukole, kelja, peršuna i cikorija. Uz zaštitu agrotkaninom, folijom ili malčom one mogu da prezime i nastave rast u proleće. Osetljive biljke poput krastavaca i tikvica ne podnose mraz.
+
+**Q: Kada se seje spanać za jesen i zimu?**
+
+Spanać se seje krajem jula i tokom avgusta, a zimska setva se radi u septembru. Podnosi blag mraz i može da prezimi. Sazreva za otprilike 35 do 45 dana, ali kod kasne setve računajte na oko dve nedelje duže nego što piše na kesici.
+
+**Q: Kako zaštititi povrće od prvih mrazeva?**
+
+Preko leje stavite laganu agrotkaninu ili foliju, a oko biljaka sloj malča od slame ili suvog lišća koji čuva vlagu i ublažava hladnoću. Ko ima mesta, može da koristi hladni lej ili mali plastenik. Pre pokrivanja proverite lokalnu vremensku prognozu, jer prvi mraz zavisi od kraja i nadmorske visine.
+
+**Q: Zašto kasnoletnje povrće sazreva sporije nego što piše na kesici?**
+
+Zato što su dani kraći, a vazduh hladniji, pa biljke sporije rastu. Povrće posejano krajem leta obično sazreva oko dve nedelje duže od navedenog roka. Zato tom roku dodajte dve nedelje rezerve kada računate unazad od prvog mraza.
+
+---
+
 ## Vrućina i krv: kako da se ohladite i ostanete lagani
 
 https://unazdravahrana.com/blog/vrucina-i-krv-kako-da-se-ohladite-i-ostanete-lagani
@@ -603,26 +627,6 @@ Jeste, ako med zamenite javorovim sirupom i izostavite jogurt za služenje ili g
 **Q: Mogu li da koristim kesten iz tegle ili vakuuma?**
 
 Naravno. Kuvani, oljušteni kesten iz vakuuma je najpraktičniji. Proverite deklaraciju da nema dodatog šećera ili aroma, a pre dodavanja ga samo prepolovite.
-
----
-
-## Jesenja pita od dunje i jabuka bez maslaca, sa bademom
-
-https://unazdravahrana.com/recepti/jesenja-pita-od-dunje-i-jabuka-bez-maslaca-sa-bademom
-
-Sočna jesenja pita od dunje i jabuka bez maslaca i belog brašna: integralno brašno, bademi i med. Jednostavan recept za 1 sat.
-
-**Q: Zašto dunju prvo dinstam, a jabuke ne?**
-
-Dunja je tvrda i opora, pa joj je potrebno više vremena da omekša nego što pita provede u rerni. Jabuke su mekše i dovoljno je da se ispeku u pitu.
-
-**Q: Može li pita bez jaja?**
-
-Može, zamenom od mlevenog lanenog semena i vode (vidi savete). Testo će biti nešto zbijenije, ali ukus ostaje lep.
-
-**Q: Da li je ova pita pogodna za decu?**
-
-Jeste, pravi se bez rafinisanog šećera i belog brašna, a slatkoću daju voće i malo meda. Napomena: med se ne daje deci mlađoj od godinu dana, pa za njih izostavi med ili se posavetuj sa pedijatrom.
 
 ---
 
