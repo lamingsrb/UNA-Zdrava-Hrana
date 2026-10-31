@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten mafini sa heljdinim brašnom i čijom
+
+https://unazdravahrana.com/recepti/dunja-kesten-mafini-sa-heljdinim-brasnom-i-cijom
+
+Sočni mafini od dunje i kestena sa heljdinim brašnom i čijom, bez rafinisanog šećera. Jesenja užina za 50 minuta. Sastojke nađite u UNA radnji.
+
+**Q: Mogu li mafini da se naprave bez jaja?**
+
+Mogu. Zamenite svako jaje sa kašikom mlevene ili cele čije natopljene u tri kašike vode, uz dodatak jedne izgnječene banane. Tekstura je nešto gušća, ali mafini ostaju vlažni.
+
+**Q: Da li su ovi mafini bezglutenski?**
+
+Heljda je prirodno bez glutena, ali ovsene pahuljice mogu da sadrže tragove. Ako vam je bezglutenska ishrana obavezna, birajte proizvode sa oznakom bez glutena na pakovanju i pitajte nas u radnji za pravi izbor.
+
+**Q: Mogu li umesto sirove koristiti već skuvanu dunju?**
+
+Možete. Skuvanu ili pečenu dunju izgnječite viljuškom i dodajte istu količinu, ali smanjite mleko na pola jer je meka dunja već vlažna. Mafini će biti mekši i manje se rastaju.
+
+**Q: Koliko dugo se čuvaju?**
+
+Do 3 do 4 dana na sobnoj temperaturi u zatvorenoj posudi, a do 5 dana u frižideru. Mogu se i zamrznuti pa po potrebi odmrznuti ili kratko podgrejati.
+
+---
+
 ## Šta je orzo? Vrste, kuvanje i zdravije zamene
 
 https://unazdravahrana.com/blog/sta-je-orzo-vrste-kuvanje-i-zdravije-zamene
@@ -589,30 +613,6 @@ Heljda, kesten, dunja i čia prirodno ne sadrže gluten, ali zbog mogućeg unakr
 **Q: Može li se jelo pripremiti unapred?**
 
 Može, ali je najbolje pojesti ga isti ili sledeći dan. Čuvajte ga u frižideru u zatvorenoj posudi i podgrejte uz malo vode. Ne podgrevajte ga više puta.
-
----
-
-## Dunja-kesten supa-krem sa pečurkama i čija semenkama
-
-https://unazdravahrana.com/recepti/dunja-kesten-supa-krem-sa-pecurkama-i-cija-semenkama
-
-Jesenja supa-krem od dunje i kestena sa prženim bukovačama i čija semenkama. Bez glutena i mleka, gotova za 50 minuta. Recept iz UNA Zdrave Hrane.
-
-**Q: Može li se supa napraviti bez kestena?**
-
-Može, ali će biti ređa i manje kremasta. Kesten je ovde zgušnjivač i daje slatkast ukus. Umesto njega možete dodati krompir ili batat, uz nešto više soli i začina.
-
-**Q: Da li je supa pogodna za ljude koji ne unose gluten i laktozu?**
-
-Recept sam po sebi ne sadrži ni gluten ni mlečne proizvode. Pazite samo da kupovna supa ili začin koji koristite nemaju dodatke koji ih sadrže, i uvek pročitajte deklaraciju. Ako imate celijakiju ili ozbiljnu intoleranciju, posavetujte se sa lekarom.
-
-**Q: Zašto dunja ne sme da se jede sirova?**
-
-Nije opasna, ali je zbog tvrdoće i trpkog ukusa retko jedemo sirovu. Kuvanjem, pečenjem ili pirjanjem postaje mekana i aromatična, pa se zato najčešće koristi za džemove, kompote i ovakva jela.
-
-**Q: Mogu li da pripremim supu unapred?**
-
-Da. Skuvajte i izmiksajte krem, ohladite i sačuvajte u frižideru do 3 dana ili zamrznite. Pečurke ispržite i čiju dodajte tek pri služenju da zadrže teksturu.
 
 ---
 
