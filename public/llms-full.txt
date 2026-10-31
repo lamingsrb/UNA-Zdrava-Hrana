@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdrava hrana: gde početi kad ne znate od čega
+
+https://unazdravahrana.com/blog/zdrava-hrana-gde-poceti-kad-ne-znate-od-cega
+
+Članak objašnjava šta zdrava ishrana zaista podrazumeva prema preporukama SZO i Instituta Batut, uz tabelu dnevnih okvira za voće i povrće, šećer, so, masti i vlakna. Pokazuje kako se čita deklaracija, šta znače oznake organskih proizvoda u Srbiji i zašto su integralne žitarice jednostavna zamena sa velikim efektom.
+
+**Q: Šta se podrazumeva pod zdravom hranom?**
+
+Zdrava hrana nije jedan proizvod, već ishrana u kojoj preovlađuju voće, povrće, integralne žitarice, mahunarke, orašasti plodovi i nezasićene masti, uz ograničene dodate šećere, so i zasićene masti.
+
+**Q: Koliko voća i povrća treba jesti dnevno prema SZO?**
+
+Svetska zdravstvena organizacija preporučuje najmanje 400 g voća i povrća dnevno, što je otprilike pet porcija.
+
+**Q: Kako pravilno pročitati deklaraciju na hrani?**
+
+Prvo pogledajte spisak sastojaka (poređani su od najzastupljenijeg), zatim nutritivnu tabelu na 100 g, naročito stavke šećeri i so, a tek na kraju reči na prednjoj strani pakovanja. Izrazi poput „fit“ ili „lagano“ sami po sebi nisu garancija.
+
+**Q: Kako prepoznati organski proizvod u Srbiji?**
+
+Sertifikovani organski proizvodi nose oznaku „Organski proizvod“, nacionalni znak i logo, kao i broj koda ovlašćene kontrolne organizacije. Prerađeni proizvod sme da nosi tu oznaku samo ako najmanje 95% sastojaka poljoprivrednog porekla čine organski sastojci.
+
+---
+
 ## Žitarice: koju izabrati i kako je uvesti u svaki obrok
 
 https://unazdravahrana.com/blog/zitarice-koju-izabrati-i-kako-je-uvesti-u-svaki-obrok
@@ -610,24 +634,4 @@ Jeste, deci obično prija zbog blagog, slatkastog ukusa. Samo pazite na orahe ak
 
 ---
 
-## Dunja-kesten tarta sa bukovačama i ovsenim brašnom
-
-https://unazdravahrana.com/recepti/dunja-kesten-tarta-sa-bukovacama-i-ovsenim-brasnom
-
-Jesenja slana tarta sa dunjom, kestenom i bukovačama na kori od ovsenog i spelt brašna, bez maslaca. Gotova za sat vremena.
-
-**Q: Zašto se semenke dunje ne koriste?**
-
-Semenke dunje sadrže cijanogene glikozide, pa ih ne treba jesti niti dodavati jelima. Zato dunju uvek očistite od semenika i semenki pre pripreme.
-
-**Q: Može li kora da se napravi unapred?**
-
-Može. Kora se može ispeći dan unapred i čuvati dobro pokrivena na sobnoj temperaturi. Nadev dodajte i pecite tek pred služenje.
-
-**Q: Da li je tarta pogodna za osobe koje ne podnose laktozu?**
-
-Recept ne sadrži mleko ni mlečne proizvode, pa je pogodan za osobe koje izbegavaju laktozu. Ako imate celijakiju ili osetljivost na gluten, koristite samo brašna sa jasnom oznakom da ne sadrže gluten, a za savet o izboru pitajte u radnji.
-
----
-
-Last updated: 2026-10-30
+Last updated: 2026-10-31
