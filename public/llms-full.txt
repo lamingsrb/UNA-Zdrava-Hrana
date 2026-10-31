@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Portugalska salata s tunjevinom ili piletinom: recept i
+
+https://unazdravahrana.com/blog/portugalska-salata-s-tunjevinom-ili-piletinom-recept-i
+
+Portugalska salata je hladna salata od šarene testenine, paprike i paradajza sa tunjevinom ili piletinom i dresingom od kisele pavlake i majoneza; članak daje osnovni recept za 4 porcije i varijantu s piletinom. Objašnjava i kako je učiniti lakšom (manje majoneza, više povrća) i na šta paziti kod soli, ističući da njeno portugalsko poreklo nije potvrđeno.
+
+**Q: Šta je portugalska salata?**
+
+Portugalska salata je hladna salata od šarene testenine, paprike i paradajza, najčešće sa tunjevinom ili piletinom, začinjena dresingom od kisele pavlake i majoneza. Recepti sa naših prostora navode da se u originalu pravi sa tunjevinom, ali portugalsko poreklo jela nije potvrđeno.
+
+**Q: Koji su sastojci za portugalsku salatu sa tunjevinom?**
+
+Za 4 porcije treba oko 250 g šarene testenine, 1 do 2 konzerve oceđene tunjevine, crvena i žuta paprika, 2 do 3 paradajza, manji crveni luk, po želji masline i peršun. Dresing se pravi od kisele pavlake, majoneza, limunovog soka i bibera.
+
+**Q: Kako da portugalska salata ne ispadne suva?**
+
+Testeninu skuvajte al dente i isperite hladnom vodom, a dresing dodajte tek kada se potpuno ohladi, jer topla testenina upije sav sos. Pre služenja ostavite salatu u frižideru bar sat vremena da se ukusi sjedine.
+
+**Q: Kako napraviti lakšu verziju portugalske salate?**
+
+Smanjite količinu majoneza, a povećajte udeo kisele pavlake ili jogurta, dodajte limunov sok i svež začin. Stavite više povrća (krastavac, šargarepa, kukuruz, rukola) u odnosu na testeninu i solite tek posle probe, jer tuna i masline već sadrže so.
+
+---
+
 ## Dunja-kesten tikvice punjene bukovačom i pirinčem
 
 https://unazdravahrana.com/recepti/dunja-kesten-tikvice-punjene-bukovacom-i-pirincem
@@ -589,30 +613,6 @@ Asortiman obuhvata šest kategorija: organske proizvode, suplemente i vitamine, 
 **Q: Kako mogu da kontaktiram UNA Zdravu Hranu?**
 
 Možete pozvati telefon 034 387 257 ili poslati poruku na una.zdravahrana@gmail.com. Telefonom možete dobiti i uputstvo kako da stignete iz vašeg pravca.
-
----
-
-## Tost s avokadom i jajima: šta radi sa šećerom u krvi
-
-https://unazdravahrana.com/blog/tost-s-avokadom-i-jajima-sta-radi-sa-secerom-u-krvi
-
-Tost s avokadom i jajima kombinuje vlakna, zdrave masti i proteine, pa obično daje blaži porast šećera u krvi od doručka sastavljenog samo od brzih ugljenih hidrata, ali nijedna studija nije testirala baš ovu kombinaciju. Najviše zavisi od vrste i količine hleba, jer „integralni” ne znači uvek i bolji glikemijski odgovor.
-
-**Q: Da li tost s avokadom i jajima podiže šećer u krvi?**
-
-Obično manje nego doručak od samih brzih ugljenih hidrata, jer vlakna, masti i proteini ublažavaju porast. Ipak, nema studije koja je merila baš ovaj tost, pa je tačnije reći da „može pomoći” nego da garantuje stabilan šećer. Najviše utiče vrsta i količina hleba.
-
-**Q: Koliko vlakana ima pola avokada?**
-
-Pola Hass avokada (oko 68 g) daje oko 4,6 g vlakana i oko 10,5 g masti. To je otprilike petina dnevne preporuke Svetske zdravstvene organizacije od najmanje 25 g vlakana za odrasle.
-
-**Q: Da li je integralni hleb uvek bolji za šećer u krvi?**
-
-Ne. Prosečan glikemijski indeks integralnih hlebova je oko 69, a belih oko 75, što je mala razlika. Bolji izbor je gust hleb sa vidljivim celim zrnima i semenkama, ili hleb od proklijalih žitarica, nego mekan hleb koji je samo tamno obojen.
-
-**Q: Koliko jaja i avokada je dovoljno za doručak?**
-
-Dovoljno je pola avokada i jedno do dva jaja uz jednu do dve kriške hleba. Studije su koristile pola ploda, a ceo plod nije dao drugačiji efekat na glukozu. Ko ima povišen holesterol ili srčane tegobe, o broju jaja treba da se posavetuje s lekarom.
 
 ---
 
