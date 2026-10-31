@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Dunja-kesten tikvice punjene bukovačom i pirinčem
+
+https://unazdravahrana.com/recepti/dunja-kesten-tikvice-punjene-bukovacom-i-pirincem
+
+Jesen u tepsiji: tikvice (ili mali bundevići) punjene mešavinom pirinča, pirjane bukovače, pečenog kestena i dunje. Slatkasto-kiselkasta dunja i blago slatki kesten daju nadevu dubinu, a bukovača mu donosi sočnost i „mesnati“ zalogaj, bez ijedne grame mesa.
+
+**Q: Može li se dunja koristiti u slanim jelima?**
+
+Može, i to vrlo lepo. Dunja se ne jede sirova zbog tanina koji daju osećaj stezanja u ustima, ali kuvana ili pečena postaje mekana i blago slatkasto-kiselkasta, pa se dobro slaže sa pečurkama, žitaricama i začinskim biljem.
+
+**Q: Mogu li tikvice puniti unapred?**
+
+Možete. Napunite ih, pokrijte i čuvajte u frižideru do pola dana, a zatim ih ispecite uz par minuta duže vreme pečenja. Nadev možete spremiti i dan ranije.
+
+**Q: Čime mogu zameniti kesten ako ga nemam?**
+
+Najbolje funkcionišu seckani orasi ili bademi, koji daju hrskavost, ili kuvana leblebija, koja daje sitost. Ukus će biti drugačiji, ali jelo ostaje sito i ukusno.
+
+**Q: Je li jelo pogodno za ljude sa intolerancijom na gluten ili laktozu?**
+
+Recept po sebi ne sadrži gluten ni mlečne proizvode, ali uvek proverite deklaracije na pakovanjima (supa, začini) jer mogu sadržati tragove. Za sva zdravstvena pitanja u vezi sa ishranom posavetujte se sa lekarom ili nutricionistom.
+
+---
+
 ## Dunja-kesten mafini sa heljdinim brašnom i čijom
 
 https://unazdravahrana.com/recepti/dunja-kesten-mafini-sa-heljdinim-brasnom-i-cijom
@@ -589,30 +613,6 @@ Ne. Prosečan glikemijski indeks integralnih hlebova je oko 69, a belih oko 75, 
 **Q: Koliko jaja i avokada je dovoljno za doručak?**
 
 Dovoljno je pola avokada i jedno do dva jaja uz jednu do dve kriške hleba. Studije su koristile pola ploda, a ceo plod nije dao drugačiji efekat na glukozu. Ko ima povišen holesterol ili srčane tegobe, o broju jaja treba da se posavetuje s lekarom.
-
----
-
-## Dunja-kesten-bukovača lonac sa heljdom i čijom
-
-https://unazdravahrana.com/recepti/dunja-kesten-bukovaca-lonac-sa-heljdom-i-cijom
-
-Jesen u Kragujevcu miriše na pečene kestenove, a tezga sa dunjama je prva stanica kad zahladi. Ovaj lonac je jelo iz jedne šerpe koje spaja sve što sezona daje: čvrstu dunju koja u kuvanju postaje mekana i blago slatkasta, pečen kesten, bukovače i integralnu heljdu koja jelo čini sitim.
-
-**Q: Da li dunja mora da se oljušti?**
-
-Ne mora. Kora je jestiva i omekša u kuvanju, ali treba dobro skinuti maljavu prevlaku četkicom ili krpom. Ako vam je kora previše tvrda, možete je oljuštiti tankim nožem. Semenke i tvrdu sredinu uvek izbacite jer se seme dunje ne jede.
-
-**Q: Mogu li da koristim samonikle pečurke koje sam sam ubrao?**
-
-Ne preporučujemo. Samonikle pečurke ne bi trebalo jesti ako vrstu nije pouzdano utvrdio stručnjak, a kuvanje ili prženje ne čini otrovnu pečurku bezbednom. Za ovaj recept koristite uzgajane bukovače od proverenog proizvođača.
-
-**Q: Da li je jelo pogodno za osobe koje izbegavaju gluten?**
-
-Heljda, kesten, dunja i čia prirodno ne sadrže gluten, ali zbog mogućeg unakrsnog kontakta u proizvodnji uvek proverite da je na pakovanju heljde označeno da je proizvod bez glutena. Ako imate celijakiju, posavetujte se sa lekarom.
-
-**Q: Može li se jelo pripremiti unapred?**
-
-Može, ali je najbolje pojesti ga isti ili sledeći dan. Čuvajte ga u frižideru u zatvorenoj posudi i podgrejte uz malo vode. Ne podgrevajte ga više puta.
 
 ---
 
