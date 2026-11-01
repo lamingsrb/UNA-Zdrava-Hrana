@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jedan avokado dnevno: šta je pokazala šestomesečna studija
+
+https://unazdravahrana.com/blog/jedan-avokado-dnevno-sta-je-pokazala-sestomesecna-studija
+
+Šestomesečna studija (HAT) na 786 odraslih osoba sa abdominalnom gojaznošću pokazala je da jedan avokado dnevno smanjuje ukupan broj LDL čestica za oko 3,7% u odnosu na kontrolnu grupu, bez promene telesne mase i obima struka. Rezultat je umeren i zasnovan na promeni u krvi, a ne na dokazanom smanjenju infarkta ili moždanih udara.
+
+**Q: Da li jedan avokado dnevno snižava LDL holesterol?**
+
+U šestomesečnoj studiji HAT, grupa koja je jela jedan avokado dnevno imala je za 49,1 nmol/L manje ukupnih LDL čestica od kontrolne grupe, što je oko 3,7% manje. Rezultat je umeren i odnosi se na broj LDL čestica, a ne na dokazano smanjenje srčanih bolesti.
+
+**Q: Da li avokado goji ako ga jedete svaki dan?**
+
+U ovoj studiji nije. Telesna masa i obim struka nisu se promenili kod ljudi koji su šest meseci jeli po jedan avokado dnevno. To ne znači da kalorije nisu važne, već da se avokado uklopio u ukupnu ishranu učesnika.
+
+**Q: Da li avokado štiti od infarkta i srčanih bolesti?**
+
+To nije dokazano. Autori procenjuju da smanjenje LDL čestica odgovara oko 4% nižem riziku od kardiovaskularnih bolesti, ali je to modelska procena iz promene u krvi, a ne izmereno smanjenje infarkta ili moždanih udara.
+
+**Q: Zašto bi avokado mogao da pomaže holesterolu?**
+
+Verovatni razlozi su vlakna (oko 9 g u jednom plodu), nezasićene masti i biljni sastojci poput fitosterola, ali tačan mehanizam nije potvrđen. Efekat je verovatno najjači kada avokado zamenjuje namirnice bogate zasićenim mastima, a ne kada se samo dodaje na jelovnik.
+
+---
+
 ## Kako se jede dunja: pečena, kuvana, sušena i kao čaj
 
 https://unazdravahrana.com/blog/kako-se-jede-dunja-pecena-kuvana-susena-i-kao-caj
@@ -589,12 +613,6 @@ Ne, kuvane leblebije imaju neutralan, blago orašast ukus, a kakao i urme ga pre
 **Q: Šta ako masa ispadne previše mekana ili se lepi?**
 
 Najčešći uzrok je višak vode, zato leblebije dobro ocedite i osušite krpom. Ako se masa i dalje lepi, dodajte kašiku ovsenih pahuljica ili kakaoa i ohladite je u frižideru pre oblikovanja.
-
----
-
-## Povrće na terasi u julu: 6 kultura i kad stižu plodovi
-
-https://unazdravahrana.com/blog/povrce-na-terasi-u-julu-6-kultura-i-kad-stizu-plodovi
 
 ---
 
