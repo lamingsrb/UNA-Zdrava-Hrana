@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Doručak bez jaja: 5 recepata koji zasite do ručka](https://unazdravahrana.com/blog/dorucak-bez-jaja-5-recepata-koji-zasite-do-rucka)
 - [Portugalska salata s tunjevinom ili piletinom: recept i](https://unazdravahrana.com/blog/portugalska-salata-s-tunjevinom-ili-piletinom-recept-i)
 - [Dunja-kesten tikvice punjene bukovačom i pirinčem](https://unazdravahrana.com/recepti/dunja-kesten-tikvice-punjene-bukovacom-i-pirincem)
 - [Dunja-kesten mafini sa heljdinim brašnom i čijom](https://unazdravahrana.com/recepti/dunja-kesten-mafini-sa-heljdinim-brasnom-i-cijom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [10 navika zdrave ishrane koje možete uvesti već danas](https://unazdravahrana.com/blog/10-navika-zdrave-ishrane-koje-mozete-uvesti-vec-danas)
 - [Srce na tanjiru: šta da jedete, a šta da ograničite](https://unazdravahrana.com/blog/srce-na-tanjiru-sta-da-jedete-a-sta-da-ogranicite)
 - [Ko treba da pazi na paradajz: 4 stanja i čime ga zameniti](https://unazdravahrana.com/blog/ko-treba-da-pazi-na-paradajz-4-stanja-i-cime-ga-zameniti)
-- [Testenina i povrće: 6 ideja od ručka za poneti do tople](https://unazdravahrana.com/blog/testenina-i-povrce-6-ideja-od-rucka-za-poneti-do-tople)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-10-31
+Last updated: 2026-11-01

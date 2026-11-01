@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Doručak bez jaja: 5 recepata koji zasite do ručka
+
+https://unazdravahrana.com/blog/dorucak-bez-jaja-5-recepata-koji-zasite-do-rucka
+
+---
+
 ## Portugalska salata s tunjevinom ili piletinom: recept i
 
 https://unazdravahrana.com/blog/portugalska-salata-s-tunjevinom-ili-piletinom-recept-i
@@ -592,28 +598,4 @@ Može, ali med menja ukus i aromu, a i dalje se računa u slobodne šećere. Po 
 
 ---
 
-## UNA Zdrava Hrana u Kragujevcu: lokacija, radno vreme
-
-https://unazdravahrana.com/blog/una-zdrava-hrana-u-kragujevcu-lokacija-radno-vreme
-
-UNA Zdrava Hrana je prodavnica u ulici Slobodana Penezića Krcuna kod mosta u Bresnici u Kragujevcu, otvorena svakog dana: ponedeljak–subota 07:30–21:00, nedeljom 08:00–15:00. Nudi šest kategorija proizvoda: organske namirnice, suplemente i vitamine, čajeve i napitke, zdrave grickalice, superhranu i prirodnu kozmetiku.
-
-**Q: Gde se nalazi UNA Zdrava Hrana u Kragujevcu?**
-
-UNA Zdrava Hrana nalazi se u ulici Slobodana Penezića Krcuna, kod mosta u Bresnici, 34000 Kragujevac. Za dodatna uputstva za dolazak možete pozvati 034 387 257.
-
-**Q: Koje je radno vreme UNA Zdrave Hrane?**
-
-Prodavnica radi svakog dana: od ponedeljka do subote od 07:30 do 21:00, a nedeljom od 08:00 do 15:00. Za veću kupovinu nedeljom bolje je doći pre podne.
-
-**Q: Šta se može kupiti u UNA Zdravoj Hrani?**
-
-Asortiman obuhvata šest kategorija: organske proizvode, suplemente i vitamine, čajeve i napitke, zdrave grickalice, superhranu (čia, spirulina, goji) i prirodnu kozmetiku.
-
-**Q: Kako mogu da kontaktiram UNA Zdravu Hranu?**
-
-Možete pozvati telefon 034 387 257 ili poslati poruku na una.zdravahrana@gmail.com. Telefonom možete dobiti i uputstvo kako da stignete iz vašeg pravca.
-
----
-
-Last updated: 2026-10-31
+Last updated: 2026-11-01
