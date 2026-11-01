@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Koliko oraha dnevno? Prava porcija i kako je složiti
+
+https://unazdravahrana.com/blog/koliko-oraha-dnevno-prava-porcija-i-kako-je-sloziti
+
+Razumna dnevna porcija oraha je oko 30 g (sedam celih jezgri ili 14 polovina), što daje otprilike 200 kcal, uz vlakna, proteine i magnezijum. To je orijentacija, a ne propisana ili dokazano idealna doza; istraživanja ne pokazuju da umerena porcija utiče na telesnu masu.
+
+**Q: Koliko oraha dnevno treba pojesti?**
+
+Za većinu odraslih razumna dnevna porcija je oko 30 g oraha, što je otprilike sedam celih jezgri ili 14 polovina. To je široko korišćena orijentacija, a ne propisana ili dokazano idealna doza.
+
+**Q: Koliko kalorija ima porcija oraha od 30 g?**
+
+Porcija od 30 g oraha ima otprilike 180 do 210 kcal, zavisno od baze podataka. Sadrži oko 20 g masti, uglavnom nezasićenih, oko 4,7 g proteina i oko 2 g vlakana.
+
+**Q: Da li orasi goje?**
+
+Orasi su energetski gusti, ali istraživanja ne pokazuju da umerena porcija povećava telesnu masu. Meta-analiza 55 randomizovanih studija nije pronašla promenu težine, BMI-ja ni obima struka. Dve šake dnevno ipak znače oko 400 kcal, pa količinu treba odmeravati.
+
+**Q: Da li orasi snižavaju holesterol?**
+
+Odobrena EU tvrdnja odnosi se na elastičnost krvnih sudova, i to uz 30 g oraha dnevno. EFSA je 2011. zaključila da nije dokazano da orasi snižavaju LDL holesterol više nego što se očekuje od njihovog sastava masnih kiselina.
+
+---
+
 ## Doručak bez jaja: 5 recepata koji zasite do ručka
 
 https://unazdravahrana.com/blog/dorucak-bez-jaja-5-recepata-koji-zasite-do-rucka
@@ -571,30 +595,6 @@ Uzrok je tanin, jedinjenje koje daje oporost nezrelom plodu. Tokom sazrevanja nj
 **Q: Kako da prepoznam dobar kaki na pijaci?**
 
 Koža treba da je glatka i sjajna, bez većih modrica i ulubljenih, mokrih pega. Sitne tamne tačkice mogu biti u redu. Ako niste sigurni koji je tip, pitajte prodavca ili probajte mali komad.
-
----
-
-## Marmelada od mandarina: 3 sastojka, 45 minuta i par ideja
-
-https://unazdravahrana.com/blog/marmelada-od-mandarina-3-sastojka-45-minuta-i-par-ideja
-
-Osnovna marmelada od mandarina pravi se od 1 kg neprskanih mandarina, jednog limuna i 400 g šećera, uz trostruko kuvanje kore i oko 45 minuta krčkanja. Članak objašnjava kako pektin, šećer i kiselina utiču na gustinu, poredi šećer i med i napominje da marmelada ne zamenjuje svežu mandarinu.
-
-**Q: Koji su sastojci za osnovnu marmeladu od mandarina?**
-
-Za osnovni recept potrebni su 1 kg neprskanih mandarina, 1 neprskani limun i 400 g šećera. Kora ostaje u marmeladi, zato je važno da voće bude neprskano i dobro oprano.
-
-**Q: Koliko dugo se kuva marmelada od mandarina?**
-
-Voće se prvo prokuva tri puta u svežoj vodi da kora izgubi višak gorčine, a zatim se sa šećerom krčka oko 45 minuta uz povremeno mešanje. Gustinu proverite tako što kapnete malo marmelade na hladan tanjirić: ako se ne razlije, gotova je.
-
-**Q: Zašto je moja marmelada retka i kako da je zgusnem?**
-
-Za stezanje su potrebni uravnoteženi pektin, šećer i kiselina. Marmelada može biti retka zbog manje šećera, premalo limuna ili prekratkog kuvanja. Pomoći će duže krčkanje, više limuna ili dodatni pektin, a tačka želiranja je oko 104 °C.
-
-**Q: Da li med može da zameni šećer u marmeladi?**
-
-Može, ali med menja ukus i aromu, a i dalje se računa u slobodne šećere. Po grami ima manje kalorija od šećera, ali po kašici više jer je gušći. Med se ne sme davati bebama mlađim od 12 meseci zbog rizika od botulizma, pa za najmlađe koristite šećer.
 
 ---
 
