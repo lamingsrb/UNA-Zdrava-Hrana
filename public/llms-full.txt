@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Alergija na ambroziju ili prehlada kod deteta: kako ih
+
+https://unazdravahrana.com/blog/alergija-na-ambroziju-ili-prehlada-kod-deteta-kako-ih
+
+Članak objašnjava kako roditelji mogu da razlikuju alergiju na ambroziju od prehlade kod deteta: po trajanju, temperaturi, sekretu i svrabu. Ističe da je ambrozija ređa kod male dece, da je uputno javiti se pedijatru i da nijedan izvor ne potvrđuje da hrana ili čajevi leče alergiju, uz upozorenje na unakrsne reakcije na hranu.
+
+**Q: Kako da razlikujem alergiju na ambroziju od prehlade kod deteta?**
+
+Alergija traje nedeljama, obično je bez temperature, sekret je bistar i vodenast, a svrab nosa, grla i očiju je izražen. Prehlada obično traje 7 do 10 dana, češće ide uz temperaturu, gušći sekret i malaksalost. Nijedan simptom sam ne daje odgovor, pa je za sigurnu procenu potreban pedijatar.
+
+**Q: Da li mala deca reaguju na ambroziju?**
+
+Retko. Simptomi se kod mališana obično javljaju tek posle treće godine života, a najviše problema imaju tinejdžeri. Bebe i mala deca su češće alergična na hranu nego na polen, pa je kod dvogodišnjaka sa curenjem nosa u septembru prehlada verovatnija od ambrozije.
+
+**Q: Kada ambrozija cveta u Srbiji?**
+
+Ambrozija u Srbiji cveta otprilike od jula do oktobra, a koncentracije polena su posebno visoke tokom avgusta i septembra. Tačni datumi se razlikuju od godine do godine i od izvora do izvora, pa ih ne treba shvatati kao strogi kalendar.
+
+**Q: Kada treba odvesti dete pedijatru zbog moguće alergije na ambroziju?**
+
+Ako dete tokom leta kija, ima zapušen nos i svrab očiju, preporuka je da se javite pedijatru, jer nelečena polenska alergija može dovesti do čestih upala srednjeg uha i astme. Hitnije se javite ako dete teško diše, hripe, kašlje noću ili ima visoku temperaturu.
+
+---
+
 ## Jedan avokado dnevno: šta je pokazala šestomesečna studija
 
 https://unazdravahrana.com/blog/jedan-avokado-dnevno-sta-je-pokazala-sestomesecna-studija
@@ -589,30 +613,6 @@ Ako ne možete da nađete kesten, možete koristiti pečeni batat (slatki krompi
 ## Trčanje ili teretana? Zašto telu trebaju oba
 
 https://unazdravahrana.com/blog/trcanje-ili-teretana-zasto-telu-trebaju-oba
-
----
-
-## Kakao kuglice od leblebija: slatkiš koji pravite za 15
-
-https://unazdravahrana.com/blog/kakao-kuglice-od-leblebija-slatkis-koji-pravite-za-15
-
-Kakao kuglice se prave od kuvanih leblebija, urmi, kakao praha i putera od orašastih plodova, bez rerne i za oko 15 minuta. Članak daje recept, zamene sastojaka, nutritivne podatke i savet da su to poslastica koju treba jesti umereno.
-
-**Q: Kako se prave kakao kuglice od leblebija?**
-
-Izmiksirajte oko 200 g ocedjenih kuvanih leblebija sa 8–10 urmi, 2 kašike kakaoa, 2 kašike putera od kikirikija ili badema i prstohvatom soli. Masu ohladite 20–30 minuta, oblikujte kuglice i uvaljajte ih u kakao, kokos ili seckane orahe.
-
-**Q: Da li se oseća ukus leblebija u kuglicama?**
-
-Ne, kuvane leblebije imaju neutralan, blago orašast ukus, a kakao i urme ga prekrivaju. Većina ukućana, uključujući decu, neće pogoditi šta je unutra.
-
-**Q: Koliko dugo se čuvaju kakao kuglice od leblebija?**
-
-Čuvajte ih u zatvorenoj posudi u frižideru i potrošite u roku od nekoliko dana. Pošto sadrže kuvane leblebije, ne treba ih ostavljati na sobnoj temperaturi satima.
-
-**Q: Šta ako masa ispadne previše mekana ili se lepi?**
-
-Najčešći uzrok je višak vode, zato leblebije dobro ocedite i osušite krpom. Ako se masa i dalje lepi, dodajte kašiku ovsenih pahuljica ili kakaoa i ohladite je u frižideru pre oblikovanja.
 
 ---
 
