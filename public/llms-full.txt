@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kako se jede dunja: pečena, kuvana, sušena i kao čaj
+
+https://unazdravahrana.com/blog/kako-se-jede-dunja-pecena-kuvana-susena-i-kao-caj
+
+Dunja se retko jede sirova jer je tvrda i trpka, pa je najbolje obraditi je toplotom: pečenjem u rerni na 180 °C oko 25 minuta ili kuvanjem u kompotu i pekmezu. Članak objašnjava i kako izabrati zrelu dunju, kako se pravi čaj od lista (uz oprez, jer lekovita dejstva nisu klinički potvrđena) i šta se zna o sušenju.
+
+**Q: Može li se dunja jesti sirova?**
+
+Većina sorti je previše tvrda i trpka za jelo iz ruke zbog tanina. Sirova se eventualno koristi tanko narendana, u maloj količini, u salati sa jabukom ili celerom, a za jelo je najbolje prvo je obraditi toplotom.
+
+**Q: Kako se peče dunja u rerni?**
+
+Dunju operite, prepolovite i izvadite semenu kućicu, stavite polovine isečenom stranom nagore, pospite cimetom i po želji medom. Pecite na 180 °C oko 25 minuta, dok ne omekšaju, i služite toplo uz jogurt, orahe ili bademe.
+
+**Q: Kako izabrati zrelu dunju?**
+
+Zrela dunja je žuta do zlatna, bez zelenila, čvrsta i intenzivno mirisna. Izbegavajte plodove sa udubljenjima i modricama, jer dunja ne omekšava zrenjem, pa je mekoća znak kvarenja. Nedozrele plodove ostavite nekoliko dana na sobnoj temperaturi da požute.
+
+**Q: Kako se pravi čaj od lista dunje?**
+
+Tradicionalno se navodi 3 osušena lista na šolju ključale vode, poklopljeno 15 do 20 minuta. To je običaj iz narodne prakse, a ne klinički potvrđena doza. Ako imate stalne probavne tegobe, trudni ste ili uzimate terapiju, posavetujte se sa lekarom.
+
+---
+
 ## Kremasta čorba od kelja, repe i belog pasulja sa narom
 
 https://unazdravahrana.com/recepti/kremasta-corba-od-kelja-repe-i-belog-pasulja-sa-narom
@@ -571,30 +595,6 @@ Najčešći uzrok je višak vode, zato leblebije dobro ocedite i osušite krpom.
 ## Povrće na terasi u julu: 6 kultura i kad stižu plodovi
 
 https://unazdravahrana.com/blog/povrce-na-terasi-u-julu-6-kultura-i-kad-stizu-plodovi
-
----
-
-## Varivo od mahuna bez mesa: ručak koji prija i drugi dan
-
-https://unazdravahrana.com/blog/varivo-od-mahuna-bez-mesa-rucak-koji-prija-i-drugi-dan
-
-Članak donosi jednostavan recept za varivo od mahuna bez mesa u jednom loncu, uz savete za biranje svežih ili smrznutih mahuna i pravilnu termičku obradu. Objašnjava kako prilagoditi gustinu, ukus i hranljivost varivoa za decu, rekreativce i početnike.
-
-**Q: Koliko se kuvaju mahune u varivu?**
-
-Mahune u varivu kuvajte oko 30–40 minuta na tihoj vatri, dok ne budu potpuno meke. Ne treba ih ostavljati „al dente“, jer sirove ili nedovoljno kuvane mahune mogu izazvati mučninu zbog prirodnog sastojka koji kuvanje neutrališe.
-
-**Q: Mogu li se za varivo koristiti smrznute mahune?**
-
-Da, smrznute mahune su potpuno u redu, posebno van sezone. Ne treba ih odmrzavati, već idu direktno u lonac, uz nešto kraće vreme kuvanja nego kod svežih.
-
-**Q: Kako da varivo od mahuna bude gušće?**
-
-Najlakše je da nekoliko kockica krompira zgnječite vilicom direktno u loncu. Možete i da dodate manje vode, jer konzistencija zavisi od krompira i količine tečnosti.
-
-**Q: Kako da varivo od mahuna bude hranljivije i sitnije?**
-
-U poslednjih 10 minuta kuvanja dodajte kuvani pasulj, sočivo ili leblebije za više proteina. Uz varivo poslužite integralni hleb ili kuvane žitarice da obrok bude kompletniji.
 
 ---
 
