@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kremaste čorbe cele zime: recepti i plan za nedelje
+
+https://unazdravahrana.com/blog/kremaste-corbe-cele-zime-recepti-i-plan-za-nedelje
+
+Članak daje jednu osnovnu formulu za kremastu čorbu od povrća i pet varijacija (bundeva, šargarepa, karfiol, crveno sočivo, kelj s pasuljem) rasporedenih po nedeljama. Objašnjava kako postići kremastu teksturu bez šlaga i kako smanjiti so uz pomoć začina i bilja.
+
+**Q: Kako napraviti kremastu čorbu bez pavlake i šlaga?**
+
+Koristite skrobasto povrće kao što su bundeva, krompir, sočivo ili pasulj, koje prirodno zgušnjava čorbu. Izmiksajte je štapnim mikserom dok je još vruća i vodu dodajte postepeno. Za bogatiji ukus dodajte kašiku maslinovog ulja ili malo biljnog napitka.
+
+**Q: Koliko povrća i tečnosti treba za 4 porcije kremaste čorbe?**
+
+Za četiri porcije potrebno je oko 700 g povrća, jedna glavica luka, 2–3 kašike ulja i oko 1 litar vode ili supe. Povrće kuvajte 20–25 minuta na tihoj vatri, dok se ne omekša, a zatim ga izmiksajte.
+
+**Q: Kada se soli kremasta čorba?**
+
+Čorbu je najbolje dosoliti tek na kraju, posle miksanja, jer se ukus tada menja. Soli se postepeno, uz probanje. Ukus možete obogatiti začinima i biljem, poput đumbira, muskatnog oraščića, kurkume ili limunovog soka.
+
+**Q: Koja čorba je najzasitnija za zimski obrok?**
+
+Najzasitnija je čorba od kelja i belog pasulja, jer pasulj čini čorbu gustom i kremastom. Dobru sitost daje i čorba od crvenog sočiva, koje zgušnjava čorbu bez dodatnih sastojaka i ne mora da se potapa.
+
+---
+
 ## Zdrav jelovnik za 7 dana: plan i spisak za kupovinu
 
 https://unazdravahrana.com/blog/zdrav-jelovnik-za-7-dana-plan-i-spisak-za-kupovinu
@@ -607,30 +631,6 @@ Sirova dunja je tvrda i ima kiselkasto-trpak ukus, pa se obično koristi kuvana,
 **Q: Koliko traje čuvanje i može li da se podgreva?**
 
 U frižideru je dobar 2–3 dana u zatvorenoj posadi. Podgrevajte ga polako na tihoj vatri uz malo vode ili supe ako je previše zgusnut.
-
----
-
-## Dunja-kesten humus od leblebija sa pečurkama i susamom
-
-https://unazdravahrana.com/recepti/dunja-kesten-humus-od-leblebija-sa-pecurkama-i-susamom
-
-Jesen u Kragujevcu ima svoj miris: pečena dunja, kesten sa roštilja i pečurke iz rerne. Ovaj recept spaja ta tri sastojka na način koji do sada nismo radili: u kremast, topao namaz-humus od leblebija, sa pečenim bukovačama preko vrha.
-
-**Q: Može li se dunja jesti sirova?**
-
-Zrela dunja se obično ne jede sirova jer je meso tvrdo i veoma kiselo. Zato se najčešće peče ili kuva, što je i ovde slučaj. Pečenjem postaje mekana, aromatična i blago slatka.
-
-**Q: Da li je ovaj namaz pogodan za ljude sa intolerancijom na laktozu?**
-
-Da, recept ne sadrži mlečne proizvode. Za osobe koje izbegavaju gluten sam namaz ne sadrži gluten, ali birajte hleb i krekere označene kao bezglutenski, i proverite deklaracije sastojaka.
-
-**Q: Mogu li pripremiti namaz unapred?**
-
-Naravno. Namaz se može napraviti dan unapred i čuvati u zatvorenoj tegli u frižideru do 3-4 dana. Pečene pečurke najbolje je pripremiti svežije i staviti ih na vrh neposredno pre služenja.
-
-**Q: Čime mogu zameniti kesten?**
-
-Ako ne možete da nađete kesten, možete koristiti pečeni batat (slatki krompir) ili dodatnu količinu leblebija. Ukus će biti nešto drugačiji, ali tekstura i kremastost ostaju. Za savet o zamenama pitajte u radnji.
 
 ---
 
