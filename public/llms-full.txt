@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Džejmi Oliver i superhrana: šta je u fokusu i kako ga jesti
+
+https://unazdravahrana.com/blog/dzejmi-oliver-i-superhrana-sta-je-u-fokusu-i-kako-ga-jesti
+
+Superhrana nije stručan pojam i nema zvaničnu definiciju kod regulatora poput FDA i EFSA, a Džejmi Oliver naglašava šarenu, uravnoteženu ishranu umesto jedne čudesne namirnice. Članak daje praktične ideje za svakodnevne obroke, od ovsa za doručak do pravilne upotrebe čia semenki.
+
+**Q: Šta znači reč superhrana?**
+
+Superhrana nije stručan ni zvaničan pojam. Regulatori poput FDA, USDA i EFSA nemaju njenu definiciju, a ona se u praksi koristi za namirnice bogate nutrijentima. Najbolji način za uravnotežen unos nutrijenata i dalje je raznovrsna ishrana sa dosta voća i povrća.
+
+**Q: Šta Džejmi Oliver kaže o superhrani?**
+
+Oliver ne ističe jednu čudesnu namirnicu, već zastupa uravnoteženu ishranu sa širokim izborom voća, povrća, integralnih žitarica i namirnica iz svih grupa. Po njemu superhrana ne mora da znači skupe sastojke, već može biti svakodnevna i ukusna navika.
+
+**Q: Kako se pravilno jedu čia semenke?**
+
+Čiu ne treba jesti suvu iz kesice na kašiku. Najbolje je da se natopi u tečnosti, poput mleka, biljnog napitka, soka ili jogurta, dok ne zgusne. Za početak je dovoljna jedna kašičica u jogurt ili kašu.
+
+**Q: Koji je najjednostavniji način da počnem sa zdravijom ishranom?**
+
+Najlakše je da počnete od doručka. Zamenite slatki doručak ovsenim pahuljicama, na primer kašom sa voćem i orasima ili ovsom natopljenim preko noći u jogurtu sa borovnicama. Čak i dva puta nedeljno je dobar početak.
+
+---
+
 ## Repa i kelj ćufte iz rerne sa narom i susamom
 
 https://unazdravahrana.com/recepti/repa-i-kelj-cufte-iz-rerne-sa-narom-i-susamom
@@ -625,30 +649,6 @@ Elen Džons, koja je u 100. godini i redovno vozi stacionarni bicikl, ne pripisu
 ## 10 navika zdrave ishrane koje možete uvesti već danas
 
 https://unazdravahrana.com/blog/10-navika-zdrave-ishrane-koje-mozete-uvesti-vec-danas
-
----
-
-## Srce na tanjiru: šta da jedete, a šta da ograničite
-
-https://unazdravahrana.com/blog/srce-na-tanjiru-sta-da-jedete-a-sta-da-ogranicite
-
-Članak objašnjava kako ishrana utiče na zdravlje srca i daje praktične smernice zasnovane na preporukama SZO i ESC: manje soli (ispod 5 g dnevno), zamena zasićenih masti nezasićenim i više vlakana iz integralnih žitarica. Naglašava da ishrana ne zamenjuje terapiju i da plan ishrane treba dogovoriti sa lekarom ili nutricionistom.
-
-**Q: Koliko soli dnevno je preporučeno za zdravlje srca?**
-
-Svetska zdravstvena organizacija preporučuje manje od 5 grama soli dnevno, otprilike jednu ravnu kafenu kašičicu, računajući i so iz gotove hrane. Veliki deo soli stiže iz suhomesnatih proizvoda, gotovih supa, konzervi, peciva i sireva, a ne iz solnice.
-
-**Q: Koje masti su bolje za srce?**
-
-Birajte nezasićene masti iz ribe, avokada, orašastih plodova i biljnih ulja, na primer maslinovog. Zasićene masti treba da čine manje od 10% ukupnog energetskog unosa, a trans-masti manje od 1%. Najvažnije je zameniti zasićene masti nezasićenim.
-
-**Q: Koliko vlakana treba uneti dnevno za zdravo srce?**
-
-Evropsko udruženje kardiologa (ESC) preporučuje 30 do 45 grama vlakana dnevno, najbolje iz integralnih žitarica, povrća i mahunarki. Svakih dodatnih 7 grama vlakana dnevno povezano je sa oko 9% nižim rizikom od koronarne bolesti.
-
-**Q: Koliko crvenog mesa je preporučeno nedeljno?**
-
-ESC preporučuje najviše 350 do 500 grama crvenog mesa nedeljno, a prerađeno meso treba smanjiti što je više moguće. U praksi to znači da meso bude jedan od sastojaka na tanjiru, a da se tokom nedelje češće biraju mahunarke i riba.
 
 ---
 
