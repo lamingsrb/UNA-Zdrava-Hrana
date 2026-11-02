@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Pečeni kelj i repa sa narom i susamom iz tepsije
+
+https://unazdravahrana.com/recepti/peceni-kelj-i-repa-sa-narom-i-susamom-iz-tepsije
+
+Kasna jesen je vreme kada pijaca miriše na zemlju, a tezge su pune kelja, repe i prvih crvenih narova. Ovaj recept je jedna tepsija i malo strpljenja: kelj i repa se peku do zlatnih ivica, a na kraju ih začini svež nar, preliv od tahinija i limuna i šaka tostiranog susama.
+
+**Q: Da li se kelj i repa mogu peći zajedno?**
+
+Mogu, ali repi treba više vremena nego keljui. Zato repu stavite u rernu prva, nakon 15 minuta dodajte kelj i pecite još oko 12 do 15 minuta. Tako se oboje ispeče kako treba.
+
+**Q: Kako da repa ne bude gorka?**
+
+Repa ima prirodno malo gorak ukus, koji je izraženiji kada se kuva u vodi. Pečenje je karamelizuje i ublažava gorčinu. Birajte manje, mlađe repe i isecite ih na sitnije kocke da se ravnomerno ispeku.
+
+**Q: Da li je recept pogodan za osobe sa intolerancijom na gluten ili laktozu?**
+
+Da, recept je prirodno bez glutena i bez laktoze, jer ne sadrži brašno, mlečne proizvode ni sastojke od žitarica. Ako imate celijakiju, proverite deklaraciju na tahiniju i drugim kupljenim sastojcima.
+
+**Q: Mogu li da koristim smrznuti nar ili sok od nara?**
+
+Sveža zrna daju najbolju hrskavost i svežinu. Ako ih nemate, može se koristiti i odmrznuta zrna, dobro ocedjena. Sok od nara nije isto što i zrna: bolje ga preskočite, nego da razvodnite jelo.
+
+---
+
 ## Kremaste čorbe cele zime: recepti i plan za nedelje
 
 https://unazdravahrana.com/blog/kremaste-corbe-cele-zime-recepti-i-plan-za-nedelje
@@ -607,30 +631,6 @@ Kamen u bubregu je uglavnom mit: paradajz ima malo oksalata i bogat je citratima
 ## Testenina i povrće: 6 ideja od ručka za poneti do tople
 
 https://unazdravahrana.com/blog/testenina-i-povrce-6-ideja-od-rucka-za-poneti-do-tople
-
----
-
-## Jesenji ražani paprikaš od bukovače, kestena i dunje
-
-https://unazdravahrana.com/recepti/jesenji-razani-paprikas-od-bukovace-kestena-i-dunje
-
-Kad zahladi, tražimo jelo koje greje i hrani, a nije teško. Ovaj paprikaš od bukovače, kestena i dunje ide malo drugačijim putem od uobičajenih jesenjih lonaca: umesto testa ili žitarica sa strane, gustinu mu daje samo kesten, a dunja unosi blagu kiselkastost i miris koji se ne zaboravlja.
-
-**Q: Da li je ovaj paprikaš pogodan za ljude koji izbegavaju gluten?**
-
-Sami sastojci (pečurke, kesten, dunja, povrće) ne sadrže gluten. Servirajte ga uz kuvani pirinač ili heljdu umesto hleba i proverite da je supa koju koristite bez glutena. Kod celijakije uvek čitajte deklaracije.
-
-**Q: Mogu li da koristim kesten iz kesice ili tegle umesto svežeg?**
-
-Može, ako je već oljušten i bez dodatog šećera ili sirupa. Takav kesten dodajte u istom koraku kao svež. Uverite se da na deklaraciji nema zaslađivača, inače će paprikaš dobiti neželjenu slatkoću.
-
-**Q: Zašto dunju ne mogu jesti sirovu?**
-
-Sirova dunja je tvrda i ima kiselkasto-trpak ukus, pa se obično koristi kuvana, pečena ili prerađena u džem i slatko. U paprikašu se krčkanjem omekša i daje blagu voćnu notu.
-
-**Q: Koliko traje čuvanje i može li da se podgreva?**
-
-U frižideru je dobar 2–3 dana u zatvorenoj posadi. Podgrevajte ga polako na tihoj vatri uz malo vode ili supe ako je previše zgusnut.
 
 ---
 
