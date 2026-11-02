@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Suplementi za žene: šta je bitno u kom životnom dobu
+
+https://unazdravahrana.com/blog/suplementi-za-zene-sta-je-bitno-u-kom-zivotnom-dobu
+
+Potrebe za suplementima kod žena menjaju se kroz život: od gvožđa i folne kiseline u reproduktivnim godinama, preko povećanih potreba u trudnoći i dojenju, do vitamina D i kalcijuma za kosti. Suplement dopunjava ishranu, najbolje je prvo proveriti analize, a kod trudnoće ili zdravstvenih problema doze uskladiti sa lekarom.
+
+**Q: Koliko folne kiseline treba uzimati pre trudnoće?**
+
+CDC i SZO preporučuju 400 mcg (µg) folne kiseline dnevno svim ženama koje mogu da zatrudne, odnosno od početka pokušaja začeća do 12. nedelje trudnoće. Defekti neuralne cevi nastaju u ranoj trudnoći, pa je unos bitan i pre potvrde trudnoće. Ako je ranija trudnoća bila pogođena takvim defektom, dozu određuje lekar.
+
+**Q: Da li je bezbedno uzimati gvožđe bez analiza krvi?**
+
+Ne preporučuje se. Gvožđe ima gornju granicu unosa (40 mg dnevno prema EFSA, 45 mg prema NIH), a višak nije bezopasan. Prvo uradite analize (feritin, hemoglobin), pa dozu, ako je manjak potvrđen, određuje lekar.
+
+**Q: Koliko gvožđa dnevno treba ženama u reproduktivnom dobu?**
+
+Prema NIH-u, žene od 19 do 50 godina treba da unose 18 mg gvožđa dnevno, a prema EFSA 16 mg dnevno u premenopauzi. Većinu se može pokriti hranom: mahunarke, tamno lisnato povrće, integralne žitarice i semenke, uz vitamin C radi boljeg iskorišćavanja.
+
+**Q: Koliko kalcijuma i vitamina D treba ženama?**
+
+Prema NIH-u, žene od 19 do 50 godina treba da unose 1.000 mg kalcijuma dnevno, a starije od 50 godina 1.200 mg. EFSA navodi adekvatan unos vitamina D od 15 µg dnevno za zdrave odrasle, dok američki Institut za medicinu navodi 600 IU do 70. godine i 800 IU nakon toga.
+
+---
+
 ## Džejmi Oliver i superhrana: šta je u fokusu i kako ga jesti
 
 https://unazdravahrana.com/blog/dzejmi-oliver-i-superhrana-sta-je-u-fokusu-i-kako-ga-jesti
@@ -643,12 +667,6 @@ Bolje je proteine rasporediti kroz dan, otprilike 25 grama u svaki od tri glavna
 **Q: Šta Elen Džons smatra tajnom svoje vitalnosti?**
 
 Elen Džons, koja je u 100. godini i redovno vozi stacionarni bicikl, ne pripisuje formu suplementima ni strogoj rutini. Kao ključne navodi radoznalost, svakodnevnu aktivnost i ljubav i društvo ljudi oko sebe. To je lično iskustvo, a ne dokaz da te navike uzrokuju dug život.
-
----
-
-## 10 navika zdrave ishrane koje možete uvesti već danas
-
-https://unazdravahrana.com/blog/10-navika-zdrave-ishrane-koje-mozete-uvesti-vec-danas
 
 ---
 
