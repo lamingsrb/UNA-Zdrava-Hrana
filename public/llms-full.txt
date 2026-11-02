@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zdrav jelovnik za 7 dana: plan i spisak za kupovinu
+
+https://unazdravahrana.com/blog/zdrav-jelovnik-za-7-dana-plan-i-spisak-za-kupovinu
+
+Članak donosi plan zdrave ishrane za 7 dana (doručak, ručak, večera i dve užine) zasnovan na smernicama SZO i Instituta Batut, uz zamene za gluten i laktozu. Na kraju sledi spisak za jednu veliku nedeljnu kupovinu koji štedi vreme i novac.
+
+**Q: Koliko voća i povrća treba jesti dnevno prema SZO?**
+
+Svetska zdravstvena organizacija preporučuje odraslima najmanje 400 g voća i povrća dnevno, ne računajući krompir i druge skrobne korenove. Preporučuje se i oko 25 g dijetnih vlakana dnevno. U ovom planu je pola tanjira na ručku i večeri povrće, a voće ide u doručak i užine.
+
+**Q: Koliko soli i dodatog šećera je preporučeno dnevno?**
+
+Prema SZO, unos soli treba da bude manji od 5 g dnevno, pa umesto dosoljavanja koristite začinsko bilje i beli luk. Slobodni šećeri, uključujući med, sirupe i voćne sokove, treba da budu ispod 10% dnevne energije, a idealno ispod 5%, što je oko 25 g.
+
+**Q: Da li je ovas bezbedan za osobe sa celijakijom?**
+
+Ovas sam ne sadrži gluten, ali se često kontaminira tokom žetve i skladištenja. Osobe sa celijakijom treba da koriste isključivo ovas sa oznakom „bez glutena“, što prema Codex pravilima znači najviše 20 mg/kg glutena. Deklaraciju je potrebno pročitati pri svakoj kupovini.
+
+**Q: Čime zameniti mleko ako imam intoleranciju na laktozu?**
+
+Mleko možete zameniti bezlaktoznim ili biljnim napitkom, a većina ljudi sa intolerancijom podnosi jogurt. Kod biljnih napitaka birajte one obogaćene kalcijumom, što piše na deklaraciji, dok sojin napitak može imati kalcijum uporediv sa kravljim mlekom.
+
+---
+
 ## Alergija na ambroziju ili prehlada kod deteta: kako ih
 
 https://unazdravahrana.com/blog/alergija-na-ambroziju-ili-prehlada-kod-deteta-kako-ih
@@ -610,10 +634,4 @@ Ako ne možete da nađete kesten, možete koristiti pečeni batat (slatki krompi
 
 ---
 
-## Trčanje ili teretana? Zašto telu trebaju oba
-
-https://unazdravahrana.com/blog/trcanje-ili-teretana-zasto-telu-trebaju-oba
-
----
-
-Last updated: 2026-11-01
+Last updated: 2026-11-02

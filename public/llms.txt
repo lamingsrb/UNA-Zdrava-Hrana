@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Zdrav jelovnik za 7 dana: plan i spisak za kupovinu](https://unazdravahrana.com/blog/zdrav-jelovnik-za-7-dana-plan-i-spisak-za-kupovinu)
 - [Alergija na ambroziju ili prehlada kod deteta: kako ih](https://unazdravahrana.com/blog/alergija-na-ambroziju-ili-prehlada-kod-deteta-kako-ih)
 - [Jedan avokado dnevno: šta je pokazala šestomesečna studija](https://unazdravahrana.com/blog/jedan-avokado-dnevno-sta-je-pokazala-sestomesecna-studija)
 - [Kako se jede dunja: pečena, kuvana, sušena i kao čaj](https://unazdravahrana.com/blog/kako-se-jede-dunja-pecena-kuvana-susena-i-kao-caj)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Kašalj u hladnim danima: šta smiruje grlo, a šta čeka lekara](https://unazdravahrana.com/blog/kasalj-u-hladnim-danima-sta-smiruje-grlo-a-sta-ceka-lekara)
 - [Crohn i kolitis: zašto vam smeta hrana koju ste ranije jeli](https://unazdravahrana.com/blog/crohn-i-kolitis-zasto-vam-smeta-hrana-koju-ste-ranije-jeli)
 - [Obroci za slab apetit tokom lečenja: 6 jednostavnih ideja](https://unazdravahrana.com/blog/obroci-za-slab-apetit-tokom-lecenja-6-jednostavnih-ideja)
-- [Topla dunja-kesten-bukovača kašika za slab apetit](https://unazdravahrana.com/recepti/topla-dunja-kesten-bukovaca-kasika-za-slab-apetit)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-11-01
+Last updated: 2026-11-02
