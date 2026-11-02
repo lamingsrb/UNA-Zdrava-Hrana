@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Repa i kelj ćufte iz rerne sa narom i susamom
+
+https://unazdravahrana.com/recepti/repa-i-kelj-cufte-iz-rerne-sa-narom-i-susamom
+
+Kasna jesen je vreme kada se tezge i police pune korenastim povrćem, a repa i kelj su sezonske namirnice koje zaslužuju više pažnje nego što ih dobijaju.
+
+**Q: Mogu li ćufte da se naprave bez rerne, na tiganju?**
+
+Mogu, ali su pečene u rerni lakše i zahtevaju manje ulja. Ako ih pržite, koristite malo ulja, srednju vatru i oblikujte ih nešto pljosnatije da se ravnomerno ispeku.
+
+**Q: Zašto se ćufte raspadaju?**
+
+Najčešće je smesa previše vlažna. Dobro iscedite izrendanu repu, ostavite smesu da odstoji 5 minuta i po potrebi dodajte kašiku ovsenih pahuljica ili čije. Ohlađene ćufte se i lakše vade iz pleha.
+
+**Q: Da li je jelo prikladno za decu?**
+
+Ukus je blag i ćufte su mekane, pa ih deca obično rado jedu, naročito uz jogurt-preliv. Ako dete ima alergiju na susam ili neki drugi sastojak, izostavite ga ili zamenite semenkama koje podnosi.
+
+**Q: Može li se pripremiti unapred?**
+
+Može. Smesu možete oblikovati i držati u frižideru do sutradan, ili ispeći ćufte unapred i samo ih podgrejati. Nar i jogurt dodajte uvek na kraju.
+
+---
+
 ## Kelj i repa pite sa narom, ovsom i susamom
 
 https://unazdravahrana.com/recepti/kelj-i-repa-pite-sa-narom-ovsom-i-susamom
@@ -625,30 +649,6 @@ Evropsko udruženje kardiologa (ESC) preporučuje 30 do 45 grama vlakana dnevno,
 **Q: Koliko crvenog mesa je preporučeno nedeljno?**
 
 ESC preporučuje najviše 350 do 500 grama crvenog mesa nedeljno, a prerađeno meso treba smanjiti što je više moguće. U praksi to znači da meso bude jedan od sastojaka na tanjiru, a da se tokom nedelje češće biraju mahunarke i riba.
-
----
-
-## Ko treba da pazi na paradajz: 4 stanja i čime ga zameniti
-
-https://unazdravahrana.com/blog/ko-treba-da-pazi-na-paradajz-4-stanja-i-cime-ga-zameniti
-
-Paradajz većini ljudi prija, ali može da smeta kod alergije na polen (oralni alergijski sindrom), refluksa, hronične bolesti bubrega (zbog kalijuma) i osetljivosti na histamin. Mitovi o kamenu u bubregu i artritisu uglavnom nemaju oslonac, a o ishrani je pametno razgovarati sa lekarom ili nutricionistom.
-
-**Q: Zašto me svrbe usta posle jedenja sirovog paradajza?**
-
-Najčešći uzrok je oralni alergijski sindrom, koji se javlja kod ljudi sa alergijom na polen trava ili breze. Proteini u sirovom paradajzu liče na alergene polena, pa ih imuni sistem pomeša. Kuvani paradajz često prolazi bez problema, jer su ti proteini osetljivi na toplotu.
-
-**Q: Da li paradajz izaziva refluks i žgaravicu?**
-
-Paradajz i proizvodi od njega često se navode kao okidači refluksa, ali se podnošljivost razlikuje od osobe do osobe. Najbolje je dve do tri nedelje voditi dnevnik ishrane i videti da li se tegobe stalno javljaju posle paradajza. Ako žgaravica ne prolazi ili se ponavlja, obratite se lekaru.
-
-**Q: Sme li paradajz kod bolesti bubrega?**
-
-Kod hronične bolesti bubrega bitan je kalijum, a ne sam paradajz. Svež paradajz u uobičajenim porcijama obično je u redu u ranijim stadijumima sa normalnim kalijumom, dok koncentrovani proizvodi (pire, sok, sušeni paradajz) imaju znatno više kalijuma. Dozvoljenu količinu određuje nefrolog ili nutricionista na osnovu vaših nalaza.
-
-**Q: Da li paradajz izaziva kamen u bubregu ili pogoršava artritis?**
-
-Kamen u bubregu je uglavnom mit: paradajz ima malo oksalata i bogat je citratima koji pomažu u sprečavanju kamenaca. Za pogoršanje artritisa nema naučnih dokaza ni za ni protiv, a većina priča je anegdotska. Ako primetite da vam neka hrana smeta, beležite to i posavetujte se sa lekarom.
 
 ---
 
