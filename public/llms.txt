@@ -12,6 +12,7 @@ _Priroda zna recept_
 
 ## Latest posts
 
+- [Koliko kalorija sagori sat hodanja i kako da izvučete više](https://unazdravahrana.com/blog/koliko-kalorija-sagori-sat-hodanja-i-kako-da-izvucete-vise)
 - [Suplementi za žene: šta je bitno u kom životnom dobu](https://unazdravahrana.com/blog/suplementi-za-zene-sta-je-bitno-u-kom-zivotnom-dobu)
 - [Džejmi Oliver i superhrana: šta je u fokusu i kako ga jesti](https://unazdravahrana.com/blog/dzejmi-oliver-i-superhrana-sta-je-u-fokusu-i-kako-ga-jesti)
 - [Repa i kelj ćufte iz rerne sa narom i susamom](https://unazdravahrana.com/recepti/repa-i-kelj-cufte-iz-rerne-sa-narom-i-susamom)
@@ -31,7 +32,6 @@ _Priroda zna recept_
 - [Dunja-kesten mafini sa heljdinim brašnom i čijom](https://unazdravahrana.com/recepti/dunja-kesten-mafini-sa-heljdinim-brasnom-i-cijom)
 - [Šta je orzo? Vrste, kuvanje i zdravije zamene](https://unazdravahrana.com/blog/sta-je-orzo-vrste-kuvanje-i-zdravije-zamene)
 - [Zdrava hrana: gde početi kad ne znate od čega](https://unazdravahrana.com/blog/zdrava-hrana-gde-poceti-kad-ne-znate-od-cega)
-- [Žitarice: koju izabrati i kako je uvesti u svaki obrok](https://unazdravahrana.com/blog/zitarice-koju-izabrati-i-kako-je-uvesti-u-svaki-obrok)
 
 ## Contact
 
@@ -44,4 +44,4 @@ _Priroda zna recept_
 
 This site and its content may be indexed and cited by AI search engines with attribution. Please link back to https://unazdravahrana.com/ when referencing our work. See [ai.txt](https://unazdravahrana.com/ai.txt) for the formal usage policy. A pre-chewed Q&A corpus is at [llms-full.txt](https://unazdravahrana.com/llms-full.txt).
 
-Last updated: 2026-11-02
+Last updated: 2026-11-03

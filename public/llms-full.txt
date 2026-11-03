@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Koliko kalorija sagori sat hodanja i kako da izvučete više
+
+https://unazdravahrana.com/blog/koliko-kalorija-sagori-sat-hodanja-i-kako-da-izvucete-vise
+
+Ponedeljak ujutru ste rešili da više hodate, pa se pitate: "Vredi li ovo uopšte, ili treba da trčim?" Odgovor je jednostavniji nego što mislite. Šetnja ne traži opremu, članarinu ni posebnu spremu, a zdravstvena korist je podržana ozbiljnim istraživanjima.
+
+**Q: Koliko kalorija sagori sat vremena hodanja?**
+
+Zavisi od telesne mase, tempa i terena. Po formuli MET × masa (kg) × sati, osoba od 70 kg pri brzom hodu (oko 5,6 km/h) potroši oko 336 kcal bruto, odnosno oko 266 kcal neto. Za 60 kg to je oko 290 kcal, a za 90 kg oko 430 kcal. Ovo su procene, ne laboratorijska merenja.
+
+**Q: Koliko hodati dnevno za zdravlje?**
+
+Svetska zdravstvena organizacija preporučuje odraslima 150 do 300 minuta umerene aerobne aktivnosti nedeljno. Praktičan primer je oko 30 minuta brzog hoda dnevno, pet dana u nedelji. I manja količina kretanja je bolja od nikakve.
+
+**Q: Da li je 10.000 koraka dnevno obavezno?**
+
+Ne. Taj broj je popularan, ali nauka ga ne potvrđuje kao posebnu granicu. Meta-analiza objavljena u The Lancet Public Health (2025) povezuje oko 7.000 koraka dnevno, u poređenju sa 2.000, sa 25% manjim rizikom od kardiovaskularne bolesti i 47% manjim rizikom od smrti od bilo kog uzroka. Reč je o statističkoj povezanosti, a ne o dokazu uzročnosti.
+
+**Q: Kako da hodanjem sagorim više kalorija?**
+
+Ubrzajte tempo tako da se diše brže, ali još uvek možete da pričate, hodajte dosledno nekoliko puta nedeljno, uključite uzbrdice ili stepenice i dodajte vežbe snage najmanje dva dana nedeljno. Brži hod ima veći MET, pa i veću potrošnju energije.
+
+---
+
 ## Suplementi za žene: šta je bitno u kom životnom dobu
 
 https://unazdravahrana.com/blog/suplementi-za-zene-sta-je-bitno-u-kom-zivotnom-dobu
@@ -646,28 +670,4 @@ Zbog mekane teksture i hladnog služenja često je lakši za jelo, ali nije zame
 
 ---
 
-## Baka Elen (100) i stacionarni bicikl: šta zaista možemo
-
-https://unazdravahrana.com/blog/baka-elen-100-i-stacionarni-bicikl-sta-zaista-mozemo
-
-Članak prati priču stogodišnje Elen Džons, koja kao tajnu vitalnosti navodi radoznalost, aktivnost i društvo, i poredi je sa preporukama SZO i stručnih društava o kretanju i unosu proteina u starijem dobu. Naglašava da je to životna priča jedne osobe, a ne dokaz uzročnosti, i daje praktične savete o rasporedu proteina i oprezu sa suplementima.
-
-**Q: Koliko fizičke aktivnosti preporučuje SZO odraslima?**
-
-Svetska zdravstvena organizacija preporučuje odraslima najmanje 150 do 300 minuta umerene aerobne aktivnosti nedeljno, na primer oko 30 minuta brzog hoda dnevno, pet dana u nedelji. Starijima se savetuje da to kombinuju sa vežbama snage i ravnoteže.
-
-**Q: Koliko proteina dnevno treba osobama starijim od 65 godina?**
-
-Stručne grupe PROT-AGE i ESPEN preporučuju zdravim starijim osobama najmanje 1,0 do 1,2 grama proteina po kilogramu telesne mase dnevno. Osobi od 70 kg to znači oko 70 do 84 grama dnevno. Za pothranjene ili bolesne preporuka je 1,2 do 1,5 g/kg.
-
-**Q: Kako rasporediti proteine tokom dana?**
-
-Bolje je proteine rasporediti kroz dan, otprilike 25 grama u svaki od tri glavna obroka, nego ih uneti uglavnom uveče. Takav raspored pomaže sintezi mišićnih proteina. Dobri izvori su jaja, jogurt, mahunarke, riba, sir, orašasti plodovi i semenke.
-
-**Q: Šta Elen Džons smatra tajnom svoje vitalnosti?**
-
-Elen Džons, koja je u 100. godini i redovno vozi stacionarni bicikl, ne pripisuje formu suplementima ni strogoj rutini. Kao ključne navodi radoznalost, svakodnevnu aktivnost i ljubav i društvo ljudi oko sebe. To je lično iskustvo, a ne dokaz da te navike uzrokuju dug život.
-
----
-
-Last updated: 2026-11-02
+Last updated: 2026-11-03
