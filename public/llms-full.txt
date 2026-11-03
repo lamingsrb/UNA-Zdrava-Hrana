@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kelj-repa palačinke sa narom i heljdinim brašnom
+
+https://unazdravahrana.com/recepti/kelj-repa-palacinke-sa-narom-i-heljdinim-brasnom
+
+Slane palačinke od ribanog kelja i repe sa heljdinim brašnom, čijom i zrnima nara. Brz jesenji recept za 40 minuta, bez glutena i bez jaja.
+
+**Q: Mogu li palačinke da se naprave bez čije?**
+
+Mogu. U tom slučaju dodajte jedno jaje i smanjite vodu na minimum. Čia je dobar izbor za one koji ne jedu jaja, a dodaje i vlakna, pa je vredi probati.
+
+**Q: Da li je recept bez glutena?**
+
+Heljda je po prirodi bez glutena, ali se u proizvodnji brašna ponekad meša sa žitaricama koje ga sadrže. Ako izbegavate gluten zbog celijakije ili osetljivosti, tražite brašno označeno kao bezglutensko, a u radnji vam rado pomažemo pri izboru.
+
+**Q: Može li kelj da se zameni nečim drugim?**
+
+Može. Umesto kelja možete koristiti raštan, blitvu ili spanać, a umesto repe šargarepu ili celer. Ukus će biti drugačiji, ali princip ostaje isti.
+
+**Q: Kako lako izvaditi zrna nara?**
+
+Prepolovite nar, pa polovinu okrenite nad činijom i kuhinjskom varjačom lupkajte po kori. Zrna će lako ispasti, a bela opna ostaje u kori. Tako ćete izbeći prskanje soka.
+
+---
+
 ## Salata od sirove repe, kelja i nara sa čijom
 
 https://unazdravahrana.com/recepti/salata-od-sirove-repe-kelja-i-nara-sa-cijom
@@ -643,30 +667,6 @@ Sastojci u receptu ne sadrže gluten (kesten je prirodno bez glutena), ali prove
 **Q: Šta ako ne volim ukus dunje?**
 
 Dunju možete zameniti pečenom tikvom ili jabukom, a čorba će ostati kremasta. Limunov sok na kraju pomaže da slast ne preovlada.
-
----
-
-## Kesten-dunja kaša sa bukovačom i čijom za slab apetit
-
-https://unazdravahrana.com/recepti/kesten-dunja-kasa-sa-bukovacom-i-cijom-za-slab-apetit
-
-Nežna jesenja kaša od kestena, dunje i bukovače sa čijom — mekano, hranljivo jelo za slab apetit. Recept i saveti iz UNA Zdrave Hrane.
-
-**Q: Može li kaša da se pripremi bez pečuraka?**
-
-Može. Bez bukovače jelo je još blažeg ukusa, a sitno seckane orahe ili kašiku bademovog putera možete koristiti za dodatnu hranljivost.
-
-**Q: Da li se kesten može zameniti nečim drugim?**
-
-Kesten daje poseban slatkast ukus i kremastu teksturu. Ako ga nemate, možete koristiti pire od pečene bundeve ili batata, uz dodatak mlevenog badema radi gustine.
-
-**Q: Je li ovo jelo prikladno za osobe sa zdravstvenim problemima i slabim apetitom?**
-
-Jelo je blago, mekano i lako za pripremu, ali nije zamena za medicinski savet. Količine kalorija i proteina u ishrani kod bolesti određuju lekar ili klinički nutricionista, pa im se obratite za individualni plan.
-
-**Q: Koliko dugo može da stoji u frižideru?**
-
-Kaša se u zatvorenoj posudi čuva u frižideru do 2 dana. Pečurke čuvajte odvojeno, a pre jela sve dobro zagrejte.
 
 ---
 
