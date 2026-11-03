@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Poriluk i giht: sme li na tanjir ili rizikujete napad?
+
+https://unazdravahrana.com/blog/poriluk-i-giht-sme-li-na-tanjir-ili-rizikujete-napad
+
+Ozbiljna istraživanja ne povezuju unos povrća bogatog purinima sa većim rizikom od gihta, dok su meso i morski plodovi rizičniji. Poriluk nije posebno ispitivan, pa se zaključci odnose na povrće bogato purinima uopšte.
+
+**Q: Sme li poriluk da se jede kod gihta?**
+
+Prema dostupnim istraživanjima, povrće bogato purinima nije povezano sa većim rizikom od gihta. Poriluk nije ispitivan posebno, pa se zaključak odnosi na ovu grupu povrća uopšte. Ako imate čestih napada, posavetujte se sa lekarom.
+
+**Q: Da li purini iz povrća izazivaju napad gihta?**
+
+Velika studija na 47.150 muškaraca (NEJM, 2004) nije pronašla vezu između povrća bogatog purinima i gihta. Veći rizik bio je povezan sa unosom mesa i morskih plodova.
+
+**Q: Koliko purina ima u poriluku?**
+
+Nema pouzdanog jedinstvenog podatka. Različiti izvori navode od oko 17 do 74 mg na 100 g, uz različite metode merenja, pa se brojevi razlikuju.
+
+**Q: Treba li kod gihta izbegavati sve namirnice sa purinima?**
+
+Američki koledž za reumatologiju daje samo uslovnu preporuku da se purini ograniče, bez zabrane konkretnih namirnica. Dokazi da stroga dijeta sa malo purina popravlja ishod gihta su ograničeni.
+
+---
+
 ## Kelj-repa palačinke sa narom i heljdinim brašnom
 
 https://unazdravahrana.com/recepti/kelj-repa-palacinke-sa-narom-i-heljdinim-brasnom
@@ -643,30 +667,6 @@ ESPEN navodi okvirno 25–30 kcal po kilogramu telesne mase i više od 1 g prote
 **Q: Mogu li biljni čajevi i sokovi da utiču na onkološku terapiju?**
 
 Mogu. Kantarion može smanjiti izloženost nekim onkološkim lekovima, a sok od grejpfruta može povećati izloženost pojedinim lekovima i rizik od toksičnosti. Pre uzimanja bilo kog biljnog dodatka ili soka posavetujte se sa lekarom.
-
----
-
-## Topla dunja-kesten-bukovača kašika za slab apetit
-
-https://unazdravahrana.com/recepti/topla-dunja-kesten-bukovaca-kasika-za-slab-apetit
-
-Kada apetit popusti, a telo ipak treba hranu, najbolje rade mali, topli i mekani obroci koji se lako jedu. Ovo je upravo takva ponuda iz jedne šerpe: gusta, ali nežna čorba-kašika od dunje, kestena i bukovače, bez tvrde teksture i bez jakih, napadnih mirisa.
-
-**Q: Da li je ova čorba prikladna za osobe sa slabim apetitom?**
-
-Zamišljena je upravo kao mekan, topao i blag obrok koji se lako jede, sa blagim mirisom i kremastom teksturom. Ipak, ako neko u porodici ima zdravstvenih problema ili je pod terapijom, ishranu uskladite sa lekarom ili nutricionistom – ovaj recept ne zamenjuje stručni savet.
-
-**Q: Mogu li pripremiti čorbu unapred?**
-
-Da. Čuvajte je u zatvorenoj posudi u frižideru do 2 dana ili je zamrznite u porcijama. Pri podgrevanju dodajte malo vode ili supe jer se tokom odstajanja zgusne.
-
-**Q: Da li je recept bez glutena?**
-
-Sastojci u receptu ne sadrže gluten (kesten je prirodno bez glutena), ali proverite deklaraciju povrtne supe ako je koristite. Ako ste na strogoj bezglutenskoj ishrani, to je najvažnije proveriti.
-
-**Q: Šta ako ne volim ukus dunje?**
-
-Dunju možete zameniti pečenom tikvom ili jabukom, a čorba će ostati kremasta. Limunov sok na kraju pomaže da slast ne preovlada.
 
 ---
 
