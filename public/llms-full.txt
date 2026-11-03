@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Salata od sirove repe, kelja i nara sa čijom
+
+https://unazdravahrana.com/recepti/salata-od-sirove-repe-kelja-i-nara-sa-cijom
+
+Hrskava jesenja salata od sirove repe, kelja i nara sa čijom i bademima. Gotova za 30 minuta, bez šporeta, bez glutena i laktoze.
+
+**Q: Da li se repa može jesti sirova?**
+
+Da, sirova repa je hrskava i blago ljuta, a u salati se lepo uklapa sa kiselim i slatkim notama. Preporučuje se da se deo repe jede sirov, jer se vitamin C pri termičkoj obradi delimično gubi. Birajte manje, mlađe korenove, oni su blaži.
+
+**Q: Kako da kelj bude mekši i manje gorak u sirovoj salati?**
+
+Uklonite debele peteljke, narežite listove na tanke trakice i 2-3 minuta ih masirajte rukama sa malo limunovog soka i soli. Tako kelj omekša, a prelivi se bolje upijaju.
+
+**Q: Da li je ova salata bez glutena i laktoze?**
+
+Da, recept ne sadrži gluten ni mlečne proizvode. Ako ste na strogoj bezglutenskoj ishrani, proverite deklaraciju senfa i drugih gotovih dodataka.
+
+**Q: Mogu li da pripremim salatu unapred?**
+
+Možete, ali je najbolje da kelj i repu čuvate odvojeno od preliva, nara i semenki, pa sve sjedinite pred služenje. Tako ostaje hrskava i svež izgled.
+
+---
+
 ## Koliko kalorija sagori sat hodanja i kako da izvučete više
 
 https://unazdravahrana.com/blog/koliko-kalorija-sagori-sat-hodanja-i-kako-da-izvucete-vise
@@ -643,30 +667,6 @@ Jelo je blago, mekano i lako za pripremu, ali nije zamena za medicinski savet. K
 **Q: Koliko dugo može da stoji u frižideru?**
 
 Kaša se u zatvorenoj posudi čuva u frižideru do 2 dana. Pečurke čuvajte odvojeno, a pre jela sve dobro zagrejte.
-
----
-
-## Kremasti kesten-dunja puding sa čijom, hladan i lagan
-
-https://unazdravahrana.com/recepti/kremasti-kesten-dunja-puding-sa-cijom-hladan-i-lagan
-
-Kad apetit oslabi, a teška i mirisna jela ne idu, često pomaže nešto malo, meko i hladno. Ovaj puding upravo to i jeste: gladak, blago sladak, bez jakog mirisa, a opet hranljiv.
-
-**Q: Može li se puding napraviti bez kuvanja dunje?**
-
-Ne preporučujemo. Sirova dunja je tvrda i opora, a kuvanjem omekša i postane slatkasta, pa se lako samelje u glatku kremu. Zato je kuvanje važan korak ovog recepta.
-
-**Q: Da li je puding bez glutena?**
-
-Sastojci sami po sebi ne sadrže gluten: kesten, dunja, čija i ovsen ili bademov napitak. Ako izbegavate gluten zbog celijakije, proverite na deklaraciji da biljni napitak od ovsa nosi oznaku da je bez glutena, jer ovas može biti kontaminiran.
-
-**Q: Mogu li da ga zaslađujem manje ili uopšte ne?**
-
-Naravno. Dunja i kesten daju prirodnu slast, pa mnogima med nije potreban. Probajte smesu pre nego što dodate zaslađivač pa prilagodite po ukusu.
-
-**Q: Je li pogodan za osobe sa slabijim apetitom?**
-
-Zbog mekane teksture i hladnog služenja često je lakši za jelo, ali nije zamena za savet struke. Ako imate zdravstvene tegobe ili se lečite, jelovnik prilagodite uz lekara ili nutricionistu.
 
 ---
 
