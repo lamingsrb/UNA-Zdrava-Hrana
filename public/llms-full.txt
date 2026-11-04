@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Vlakna u tanjiru: 7 pristupačnih namirnica koje vredi češće
+
+https://unazdravahrana.com/blog/vlakna-u-tanjiru-7-pristupacnih-namirnica-koje-vredi-cesce
+
+---
+
 ## Kanape sendviči za slavlje: 6 namaza na integralnom hlebu
 
 https://unazdravahrana.com/blog/kanape-sendvici-za-slavlje-6-namaza-na-integralnom-hlebu
@@ -661,12 +667,6 @@ Akutni kašalj traje kraće od tri nedelje, a subakutni od tri do osam nedelja. 
 **Q: Da li je majčina dušica dokazano sredstvo za kašalj?**
 
 Evropska agencija za lekove (EMA) priznaje preparate majčine dušice za produktivan kašalj uz prehladu na osnovu tradicionalne upotrebe, jer nema dovoljno placebo-kontrolisanih studija. Pri kupovini proverite deklaraciju i status proizvoda.
-
----
-
-## Crohn i kolitis: zašto vam smeta hrana koju ste ranije jeli
-
-https://unazdravahrana.com/blog/crohn-i-kolitis-zasto-vam-smeta-hrana-koju-ste-ranije-jeli
 
 ---
 
