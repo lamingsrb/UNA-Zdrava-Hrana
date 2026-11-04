@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Kanape sendviči za slavlje: 6 namaza na integralnom hlebu
+
+https://unazdravahrana.com/blog/kanape-sendvici-za-slavlje-6-namaza-na-integralnom-hlebu
+
+Članak predlaže šest kombinacija kanapea na integralnom ili ražanom hlebu sa tri namaza: humusom, avokadom i mladim sirom. Objašnjava kako da prepoznate pravi integralni hleb i kako da sve pripremite unapred.
+
+**Q: Kako da prepoznam pravi integralni hleb?**
+
+Tamna boja hleba ne garantuje da je pravljen od celog zrna, jer ima i obojenih hlebova. Pročitajte deklaraciju i proverite da li su celo zrno ili integralno brašno prvi sastojak.
+
+**Q: Koji hleb je najbolji za kanape?**
+
+Najsigurniji izbor je kriška integralnog hleba, koja je čvrsta, drži namaz i lako se seče. Ražani hleb ima izraženiji ukus, a integralni tost ostaje hrskav i ne razmekšava se brzo, pa je dobar kad se kanapei prave unapred.
+
+**Q: Kako sprečiti da se kanapei razmekšaju?**
+
+Kriške hleba lagano prepecite u rerni ili na tostu, jer hrskava podloga bolje drži namaz. Prepečen hleb čuvajte u papirnoj kesi, ne u plastičnoj, a namaze držite odvojeno u frižideru do sastavljanja.
+
+**Q: Šta mogu da pripremim dan ranije za slavlje?**
+
+Dan ranije napravite humus i namaz od mladog sira i čuvajte ih u zatvorenim posudama u frižideru. Hleb isecite i prepecite unapred, pa kanape sastavite tek pred dolazak gostiju.
+
+---
+
 ## Poriluk i giht: sme li na tanjir ili rizikujete napad?
 
 https://unazdravahrana.com/blog/poriluk-i-giht-sme-li-na-tanjir-ili-rizikujete-napad
@@ -646,28 +670,4 @@ https://unazdravahrana.com/blog/crohn-i-kolitis-zasto-vam-smeta-hrana-koju-ste-r
 
 ---
 
-## Obroci za slab apetit tokom lečenja: 6 jednostavnih ideja
-
-https://unazdravahrana.com/blog/obroci-za-slab-apetit-tokom-lecenja-6-jednostavnih-ideja
-
-Članak daje šest jednostavnih ideja za obroke osobama sa slabim apetitom tokom onkološkog lečenja, uz pravila: manji i češći obroci, protein prvi, tečnost između obroka. Navodi okvirne ESPEN preporuke za energiju i proteine i upozorava da kantarion i grejpfrut mogu da utiču na dejstvo lekova, pa sve treba proveriti sa lekarom.
-
-**Q: Koliko obroka dnevno treba jesti kad je apetit slab tokom lečenja?**
-
-Preporučuje se 5–6 manjih obroka dnevno, a poželjno je jesti po rasporedu, otprilike na svaka 2 sata, umesto čekanja da se javi glad. Najveći obrok pojedite kad je apetit najjači, a proteinsku hranu jedite prvu.
-
-**Q: Zašto se tečnost ne pije uz obrok kad je apetit slab?**
-
-Veća količina tečnosti uz obrok (preko 120–180 ml) stvara osećaj sitosti i smanjuje količinu pojedene hrane. Zato uz obrok pijte samo male gutljaje, a ostalu tečnost između obroka.
-
-**Q: Koliko proteina i kalorija je potrebno bolesnicima tokom onkološkog lečenja?**
-
-ESPEN navodi okvirno 25–30 kcal po kilogramu telesne mase i više od 1 g proteina po kilogramu dnevno, a po mogućnosti do 1,5 g. Tačan cilj zavisi od bolesti, terapije i funkcije bubrega, pa ga odredite sa lekarom ili nutricionistom.
-
-**Q: Mogu li biljni čajevi i sokovi da utiču na onkološku terapiju?**
-
-Mogu. Kantarion može smanjiti izloženost nekim onkološkim lekovima, a sok od grejpfruta može povećati izloženost pojedinim lekovima i rizik od toksičnosti. Pre uzimanja bilo kog biljnog dodatka ili soka posavetujte se sa lekarom.
-
----
-
-Last updated: 2026-11-03
+Last updated: 2026-11-04
