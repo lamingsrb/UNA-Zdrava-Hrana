@@ -4,6 +4,12 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Ko treba da izbegava avokado ili da ograniči njegov unos?
+
+https://unazdravahrana.com/blog/ko-treba-da-izbegava-avokado-ili-da-ogranici-njegov-unos
+
+---
+
 ## Vlakna u tanjiru: 7 pristupačnih namirnica koje vredi češće
 
 https://unazdravahrana.com/blog/vlakna-u-tanjiru-7-pristupacnih-namirnica-koje-vredi-cesce
@@ -643,30 +649,6 @@ SZO preporučuje najmanje 400 g, odnosno 5 porcija voća i povrća dnevno. U tu 
 **Q: Šta ako jedem iz emocija, kad sam nervozan ili umoran?**
 
 Pre nego što posegnete za hranom, zastanite minut i pitajte se da li ste gladni ili vam treba pauza. Ako je pauza, probajte čaj ili kratku šetnju. Ako hrana postaje jedini način da se nosite sa emocijama, razgovor sa lekarom ili psihologom je dobar korak.
-
----
-
-## Kašalj u hladnim danima: šta smiruje grlo, a šta čeka lekara
-
-https://unazdravahrana.com/blog/kasalj-u-hladnim-danima-sta-smiruje-grlo-a-sta-ceka-lekara
-
-Članak objašnjava šta od kućnih navika može da ublaži kašalj (med za decu stariju od 12 meseci, topli napici, majčina dušica prema EMA) i koliko kašalj normalno traje. Navodi i granice samopomoći: kašalj duži od tri nedelje ili sa alarmantnim simptomima treba da pregleda lekar.
-
-**Q: Da li med stvarno pomaže kod kašlja?**
-
-Cochrane pregled iz 2018. (šest studija, 899 dece uzrasta od 12 meseci do 18 godina) pokazuje da med verovatno ublažava kašalj i poboljšava san više nego placebo, ali su dokazi ograničeni. Zato je tačnije reći da med može pomoći, a ne da rešava kašalj.
-
-**Q: Od kog uzrasta sme da se daje med detetu?**
-
-Med se ne daje deci mlađoj od 12 meseci zbog rizika od botulizma kod odojčadi. Spore su otporne na toplotu, pa ne pomaže ni prokuvavanje meda niti njegovo dodavanje u kuvanu hranu.
-
-**Q: Koliko dugo traje kašalj posle prehlade?**
-
-Akutni kašalj traje kraće od tri nedelje, a subakutni od tri do osam nedelja. Kašalj posle obične prehlade zna da potraje i to samo po sebi nije alarm, ali kašalj duži od tri nedelje treba da pregleda lekar.
-
-**Q: Da li je majčina dušica dokazano sredstvo za kašalj?**
-
-Evropska agencija za lekove (EMA) priznaje preparate majčine dušice za produktivan kašalj uz prehladu na osnovu tradicionalne upotrebe, jer nema dovoljno placebo-kontrolisanih studija. Pri kupovini proverite deklaraciju i status proizvoda.
 
 ---
 
