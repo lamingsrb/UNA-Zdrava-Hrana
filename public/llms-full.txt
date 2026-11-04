@@ -4,6 +4,30 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Zapečeni kelj i nar sa heljdom i susamom u tepsiji
+
+https://unazdravahrana.com/recepti/zapeceni-kelj-i-nar-sa-heljdom-i-susamom-u-tepsiji
+
+Kasna jesen je baš vreme kada se na tezgama sreću tamnozeleni kelj i rubinski nar, a mi često ne znamo šta da radimo sa njima osim salate. Ovaj recept je jedna topla, sitna tepsija: heljda skuvana na zrnu, kelj zapečen sa lukom i belim lukom, a odozgo prelivena sirupom od nara i posuta susamom.
+
+**Q: Da li je ovaj recept bez glutena?**
+
+Heljda je prirodno bez glutena, ali se u preradi ponekad dodiruje sa žitaricama koje ga sadrže. Ako vam je gluten ozbiljan problem (npr. celijakija), tražite heljdu sa oznakom 'bez glutena' na pakovanju. U UNA Zdravoj Hrani vam rado pomažemo da pročitate deklaracije.
+
+**Q: Mogu li da koristim smrznut nar ili sok iz kutije umesto svežeg?**
+
+Sveža zrna nara daju najbolji ukus i hrskavost. Ako ih nemate, možete koristiti prirodan nar sok bez dodatog šećera za sirup, ali zrna za ukras ipak izostavite ili zamenite orasima. Čitajte sastav na pakovanju soka.
+
+**Q: Da li je kelj u ovom jelu siguran ako pijem lekove za razređivanje krvi?**
+
+Kelj je bogat vitaminom K, koji može da utiče na dejstvo nekih lekova za razređivanje krvi, poput varfarina. Zato je najbolje da se pre unošenja veće količine kelja posavetujete sa lekarom, koji može da prilagodi terapiju ili vam da konkretnu preporuku.
+
+**Q: Kako da znam da je heljda dobro skuvana?**
+
+Zrna treba da omekšaju, ali da ostanu cela i rastresita, a voda treba potpuno da se upije. Ako je ostalo malo vode, skinite poklopac na minut-dva. Ostavite je poklopljenu nekoliko minuta nakon kuvanja da se zrna 'odmore'.
+
+---
+
 ## Ko treba da izbegava avokado ili da ograniči njegov unos?
 
 https://unazdravahrana.com/blog/ko-treba-da-izbegava-avokado-ili-da-ogranici-njegov-unos
@@ -625,30 +649,6 @@ Najugroženije su osobe starije od 65 godina i oni sa srčanim, plućnim ili bub
 **Q: Koja sobna temperatura je bezbedna tokom vrućina?**
 
 Batut preporučuje da sobna temperatura tokom dana bude ispod 32 °C, a tokom noći ispod 24 °C. To je naročito važno za decu do dve godine, osobe starije od 60 godina i hronične bolesnike.
-
----
-
-## Zdravija ishrana bez zapinjanja: 8 prepreka i kako ih rešiti
-
-https://unazdravahrana.com/blog/zdravija-ishrana-bez-zapinjanja-8-prepreka-i-kako-ih-resiti
-
-Članak opisuje osam najčešćih prepreka u zdravijoj ishrani, među njima emocionalno jedenje, želju za slatkim, jelo vani i prevelike porcije, uz praktične savete za svaku. Naglašava da savršen jelovnik nije potreban, da navike traže 2 do 5 meseci i da je bolje krenuti od malih koraka.
-
-**Q: Koliko traje da zdrava navika postane automatska?**
-
-Pregled 20 studija pokazuje da zdravstvene navike obično traže 2 do 5 meseci da postanu automatske, uz veliku razliku među ljudima (od 4 do 335 dana). Čuveni „21 dan“ nema oslonac u tim podacima. Zato je bolje kretati od jedne male navike nego od potpunog preokreta.
-
-**Q: Koliko šećera dnevno je preporučljivo unositi?**
-
-SZO savetuje da slobodni šećeri budu manji od 10 % dnevnog unosa energije, što je oko 50 g (oko 12 kafenih kašičica) za osobu koja unosi oko 2000 kcal. Dodatno smanjenje ispod 5 % je uslovna preporuka. Slobodni šećeri uključuju i med, sirupe i voćne sokove.
-
-**Q: Koliko voća i povrća treba jesti dnevno?**
-
-SZO preporučuje najmanje 400 g, odnosno 5 porcija voća i povrća dnevno. U tu količinu ne ulaze krompir, batat, manioka i druge skrobne korenaste namirnice. Ako jedete vani i povrća je malo, nadoknadite ga doručkom ili večerom.
-
-**Q: Šta ako jedem iz emocija, kad sam nervozan ili umoran?**
-
-Pre nego što posegnete za hranom, zastanite minut i pitajte se da li ste gladni ili vam treba pauza. Ako je pauza, probajte čaj ili kratku šetnju. Ako hrana postaje jedini način da se nosite sa emocijama, razgovor sa lekarom ili psihologom je dobar korak.
 
 ---
 
