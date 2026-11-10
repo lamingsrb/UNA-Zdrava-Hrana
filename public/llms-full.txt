@@ -4,6 +4,60 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
+## Jela od kiselog kupusa: 5 recepata za hladne dane
+
+https://unazdravahrana.com/blog/jela-od-kiselog-kupusa-5-recepata-za-hladne-dane
+
+---
+
+## Kelj-dunja salata sa narom i pečenom repom
+
+https://unazdravahrana.com/recepti/kelj-dunja-salata-sa-narom-i-pecenom-repom
+
+Kasna jesen je vreme kada tezga i tepsija prave dobar tim: kovrdžavi kelj, bela repa, mirisna dunja i rubinski nar. Ova topla salata spaja njihove ukuse na jedan tanjir.
+
+**Q: Da li dunja mora da se oljušti pre pečenja?**
+
+Ne mora. Dovoljno je dobro oprati i istrljati dlačice s kore, a isečena na tanke kriške kora tokom pečenja omekša. Ako vam kora smeta, slobodno je skinite.
+
+**Q: Može li se salata pripremiti unapred?**
+
+Pečeno povrće i dresing možete pripremiti dan ranije i čuvati odvojeno u frižideru. Kelj masirajte dresingom, a nar dodajte tek neposredno pre posluživanja da ostane sočan i hrskav.
+
+**Q: Je li salata prikladna za ljude sa intolerancijom na gluten ili laktozu?**
+
+Recept ne sadrži gluten ni mlečne proizvode, ali ako imate celijakiju ili izraženu preosetljivost, proverite deklaracije proizvoda poput senfa i semenki. U radnji vam rado pomažemo pri izboru.
+
+**Q: Koji nar je najbolji za ovu salatu?**
+
+Biraite plod koji je težak za svoju veličinu, sa čvrstom i neoštećenom korom. Takav je obično sočniji. Celi plodovi se u frižideru čuvaju i do dva meseca.
+
+---
+
+## Fibromialgija i ishrana: šta jesti, a šta ograničiti
+
+https://unazdravahrana.com/blog/fibromialgija-i-ishrana-sta-jesti-a-sta-ograniciti
+
+Ishrana ne leči fibromialgiju, ali pregledi studija pokazuju da protivupalni obrasci (mediteranski, biljni, low-FODMAP) mogu doprineti manjem bolu i boljem funkcionisanju. U praksi se preporučuju povrće, cele žitarice, riba i orašasti plodovi, uz ograničenje dodatog šećera i ultraprerađene hrane.
+
+**Q: Može li ishrana da izleči fibromialgiju?**
+
+Ne. Ishrana ne leči fibromialgiju niti zamenjuje terapiju koju je odredio lekar. Pojedini obrasci ishrane, poput protivupalne, mediteranske ili low-FODMAP, u manjim studijama su povezani sa smanjenjem bola i boljim funkcionalnim stanjem.
+
+**Q: Koja ishrana je najbolja za osobe sa fibromialgijom?**
+
+Ne postoji jedna dijeta dokazano najbolja za sve. Najviše obećavaju protivupalni obrasci zasnovani na povrću, voću, celim žitaricama, mahunarkama, orašastim plodovima i ribi, uz što manje ultraprerađene hrane i dodatog šećera.
+
+**Q: Koje namirnice treba ograničiti kod fibromialgije?**
+
+Najčešće se ograničavaju dodati šećer i ultraprerađena hrana. SZO savetuje da slobodni šećeri budu ispod 10% dnevnog unosa energije, a voćne sokove treba ograničiti i birati celo voće jer zadržava vlakna.
+
+**Q: Koliko povrća i voća dnevno treba jesti?**
+
+Svetska zdravstvena organizacija preporučuje najmanje 400 g voća i povrća dnevno, što je otprilike pet porcija. Lako se postiže povrćem u svakom obroku, na primer čorbom ili salatom uz ručak i voćkom za doručak.
+
+---
+
 ## Superhrana za početnike: šta izabrati i kako je koristiti
 
 https://unazdravahrana.com/blog/superhrana-za-pocetnike-sta-izabrati-i-kako-je-koristiti
@@ -25,30 +79,6 @@ Dodajte ih obroku sa žitaricama ili ih pripremite s tečnošću prema uputstvu 
 **Q: Šta proveriti pre kupovine superhrane?**
 
 Pročitajte sastav, uputstvo za upotrebu i način čuvanja. Ako izbegavate određene sastojke, proverite deklaraciju konkretnog proizvoda.
-
----
-
-## Punjeni krompir sa keljom, repom i narom
-
-https://unazdravahrana.com/recepti/punjeni-krompir-sa-keljom-repom-i-narom
-
-Kad zahladni, krompir iz rerne je jednostavna osnova za ručak. Ovde se puni kratko dinstanom korenastom repom i keljom, a zrna nara se dodaju na kraju, da ostanu sveža i sočna.
-
-**Q: Da li je ovo bela repa ili cvekla?**
-
-U receptu se koristi korenasta repa, ne cvekla. Isecite je na sitne kockice kako bi omekšala dok se krompir peče.
-
-**Q: Mogu li da pripremim nadev unapred?**
-
-Možete da izdinstате repu i kelj ranije i čuvate ih poklopljene u frižideru do narednog dana. Nar, orahe i čiju dodajte kada budete služili jelo.
-
-**Q: Da li čia mora da se potapa pre dodavanja?**
-
-Ne mora za ovaj recept: umešava se u topao, vlažan nadev i kratko stoji pre posluživanja. Ako je nadev suv, dodajte još kašiku vode.
-
-**Q: Šta ako vodim računa o unosu vitamina K?**
-
-Kelj sadrži vitamin K. Ako uzimate varfarin ili sličnu terapiju, nemojte naglo menjati količinu zelenog lisnatog povrća u ishrani; o zdravstvenim pitanjima posavetujte se sa lekarom.
 
 ---
 
@@ -120,27 +150,51 @@ Može, ako vam prija. Proverite deklaraciju ako pazite na kofein, naročito zbog
 
 ---
 
-## Slani mafini od repe i kelja sa narom
+## Punjeni krompir sa keljom, repom i narom
 
-https://unazdravahrana.com/recepti/slani-mafini-od-repe-i-kelja-sa-narom
+https://unazdravahrana.com/recepti/punjeni-krompir-sa-keljom-repom-i-narom
 
-Isprobajte sočne slane mafine od repe i kelja sa čijom i orasima. Zrna nara dodaju se posle pečenja za svež jesenji zalogaj.
+Kad zahladni, krompir iz rerne je jednostavna osnova za ručak. Ovde se puni kratko dinstanom korenastom repom i keljom, a zrna nara se dodaju na kraju, da ostanu sveža i sočna.
 
-**Q: Da li nar ide u testo?**
+**Q: Da li je ovo bela repa ili cvekla?**
 
-Bolje ga je dodati posle pečenja: zrna tako zadržavaju svežinu i prijatan kontrast toplim mafinima.
+U receptu se koristi korenasta repa, ne cvekla. Isecite je na sitne kockice kako bi omekšala dok se krompir peče.
 
-**Q: Kako da znam da su mafini pečeni?**
+**Q: Mogu li da pripremim nadev unapred?**
 
-Površina treba blago da porumeni, a čačkalica zabodena u sredinu da izađe bez vlažnog testa.
+Možete da izdinstате repu i kelj ranije i čuvate ih poklopljene u frižideru do narednog dana. Nar, orahe i čiju dodajte kada budete služili jelo.
 
-**Q: Mogu li da koristim bezglutensko brašno?**
+**Q: Da li čia mora da se potapa pre dodavanja?**
 
-Možete probati, ali tekstura može biti drugačija. Ako izbegavate gluten, proverite deklaraciju svakog sastojka i pitajte u radnji koje je brašno dostupno.
+Ne mora za ovaj recept: umešava se u topao, vlažan nadev i kratko stoji pre posluživanja. Ako je nadev suv, dodajte još kašiku vode.
 
-**Q: Zašto se repa cedi pre dodavanja?**
+**Q: Šta ako vodim računa o unosu vitamina K?**
 
-Rendana repa pušta vodu. Ceđenjem se smanjuje mogućnost da mafini ostanu vlažni u sredini.
+Kelj sadrži vitamin K. Ako uzimate varfarin ili sličnu terapiju, nemojte naglo menjati količinu zelenog lisnatog povrća u ishrani; o zdravstvenim pitanjima posavetujte se sa lekarom.
+
+---
+
+## Isti obrok, drugačiji osećaj: zašto se to dešava?
+
+https://unazdravahrana.com/blog/isti-obrok-drugaciji-osecaj-zasto-se-to-desava
+
+Ljudi mogu različito reagovati na isti obrok, a i kod iste osobe san i okolnosti mogu promeniti osećaj posle jela. Glad ili umor nisu sami po sebi dokaz pada šećera; korisnije je pratiti obrasce i sastavljati raznovrsne, zasitne obroke.
+
+**Q: Zašto se posle istog obroka ne osećam uvek isto?**
+
+Na osećaj posle jela, pored hrane, mogu uticati san, ostatak obroka i okolnosti tog dana.
+
+**Q: Da li glad ubrzo posle jela znači da mi je pao šećer?**
+
+Ne nužno. Glad sama po sebi ne potvrđuje nisku glukozu u krvi; obratite pažnju i na sastav obroka i na to kada ste prethodno jeli.
+
+**Q: Da li pospanost posle ručka znači da mi neka namirnica ne prija?**
+
+Ne mora da znači. Pospanost može imati različite razloge, uključujući loš san, i nije pouzdan pokazatelj nivoa glukoze.
+
+**Q: Kako da sastavim obrok koji će me duže držati sitim?**
+
+Posmatrajte ceo obrok: uključite raznovrsnu hranu, poput povrća, voća, mahunarki ili celih žitarica, pa pratite kada ponovo ogladnite.
 
 ---
 
@@ -188,51 +242,27 @@ Nije, jer bulgur sadrži gluten. Ako izbegavate gluten, raspitajte se u radnji o
 
 ---
 
-## Isti obrok, drugačiji osećaj: zašto se to dešava?
+## Slani mafini od repe i kelja sa narom
 
-https://unazdravahrana.com/blog/isti-obrok-drugaciji-osecaj-zasto-se-to-desava
+https://unazdravahrana.com/recepti/slani-mafini-od-repe-i-kelja-sa-narom
 
-Ljudi mogu različito reagovati na isti obrok, a i kod iste osobe san i okolnosti mogu promeniti osećaj posle jela. Glad ili umor nisu sami po sebi dokaz pada šećera; korisnije je pratiti obrasce i sastavljati raznovrsne, zasitne obroke.
+Isprobajte sočne slane mafine od repe i kelja sa čijom i orasima. Zrna nara dodaju se posle pečenja za svež jesenji zalogaj.
 
-**Q: Zašto se posle istog obroka ne osećam uvek isto?**
+**Q: Da li nar ide u testo?**
 
-Na osećaj posle jela, pored hrane, mogu uticati san, ostatak obroka i okolnosti tog dana.
+Bolje ga je dodati posle pečenja: zrna tako zadržavaju svežinu i prijatan kontrast toplim mafinima.
 
-**Q: Da li glad ubrzo posle jela znači da mi je pao šećer?**
+**Q: Kako da znam da su mafini pečeni?**
 
-Ne nužno. Glad sama po sebi ne potvrđuje nisku glukozu u krvi; obratite pažnju i na sastav obroka i na to kada ste prethodno jeli.
+Površina treba blago da porumeni, a čačkalica zabodena u sredinu da izađe bez vlažnog testa.
 
-**Q: Da li pospanost posle ručka znači da mi neka namirnica ne prija?**
+**Q: Mogu li da koristim bezglutensko brašno?**
 
-Ne mora da znači. Pospanost može imati različite razloge, uključujući loš san, i nije pouzdan pokazatelj nivoa glukoze.
+Možete probati, ali tekstura može biti drugačija. Ako izbegavate gluten, proverite deklaraciju svakog sastojka i pitajte u radnji koje je brašno dostupno.
 
-**Q: Kako da sastavim obrok koji će me duže držati sitim?**
+**Q: Zašto se repa cedi pre dodavanja?**
 
-Posmatrajte ceo obrok: uključite raznovrsnu hranu, poput povrća, voća, mahunarki ili celih žitarica, pa pratite kada ponovo ogladnite.
-
----
-
-## Jesenji namaz od bele repe, kelja i oraha
-
-https://unazdravahrana.com/recepti/jesenji-namaz-od-bele-repe-kelja-i-oraha
-
-Kad kasna jesen donese kelj i repu, od njih može da nastane nešto drugačije od čorbe ili salate: blag, kremast namaz sa svežim zrncima nara. Prija kao užina ili dodatak porodičnoj trpezi, a priprema se bez komplikovanih koraka.
-
-**Q: Da li mora da se koristi bela repa?**
-
-Bela repa daje ovom namazu blag ukus i kremastu osnovu. Sa drugom vrstom repe ukus i boja biće drugačiji.
-
-**Q: Može li namaz bez blendera?**
-
-Može, ako je repa sasvim mekana. Izgnječi je viljuškom, a kelj i orahe prethodno sitno iseckaj; namaz će biti rustičniji.
-
-**Q: Da li je recept bez glutena?**
-
-Sastojci navedeni u receptu ne uključuju brašno. Ako izbegavaš gluten zbog intolerancije, proveri deklaracije upakovanih sastojaka i izbor priloga.
-
-**Q: Kada se dodaje nar?**
-
-Na samom kraju, preko gotovog namaza. Tako njegova zrnca ostaju cela i sočna.
+Rendana repa pušta vodu. Ceđenjem se smanjuje mogućnost da mafini ostanu vlažni u sredini.
 
 ---
 
@@ -260,6 +290,30 @@ Tečnost dodajte postepeno, jer je i lignje mogu pustiti. Ako je sos redak, krat
 
 ---
 
+## Jesenji namaz od bele repe, kelja i oraha
+
+https://unazdravahrana.com/recepti/jesenji-namaz-od-bele-repe-kelja-i-oraha
+
+Kad kasna jesen donese kelj i repu, od njih može da nastane nešto drugačije od čorbe ili salate: blag, kremast namaz sa svežim zrncima nara. Prija kao užina ili dodatak porodičnoj trpezi, a priprema se bez komplikovanih koraka.
+
+**Q: Da li mora da se koristi bela repa?**
+
+Bela repa daje ovom namazu blag ukus i kremastu osnovu. Sa drugom vrstom repe ukus i boja biće drugačiji.
+
+**Q: Može li namaz bez blendera?**
+
+Može, ako je repa sasvim mekana. Izgnječi je viljuškom, a kelj i orahe prethodno sitno iseckaj; namaz će biti rustičniji.
+
+**Q: Da li je recept bez glutena?**
+
+Sastojci navedeni u receptu ne uključuju brašno. Ako izbegavaš gluten zbog intolerancije, proveri deklaracije upakovanih sastojaka i izbor priloga.
+
+**Q: Kada se dodaje nar?**
+
+Na samom kraju, preko gotovog namaza. Tako njegova zrnca ostaju cela i sočna.
+
+---
+
 ## Aktivni ugalj: kada ga koristiti, a kada preskočiti
 
 https://unazdravahrana.com/blog/aktivni-ugalj-kada-ga-koristiti-a-kada-preskociti
@@ -284,6 +338,30 @@ Ne na svoju ruku. Odmah potražite stručnu pomoć; ugalj se koristi samo kod od
 
 ---
 
+## Sarmice od kelja sa repom, heljdom i narom
+
+https://unazdravahrana.com/recepti/sarmice-od-kelja-sa-repom-heljdom-i-narom
+
+Topli jesenji ručak: sarmice od glavičastog kelja punjene repom, heljdom i orasima, sa svežim narom na kraju.
+
+**Q: Da li se u receptu koristi lisnati ili glavičasti kelj?**
+
+Glavičasti kelj. Njegovi veći listovi mogu da se omekšaju u ključaloj vodi i uviju oko fila.
+
+**Q: Da li je repa isto što i cvekla?**
+
+Ne. Za ovaj recept koristite korenastu repu, ne cveklu.
+
+**Q: Mogu li sarmice da pripremim unapred?**
+
+Možete ih skuvati unapred i čuvati poklopljene u frižideru. Zrna nara dodajte neposredno pre posluživanja.
+
+**Q: Zašto se nar ne kuva sa sarmicama?**
+
+Kada se doda na kraju, zadržava svež ukus i daje kontrast toplom filu.
+
+---
+
 ## Kako smanjiti stres: obroci, san i biljni čajevi
 
 https://unazdravahrana.com/blog/kako-smanjiti-stres-obroci-san-i-biljni-cajevi
@@ -305,6 +383,26 @@ Stres sam po sebi ne znači da vam je potreban suplement. Mahunarke, orašasti p
 **Q: Koje navike mogu pomoći kada sam pod stresom?**
 
 Obratite pažnju na redovne obroke, san i prilike za kretanje. Ako tegobe traju ili se pojačavaju, potražite savet lekara.
+
+---
+
+## Topla testenina s keljom, repom i narom
+
+https://unazdravahrana.com/recepti/topla-testenina-s-keljom-repom-i-narom
+
+Kad zahladni, prija topao obrok koji se sprema u jednom tiganju dok se testenina kuva. Repa daje blagu slatkoću, kelj ostaje pomalo hrskav, a zrna nara na kraju unose svežinu.
+
+**Q: Može li nar da se doda tokom dinstanja?**
+
+Bolje ga dodajte na kraju: tako ostaje svež i pruža lep kontrast toploj testenini.
+
+**Q: Da li čia semenke moraju da se natope?**
+
+U ovom receptu da. Kratko stajanje u vodi i limunovom soku pomaže da se preliv ravnomernije umeša u testeninu.
+
+**Q: Mogu li da koristim glavati kelj?**
+
+Možete. Uklonite tvrde delove listova, isecite ih tanko i, ako je potrebno, dinstajte malo duže.
 
 ---
 
@@ -353,50 +451,6 @@ Dodajte malo mleka, promešajte i proverite gustinu. Ponavljajte po potrebi, bez
 **Q: Može li kesten pire da se napravi bez ruma?**
 
 Može. Rum je opcioni dodatak i nije potreban da bi pire uspeo.
-
----
-
-## Topla testenina s keljom, repom i narom
-
-https://unazdravahrana.com/recepti/topla-testenina-s-keljom-repom-i-narom
-
-Kad zahladni, prija topao obrok koji se sprema u jednom tiganju dok se testenina kuva. Repa daje blagu slatkoću, kelj ostaje pomalo hrskav, a zrna nara na kraju unose svežinu.
-
-**Q: Može li nar da se doda tokom dinstanja?**
-
-Bolje ga dodajte na kraju: tako ostaje svež i pruža lep kontrast toploj testenini.
-
-**Q: Da li čia semenke moraju da se natope?**
-
-U ovom receptu da. Kratko stajanje u vodi i limunovom soku pomaže da se preliv ravnomernije umeša u testeninu.
-
-**Q: Mogu li da koristim glavati kelj?**
-
-Možete. Uklonite tvrde delove listova, isecite ih tanko i, ako je potrebno, dinstajte malo duže.
-
----
-
-## Sarmice od kelja sa repom, heljdom i narom
-
-https://unazdravahrana.com/recepti/sarmice-od-kelja-sa-repom-heljdom-i-narom
-
-Topli jesenji ručak: sarmice od glavičastog kelja punjene repom, heljdom i orasima, sa svežim narom na kraju.
-
-**Q: Da li se u receptu koristi lisnati ili glavičasti kelj?**
-
-Glavičasti kelj. Njegovi veći listovi mogu da se omekšaju u ključaloj vodi i uviju oko fila.
-
-**Q: Da li je repa isto što i cvekla?**
-
-Ne. Za ovaj recept koristite korenastu repu, ne cveklu.
-
-**Q: Mogu li sarmice da pripremim unapred?**
-
-Možete ih skuvati unapred i čuvati poklopljene u frižideru. Zrna nara dodajte neposredno pre posluživanja.
-
-**Q: Zašto se nar ne kuva sa sarmicama?**
-
-Kada se doda na kraju, zadržava svež ukus i daje kontrast toplom filu.
 
 ---
 
@@ -604,76 +658,4 @@ Prema NIH-u, žene od 19 do 50 godina treba da unose 1.000 mg kalcijuma dnevno, 
 
 ---
 
-## Džejmi Oliver i superhrana: šta je u fokusu i kako ga jesti
-
-https://unazdravahrana.com/blog/dzejmi-oliver-i-superhrana-sta-je-u-fokusu-i-kako-ga-jesti
-
-Superhrana nije stručan pojam i nema zvaničnu definiciju kod regulatora poput FDA i EFSA, a Džejmi Oliver naglašava šarenu, uravnoteženu ishranu umesto jedne čudesne namirnice. Članak daje praktične ideje za svakodnevne obroke, od ovsa za doručak do pravilne upotrebe čia semenki.
-
-**Q: Šta znači reč superhrana?**
-
-Superhrana nije stručan ni zvaničan pojam. Regulatori poput FDA, USDA i EFSA nemaju njenu definiciju, a ona se u praksi koristi za namirnice bogate nutrijentima. Najbolji način za uravnotežen unos nutrijenata i dalje je raznovrsna ishrana sa dosta voća i povrća.
-
-**Q: Šta Džejmi Oliver kaže o superhrani?**
-
-Oliver ne ističe jednu čudesnu namirnicu, već zastupa uravnoteženu ishranu sa širokim izborom voća, povrća, integralnih žitarica i namirnica iz svih grupa. Po njemu superhrana ne mora da znači skupe sastojke, već može biti svakodnevna i ukusna navika.
-
-**Q: Kako se pravilno jedu čia semenke?**
-
-Čiu ne treba jesti suvu iz kesice na kašiku. Najbolje je da se natopi u tečnosti, poput mleka, biljnog napitka, soka ili jogurta, dok ne zgusne. Za početak je dovoljna jedna kašičica u jogurt ili kašu.
-
-**Q: Koji je najjednostavniji način da počnem sa zdravijom ishranom?**
-
-Najlakše je da počnete od doručka. Zamenite slatki doručak ovsenim pahuljicama, na primer kašom sa voćem i orasima ili ovsom natopljenim preko noći u jogurtu sa borovnicama. Čak i dva puta nedeljno je dobar početak.
-
----
-
-## Repa i kelj ćufte iz rerne sa narom i susamom
-
-https://unazdravahrana.com/recepti/repa-i-kelj-cufte-iz-rerne-sa-narom-i-susamom
-
-Kasna jesen je vreme kada se tezge i police pune korenastim povrćem, a repa i kelj su sezonske namirnice koje zaslužuju više pažnje nego što ih dobijaju.
-
-**Q: Mogu li ćufte da se naprave bez rerne, na tiganju?**
-
-Mogu, ali su pečene u rerni lakše i zahtevaju manje ulja. Ako ih pržite, koristite malo ulja, srednju vatru i oblikujte ih nešto pljosnatije da se ravnomerno ispeku.
-
-**Q: Zašto se ćufte raspadaju?**
-
-Najčešće je smesa previše vlažna. Dobro iscedite izrendanu repu, ostavite smesu da odstoji 5 minuta i po potrebi dodajte kašiku ovsenih pahuljica ili čije. Ohlađene ćufte se i lakše vade iz pleha.
-
-**Q: Da li je jelo prikladno za decu?**
-
-Ukus je blag i ćufte su mekane, pa ih deca obično rado jedu, naročito uz jogurt-preliv. Ako dete ima alergiju na susam ili neki drugi sastojak, izostavite ga ili zamenite semenkama koje podnosi.
-
-**Q: Može li se pripremiti unapred?**
-
-Može. Smesu možete oblikovati i držati u frižideru do sutradan, ili ispeći ćufte unapred i samo ih podgrejati. Nar i jogurt dodajte uvek na kraju.
-
----
-
-## Kelj i repa pite sa narom, ovsom i susamom
-
-https://unazdravahrana.com/recepti/kelj-i-repa-pite-sa-narom-ovsom-i-susamom
-
-Slana jesenja pita od kelja i repe sa ovsenom korom, susamom i narom. Bez maslaca i belog brašna, gotova za sat vremena.
-
-**Q: Da li ova pita može da se pripremi unapred?**
-
-Može. Možete je ispeći dan ranije i čuvati u frižideru, pa je pred služenje kratko zagrejati u rerni. Zrna nara dodajte tek na kraju.
-
-**Q: Može li se napraviti bez jaja?**
-
-Može, ali će fil biti mekši. Umesto jaja i jogurta probajte kremu od izgnječenog kuvanog belog pasulja sa malo ulja i začina. Pita će se lakše seći kad se potpuno ohladi.
-
-**Q: Da li je pita pogodna za decu?**
-
-Većina dece rado jede ovakvu pitu, naročito ako repu fino izrendate i dodate orahe. Zrna nara im obično deluju zanimljivo i privlače pažnju. Ako imate sumnju na alergije, posebno na orašaste plodove ili susam, izostavite ih ili se posavetujte sa pedijatrom.
-
-**Q: Čime najbolje poslužiti pitu?**
-
-Odlično ide uz salatu od kiselog kupusa, cvekle ili rendanog celera sa limunom. Za dodatnu svežinu poslužite uz čašu kiselog mleka ili jogurta.
-
----
-
-Last updated: 2026-11-09
+Last updated: 2026-11-10
