@@ -1,0 +1,23 @@
+Fonts are bundled to keep production builds independent of Google Fonts responses.
+Original variable font outlines and glyph coverage are preserved; TTF files are compressed losslessly to WOFF2 with fontTools/Brotli.
+Both families are licensed under SIL Open Font License 1.1 (see included licenses).
+
+fraunces-normal.woff2:
+  Source: https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/Fraunces%5BSOFT%2CWONK%2Copsz%2Cwght%5D.ttf
+  Source Git blob SHA-1: 8210f9488d3c732359a9292dd09aca3f2bae830e
+
+fraunces-italic.woff2:
+  Source: https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/Fraunces-Italic%5BSOFT%2CWONK%2Copsz%2Cwght%5D.ttf
+  Source Git blob SHA-1: 2ddf59a11b89a3d6b2816ea6ae7965026c08143a
+
+manrope.woff2:
+  Source: https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf
+  Source Git blob SHA-1: 75274da58537d6123b14f2cd0c355ad4681fc2b3
+
+FRAUNCES-OFL.txt:
+  Source: https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/OFL.txt
+  Source Git blob SHA-1: 22fa7ce5733434d0c634f6e55116f410858e938c
+
+MANROPE-OFL.txt:
+  Source: https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt
+  Source Git blob SHA-1: e271172a9ed0cddc895aabb6509f1c7d880b492d

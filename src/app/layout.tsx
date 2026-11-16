@@ -1,20 +1,24 @@
 import type { Metadata, Viewport } from 'next'
-import { Fraunces, Manrope } from 'next/font/google'
+import localFont from 'next/font/local'
 import Script from 'next/script'
 import { SITE_URL, site } from '@/lib/site'
 import './globals.css'
 
-const fraunces = Fraunces({
-  subsets: ['latin', 'latin-ext'],
-  style: ['normal', 'italic'],
-  weight: ['400', '500', '600', '700'],
+// Keep the same typography without a Google Fonts request during each build.
+const fraunces = localFont({
+  src: [
+    { path: './fonts/fraunces-normal.woff2', weight: '400 700', style: 'normal' },
+    { path: './fonts/fraunces-italic.woff2', weight: '400 700', style: 'italic' },
+  ],
   variable: '--font-fraunces',
   display: 'swap',
+  adjustFontFallback: 'Times New Roman',
 })
 
-const manrope = Manrope({
-  subsets: ['latin', 'latin-ext'],
-  weight: ['400', '500', '600', '700', '800'],
+const manrope = localFont({
+  src: './fonts/manrope.woff2',
+  weight: '400 800',
+  style: 'normal',
   variable: '--font-manrope',
   display: 'swap',
 })
