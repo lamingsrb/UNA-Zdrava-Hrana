@@ -4,71 +4,167 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
-## 6 veganskih recepata bez glutena, od kaše do deserta
+## Proteinski hleb sa mladim sirom: recept bez mešenja
 
-https://unazdravahrana.com/blog/6-veganskih-recepata-bez-glutena-od-kase-do-deserta
+https://unazdravahrana.com/blog/proteinski-hleb-sa-mladim-sirom-recept-bez-mesenja
 
-Članak donosi šest ideja za veganske obroke bez glutena, od doručka do deserta. Objašnjava koje deklaracije treba proveriti i kako izbeći kontakt hrane s glutenom pri pripremi za osobu sa celijakijom.
+Hleb sa mladim sirom, jajima i ovsenim pahuljicama pravi se mešanjem sastojaka kašikom, bez mešenja i čekanja da testo naraste. Peče se na 180 °C približno 35–45 minuta, uz proveru da sredina nije tečna.
 
-**Q: Da li je svaka veganska hrana bez glutena?**
+**Q: Koji sastojci su potrebni za hleb sa mladim sirom?**
 
-Ne. Veganska hrana ne sadrži namirnice životinjskog porekla, ali može sadržati pšenicu, ječam ili raž.
+Potrebni su 250 g mladog sira, 2 jaja, 100 g ovsenih pahuljica, kašičica praška za pecivo i prstohvat soli. Za kalup treba malo maslinovog ulja, a 2 kašike semenki možete dodati po želji.
 
-**Q: Koje ovsene pahuljice koristiti za osobu sa celijakijom?**
+**Q: Da li se ovaj hleb mesi i ostavlja da naraste?**
 
-Birajte pahuljice označene kao bezglutenske i pazite da tokom pripreme ne dođu u kontakt s mrvicama ili sastojcima koji sadrže gluten.
+Ne. Sastojci se sjedine kašikom ili viljuškom, smesa se prebaci u kalup i odmah peče.
 
-**Q: Kako se prave slane palačinke bez jaja i pšeničnog brašna?**
+**Q: Koliko dugo se peče hleb sa mladim sirom?**
 
-Umutite brašno leblebije s vodom, dodajte spanać i mladi luk, pa pecite manje palačinke. Okrenite ih tek kada se ivice učvrste.
+Peče se na 180 °C približno 35–45 minuta. Pre vađenja proverite da sredina deluje stegnuto i da nema vidljivo tečne smese.
 
-**Q: Da li je ishrana bez glutena sama po sebi zdravija?**
+**Q: Mogu li ovsene pahuljice da zamenim integralnim brašnom?**
 
-Ne. Izostavljanje glutena nije samo po sebi zdravije niti je prečica do mršavljenja; ako sumnjate na celijakiju, obratite se lekaru.
-
----
-
-## 6 jesenjih voćki: kako birati ako pratite šećer
-
-https://unazdravahrana.com/blog/6-jesenjih-vocki-kako-birati-ako-pratite-secer
-
-Jesenje voće može biti deo jelovnika osoba koje prate šećer u krvi, uz pažnju na porciju i ukupne ugljene hidrate u obroku. Kod smokava i brusnica posebno je važan oblik u kom se jedu, a kod jabuka, krušaka i nara količina koju zaista pojedete.
-
-**Q: Da li osobe sa dijabetesom moraju da izbegavaju voće?**
-
-Ne. Ugljene hidrate iz voća treba uračunati u individualni plan obroka.
-
-**Q: Kolika je porcija svežeg voća?**
-
-Diabetes UK navodi 80 g svežeg voća kao orijentir, ali sastav zavisi od vrste voća.
-
-**Q: Da li su suve smokve isto što i sveže?**
-
-Ne. Suvo voće zauzima manje mesta, pa je lako pojesti više; oko 30 g sušenog voća je orijentir za porciju.
-
-**Q: Da li je bolje izabrati ceo plod ili sok?**
-
-Kada možete, izaberite ceo plod. Kod soka i smutija proverite koliko je voća upotrebljeno i koliko je vlakana ostalo.
+Ne treba ih zameniti istom količinom brašna i očekivati isti rezultat: brašno i pahuljice različito upijaju vlagu. Za prvi pokušaj držite se ovsenih pahuljica.
 
 ---
 
-## Jesenja pica s keljom, repom i narom
+## Sirovo meso i bez povrća: rizici „mračne ishrane”
 
-https://unazdravahrana.com/recepti/jesenja-pica-s-keljom-repom-i-narom
+https://unazdravahrana.com/blog/sirovo-meso-i-bez-povrca-rizici-mracne-ishrane
 
-Kad se uželite nečeg toplog i hrskavog, a pri ruci su jesenje namirnice, probajte ovu picu bez klasičnog sosa. Rendana repa i kelj peku se na tankoj kori, dok se nar dodaje tek na kraju da ostane svež.
+„Mračna ishrana” nije jedinstvena dijeta, već trend koji promoviše nepoverenje prema stručnim savetima i potencijalno rizične izbore hrane. Članak objašnjava rizike sirovog mesa i nepasterizovanog mleka i podseća na važnost raznovrsne ishrane i provere izvora.
 
-**Q: Zašto se repa cedi pre pečenja?**
+**Q: Šta je „mračna ishrana”?**
 
-Rendana repa pušta vodu. Kada je iscedite, povrće će se lepše ispeći, a kora neće biti gnjecava.
+To nije dijeta s propisanim jelovnikom, već naziv za trend nepoverenja prema stručnim savetima o ishrani i okretanja nekonvencionalnim praksama.
 
-**Q: Može li se nar staviti na picu pre pečenja?**
+**Q: Zašto je jedenje sirovog mesa rizično?**
 
-Može, ali preporučujemo da ga dodate na kraju: tako ostaje svež i pravi prijatan kontrast toplom povrću.
+Sirovo meso može preneti uzročnike bolesti koje se prenose hranom. Pravilna termička obrada i provera termometrom za hranu smanjuju rizik.
 
-**Q: Da li je ovaj recept bez glutena?**
+**Q: Da li je nepasterizovano mleko hranljivije od pasterizovanog?**
 
-Nije, jer sadrži integralno brašno od pšenice. Ako izbegavate gluten, pitajte u radnji koje brašno iz asortimana odgovara vašim potrebama; možda će biti potrebno prilagoditi i količinu vode.
+Prema CDC-u, pasterizovano mleko pruža iste nutritivne koristi, bez rizika povezanih s konzumiranjem sirovog mleka.
+
+**Q: Da li zbog „mračne ishrane” treba izbaciti povrće?**
+
+Ne postoji dobar razlog da se sve povrće proglasi štetnim. Raznovrsna ishrana je bolja polazna tačka od izbacivanja cele grupe namirnica bez jasnog razloga.
+
+---
+
+## Domaće tortilje s keljom, belom repom i narom
+
+https://unazdravahrana.com/recepti/domace-tortilje-s-keljom-belom-repom-i-narom
+
+Kad kasna jesen donese kelj i belu repu, od njih može da nastane ručak koji se jede rukama: tople domaće tortilje sa povrćem, orasima i svežim zrnima nara. Slatkast i kiselkast nar dodaje se tek na kraju, da ostane sočan.
+
+**Q: Da li mora da se koristi baš bela repa?**
+
+Ovaj recept je osmišljen za belu repu. Ako birate drugu namirnicu, prilagodite vreme dinstanja njenoj čvrstini.
+
+**Q: Mogu li tortilje da napravim unapred?**
+
+Mogu. Držite ih pokrivene da se ne osuše, a pre posluživanja ih kratko zagrejte u tiganju.
+
+**Q: Kada se dodaje nar?**
+
+Na samom kraju, preko toplog fila. Tako zrna zadržavaju svoju sočnost.
+
+**Q: Šta ako uzimam varfarin?**
+
+Kelj sadrži vitamin K. Ako uzimate varfarin, nemojte naglo menjati količinu kelja u ishrani; o tome se posavetujte sa svojim lekarom.
+
+---
+
+## Zapečeni kelj i bela repa sa orasima i narom
+
+https://unazdravahrana.com/recepti/zapeceni-kelj-i-bela-repa-sa-orasima-i-narom
+
+Kad zahladni, prija jelo koje izlazi toplo iz rerne, a ne traži mnogo posla. U ovom složencu bela repa omekša, glavati kelj ostane prijatno sočan, a nar se dodaje tek na kraju, za svež kontrast.
+
+**Q: Da li mogu da koristim lisnati kelj?**
+
+Možete, ali recept je pisan za glavati kelj. Lisnati kelj ima drugačiju teksturu, pa ga pratite tokom kratkog kuvanja i prilagodite vreme po potrebi.
+
+**Q: Zašto se nar dodaje posle pečenja?**
+
+Tako zrna zadržavaju svežinu i daju prijatan kontrast toplom, kremastom povrću.
+
+**Q: Mogu li da izostavim orahe?**
+
+Da. Složenac će uspeti i bez njih, samo će imati manje hrskavu površinu.
+
+---
+
+## Ražnjići od dunje i repe na toplom bulguru
+
+https://unazdravahrana.com/recepti/raznjici-od-dunje-i-repe-na-toplom-bulguru
+
+Dunja ne mora da završi samo u kompotu. Kada se ispeče uz belu repu, dobija se mirisna osnova za jesenji ručak, a zrna nara na kraju unose svežinu.
+
+**Q: Koji kelj se koristi u receptu?**
+
+Glavati kelj: listove tanko isecite i kratko zagrejte u tiganju da omekšaju.
+
+**Q: Može li recept bez ražnjića?**
+
+Može. Komade dunje i repe pecite raspoređene po plehu, pa ih poslužite preko bulgura.
+
+**Q: Da li je bulgur pogodan ako izbegavam gluten?**
+
+Nije, bulgur sadrži gluten. Za izbor odgovarajuće zamene pitajte u radnji; kod zdravstvenih pitanja posavetujte se s lekarom.
+
+**Q: Kada se dodaje nar?**
+
+Tek pri služenju, kako bi zrna ostala sveža i sočna.
+
+---
+
+## Hemikalije iz ambalaže: kako čuvati hranu kod kuće
+
+https://unazdravahrana.com/blog/hemikalije-iz-ambalaze-kako-cuvati-hranu-kod-kuce
+
+Istraživanje je izdvojilo hemikalije iz materijala za kontakt s hranom koje treba dalje ispitati, ali ne dokazuje da svaka ambalaža predstavlja rizik. Kod kuće birajte posudu prema nameni, proverite njeno stanje i ne podgrevajte hranu u njoj bez jasne oznake da je pogodna za to.
+
+**Q: Da li svaka ambalaža za hranu sadrži opasne hemikalije?**
+
+Ne. Pomenuto istraživanje je odredilo prioritete za dalja ispitivanja; nije pokazalo da svaka ambalaža sadrži izdvojene hemikalije ili da one prelaze u hranu.
+
+**Q: Da li je staklo uvek bolji izbor od plastike za čuvanje hrane?**
+
+Ne može se suditi samo po materijalu. Proverite da li je konkretna posuda namenjena za hranu i za način upotrebe koji planirate.
+
+**Q: Mogu li da podgrejem hranu u plastičnoj kutiji?**
+
+Samo ako proizvođač navodi da je konkretna kutija pogodna za mikrotalasnu rernu. Ako oznaka nedostaje, prebacite hranu u odgovarajuću posudu.
+
+**Q: Da li je hrana kupljena u rinfuzi bezbednija od upakovane?**
+
+Pomenuta studija nije upoređivala bezbednost rinfuzne i upakovane hrane. I rinfuzna hrana dolazi u kontakt s opremom i posudama.
+
+---
+
+## Monaški voćni šećer: zdraviji od običnog šećera?
+
+https://unazdravahrana.com/blog/monaski-vocni-secer-zdraviji-od-obicnog-secera
+
+Ekstrakt monaškog voća daje slatkoću uz znatno manji energetski doprinos od šećera, ali to ne dokazuje dugoročnu zdravstvenu korist. Gotovi proizvodi se razlikuju po sastavu i načinu odmeravanja, pa pre kupovine treba pročitati deklaraciju.
+
+**Q: Šta je monaški voćni šećer?**
+
+To je naziv za zaslađivač dobijen od monaškog voća; slatkoća ekstrakta potiče prvenstveno od mogrozida.
+
+**Q: Da li je monaški voćni šećer zdraviji od običnog šećera?**
+
+Može pomoći da smanjite dodati šećer, ali nije dokazano da je dugoročno zdraviji za svakoga.
+
+**Q: Da li svaki monk fruit zaslađivač nema kalorija?**
+
+Ne. Gotovi proizvodi mogu sadržati i druge sastojke, zato proverite nutritivnu tabelu.
+
+**Q: Kako se odmerava zaslađivač od monaškog voća?**
+
+Pratite uputstvo na pakovanju: koncentrisan ekstrakt i mešavina za odmeravanje kašičicom ne koriste se nužno u istoj količini.
 
 ---
 
@@ -93,6 +189,26 @@ Tako zrna ostaju sveža i daju prijatan kontrast toplim dunjama i nadevu.
 **Q: Da li je recept pogodan ako uzimam lekove za razređivanje krvi?**
 
 Ako uzimate varfarin ili slične lekove, važno je da unos zelenog lisnatog povrća bude ujednačen. O količini kelja koja vam odgovara posavetujte se sa svojim lekarom.
+
+---
+
+## Jesenja pica s keljom, repom i narom
+
+https://unazdravahrana.com/recepti/jesenja-pica-s-keljom-repom-i-narom
+
+Kad se uželite nečeg toplog i hrskavog, a pri ruci su jesenje namirnice, probajte ovu picu bez klasičnog sosa. Rendana repa i kelj peku se na tankoj kori, dok se nar dodaje tek na kraju da ostane svež.
+
+**Q: Zašto se repa cedi pre pečenja?**
+
+Rendana repa pušta vodu. Kada je iscedite, povrće će se lepše ispeći, a kora neće biti gnjecava.
+
+**Q: Može li se nar staviti na picu pre pečenja?**
+
+Može, ali preporučujemo da ga dodate na kraju: tako ostaje svež i pravi prijatan kontrast toplom povrću.
+
+**Q: Da li je ovaj recept bez glutena?**
+
+Nije, jer sadrži integralno brašno od pšenice. Ako izbegavate gluten, pitajte u radnji koje brašno iz asortimana odgovara vašim potrebama; možda će biti potrebno prilagoditi i količinu vode.
 
 ---
 
@@ -144,167 +260,51 @@ Nije. Kod povraćanja, proliva ili sumnje na ozbiljno pregrevanje potražite odg
 
 ---
 
-## Monaški voćni šećer: zdraviji od običnog šećera?
+## 6 veganskih recepata bez glutena, od kaše do deserta
 
-https://unazdravahrana.com/blog/monaski-vocni-secer-zdraviji-od-obicnog-secera
+https://unazdravahrana.com/blog/6-veganskih-recepata-bez-glutena-od-kase-do-deserta
 
-Ekstrakt monaškog voća daje slatkoću uz znatno manji energetski doprinos od šećera, ali to ne dokazuje dugoročnu zdravstvenu korist. Gotovi proizvodi se razlikuju po sastavu i načinu odmeravanja, pa pre kupovine treba pročitati deklaraciju.
+Članak donosi šest ideja za veganske obroke bez glutena, od doručka do deserta. Objašnjava koje deklaracije treba proveriti i kako izbeći kontakt hrane s glutenom pri pripremi za osobu sa celijakijom.
 
-**Q: Šta je monaški voćni šećer?**
+**Q: Da li je svaka veganska hrana bez glutena?**
 
-To je naziv za zaslađivač dobijen od monaškog voća; slatkoća ekstrakta potiče prvenstveno od mogrozida.
+Ne. Veganska hrana ne sadrži namirnice životinjskog porekla, ali može sadržati pšenicu, ječam ili raž.
 
-**Q: Da li je monaški voćni šećer zdraviji od običnog šećera?**
+**Q: Koje ovsene pahuljice koristiti za osobu sa celijakijom?**
 
-Može pomoći da smanjite dodati šećer, ali nije dokazano da je dugoročno zdraviji za svakoga.
+Birajte pahuljice označene kao bezglutenske i pazite da tokom pripreme ne dođu u kontakt s mrvicama ili sastojcima koji sadrže gluten.
 
-**Q: Da li svaki monk fruit zaslađivač nema kalorija?**
+**Q: Kako se prave slane palačinke bez jaja i pšeničnog brašna?**
 
-Ne. Gotovi proizvodi mogu sadržati i druge sastojke, zato proverite nutritivnu tabelu.
+Umutite brašno leblebije s vodom, dodajte spanać i mladi luk, pa pecite manje palačinke. Okrenite ih tek kada se ivice učvrste.
 
-**Q: Kako se odmerava zaslađivač od monaškog voća?**
+**Q: Da li je ishrana bez glutena sama po sebi zdravija?**
 
-Pratite uputstvo na pakovanju: koncentrisan ekstrakt i mešavina za odmeravanje kašičicom ne koriste se nužno u istoj količini.
-
----
-
-## Jesenja fritata s keljom, repom i narom
-
-https://unazdravahrana.com/recepti/jesenja-fritata-s-keljom-repom-i-narom
-
-Jesenja fritata s keljom, belom repom, narom i orasima: topao doručak iz jednog tiganja, spreman za oko 40 minuta.
-
-**Q: Može li fritata bez rerne?**
-
-Može. Sprema se u poklopljenom tiganju na tihoj vatri; pre posluživanja proverite da je sredina potpuno pečena.
-
-**Q: Zašto se nar ne dodaje tokom pečenja?**
-
-Svež nar na kraju daje sočnost i prijatan kontrast toploj fritati.
-
-**Q: Da li je recept pogodan za osobe koje izbegavaju gluten?**
-
-U navedenim sastojcima nema brašna. Ako imate celijakiju, proverite dodatke koje koristite i izbegnite kontakt s glutenom tokom pripreme.
-
-**Q: Šta ako uzimam varfarin?**
-
-Kelj sadrži vitamin K, pa je važno da ne menjate naglo njegov unos. O količini koja vam odgovara posavetujte se sa svojim lekarom.
+Ne. Izostavljanje glutena nije samo po sebi zdravije niti je prečica do mršavljenja; ako sumnjate na celijakiju, obratite se lekaru.
 
 ---
 
-## Topli namaz od repe i kelja sa orasima i narom
+## 6 jesenjih voćki: kako birati ako pratite šećer
 
-https://unazdravahrana.com/recepti/topli-namaz-od-repe-i-kelja-sa-orasima-i-narom
+https://unazdravahrana.com/blog/6-jesenjih-vocki-kako-birati-ako-pratite-secer
 
-Kad kasna jesen donese kelj i repu, ne moraju obavezno da završe u varivu. Pečena repa daje ovom namazu blagu osnovu, kelj svežinu, a orasi i čia pomažu da bude gust i prijatan za mazanje.
+Jesenje voće može biti deo jelovnika osoba koje prate šećer u krvi, uz pažnju na porciju i ukupne ugljene hidrate u obroku. Kod smokava i brusnica posebno je važan oblik u kom se jedu, a kod jabuka, krušaka i nara količina koju zaista pojedete.
 
-**Q: Može li namaz da se napravi bez secka?**
+**Q: Da li osobe sa dijabetesom moraju da izbegavaju voće?**
 
-Može. Mekanu pečenu repu izgnječite viljuškom, a kelj i orahe sitno iseckajte, pa sve dobro promešajte.
+Ne. Ugljene hidrate iz voća treba uračunati u individualni plan obroka.
 
-**Q: Kada se dodaje nar?**
+**Q: Kolika je porcija svežeg voća?**
 
-Na kraju, neposredno pre služenja, da zrna ostanu sveža i sočna.
+Diabetes UK navodi 80 g svežeg voća kao orijentir, ali sastav zavisi od vrste voća.
 
-**Q: Može li se namaz služiti hladan?**
+**Q: Da li su suve smokve isto što i sveže?**
 
-Može. Ako odstoji u frižideru, promešajte ga pre služenja i po potrebi dodajte malo vode.
+Ne. Suvo voće zauzima manje mesta, pa je lako pojesti više; oko 30 g sušenog voća je orijentir za porciju.
 
----
+**Q: Da li je bolje izabrati ceo plod ili sok?**
 
-## Vitamini kod alergija: kada pomažu, a kada ne?
-
-https://unazdravahrana.com/blog/vitamini-kod-alergija-kada-pomazu-a-kada-ne
-
-Vitamini mogu dopuniti ishranu ako za to postoji konkretan razlog, ali ne utvrđuju uzrok alergije niti zamenjuju lečenje. Kod sumnje na alergiju zabeležite reakcije i obratite se lekaru, a pri izboru suplementa proverite sastav i preporučenu dnevnu količinu.
-
-**Q: Da li vitamini mogu da izleče alergiju?**
-
-Ne. Vitamini mogu dopuniti ishranu, ali ne leče alergiju niti zamenjuju plan lečenja koji je dao lekar.
-
-**Q: Kada ima smisla razmotriti suplement kod alergije?**
-
-Kada postoji konkretan razlog, na primer ako izbegavanje namirnica otežava unos hranljivih materija. Potrebu za suplementom treba proceniti individualno.
-
-**Q: Šta da uradim ako sumnjam na alergiju na hranu?**
-
-Zabeležite šta ste jeli, kada su se tegobe javile i kako su izgledale, pa se obratite lekaru. Nemojte sami sprovoditi provokacioni test.
-
-**Q: Šta treba proveriti na deklaraciji suplementa?**
-
-Proverite sastav, upozorenja i preporučenu dnevnu količinu, kao i da li iste sastojke već uzimate iz drugog proizvoda. Deklaracija nije dokaz da suplement deluje protiv alergije.
-
----
-
-## Vitamini i minerali za cirkulaciju: pre kupovine
-
-https://unazdravahrana.com/blog/vitamini-i-minerali-za-cirkulaciju-pre-kupovine
-
-Gvožđe, B12, folat i magnezijum imaju važne uloge u organizmu, ali njihovi suplementi nisu dokazano rešenje za svaku tegobu koja se pripisuje cirkulaciji. Uporne ili nove simptome treba proceniti s lekarom, a suplement birati prema stvarnoj potrebi i mogućim interakcijama s lekovima.
-
-**Q: Da li hladna stopala znače da mi nedostaju vitamini?**
-
-Ne nužno. Hladna stopala mogu imati različite uzroke, pa sama po sebi nisu dokaz nedostatka nekog nutrijenta.
-
-**Q: Kada zbog tegoba u nogama treba otići kod lekara?**
-
-Zakažite pregled ako su tegobe nove ili uporne, naročito ako se bol ili grčevi javljaju pri hodu i popuštaju u mirovanju ili rana na stopalu sporo zarasta.
-
-**Q: Da li magnezijum poboljšava cirkulaciju u nogama?**
-
-Magnezijum ima važne funkcije u organizmu, ali iz toga ne sledi da njegov suplement rešava smanjenu prokrvljenost.
-
-**Q: Šta proveriti pre kupovine suplementa za cirkulaciju?**
-
-Proverite koji nutrijent sadrži, da li vam je potreban i da li može da stupi u interakciju s lekovima koje uzimate. Ako imate simptome, razgovarajte s lekarom umesto da se oslanjate na naziv preparata.
-
----
-
-## Pečeni krompir s keljom, repom i narom
-
-https://unazdravahrana.com/recepti/peceni-krompir-s-keljom-repom-i-narom
-
-Kad zahladni, pečeni krompir je dobra osnova za jednostavan ručak. Ovde ga punimo kratko dinstanim keljom i belom repom, a zrna nara dodajemo tek na kraju, da ostanu sveža i sočna.
-
-**Q: Da li može da se koristi druga vrsta repe?**
-
-Recept je osmišljen za belu repu. Druge vrste imaju drugačiji ukus i vreme pripreme, pa ih nemojte menjati u istoj količini bez prilagođavanja.
-
-**Q: Mogu li da pripremim jelo ranije?**
-
-Možete unapred ispeći krompir i izdinstati povrće. Čuvajte ih poklopljene u frižideru, a nar i orahe dodajte posle podgrevanja.
-
-**Q: Kako da kelj ne bude žilav?**
-
-Odstranite čvrsta središnja rebra, listove sitnije naseckajte i dinstajte ih dok ne omekšaju.
-
-**Q: Da li treba da prilagodim porciju kelja ako uzimam varfarin?**
-
-Kod uzimanja varfarina važno je da unos hrane bogate vitaminom K bude približno ujednačen. O promenama u ishrani posavetujte se sa svojim lekarom.
-
----
-
-## Jaja za doručak: dodajte grašak zbog vlakana
-
-https://unazdravahrana.com/blog/jaja-za-dorucak-dodajte-grasak-zbog-vlakana
-
-Jaja ne sadrže vlakna, a dodavanje graška u kajganu jednostavan je način da ih uključite u doručak. Oceđen grašak umešajte pred kraj pripreme, a količinu vlakana proverite na deklaraciji proizvoda.
-
-**Q: Da li jaja sadrže vlakna?**
-
-Ne, jaja ne sadrže prehrambena vlakna. Grašak je jedan od sastojaka kojim ih možete dodati doručku.
-
-**Q: Kada se grašak dodaje u kajganu?**
-
-Oceđen grašak umešajte pred kraj pripreme, dok su jaja još u tiganju, kako bi se zagrejao.
-
-**Q: Može li grašak iz konzerve da se koristi za kajganu?**
-
-Može. Pre dodavanja ga ocedite, a po želji kratko isperite i ponovo ocedite.
-
-**Q: Da li svaki konzervisani grašak ima istu količinu vlakana?**
-
-Ne. Proverite deklaraciju konkretnog proizvoda i da li su vrednosti navedene za 100 g ili za porciju.
+Kada možete, izaberite ceo plod. Kod soka i smutija proverite koliko je voća upotrebljeno i koliko je vlakana ostalo.
 
 ---
 
@@ -332,99 +332,143 @@ Proverite oznake i podatke na konkretnom pakovanju. Naziv prodavnice, zelena amb
 
 ---
 
-## Pečena repa s kremom od kelja, oraha i nara
+## Topli namaz od repe i kelja sa orasima i narom
 
-https://unazdravahrana.com/recepti/pecena-repa-s-kremom-od-kelja-oraha-i-nara
+https://unazdravahrana.com/recepti/topli-namaz-od-repe-i-kelja-sa-orasima-i-narom
 
-Kad zahladni, salata može da bude i topla. U ovom receptu repa se peče dok ne omekša i dobije rumene ivice, a preko nje ide krem od kelja i oraha. Zrna nara dodaju svežinu i prijatnu kiselkastu notu.
+Kad kasna jesen donese kelj i repu, ne moraju obavezno da završe u varivu. Pečena repa daje ovom namazu blagu osnovu, kelj svežinu, a orasi i čia pomažu da bude gust i prijatan za mazanje.
 
-**Q: Mogu li da pripremim krem bez secka?**
+**Q: Može li namaz da se napravi bez secka?**
 
-Možete. Kelj vrlo sitno iseckajte, orahe usitnite nožem, pa sve dobro izmešajte s ostalim sastojcima. Tekstura će biti grublja, ali jednako prijatna.
+Može. Mekanu pečenu repu izgnječite viljuškom, a kelj i orahe sitno iseckajte, pa sve dobro promešajte.
 
-**Q: Da li repa mora da se ljušti?**
+**Q: Kada se dodaje nar?**
 
-Ako je kora tanka, dovoljno je da je temeljno operete. Kod tvrđe kore, bolje je da repu oljuštite.
+Na kraju, neposredno pre služenja, da zrna ostanu sveža i sočna.
 
-**Q: Može li jelo da se posluži hladno?**
+**Q: Može li se namaz služiti hladan?**
 
-Može. Ipak, sveže pečena, topla repa daje lep kontrast kremu od kelja i zrnima nara.
-
-**Q: Da li je recept pogodan za ishranu bez glutena?**
-
-U sastojcima nema žitarica koje sadrže gluten. Ako izbegavate gluten zbog zdravstvenog stanja, proverite deklaracije kupljenih sastojaka i posavetujte se s lekarom o svojoj ishrani.
+Može. Ako odstoji u frižideru, promešajte ga pre služenja i po potrebi dodajte malo vode.
 
 ---
 
-## Gladni ste kad zahladni? Šta jesti bez viška kilograma
+## Pečeni krompir s keljom, repom i narom
 
-https://unazdravahrana.com/blog/gladni-ste-kad-zahladni-sta-jesti-bez-viska-kilograma
+https://unazdravahrana.com/recepti/peceni-krompir-s-keljom-repom-i-narom
 
-Hladnoća kod nekih ljudi može biti praćena većim apetitom, ali ne znači da svima treba više hrane. Topli obroci s povrćem, mahunarkama i integralnim žitaricama mogu pomoći da jedete u skladu sa glađu i aktivnošću.
+Kad zahladni, pečeni krompir je dobra osnova za jednostavan ručak. Ovde ga punimo kratko dinstanim keljom i belom repom, a zrna nara dodajemo tek na kraju, da ostanu sveža i sočna.
 
-**Q: Da li hladnoća povećava apetit?**
+**Q: Da li može da se koristi druga vrsta repe?**
 
-Kod nekih ljudi može, ali ne kod svih. Na glad utiču i aktivnost, raniji obroci i svakodnevne navike.
+Recept je osmišljen za belu repu. Druge vrste imaju drugačiji ukus i vreme pripreme, pa ih nemojte menjati u istoj količini bez prilagođavanja.
 
-**Q: Šta jesti kad zahladni, a da obrok zasiti?**
+**Q: Mogu li da pripremim jelo ranije?**
 
-Probajte topao obrok koji kombinuje povrće, mahunarke ili integralne žitarice, a količinu prilagodite svojoj gladi.
+Možete unapred ispeći krompir i izdinstati povrće. Čuvajte ih poklopljene u frižideru, a nar i orahe dodajte posle podgrevanja.
 
-**Q: Da li su za sitost bolje mahunarke ili integralne žitarice?**
+**Q: Kako da kelj ne bude žilav?**
 
-Ne morate da birate samo jedno. Obe namirnice mogu imati mesto u jelovniku; pratite posle kojih obroka ste zadovoljno siti.
+Odstranite čvrsta središnja rebra, listove sitnije naseckajte i dinstajte ih dok ne omekšaju.
 
-**Q: Da li treba jesti više samo zato što je napolju hladno?**
+**Q: Da li treba da prilagodim porciju kelja ako uzimam varfarin?**
 
-Ne nužno. Potrebe zavise od aktivnosti i vremena provedenog na hladnoći, pa se oslonite na stvarnu glad umesto na opšte zimsko pravilo.
-
----
-
-## Tri jesenje salate koje se brzo završavaju ako su kuvani
-
-https://unazdravahrana.com/blog/tri-jesenje-salate-koje-se-brzo-zavrsavaju-ako-su-kuvani
-
-Članak donosi tri jesenje salate: s pečenom bundevom, kuvanom ili pečenom cveklom i karfiolom. Objašnjava šta treba pripremiti unapred, a šta dodati pred serviranje da bi završna priprema bila brza.
-
-**Q: Kada su jesenje salate iz članka brze za pripremu?**
-
-Kada su bundeva i cvekla već pečene ili kuvane, a karfiol po želji obaren. Tada ostaju sečenje, dodavanje svežih sastojaka i sastavljanje salate.
-
-**Q: Šta ide u salatu od pečene bundeve?**
-
-Pečena i ohlađena bundeva, rukola i orasi, uz maslinovo ulje i limun. Feta i malo meda su opcioni.
-
-**Q: Kako da salata od cvekle, jabuke i nara ostane sveža za poneti?**
-
-Jabuku isecite što bliže jelu, cveklu po želji držite odvojeno, a nar i orašaste plodove dodajte na kraju.
-
-**Q: Da li ove salate mogu da spreče prehladu?**
-
-Ne. One mogu biti deo raznovrsne ishrane, ali od jednog obroka ne treba očekivati zaštitu od bolesti.
+Kod uzimanja varfarina važno je da unos hrane bogate vitaminom K bude približno ujednačen. O promenama u ishrani posavetujte se sa svojim lekarom.
 
 ---
 
-## Nedeljni spisak za kupovinu bez suvišnog troška
+## Vitamini kod alergija: kada pomažu, a kada ne?
 
-https://unazdravahrana.com/blog/nedeljni-spisak-za-kupovinu-bez-suvisnog-troska
+https://unazdravahrana.com/blog/vitamini-kod-alergija-kada-pomazu-a-kada-ne
 
-Pre kupovine proverite frižider, zamrzivač i ostavu, pa isplanirajte nekoliko obroka od namirnica koje već imate. Na spisak upišite samo ono što nedostaje, uz potrebnu količinu i obrok za koji kupujete.
+Vitamini mogu dopuniti ishranu ako za to postoji konkretan razlog, ali ne utvrđuju uzrok alergije niti zamenjuju lečenje. Kod sumnje na alergiju zabeležite reakcije i obratite se lekaru, a pri izboru suplementa proverite sastav i preporučenu dnevnu količinu.
 
-**Q: Kako da napravim nedeljni spisak za kupovinu?**
+**Q: Da li vitamini mogu da izleče alergiju?**
 
-Prvo proverite zalihe, zatim isplanirajte nekoliko obroka i na spisak stavite samo namirnice koje nedostaju, uz potrebne količine.
+Ne. Vitamini mogu dopuniti ishranu, ali ne leče alergiju niti zamenjuju plan lečenja koji je dao lekar.
 
-**Q: Kako planiranje obroka smanjuje trošak?**
+**Q: Kada ima smisla razmotriti suplement kod alergije?**
 
-Pomaže vam da iskoristite ono što već imate i izbegnete kupovinu duplih ili nepotrebnih namirnica.
+Kada postoji konkretan razlog, na primer ako izbegavanje namirnica otežava unos hranljivih materija. Potrebu za suplementom treba proceniti individualno.
 
-**Q: Da li moram da isplaniram svaki obrok za sedam dana?**
+**Q: Šta da uradim ako sumnjam na alergiju na hranu?**
 
-Ne. Izaberite nekoliko obroka koje ćete sigurno spremiti i ostavite prostor za ostatke hrane ili promenu rasporeda.
+Zabeležite šta ste jeli, kada su se tegobe javile i kako su izgledale, pa se obratite lekaru. Nemojte sami sprovoditi provokacioni test.
 
-**Q: Šta treba da piše na spisku za kupovinu?**
+**Q: Šta treba proveriti na deklaraciji suplementa?**
 
-Za svaku stavku navedite namirnicu, potrebnu količinu i obrok za koji je kupujete.
+Proverite sastav, upozorenja i preporučenu dnevnu količinu, kao i da li iste sastojke već uzimate iz drugog proizvoda. Deklaracija nije dokaz da suplement deluje protiv alergije.
+
+---
+
+## Jaja za doručak: dodajte grašak zbog vlakana
+
+https://unazdravahrana.com/blog/jaja-za-dorucak-dodajte-grasak-zbog-vlakana
+
+Jaja ne sadrže vlakna, a dodavanje graška u kajganu jednostavan je način da ih uključite u doručak. Oceđen grašak umešajte pred kraj pripreme, a količinu vlakana proverite na deklaraciji proizvoda.
+
+**Q: Da li jaja sadrže vlakna?**
+
+Ne, jaja ne sadrže prehrambena vlakna. Grašak je jedan od sastojaka kojim ih možete dodati doručku.
+
+**Q: Kada se grašak dodaje u kajganu?**
+
+Oceđen grašak umešajte pred kraj pripreme, dok su jaja još u tiganju, kako bi se zagrejao.
+
+**Q: Može li grašak iz konzerve da se koristi za kajganu?**
+
+Može. Pre dodavanja ga ocedite, a po želji kratko isperite i ponovo ocedite.
+
+**Q: Da li svaki konzervisani grašak ima istu količinu vlakana?**
+
+Ne. Proverite deklaraciju konkretnog proizvoda i da li su vrednosti navedene za 100 g ili za porciju.
+
+---
+
+## Vitamini i minerali za cirkulaciju: pre kupovine
+
+https://unazdravahrana.com/blog/vitamini-i-minerali-za-cirkulaciju-pre-kupovine
+
+Gvožđe, B12, folat i magnezijum imaju važne uloge u organizmu, ali njihovi suplementi nisu dokazano rešenje za svaku tegobu koja se pripisuje cirkulaciji. Uporne ili nove simptome treba proceniti s lekarom, a suplement birati prema stvarnoj potrebi i mogućim interakcijama s lekovima.
+
+**Q: Da li hladna stopala znače da mi nedostaju vitamini?**
+
+Ne nužno. Hladna stopala mogu imati različite uzroke, pa sama po sebi nisu dokaz nedostatka nekog nutrijenta.
+
+**Q: Kada zbog tegoba u nogama treba otići kod lekara?**
+
+Zakažite pregled ako su tegobe nove ili uporne, naročito ako se bol ili grčevi javljaju pri hodu i popuštaju u mirovanju ili rana na stopalu sporo zarasta.
+
+**Q: Da li magnezijum poboljšava cirkulaciju u nogama?**
+
+Magnezijum ima važne funkcije u organizmu, ali iz toga ne sledi da njegov suplement rešava smanjenu prokrvljenost.
+
+**Q: Šta proveriti pre kupovine suplementa za cirkulaciju?**
+
+Proverite koji nutrijent sadrži, da li vam je potreban i da li može da stupi u interakciju s lekovima koje uzimate. Ako imate simptome, razgovarajte s lekarom umesto da se oslanjate na naziv preparata.
+
+---
+
+## Jesenja fritata s keljom, repom i narom
+
+https://unazdravahrana.com/recepti/jesenja-fritata-s-keljom-repom-i-narom
+
+Jesenja fritata s keljom, belom repom, narom i orasima: topao doručak iz jednog tiganja, spreman za oko 40 minuta.
+
+**Q: Može li fritata bez rerne?**
+
+Može. Sprema se u poklopljenom tiganju na tihoj vatri; pre posluživanja proverite da je sredina potpuno pečena.
+
+**Q: Zašto se nar ne dodaje tokom pečenja?**
+
+Svež nar na kraju daje sočnost i prijatan kontrast toploj fritati.
+
+**Q: Da li je recept pogodan za osobe koje izbegavaju gluten?**
+
+U navedenim sastojcima nema brašna. Ako imate celijakiju, proverite dodatke koje koristite i izbegnite kontakt s glutenom tokom pripreme.
+
+**Q: Šta ako uzimam varfarin?**
+
+Kelj sadrži vitamin K, pa je važno da ne menjate naglo njegov unos. O količini koja vam odgovara posavetujte se sa svojim lekarom.
 
 ---
 
@@ -452,99 +496,119 @@ Kelj sadrži vitamin K. Ako uzimate varfarin, o količini kelja i održavanju uj
 
 ---
 
-## 5 alternativa Suncokretu: gde kupiti zdravu hranu?
+## Rolnice od kelja s repom, dunjom i narom
 
-https://unazdravahrana.com/blog/5-alternativa-suncokretu-gde-kupiti-zdravu-hranu
+https://unazdravahrana.com/recepti/rolnice-od-kelja-s-repom-dunjom-i-narom
 
-Članak poredi UNA Zdravu Hranu, Bio Špajz, Bio Tačku, Cecin Biošpajz i Healthy Jungle prema načinu kupovine, ponudi i dostavi. UNA je opcija za kupovinu uživo u Kragujevcu, dok ostale navedene prodavnice omogućavaju online poručivanje.
+Kad zahladni, kelj može da posluži kao omotač za toplo, mirisno punjenje. U ovim rolnicama bela repa daje blagu osnovu, dunja prijatnu kiselkastu notu, a nar se dodaje na kraju, da ostane svež.
 
-**Q: Da li je Granum alternativa Suncokretu?**
+**Q: Koju repu koristiti?**
 
-Ne. Prema Granumovim uslovima korišćenja, njegova internet prodavnica posluje u okviru Suncokret d.o.o.
+Koristite belu repu, ne cveklu: ima blaži ukus koji se lepo slaže s dunjom.
 
-**Q: Gde mogu da kupim zdravu hranu uživo u Kragujevcu?**
+**Q: Da li nar ide u punjenje?**
 
-UNA Zdrava Hrana ima radnju kod mosta u Bresnici, u Kragujevcu. Ne nudi online prodaju ni dostavu.
+Bolje je da ga dodate preko gotovih rolnica, neposredno pre služenja.
 
-**Q: Koje prodavnice iz poređenja nude online poručivanje?**
+**Q: Šta ako su listovi kelja mali?**
 
-Bio Špajz, Bio Tačka, Cecin Biošpajz i Healthy Jungle omogućavaju poručivanje preko svojih sajtova.
+Preklopite dva blanširana lista za jednu rolnicu i stavite malo manje punjenja.
 
-**Q: Ko ima najniži navedeni prag za besplatnu dostavu?**
+**Q: Da li je ovo jelo pogodno ako uzimam varfarin?**
 
-Među četiri online prodavnice u poređenju, Bio Špajz navodi najniži prag: za porudžbine preko 5.000 RSD. Proverite aktuelne uslove pre kupovine.
-
----
-
-## Poširane kruške s orasima i medom po želji
-
-https://unazdravahrana.com/blog/posirane-kruske-s-orasima-i-medom-po-zelji
-
-Čvrste, zrele kruške lagano se kuvaju u vodi s cimetom dok ne omekšaju, ali zadrže oblik. Služe se sa maskarponeom i orasima, a med se dodaje po želji.
-
-**Q: Kakve kruške su najbolje za poširanje?**
-
-Birajte zrele, ali čvrste kruške bez nagnječenih i previše mekih delova.
-
-**Q: Kako se poširaju kruške?**
-
-Lagano ih kuvajte u vodi s cimetom, bez jakog ključanja, dok viljuška lako ne prođe kroz plod.
-
-**Q: Da li je med obavezan za poširane kruške?**
-
-Nije. Probajte gotove kruške, pa dodajte med samo ako želite slađi desert.
-
-**Q: Kada se dodaju orasi i maskarpone?**
-
-Maskarpone dodajte pri serviranju, a seckane orahe neposredno pre jela da ostanu hrskavi.
+Kelj sadrži vitamin K. Ako uzimate varfarin, važno je da unos vitamina K bude približno ujednačen; o promenama u ishrani posavetujte se sa lekarom.
 
 ---
 
-## Lomljivi nokti: koji vitamini i minerali su važni?
+## Vitamini i minerali za kožu: hrana ili suplement?
 
-https://unazdravahrana.com/blog/lomljivi-nokti-koji-vitamini-i-minerali-su-vazni
+https://unazdravahrana.com/blog/vitamini-i-minerali-za-kozu-hrana-ili-suplement
 
-Lomljivi nokti mogu biti povezani s vodom, deterdžentima i manikirom, a njihov izgled sam po sebi ne potvrđuje nedostatak hranljivih materija. Gvožđe, cink i biotin važni su za organizam, ali su raznovrsna ishrana i stručni savet bolji prvi korak od samostalnog uzimanja suplemenata.
+Raznovrsna ishrana može pomoći da unesete vitamin C, vitamine A i E, cink, selen i biotin, ali nijedna namirnica ne rešava sama po sebi promene na koži. Pre kupovine suplementa proverite šta već unosite hranom i drugim preparatima, a za uporne promene potražite savet zdravstvenog stručnjaka.
 
-**Q: Da li lomljivi nokti znače da mi nedostaje vitamin?**
+**Q: Koji su vitamini i minerali važni za kožu?**
 
-Ne nužno. Lomljenje i raslojavanje mogu biti povezani i s čestim kontaktom s vodom, deterdžentima ili oštećenjem pri manikiru.
+Vitamin C doprinosi normalnom stvaranju kolagena za normalnu funkciju kože. Raznovrsnom ishranom možete obezbediti i vitamine A i E, cink, selen i biotin.
 
-**Q: Da li gvožđe pomaže kod lomljivih noktiju?**
+**Q: Da li je za kožu bolje uzimati suplemente ili hranljive materije iz hrane?**
 
-Nedostatak gvožđa može biti povezan s lomljivim noktima, ali sam izgled nokta nije dovoljan razlog za uzimanje suplementa.
+Za početak pogledajte šta redovno jedete i nastojte da ishrana bude raznovrsna. Suplement nije obavezan samo zato što na deklaraciji piše „za kožu“.
 
-**Q: Da li biotin jača lomljive nokte?**
+**Q: U kojoj hrani ima vitamina C i vitamina E?**
 
-Dokazi o koristi biotinskih suplemenata za lomljive nokte su ograničeni, pa se ne može obećati da će pomoći svakome.
+Sirova crvena paprika je izvor vitamina C, dok se vitamin E nalazi u orašastim plodovima, semenkama i biljnim uljima.
 
-**Q: Šta prvo uraditi ako se nokti često lome?**
+**Q: Može li suplement da reši uporne promene na koži?**
 
-Obratite pažnju na kontakt ruku s vodom i sredstvima za čišćenje, način manikira i raznovrsnost ishrane. Ako sumnjate na zdravstveni uzrok ili nedostatak hranljivih materija, razgovarajte sa zdravstvenim radnikom.
+Prisustvo vitamina ili minerala u suplementu ne znači da će ukloniti osip, crvenilo ili drugu promenu. Ako promene traju ili vas brinu, posavetujte se sa zdravstvenim stručnjakom.
 
 ---
 
-## Jesenja savijača s keljom i belom repom
+## Gladni ste kad zahladni? Šta jesti bez viška kilograma
 
-https://unazdravahrana.com/recepti/jesenja-savijaca-s-keljom-i-belom-repom
+https://unazdravahrana.com/blog/gladni-ste-kad-zahladni-sta-jesti-bez-viska-kilograma
 
-Domaća savijača s keljom i belom repom, orasima i svežim narom. Jednostavan jesenji obrok gotov za manje od sat vremena.
+Hladnoća kod nekih ljudi može biti praćena većim apetitom, ali ne znači da svima treba više hrane. Topli obroci s povrćem, mahunarkama i integralnim žitaricama mogu pomoći da jedete u skladu sa glađu i aktivnošću.
 
-**Q: Da li mogu da napravim savijaču unapred?**
+**Q: Da li hladnoća povećava apetit?**
 
-Možete da je ispečete ranije i zagrejete pred služenje. Zrna nara dodajte tek kada je isečete.
+Kod nekih ljudi može, ali ne kod svih. Na glad utiču i aktivnost, raniji obroci i svakodnevne navike.
 
-**Q: Da li je recept bez glutena?**
+**Q: Šta jesti kad zahladni, a da obrok zasiti?**
 
-Nije, jer se koristi pšenično brašno. Ako izbegavate gluten, nemojte ga samo zameniti drugim brašnom u istoj meri: testo može da se ponaša drugačije.
+Probajte topao obrok koji kombinuje povrće, mahunarke ili integralne žitarice, a količinu prilagodite svojoj gladi.
 
-**Q: Zašto se koristi bela repa, a ne cvekla?**
+**Q: Da li su za sitost bolje mahunarke ili integralne žitarice?**
 
-Bela repa ima drugačiji ukus i teksturu od cvekle. U ovom receptu se kratko dinsta kako bi omekšala i kako nadev ne bi bio previše vlažan.
+Ne morate da birate samo jedno. Obe namirnice mogu imati mesto u jelovniku; pratite posle kojih obroka ste zadovoljno siti.
 
-**Q: Da li je kelj pogodan ako uzimam varfarin?**
+**Q: Da li treba jesti više samo zato što je napolju hladno?**
 
-Ako uzimate varfarin, važno je da unos namirnica bogatih vitaminom K, poput kelja, bude ujednačen. Za savet prilagođen vašoj terapiji obratite se lekaru.
+Ne nužno. Potrebe zavise od aktivnosti i vremena provedenog na hladnoći, pa se oslonite na stvarnu glad umesto na opšte zimsko pravilo.
+
+---
+
+## Vrti vam se u glavi posle jela? Proverite pritisak
+
+https://unazdravahrana.com/blog/vrti-vam-se-u-glavi-posle-jela-proverite-pritisak
+
+Vrtoglavica nakon jela može biti povezana s padom krvnog pritiska, naročito kod starijih osoba, ali sama po sebi ne potvrđuje dijagnozu. Ponavljane tegobe treba zabeležiti i proveriti s lekarom, a manji obroci sa manje ugljenih hidrata mogu pomoći nekim osobama.
+
+**Q: Šta je postprandijalna hipotenzija?**
+
+To je izražen pad krvnog pritiska u periodu do dva sata nakon obroka.
+
+**Q: Kada se može javiti vrtoglavica zbog pada pritiska posle jela?**
+
+Kod mnogih osoba s ovim stanjem pritisak pada 30 do 60 minuta nakon obroka, ali vrtoglavica sama ne potvrđuje uzrok.
+
+**Q: Kako se proverava pritisak nakon obroka?**
+
+Pritisak se meri pre i posle jela, a rezultate i opis tegoba procenjuje lekar. Jedno kućno merenje nije dovoljno za dijagnozu.
+
+**Q: Mogu li manji obroci pomoći?**
+
+Manji, češći obroci sa manje ugljenih hidrata po obroku mogu pomoći nekim osobama, ali nisu zamena za lekarsku procenu.
+
+---
+
+## Testenina u sosu od bele repe s keljom i narom
+
+https://unazdravahrana.com/recepti/testenina-u-sosu-od-bele-repe-s-keljom-i-narom
+
+Bela repa ne mora da završi samo u čorbi. Kada se skuva i izgnječi, postaje blag, kremast sos za testeninu. Kratko propržen kelj daje mu puniji ukus, a zrna nara dodaju svežinu baš pred serviranje.
+
+**Q: Da li mogu da pripremim sos unapred?**
+
+Možete. Sačuvajte sos od repe odvojeno, pa ga pri zagrevanju razredite s malo vode i tek tada pomešajte s testeninom i keljom.
+
+**Q: Da li je jelo bez glutena?**
+
+Ne nužno: to zavisi od izabrane testenine. Ako izbegavate gluten, proverite deklaraciju i pitajte u radnji šta je trenutno u ponudi.
+
+**Q: Zašto se nar dodaje na kraju?**
+
+Tako zrna zadržavaju svežinu i daju prijatan kontrast toplom, blagom sosu.
 
 ---
 
@@ -572,140 +636,72 @@ Odgovor zavisi od vrste kamenca i individualnih preporuka. Posavetujte se sa lek
 
 ---
 
-## Slani krambl od repe i kelja sa narom
+## Kačamak sa keljom, repom, orasima i narom
 
-https://unazdravahrana.com/recepti/slani-krambl-od-repe-i-kelja-sa-narom
+https://unazdravahrana.com/recepti/kacamak-sa-keljom-repom-orasima-i-narom
 
-Kad zahladni, prija jelo iz rerne koje je toplo i zasitno, a ipak puno povrća. U ovom slanom kramblu repa omekša pod hrskavim slojem integralnog brašna i oraha, dok sveža zrna nara na kraju dodaju osvežavajući kontrast.
+Kad zahladni, kačamak je jednostavna osnova za topao obrok. U ovoj verziji preko njega idu kratko dinstani kelj i repa, dok svež nar i orasi dodaju sočnost i hrskavost.
 
-**Q: Koju vrstu kelja da koristim?**
+**Q: Da li nar treba kuvati s povrćem?**
 
-Recept je napisan za glavati kelj. Odstranite tvrdi deo pri dnu listova i ostatak tanko isecite.
+Ne. Dodajte ga neposredno pre služenja da zadrži svežinu i prijatnu sočnost.
 
-**Q: Da li nar ide u rernu?**
+**Q: Šta ako kačamak postane previše gust?**
 
-Ne. Zrna nara pospite preko gotovog jela, neposredno pre služenja.
+Umešajte malo tople vode, postepeno, dok ne dobijete željenu gustinu.
 
-**Q: Kako da znam da je repa gotova?**
+**Q: Mogu li da pripremim povrće unapred?**
 
-Probodite jednu kockicu viljuškom. Treba lako da omekša, a da se ne raspada.
-
-**Q: Može li jelo bez oraha?**
-
-Može. Izostavite orahe i dodajte malo više brašna za mrvičasti sloj. Ako izbegavate orašaste plodove zbog alergije, proverite i deklaracije svih sastojaka.
+Možete ga oprati i iseći unapred, a držati poklopljeno u frižideru. Nar očistite odvojeno i dodajte pri služenju.
 
 ---
 
-## Brašno bez glutena: izbor za hleb, kolače i testa
+## Planinski čaj: ujutru ili uveče i šta proveriti?
 
-https://unazdravahrana.com/blog/brasno-bez-glutena-izbor-za-hleb-kolace-i-testa
+https://unazdravahrana.com/blog/planinski-caj-ujutru-ili-uvece-i-sta-proveriti
 
-Za hleb je dobar početak bezglutenska mešavina namenjena toj upotrebi, dok se brašno za kolače bira prema receptu i željenom ukusu. Ako morate strogo da izbegavate gluten, proverite oznaku „bez glutena” na konkretnom pakovanju, naročito kod ovsenog brašna.
+Nije dokazano da postoji najbolje doba dana za ispijanje svakog planinskog čaja. Pošto naziv može označavati Sideritis ili različite biljne mešavine, pre upotrebe proverite sastav, namenu i uputstvo.
 
-**Q: Koje brašno bez glutena je najbolje za hleb?**
+**Q: Da li je bolje piti planinski čaj ujutru ili uveče?**
 
-Za prvi pokušaj izaberite bezglutensku mešavinu namenjenu hlebu i pratite recept za pečenje bez glutena.
+Ne postoji dokazano najbolje doba dana za svaki planinski čaj. Pijte ga kada vam prija, uz uputstvo za konkretan proizvod.
 
-**Q: Koje bezglutensko brašno koristiti za kolače?**
+**Q: Da li je svaki planinski čaj napravljen od Sideritisa?**
 
-Pirinčano brašno je blažeg ukusa, a bademovo i kokosovo daju izraženiji ukus. Birajte prema receptu, jer se ne ponašaju kao pšenično brašno.
+Nije. Pod tim nazivom prodaju se i biljne mešavine, zato proverite spisak sastojaka na deklaraciji.
 
-**Q: Da li je ovseno brašno bez glutena?**
+**Q: Da li planinski čaj dokazano poboljšava varenje?**
 
-Ovas može doći u kontakt sa žitaricama koje sadrže gluten. Ako morate strogo da ga izbegavate, birajte konkretno ovseno brašno označeno „bez glutena”.
+Ne treba očekivati da šolja u određeno vreme „pokrene” varenje. EMA navodi tradicionalnu upotrebu određenih preparata Sideritisa za blage stomačne tegobe, što nije isto što i klinički potvrđeno dejstvo.
 
-**Q: Da li oznaka „bez pšenice” znači „bez glutena”?**
+**Q: Kako se priprema planinski čaj?**
 
-Ne. Proizvod bez pšenice može sadržati drugi izvor glutena; proverite da li na deklaraciji piše „bez glutena”.
-
----
-
-## Najbolje upotrebiti do: kada hranu ne treba baciti?
-
-https://unazdravahrana.com/blog/najbolje-upotrebiti-do-kada-hranu-ne-treba-baciti
-
-Oznaka „najbolje upotrebiti do” odnosi se prvenstveno na kvalitet, pa hranu nakon tog datuma ne treba automatski baciti ako je pravilno čuvana. Hranu označenu sa „upotrebljivo do” ne treba jesti posle navedenog datuma, čak ni kada izgleda i miriše uobičajeno.
-
-**Q: Šta znači „najbolje upotrebiti do”?**
-
-To je datum do kojeg hrana zadržava karakteristična svojstva ako je pravilno čuvana. Nakon tog datuma proverite uslove čuvanja, ambalažu i stanje hrane pre odluke.
-
-**Q: Da li smem da jedem hranu posle datuma „upotrebljivo do”?**
-
-Ne. Takvu hranu ne treba jesti nakon navedenog datuma, čak ni ako izgleda i miriše uobičajeno.
-
-**Q: Da li testeninu treba baciti čim prođe datum „najbolje upotrebiti do”?**
-
-Ne automatski. Proverite da li je pravilno čuvana, da li je pakovanje neoštećeno i u kakvom je stanju testenina.
-
-**Q: Šta treba proveriti na deklaraciji pre kupovine hrane?**
-
-Pročitajte tačnu oznaku uz datum, uslove čuvanja i uputstvo nakon otvaranja. Proverite i da li je ambalaža neoštećena.
+Pratite količinu, način pripreme i vreme navedene na pakovanju konkretnog proizvoda, jer se sastav mešavina razlikuje.
 
 ---
 
-## Krem čorba od kelja i bele repe sa narom
+## Hrskava salata od kelja, repe i nara
 
-https://unazdravahrana.com/recepti/krem-corba-od-kelja-i-bele-repe-sa-narom
+https://unazdravahrana.com/recepti/hrskava-salata-od-kelja-repe-i-nara
 
-Kad zahladni, prija čorba koja greje, a ne traži mnogo vremena kraj šporeta. Glavati kelj i bela repa daju joj blag, domaći ukus, dok zrna nara na kraju unose svežinu.
+Hrskava jesenja salata od glavnog kelja, bele repe i nara, sa orasima i jednostavnim čia prelivom. Spremna za 30 minuta.
 
-**Q: Da li se nar kuva zajedno sa čorbom?**
+**Q: Da li se za ovaj recept koristi lisnati kelj?**
 
-Ne. Dodajte očišćena zrna nara u činiju neposredno pre jela, da zadrže svež ukus i sočnost.
+Ne. Recept je osmišljen za glavati kelj, kakav se kod nas najčešće prodaje pod nazivom kelj.
 
-**Q: Može li čorba bez štapnog miksera?**
+**Q: Može li salata bez oraha?**
 
-Može. Kuvajte povrće dok sasvim ne omekša, pa ga izgnječite gnječilicom za krompir. Tekstura će biti rustičnija.
-
-**Q: Zašto se čia dodaje pred kraj kuvanja?**
-
-Tako se lakše ravnomerno umeša u već usitnjenu čorbu i doprinese njenoj gustini.
-
----
-
-## Varivo od kelja i repe s knedlicama i narom
-
-https://unazdravahrana.com/recepti/varivo-od-kelja-i-repe-s-knedlicama-i-narom
-
-Kad zahladni, prija jelo koje se jede kašikom, a ne traži dugo stajanje pored šporeta. U ovom varivu repa daje blagu slatkoću, kelj ostaje u zalogajima, a zrna nara na kraju dodaju svežinu.
-
-**Q: Mogu li da napravim knedlice bez jaja?**
-
-Možete pokušati s brašnom i vodom, ali knedlice će biti čvršće. Napravite ih sasvim male i prvo jednu probno spustite u varivo.
+Može. Izostavite ih ako vam ne odgovaraju; salata će samo biti manje hrskava i zasitna.
 
 **Q: Kada se dodaje nar?**
 
-Tek pri služenju, da zrna zadrže svežinu i da se lepo osete uz toplo varivo.
+Neposredno pre služenja, da zrna zadrže svežinu i ne oboje celu salatu.
 
-**Q: Kako da znam da su knedlice kuvane?**
+**Q: Da li je salata pogodna ako izbegavam gluten?**
 
-Izvadite jednu i presecite je: sredina ne treba da bude sirova ni lepljiva.
-
----
-
-## Slani mafini s keljom i repom, uz svež nar
-
-https://unazdravahrana.com/recepti/slani-mafini-s-keljom-i-repom-uz-svez-nar
-
-Kad poželite nešto toplo što može da se ponese i sutradan, slani mafini su zgodan način da iskoristite kasnojesenji kelj i repu. Nar se dodaje tek pri služenju, pa svaki zalogaj dobija malo svežine.
-
-**Q: Mogu li mafini da se naprave bez prethodnog zagrevanja kelja?**
-
-Mogu, ali ga tada naseckajte veoma sitno. Kratko zagrevanje pomaže da kelj omekša i lakše se umeša u testo.
-
-**Q: Zašto treba iscediti repu?**
-
-Rendana repa pušta vodu, a njen višak može da učini mafine vlažnim u sredini.
-
-**Q: Da li je recept pogodan za osobe koje izbegavaju gluten ili laktozu?**
-
-U ovom obliku nije: sadrži pšenično brašno i jogurt. Ako imate intoleranciju, birajte zamene prema svojim potrebama i proverite deklaracije sastojaka.
-
-**Q: Kada se dodaje nar?**
-
-Tek pri služenju. Tako njegova zrna ostaju sveža i daju kontrast toplim mafinima.
+U receptu nema sastojaka od pšenice, ali ako morate strogo da izbegavate gluten, proverite deklaracije pakovanih sastojaka.
 
 ---
 
-Last updated: 2026-11-19
+Last updated: 2026-11-20
