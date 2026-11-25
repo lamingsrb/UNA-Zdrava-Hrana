@@ -4,27 +4,163 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
-## Vitamin B12 za srce: šta novi pregled zaista kaže
+## Kimchi kod kuće: recept za fermentisani kupus
 
-https://unazdravahrana.com/blog/vitamin-b12-za-srce-sta-novi-pregled-zaista-kaze
+https://unazdravahrana.com/blog/kimchi-kod-kuce-recept-za-fermentisani-kupus
 
-Vitamin B12 učestvuje u metabolizmu homocisteina, ali suplementacija nije pokazala pouzdanu korist u sprečavanju srčanog udara. Provera unosa ili statusa B12 posebno je važna za osobe na veganskoj ishrani i one koje uzimaju metformin, uz savet zdravstvenog radnika.
+Domaći kimchi se pravi soljenjem, ispiranjem i začinjavanjem kineskog kupusa, a zatim fermentacijom u čistoj posudi. Vreme fermentacije je samo smernica: pre jela proverite da li je pH dostigao 4,6 ili manje.
 
-**Q: Da li vitamin B12 sprečava srčani udar?**
+**Q: Kako se priprema kupus za kimchi?**
 
-Ne postoji pouzdan dokaz da uzimanje B12 sprečava srčani udar, čak i kada suplementacija snižava homocistein.
+Kupus se kratko potopi u slanu vodu, zatim posoli i ostavi 3–6 sati. Potom se ispere 3–4 puta i cedi najmanje 30 minuta pre dodavanja začina.
 
-**Q: Da li B12 smanjuje rizik od moždanog udara?**
+**Q: Koliko dugo fermentiše domaći kimchi?**
 
-U ispitivanjima različitih kombinacija vitamina B zabeležena je mala razlika u riziku od moždanog udara, ali se taj rezultat ne može pripisati samo B12.
+Prema navedenom receptu, fermentacija traje približno 1–2 dana na oko 68 °F ili 3–4 dana u frižideru. Samo proteklo vreme ne znači da je kimchi spreman za jelo.
 
-**Q: Ko treba da obrati pažnju na unos vitamina B12?**
+**Q: Kako proveriti da li je kimchi spreman za jelo?**
 
-Osobe na veganskoj ishrani i one koje uzimaju metformin imaju razlog da razgovaraju sa zdravstvenim radnikom o unosu ili statusu B12.
+Odgovarajućom pH-test trakom proverite da li je dostigao pH 4,6 ili manje. Kiseli miris i mehurići nisu dovoljna potvrda.
 
-**Q: Da li treba prekinuti B12 ako ga je lekar preporučio?**
+**Q: Može li kimchi da se napravi bez ribljeg sosa?**
 
-Ne prekidajte B12 na svoju ruku. Nalazi o prevenciji srčanih bolesti ne menjaju razlog zbog kojeg vam je lekar preporučio nadoknadu.
+Da. Riblji sos je opcioni sastojak u ovom receptu i možete ga izostaviti.
+
+---
+
+## Ćureća prsa na 6 načina: kako da ostanu sočna
+
+https://unazdravahrana.com/blog/cureca-prsa-na-6-nacina-kako-da-ostanu-socna
+
+Članak donosi šest ideja za ćureća prsa, od odrezaka i pohovanja do punjenih prsa, sosova i pečenja s povrćem. Za sočnije i bezbedno pripremljeno meso preporučuje komade ujednačene debljine i proveru da sredina dostigne najmanje 74 °C.
+
+**Q: Kako da ćureća prsa ne budu suva?**
+
+Birajte komade ujednačene debljine, ne pecite ih duže nego što je potrebno i sklonite ih s vatre kada sredina dostigne najmanje 74 °C.
+
+**Q: Na kojoj temperaturi su ćureća prsa bezbedno pečena?**
+
+Najmanje 74 °C u sredini najdebljeg dela, izmereno kuhinjskim termometrom.
+
+**Q: Da li treba prati sirova ćureća prsa?**
+
+Ne. Pranje može razneti sokove sa sirovog mesa na sudoperu, pribor i drugu hranu.
+
+**Q: Kako proveriti punjena ćureća prsa?**
+
+Termometrom proverite i sredinu mesa i sredinu nadeva; obe treba da dostignu približno 74 °C.
+
+---
+
+## Kremasta palenta s keljom, repom i narom
+
+https://unazdravahrana.com/recepti/kremasta-palenta-s-keljom-repom-i-narom
+
+Kremasta palenta s dinstanim keljom i belom repom, uz nar, čia semenke i orašaste plodove. Topao jesenji ručak za 40 minuta.
+
+**Q: Može li se recept pripremiti unapred?**
+
+Možete ranije pripremiti dinstano povrće. Palentu je najlakše poslužiti čim je skuvate, a nar dodajte neposredno pre jela.
+
+**Q: Da li repu treba skuvati pre dinstanja?**
+
+Ne. Isecite je na sitne kockice i dinstajte poklopljenu s malo vode dok ne omekša.
+
+**Q: Kako da palenta ostane kremasta?**
+
+Griz sipajte postepeno uz stalno mešanje. Ako se palenta zgusne dok spremate povrće, umešajte malo tople vode.
+
+**Q: Da li je jelo pogodno za osobe koje izbegavaju gluten?**
+
+Ako izbegavate gluten, proverite deklaraciju kukuruznog griza i ostalih pakovanih sastojaka zbog moguće kontaminacije tokom proizvodnje.
+
+---
+
+## Jesenji ovsotto sa keljom, repom i narom
+
+https://unazdravahrana.com/recepti/jesenji-ovsotto-sa-keljom-repom-i-narom
+
+Kremasti ovsotto sa keljom, belom repom i narom: topao jesenji ručak iz jednog tiganja, gotov za 40 minuta.
+
+**Q: Da li je ovo isto što i klasičan rižoto?**
+
+Nije: ovsotto se pravi od ovsenih pahuljica, a naziv opisuje njegovu kremastu teksturu i način posluživanja.
+
+**Q: Mogu li da pripremim ovsotto unapred?**
+
+Možete, ali će se hlađenjem zgusnuti. Pri zagrevanju dodajte malo vode, a nar i orahe stavite neposredno pre jela.
+
+**Q: Da li su sve ovsene pahuljice pogodne ako izbegavam gluten?**
+
+Ne oslanjajte se samo na naziv namirnice: proverite deklaraciju i pitajte u radnji za odgovarajuću opciju. Ako gluten izbegavate zbog zdravstvenog stanja, posavetujte se sa lekarom.
+
+---
+
+## Slani mafini sa keljom i repom, uz svež nar
+
+https://unazdravahrana.com/recepti/slani-mafini-sa-keljom-i-repom-uz-svez-nar
+
+Ispecite slane mafine sa keljom i repom, pa ih poslužite uz svež nar. Jednostavan recept za jesenju užinu.
+
+**Q: Zašto se repa cedi pre dodavanja u testo?**
+
+Rendana repa pušta vodu. Kada je iscedite, lakše ćete dobiti mafine koji se lepo ispeku u sredini.
+
+**Q: Mogu li zrna nara da se peku zajedno s mafinima?**
+
+Mogu, ali za svežiji ukus i lepši izgled dodajte ih nakon pečenja.
+
+**Q: Da li mafini mogu da se jedu hladni?**
+
+Da. Pogodni su i kao užina koju ćete poneti od kuće; čuvajte ih u frižideru do polaska.
+
+---
+
+## Posna slava za 20 gostiju: kuvanje ili ketering?
+
+https://unazdravahrana.com/blog/posna-slava-za-20-gostiju-kuvanje-ili-ketering
+
+Objavljena okvirna računica za kućnu pripremu posne slave za 20 gostiju iznosi 24.150 dinara za hranu, odnosno 33.650 dinara s pićem, dok jedna ponuda keteringa počinje od 52.000 dinara. Pošto ponude ne obuhvataju iste stavke, pre odluke treba proveriti jelovnik, dodatne troškove i pravila posta za datum slave.
+
+**Q: Koliko košta priprema posne slave za 20 gostiju kod kuće?**
+
+Prema jednoj okvirnoj računici, hrana košta 24.150 dinara, a hrana i piće ukupno 33.650 dinara. Vaša cena zavisiće od kupovine i jelovnika.
+
+**Q: Koliko košta posni ketering za 20 osoba?**
+
+U jednoj objavljenoj ponudi iz Beograda standardni paket košta 52.000, a premijum 68.000 dinara za 20 osoba. Posni kolači se doplaćuju.
+
+**Q: Da li je kuvanje za posnu slavu jeftinije od keteringa?**
+
+Objavljena kućna računica je niža, ali iznosi nisu direktno uporedivi jer ne uključuju iste stavke. Zatražite ponudu za isti spisak jela, pića i dodataka.
+
+**Q: Kako odabrati jela za posnu slavu?**
+
+Proverite pravila posta za datum slave, naročito za ribu i ulje, pa sastavite jelovnik. Pročitajte i sastav gotovih proizvoda pre kupovine.
+
+---
+
+## 12 namirnica i pića koja lako dodaju kalorije
+
+https://unazdravahrana.com/blog/12-namirnica-i-pica-koja-lako-dodaju-kalorije
+
+Sokovi, zaslađena pića, pločice i druge svakodnevne namirnice mogu dodati više šećera i kalorija nego što očekujete, naročito kada ne primetite veličinu porcije. Članak pokazuje kako da uporedite deklaracije na 100 g ili 100 ml i izaberete promenu koju možete da zadržite.
+
+**Q: Koja pića lako dodaju kalorije uz obrok?**
+
+Zaslađena gazirana pića, sokovi, nektari i kafe s dodacima mogu povećati unos šećera i kalorija. Proverite vrednosti na 100 ml i količinu koju ćete popiti.
+
+**Q: Da li voćni sok bez dodatog šećera sadrži šećer?**
+
+Da. Sok bez dodatog šećera i dalje može sadržati slobodne šećere, zato proverite deklaraciju.
+
+**Q: Da li je proteinska pločica niskokalorična?**
+
+Ne nužno. Pročitajte energetsku vrednost, količinu šećera i podatke za celu pločicu.
+
+**Q: Kako uporediti dve deklaracije hrane?**
+
+Najpre uporedite energiju i šećere na 100 g ili 100 ml, a zatim proverite sastojke i količinu koju ćete zaista pojesti ili popiti.
 
 ---
 
@@ -76,6 +212,30 @@ Nije, jer sadrži pšenično brašno. Ako izbegavate gluten, koristite brašno k
 
 ---
 
+## Masna jetra i normalna težina: šta prvo proveriti
+
+https://unazdravahrana.com/blog/masna-jetra-i-normalna-tezina-sta-prvo-proveriti
+
+Normalna telesna težina ne isključuje ozbiljnije promene na jetri, pa s lekarom treba razjasniti nalaz i potrebu za procenom fibroze. U ishrani je koristan održiv obrazac raznovrsnih obroka, a ne potraga za jednom namirnicom ili posebnom dijetom.
+
+**Q: Da li je masna jetra moguća ako imam normalnu težinu?**
+
+Da. Normalna težina ne isključuje masnu jetru niti ozbiljnije promene, pa nalaz treba razjasniti s lekarom.
+
+**Q: Šta prvo proveriti kada na nalazu piše „masna jetra”?**
+
+Pitajte lekara da li nalaz opisuje samo nakupljanje masti, šta se zna o uzroku i da li je potrebna procena fibroze.
+
+**Q: Da li masna jetra znači da imam fibrozu?**
+
+Ne nužno. Nakupljanje masti i fibroza, odnosno ožiljkavanje jetre, nisu isto; lekar tumači postojeće nalaze i odlučuje o daljim koracima.
+
+**Q: Kako da prilagodim ishranu ako imam masnu jetru?**
+
+Birajte češće raznovrsne obroke s povrćem, voćem, integralnim žitaricama i nezasićenim mastima, uz manje ultraprerađene hrane i zaslađenih pića. Individualne savete zatražite od lekara.
+
+---
+
 ## Sarmice od kelja s prosom, repom i narom
 
 https://unazdravahrana.com/recepti/sarmice-od-kelja-s-prosom-repom-i-narom
@@ -124,51 +284,27 @@ Pečena cvekla i šargarepa, leblebije i kuvana žitarica.
 
 ---
 
-## 12 namirnica i pića koja lako dodaju kalorije
+## Vitamin B12 za srce: šta novi pregled zaista kaže
 
-https://unazdravahrana.com/blog/12-namirnica-i-pica-koja-lako-dodaju-kalorije
+https://unazdravahrana.com/blog/vitamin-b12-za-srce-sta-novi-pregled-zaista-kaze
 
-Sokovi, zaslađena pića, pločice i druge svakodnevne namirnice mogu dodati više šećera i kalorija nego što očekujete, naročito kada ne primetite veličinu porcije. Članak pokazuje kako da uporedite deklaracije na 100 g ili 100 ml i izaberete promenu koju možete da zadržite.
+Vitamin B12 učestvuje u metabolizmu homocisteina, ali suplementacija nije pokazala pouzdanu korist u sprečavanju srčanog udara. Provera unosa ili statusa B12 posebno je važna za osobe na veganskoj ishrani i one koje uzimaju metformin, uz savet zdravstvenog radnika.
 
-**Q: Koja pića lako dodaju kalorije uz obrok?**
+**Q: Da li vitamin B12 sprečava srčani udar?**
 
-Zaslađena gazirana pića, sokovi, nektari i kafe s dodacima mogu povećati unos šećera i kalorija. Proverite vrednosti na 100 ml i količinu koju ćete popiti.
+Ne postoji pouzdan dokaz da uzimanje B12 sprečava srčani udar, čak i kada suplementacija snižava homocistein.
 
-**Q: Da li voćni sok bez dodatog šećera sadrži šećer?**
+**Q: Da li B12 smanjuje rizik od moždanog udara?**
 
-Da. Sok bez dodatog šećera i dalje može sadržati slobodne šećere, zato proverite deklaraciju.
+U ispitivanjima različitih kombinacija vitamina B zabeležena je mala razlika u riziku od moždanog udara, ali se taj rezultat ne može pripisati samo B12.
 
-**Q: Da li je proteinska pločica niskokalorična?**
+**Q: Ko treba da obrati pažnju na unos vitamina B12?**
 
-Ne nužno. Pročitajte energetsku vrednost, količinu šećera i podatke za celu pločicu.
+Osobe na veganskoj ishrani i one koje uzimaju metformin imaju razlog da razgovaraju sa zdravstvenim radnikom o unosu ili statusu B12.
 
-**Q: Kako uporediti dve deklaracije hrane?**
+**Q: Da li treba prekinuti B12 ako ga je lekar preporučio?**
 
-Najpre uporedite energiju i šećere na 100 g ili 100 ml, a zatim proverite sastojke i količinu koju ćete zaista pojesti ili popiti.
-
----
-
-## Masna jetra i normalna težina: šta prvo proveriti
-
-https://unazdravahrana.com/blog/masna-jetra-i-normalna-tezina-sta-prvo-proveriti
-
-Normalna telesna težina ne isključuje ozbiljnije promene na jetri, pa s lekarom treba razjasniti nalaz i potrebu za procenom fibroze. U ishrani je koristan održiv obrazac raznovrsnih obroka, a ne potraga za jednom namirnicom ili posebnom dijetom.
-
-**Q: Da li je masna jetra moguća ako imam normalnu težinu?**
-
-Da. Normalna težina ne isključuje masnu jetru niti ozbiljnije promene, pa nalaz treba razjasniti s lekarom.
-
-**Q: Šta prvo proveriti kada na nalazu piše „masna jetra”?**
-
-Pitajte lekara da li nalaz opisuje samo nakupljanje masti, šta se zna o uzroku i da li je potrebna procena fibroze.
-
-**Q: Da li masna jetra znači da imam fibrozu?**
-
-Ne nužno. Nakupljanje masti i fibroza, odnosno ožiljkavanje jetre, nisu isto; lekar tumači postojeće nalaze i odlučuje o daljim koracima.
-
-**Q: Kako da prilagodim ishranu ako imam masnu jetru?**
-
-Birajte češće raznovrsne obroke s povrćem, voćem, integralnim žitaricama i nezasićenim mastima, uz manje ultraprerađene hrane i zaslađenih pića. Individualne savete zatražite od lekara.
+Ne prekidajte B12 na svoju ruku. Nalazi o prevenciji srčanih bolesti ne menjaju razlog zbog kojeg vam je lekar preporučio nadoknadu.
 
 ---
 
@@ -189,6 +325,54 @@ U ovom receptu repa se prvo dinsta, a zatim peče s pečurkama, pa omekša i dob
 **Q: Da li nar ide u rernu?**
 
 Ne. Pospite ga preko gotovih pečuraka neposredno pred služenje.
+
+---
+
+## Borovnice: kako izabrati, sačuvati i iskoristiti plod
+
+https://unazdravahrana.com/blog/borovnice-kako-izabrati-sacuvati-i-iskoristiti-plod
+
+Pri kupovini borovnica proverite stanje plodova i dno pakovanja, a tvrdnje o poreklu i načinu uzgoja razlikujte od potvrđene dokumentacije. Borovnice pregledajte pre čuvanja, perite neposredno pre upotrebe i zamrznite ako želite da ih sačuvate duže.
+
+**Q: Kako prepoznati sveže borovnice?**
+
+Birajte suve, čvrste i neoštećene plodove. Proverite i dno kutije: sok, zgnječene bobice ili buđ znak su da pakovanje treba izbeći.
+
+**Q: Da li borovnice treba oprati pre stavljanja u frižider?**
+
+Bolje je da ih pregledate i čuvate neoprane u frižideru, a isperete pod tekućom vodom neposredno pre jela ili pripreme.
+
+**Q: Kako zamrznuti borovnice?**
+
+Pregledajte ih, operite i dobro osušite. Rasporedite ih tako da se ne slepe, pa ih prebacite u posudu ili kesu za zamrzavanje.
+
+**Q: Da li oznaka „domaće” znači da su borovnice organske?**
+
+Ne. „Domaće” govori o poreklu, ali ne potvrđuje organski uzgoj. Ako vam je to važno, tražite deklaraciju ili odgovarajuću dokumentaciju.
+
+---
+
+## Palačinke od 7 sastojaka: recept i integralna verzija
+
+https://unazdravahrana.com/blog/palacinke-od-7-sastojaka-recept-i-integralna-verzija
+
+Članak donosi recept za domaće palačinke od sedam sastojaka, savete za pečenje i prilagođavanje testa integralnom brašnu. Navedene mere potiču iz recepta priloženog uz Blicovu priču, a nisu potvrđeni lični recept Dijane Đoković.
+
+**Q: Koji sastojci su potrebni za palačinke od 7 sastojaka?**
+
+Potrebni su dva jaja, 200 g brašna, četiri kašike ulja, 300 ml mleka, 200 ml mineralne vode, jedna do dve kašičice šećera i prstohvat soli.
+
+**Q: Da li je ovo recept Dijane Đoković?**
+
+Ne. Dijana Đoković nije objavila tačne mere; recept je Blic priložio uz priču o njenim palačinkama.
+
+**Q: Kako prilagoditi testo za integralne palačinke?**
+
+Proverite da li se testo lako razliva po tiganju. Ako je pregusto, postepeno dodajte malo mleka ili mineralne vode iz recepta.
+
+**Q: Kako sprečiti da se palačinke cepaju pri okretanju?**
+
+Sačekajte da se površina stegne i da ivica počne da se odvaja, pa palačinku pažljivo okrenite tankom lopaticom.
 
 ---
 
@@ -233,78 +417,6 @@ Ne u ovom obliku ako upotrebite pšenično brašno. Za izbor brašna koje odgova
 **Q: Mogu li da izostavim jaje?**
 
 Jaje pomaže da pljeskavice zadrže oblik. Bez njega smesa može biti rastresitija, pa napravite manje pljeskavice i okrećite ih pažljivo.
-
----
-
-## Palačinke od 7 sastojaka: recept i integralna verzija
-
-https://unazdravahrana.com/blog/palacinke-od-7-sastojaka-recept-i-integralna-verzija
-
-Članak donosi recept za domaće palačinke od sedam sastojaka, savete za pečenje i prilagođavanje testa integralnom brašnu. Navedene mere potiču iz recepta priloženog uz Blicovu priču, a nisu potvrđeni lični recept Dijane Đoković.
-
-**Q: Koji sastojci su potrebni za palačinke od 7 sastojaka?**
-
-Potrebni su dva jaja, 200 g brašna, četiri kašike ulja, 300 ml mleka, 200 ml mineralne vode, jedna do dve kašičice šećera i prstohvat soli.
-
-**Q: Da li je ovo recept Dijane Đoković?**
-
-Ne. Dijana Đoković nije objavila tačne mere; recept je Blic priložio uz priču o njenim palačinkama.
-
-**Q: Kako prilagoditi testo za integralne palačinke?**
-
-Proverite da li se testo lako razliva po tiganju. Ako je pregusto, postepeno dodajte malo mleka ili mineralne vode iz recepta.
-
-**Q: Kako sprečiti da se palačinke cepaju pri okretanju?**
-
-Sačekajte da se površina stegne i da ivica počne da se odvaja, pa palačinku pažljivo okrenite tankom lopaticom.
-
----
-
-## Borovnice: kako izabrati, sačuvati i iskoristiti plod
-
-https://unazdravahrana.com/blog/borovnice-kako-izabrati-sacuvati-i-iskoristiti-plod
-
-Pri kupovini borovnica proverite stanje plodova i dno pakovanja, a tvrdnje o poreklu i načinu uzgoja razlikujte od potvrđene dokumentacije. Borovnice pregledajte pre čuvanja, perite neposredno pre upotrebe i zamrznite ako želite da ih sačuvate duže.
-
-**Q: Kako prepoznati sveže borovnice?**
-
-Birajte suve, čvrste i neoštećene plodove. Proverite i dno kutije: sok, zgnječene bobice ili buđ znak su da pakovanje treba izbeći.
-
-**Q: Da li borovnice treba oprati pre stavljanja u frižider?**
-
-Bolje je da ih pregledate i čuvate neoprane u frižideru, a isperete pod tekućom vodom neposredno pre jela ili pripreme.
-
-**Q: Kako zamrznuti borovnice?**
-
-Pregledajte ih, operite i dobro osušite. Rasporedite ih tako da se ne slepe, pa ih prebacite u posudu ili kesu za zamrzavanje.
-
-**Q: Da li oznaka „domaće” znači da su borovnice organske?**
-
-Ne. „Domaće” govori o poreklu, ali ne potvrđuje organski uzgoj. Ako vam je to važno, tražite deklaraciju ili odgovarajuću dokumentaciju.
-
----
-
-## Kokosovo ulje za kosu: kako ga koristiti bez greške
-
-https://unazdravahrana.com/blog/kokosovo-ulje-za-kosu-kako-ga-koristiti-bez-greske
-
-Kokosovo ulje može pomoći u smanjenju gubitka proteina iz vlasi, ali nema dokaza iz navedenih istraživanja da ubrzava rast kose ili sprečava opadanje iz korena. Probajte malu količinu na dužini ili krajevima pre pranja i procenite kako vaša kosa reaguje.
-
-**Q: Da li je kokosovo ulje dobro za kosu?**
-
-Može biti korisno za negu vlasi: istraživanja su pokazala manji gubitak proteina iz kose tretirane kokosovim uljem. Rezultat na vašoj kosi zavisi od količine i načina upotrebe.
-
-**Q: Kako se nanosi kokosovo ulje na kosu?**
-
-Počnite malom količinom na krajevima ili delu dužine koji se mrsi, pre pranja. Zatim operite kosu kao inače i procenite da li je lakše raščešljavate ili deluje masno.
-
-**Q: Da li kokosovo ulje pomaže kod opadanja kose?**
-
-Navedena istraživanja odnose se na vlas i gubitak proteina, ne dokazuju da kokosovo ulje sprečava opadanje kose iz korena.
-
-**Q: Da li kokosovo ulje treba stavljati na vlasište?**
-
-Ako vam se koren brzo masti, zadržite ulje na krajevima. Ako vlasište svrbi, peruta se ili je nadraženo, potražite savet dermatologa umesto da tegobu prikrivate uljem.
 
 ---
 
@@ -380,75 +492,27 @@ Ako uzimate varfarin ili slične lekove protiv zgrušavanja krvi, posavetujte se
 
 ---
 
-## Hemikalije iz ambalaže: kako čuvati hranu kod kuće
+## Kokosovo ulje za kosu: kako ga koristiti bez greške
 
-https://unazdravahrana.com/blog/hemikalije-iz-ambalaze-kako-cuvati-hranu-kod-kuce
+https://unazdravahrana.com/blog/kokosovo-ulje-za-kosu-kako-ga-koristiti-bez-greske
 
-Istraživanje je izdvojilo hemikalije iz materijala za kontakt s hranom koje treba dalje ispitati, ali ne dokazuje da svaka ambalaža predstavlja rizik. Kod kuće birajte posudu prema nameni, proverite njeno stanje i ne podgrevajte hranu u njoj bez jasne oznake da je pogodna za to.
+Kokosovo ulje može pomoći u smanjenju gubitka proteina iz vlasi, ali nema dokaza iz navedenih istraživanja da ubrzava rast kose ili sprečava opadanje iz korena. Probajte malu količinu na dužini ili krajevima pre pranja i procenite kako vaša kosa reaguje.
 
-**Q: Da li svaka ambalaža za hranu sadrži opasne hemikalije?**
+**Q: Da li je kokosovo ulje dobro za kosu?**
 
-Ne. Pomenuto istraživanje je odredilo prioritete za dalja ispitivanja; nije pokazalo da svaka ambalaža sadrži izdvojene hemikalije ili da one prelaze u hranu.
+Može biti korisno za negu vlasi: istraživanja su pokazala manji gubitak proteina iz kose tretirane kokosovim uljem. Rezultat na vašoj kosi zavisi od količine i načina upotrebe.
 
-**Q: Da li je staklo uvek bolji izbor od plastike za čuvanje hrane?**
+**Q: Kako se nanosi kokosovo ulje na kosu?**
 
-Ne može se suditi samo po materijalu. Proverite da li je konkretna posuda namenjena za hranu i za način upotrebe koji planirate.
+Počnite malom količinom na krajevima ili delu dužine koji se mrsi, pre pranja. Zatim operite kosu kao inače i procenite da li je lakše raščešljavate ili deluje masno.
 
-**Q: Mogu li da podgrejem hranu u plastičnoj kutiji?**
+**Q: Da li kokosovo ulje pomaže kod opadanja kose?**
 
-Samo ako proizvođač navodi da je konkretna kutija pogodna za mikrotalasnu rernu. Ako oznaka nedostaje, prebacite hranu u odgovarajuću posudu.
+Navedena istraživanja odnose se na vlas i gubitak proteina, ne dokazuju da kokosovo ulje sprečava opadanje kose iz korena.
 
-**Q: Da li je hrana kupljena u rinfuzi bezbednija od upakovane?**
+**Q: Da li kokosovo ulje treba stavljati na vlasište?**
 
-Pomenuta studija nije upoređivala bezbednost rinfuzne i upakovane hrane. I rinfuzna hrana dolazi u kontakt s opremom i posudama.
-
----
-
-## Sirovo meso i bez povrća: rizici „mračne ishrane”
-
-https://unazdravahrana.com/blog/sirovo-meso-i-bez-povrca-rizici-mracne-ishrane
-
-„Mračna ishrana” nije jedinstvena dijeta, već trend koji promoviše nepoverenje prema stručnim savetima i potencijalno rizične izbore hrane. Članak objašnjava rizike sirovog mesa i nepasterizovanog mleka i podseća na važnost raznovrsne ishrane i provere izvora.
-
-**Q: Šta je „mračna ishrana”?**
-
-To nije dijeta s propisanim jelovnikom, već naziv za trend nepoverenja prema stručnim savetima o ishrani i okretanja nekonvencionalnim praksama.
-
-**Q: Zašto je jedenje sirovog mesa rizično?**
-
-Sirovo meso može preneti uzročnike bolesti koje se prenose hranom. Pravilna termička obrada i provera termometrom za hranu smanjuju rizik.
-
-**Q: Da li je nepasterizovano mleko hranljivije od pasterizovanog?**
-
-Prema CDC-u, pasterizovano mleko pruža iste nutritivne koristi, bez rizika povezanih s konzumiranjem sirovog mleka.
-
-**Q: Da li zbog „mračne ishrane” treba izbaciti povrće?**
-
-Ne postoji dobar razlog da se sve povrće proglasi štetnim. Raznovrsna ishrana je bolja polazna tačka od izbacivanja cele grupe namirnica bez jasnog razloga.
-
----
-
-## Domaće tortilje s keljom, belom repom i narom
-
-https://unazdravahrana.com/recepti/domace-tortilje-s-keljom-belom-repom-i-narom
-
-Kad kasna jesen donese kelj i belu repu, od njih može da nastane ručak koji se jede rukama: tople domaće tortilje sa povrćem, orasima i svežim zrnima nara. Slatkast i kiselkast nar dodaje se tek na kraju, da ostane sočan.
-
-**Q: Da li mora da se koristi baš bela repa?**
-
-Ovaj recept je osmišljen za belu repu. Ako birate drugu namirnicu, prilagodite vreme dinstanja njenoj čvrstini.
-
-**Q: Mogu li tortilje da napravim unapred?**
-
-Mogu. Držite ih pokrivene da se ne osuše, a pre posluživanja ih kratko zagrejte u tiganju.
-
-**Q: Kada se dodaje nar?**
-
-Na samom kraju, preko toplog fila. Tako zrna zadržavaju svoju sočnost.
-
-**Q: Šta ako uzimam varfarin?**
-
-Kelj sadrži vitamin K. Ako uzimate varfarin, nemojte naglo menjati količinu kelja u ishrani; o tome se posavetujte sa svojim lekarom.
+Ako vam se koren brzo masti, zadržite ulje na krajevima. Ako vlasište svrbi, peruta se ili je nadraženo, potražite savet dermatologa umesto da tegobu prikrivate uljem.
 
 ---
 
@@ -496,6 +560,54 @@ Tek pri služenju, kako bi zrna ostala sveža i sočna.
 
 ---
 
+## Sirovo meso i bez povrća: rizici „mračne ishrane”
+
+https://unazdravahrana.com/blog/sirovo-meso-i-bez-povrca-rizici-mracne-ishrane
+
+„Mračna ishrana” nije jedinstvena dijeta, već trend koji promoviše nepoverenje prema stručnim savetima i potencijalno rizične izbore hrane. Članak objašnjava rizike sirovog mesa i nepasterizovanog mleka i podseća na važnost raznovrsne ishrane i provere izvora.
+
+**Q: Šta je „mračna ishrana”?**
+
+To nije dijeta s propisanim jelovnikom, već naziv za trend nepoverenja prema stručnim savetima o ishrani i okretanja nekonvencionalnim praksama.
+
+**Q: Zašto je jedenje sirovog mesa rizično?**
+
+Sirovo meso može preneti uzročnike bolesti koje se prenose hranom. Pravilna termička obrada i provera termometrom za hranu smanjuju rizik.
+
+**Q: Da li je nepasterizovano mleko hranljivije od pasterizovanog?**
+
+Prema CDC-u, pasterizovano mleko pruža iste nutritivne koristi, bez rizika povezanih s konzumiranjem sirovog mleka.
+
+**Q: Da li zbog „mračne ishrane” treba izbaciti povrće?**
+
+Ne postoji dobar razlog da se sve povrće proglasi štetnim. Raznovrsna ishrana je bolja polazna tačka od izbacivanja cele grupe namirnica bez jasnog razloga.
+
+---
+
+## Hemikalije iz ambalaže: kako čuvati hranu kod kuće
+
+https://unazdravahrana.com/blog/hemikalije-iz-ambalaze-kako-cuvati-hranu-kod-kuce
+
+Istraživanje je izdvojilo hemikalije iz materijala za kontakt s hranom koje treba dalje ispitati, ali ne dokazuje da svaka ambalaža predstavlja rizik. Kod kuće birajte posudu prema nameni, proverite njeno stanje i ne podgrevajte hranu u njoj bez jasne oznake da je pogodna za to.
+
+**Q: Da li svaka ambalaža za hranu sadrži opasne hemikalije?**
+
+Ne. Pomenuto istraživanje je odredilo prioritete za dalja ispitivanja; nije pokazalo da svaka ambalaža sadrži izdvojene hemikalije ili da one prelaze u hranu.
+
+**Q: Da li je staklo uvek bolji izbor od plastike za čuvanje hrane?**
+
+Ne može se suditi samo po materijalu. Proverite da li je konkretna posuda namenjena za hranu i za način upotrebe koji planirate.
+
+**Q: Mogu li da podgrejem hranu u plastičnoj kutiji?**
+
+Samo ako proizvođač navodi da je konkretna kutija pogodna za mikrotalasnu rernu. Ako oznaka nedostaje, prebacite hranu u odgovarajuću posudu.
+
+**Q: Da li je hrana kupljena u rinfuzi bezbednija od upakovane?**
+
+Pomenuta studija nije upoređivala bezbednost rinfuzne i upakovane hrane. I rinfuzna hrana dolazi u kontakt s opremom i posudama.
+
+---
+
 ## Proteinski hleb sa mladim sirom: recept bez mešenja
 
 https://unazdravahrana.com/blog/proteinski-hleb-sa-mladim-sirom-recept-bez-mesenja
@@ -520,99 +632,27 @@ Ne treba ih zameniti istom količinom brašna i očekivati isti rezultat: brašn
 
 ---
 
-## 6 jesenjih voćki: kako birati ako pratite šećer
+## Domaće tortilje s keljom, belom repom i narom
 
-https://unazdravahrana.com/blog/6-jesenjih-vocki-kako-birati-ako-pratite-secer
+https://unazdravahrana.com/recepti/domace-tortilje-s-keljom-belom-repom-i-narom
 
-Jesenje voće može biti deo jelovnika osoba koje prate šećer u krvi, uz pažnju na porciju i ukupne ugljene hidrate u obroku. Kod smokava i brusnica posebno je važan oblik u kom se jedu, a kod jabuka, krušaka i nara količina koju zaista pojedete.
+Kad kasna jesen donese kelj i belu repu, od njih može da nastane ručak koji se jede rukama: tople domaće tortilje sa povrćem, orasima i svežim zrnima nara. Slatkast i kiselkast nar dodaje se tek na kraju, da ostane sočan.
 
-**Q: Da li osobe sa dijabetesom moraju da izbegavaju voće?**
+**Q: Da li mora da se koristi baš bela repa?**
 
-Ne. Ugljene hidrate iz voća treba uračunati u individualni plan obroka.
+Ovaj recept je osmišljen za belu repu. Ako birate drugu namirnicu, prilagodite vreme dinstanja njenoj čvrstini.
 
-**Q: Kolika je porcija svežeg voća?**
+**Q: Mogu li tortilje da napravim unapred?**
 
-Diabetes UK navodi 80 g svežeg voća kao orijentir, ali sastav zavisi od vrste voća.
-
-**Q: Da li su suve smokve isto što i sveže?**
-
-Ne. Suvo voće zauzima manje mesta, pa je lako pojesti više; oko 30 g sušenog voća je orijentir za porciju.
-
-**Q: Da li je bolje izabrati ceo plod ili sok?**
-
-Kada možete, izaberite ceo plod. Kod soka i smutija proverite koliko je voća upotrebljeno i koliko je vlakana ostalo.
-
----
-
-## Čorba od bele repe i kelja s narom
-
-https://unazdravahrana.com/recepti/corba-od-bele-repe-i-kelja-s-narom
-
-Kad zahladni, prija čorba koja je topla i zasitna, a nije teška. Bela repa daje blagu osnovu, kelj ostaje u zalogajima, a svež nar na kraju unosi prijatnu kiselkastu notu.
-
-**Q: Da li mogu da napravim čorbu bez štapnog miksera?**
-
-Možete. Deo kuvane repe izgnječite viljuškom uz ivicu šerpe, pa ga vratite u čorbu i promešajte.
+Mogu. Držite ih pokrivene da se ne osuše, a pre posluživanja ih kratko zagrejte u tiganju.
 
 **Q: Kada se dodaje nar?**
 
-Tek u činiju, neposredno pre jela. Tako ostaje svež i daje kontrast toploj čorbi.
+Na samom kraju, preko toplog fila. Tako zrna zadržavaju svoju sočnost.
 
-**Q: Da li moram da potopim čia semenke?**
+**Q: Šta ako uzimam varfarin?**
 
-Ne za ovaj recept. Umešajte ih direktno u čorbu i kuvajte još 5 minuta, uz povremeno mešanje.
-
-**Q: Na šta da obratim pažnju ako uzimam lekove protiv zgrušavanja krvi?**
-
-Kelj sadrži vitamin K. Ako uzimate varfarin ili sličan lek, nemojte naglo menjati količinu kelja koju inače jedete; o ishrani se posavetujte sa lekarom.
-
----
-
-## Dunje punjene keljom i repom, sa narom
-
-https://unazdravahrana.com/recepti/dunje-punjene-keljom-i-repom-sa-narom
-
-Kad kasna jesen donese dunje, kelj, repu i nar, probajte ih u toploj užini koja se jede kašikom: pečene polovine dunje napunjene povrćem, pa posute orasima i svežim zrncima nara.
-
-**Q: Da li dunje moraju da budu sasvim mekane pre punjenja?**
-
-Ne, ali treba da počnu da omekšavaju. Posle punjenja vraćaju se u rernu, a gotove su kada vrh noža lako prolazi kroz meso ploda.
-
-**Q: Mogu li da pripremim nadev unapred?**
-
-Možete propržiti repu i kelj ranije i čuvati ih poklopljene u frižideru. Čiju umešajte kada budete spremni da napunite dunje.
-
-**Q: Zašto se nar dodaje na kraju?**
-
-Tako zrna ostaju sveža i daju prijatan kontrast toplim dunjama i nadevu.
-
-**Q: Da li je recept pogodan ako uzimam lekove za razređivanje krvi?**
-
-Ako uzimate varfarin ili slične lekove, važno je da unos zelenog lisnatog povrća bude ujednačen. O količini kelja koja vam odgovara posavetujte se sa svojim lekarom.
-
----
-
-## Limunada sa solju po vrućini: kada ima smisla?
-
-https://unazdravahrana.com/blog/limunada-sa-solju-po-vrucini-kada-ima-smisla
-
-Za uobičajen dan po vrućini, uz redovne obroke, voda je prvi izbor, a limun se može dodati zbog ukusa. Posle višesatnog obilnog znojenja možda treba razmotriti nadoknadu elektrolita, ali so ne treba nasumično dodavati, naročito uz zdravstvena ograničenja.
-
-**Q: Da li je limunada sa solju bolja od vode po vrućini?**
-
-Za većinu ljudi koji redovno jedu, nije. Voda je prvi izbor, a limun se može dodati zbog ukusa.
-
-**Q: Kada ima smisla razmotriti elektrolite?**
-
-Posle višesatnog obilnog znojenja može biti potrebno razmotriti nadoknadu elektrolita, uzimajući u obzir obroke, aktivnost i zdravstveno stanje.
-
-**Q: Da li treba dodati prstohvat soli u jutarnju limunadu?**
-
-Za običan početak dana so nije potrebna. Prstohvat nije precizna mera, pa se ne zna koliko natrijuma napitak sadrži.
-
-**Q: Da li je limunada sa solju zamena za rastvor za oralnu rehidrataciju?**
-
-Nije. Kod povraćanja, proliva ili sumnje na ozbiljno pregrevanje potražite odgovarajući medicinski savet ili pomoć.
+Kelj sadrži vitamin K. Ako uzimate varfarin, nemojte naglo menjati količinu kelja u ishrani; o tome se posavetujte sa svojim lekarom.
 
 ---
 
@@ -640,72 +680,28 @@ Pratite uputstvo na pakovanju: koncentrisan ekstrakt i mešavina za odmeravanje 
 
 ---
 
-## 6 veganskih recepata bez glutena, od kaše do deserta
+## Limunada sa solju po vrućini: kada ima smisla?
 
-https://unazdravahrana.com/blog/6-veganskih-recepata-bez-glutena-od-kase-do-deserta
+https://unazdravahrana.com/blog/limunada-sa-solju-po-vrucini-kada-ima-smisla
 
-Članak donosi šest ideja za veganske obroke bez glutena, od doručka do deserta. Objašnjava koje deklaracije treba proveriti i kako izbeći kontakt hrane s glutenom pri pripremi za osobu sa celijakijom.
+Za uobičajen dan po vrućini, uz redovne obroke, voda je prvi izbor, a limun se može dodati zbog ukusa. Posle višesatnog obilnog znojenja možda treba razmotriti nadoknadu elektrolita, ali so ne treba nasumično dodavati, naročito uz zdravstvena ograničenja.
 
-**Q: Da li je svaka veganska hrana bez glutena?**
+**Q: Da li je limunada sa solju bolja od vode po vrućini?**
 
-Ne. Veganska hrana ne sadrži namirnice životinjskog porekla, ali može sadržati pšenicu, ječam ili raž.
+Za većinu ljudi koji redovno jedu, nije. Voda je prvi izbor, a limun se može dodati zbog ukusa.
 
-**Q: Koje ovsene pahuljice koristiti za osobu sa celijakijom?**
+**Q: Kada ima smisla razmotriti elektrolite?**
 
-Birajte pahuljice označene kao bezglutenske i pazite da tokom pripreme ne dođu u kontakt s mrvicama ili sastojcima koji sadrže gluten.
+Posle višesatnog obilnog znojenja može biti potrebno razmotriti nadoknadu elektrolita, uzimajući u obzir obroke, aktivnost i zdravstveno stanje.
 
-**Q: Kako se prave slane palačinke bez jaja i pšeničnog brašna?**
+**Q: Da li treba dodati prstohvat soli u jutarnju limunadu?**
 
-Umutite brašno leblebije s vodom, dodajte spanać i mladi luk, pa pecite manje palačinke. Okrenite ih tek kada se ivice učvrste.
+Za običan početak dana so nije potrebna. Prstohvat nije precizna mera, pa se ne zna koliko natrijuma napitak sadrži.
 
-**Q: Da li je ishrana bez glutena sama po sebi zdravija?**
+**Q: Da li je limunada sa solju zamena za rastvor za oralnu rehidrataciju?**
 
-Ne. Izostavljanje glutena nije samo po sebi zdravije niti je prečica do mršavljenja; ako sumnjate na celijakiju, obratite se lekaru.
-
----
-
-## Jesenja pica s keljom, repom i narom
-
-https://unazdravahrana.com/recepti/jesenja-pica-s-keljom-repom-i-narom
-
-Kad se uželite nečeg toplog i hrskavog, a pri ruci su jesenje namirnice, probajte ovu picu bez klasičnog sosa. Rendana repa i kelj peku se na tankoj kori, dok se nar dodaje tek na kraju da ostane svež.
-
-**Q: Zašto se repa cedi pre pečenja?**
-
-Rendana repa pušta vodu. Kada je iscedite, povrće će se lepše ispeći, a kora neće biti gnjecava.
-
-**Q: Može li se nar staviti na picu pre pečenja?**
-
-Može, ali preporučujemo da ga dodate na kraju: tako ostaje svež i pravi prijatan kontrast toplom povrću.
-
-**Q: Da li je ovaj recept bez glutena?**
-
-Nije, jer sadrži integralno brašno od pšenice. Ako izbegavate gluten, pitajte u radnji koje brašno iz asortimana odgovara vašim potrebama; možda će biti potrebno prilagoditi i količinu vode.
+Nije. Kod povraćanja, proliva ili sumnje na ozbiljno pregrevanje potražite odgovarajući medicinski savet ili pomoć.
 
 ---
 
-## Pečeni krompir s keljom, repom i narom
-
-https://unazdravahrana.com/recepti/peceni-krompir-s-keljom-repom-i-narom
-
-Kad zahladni, pečeni krompir je dobra osnova za jednostavan ručak. Ovde ga punimo kratko dinstanim keljom i belom repom, a zrna nara dodajemo tek na kraju, da ostanu sveža i sočna.
-
-**Q: Da li može da se koristi druga vrsta repe?**
-
-Recept je osmišljen za belu repu. Druge vrste imaju drugačiji ukus i vreme pripreme, pa ih nemojte menjati u istoj količini bez prilagođavanja.
-
-**Q: Mogu li da pripremim jelo ranije?**
-
-Možete unapred ispeći krompir i izdinstati povrće. Čuvajte ih poklopljene u frižideru, a nar i orahe dodajte posle podgrevanja.
-
-**Q: Kako da kelj ne bude žilav?**
-
-Odstranite čvrsta središnja rebra, listove sitnije naseckajte i dinstajte ih dok ne omekšaju.
-
-**Q: Da li treba da prilagodim porciju kelja ako uzimam varfarin?**
-
-Kod uzimanja varfarina važno je da unos hrane bogate vitaminom K bude približno ujednačen. O promenama u ishrani posavetujte se sa svojim lekarom.
-
----
-
-Last updated: 2026-11-24
+Last updated: 2026-11-25
