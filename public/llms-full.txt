@@ -4,27 +4,123 @@
 
 This file (an llms-full.txt) inlines self-contained answers from UNA Zdrava Hrana so AI answer engines can cite us directly. Canonical: https://unazdravahrana.com/. Attribution requested — see https://unazdravahrana.com/ai.txt.
 
-## Kimchi kod kuće: recept za fermentisani kupus
+## Tabuleu: recept sa bulgurom i peršunom, korak po korak
 
-https://unazdravahrana.com/blog/kimchi-kod-kuce-recept-za-fermentisani-kupus
+https://unazdravahrana.com/blog/tabuleu-recept-sa-bulgurom-i-persunom-korak-po-korak
 
-Domaći kimchi se pravi soljenjem, ispiranjem i začinjavanjem kineskog kupusa, a zatim fermentacijom u čistoj posudi. Vreme fermentacije je samo smernica: pre jela proverite da li je pH dostigao 4,6 ili manje.
+Tabuleu je libanska salata u kojoj je glavni sastojak sveži peršun, a sitni bulgur samo daje teksturu. Članak daje recept korak po korak, najčešće greške i bezglutensku varijantu sa kinoom.
 
-**Q: Kako se priprema kupus za kimchi?**
+**Q: Šta je tabuleu i odakle potiče?**
 
-Kupus se kratko potopi u slanu vodu, zatim posoli i ostavi 3–6 sati. Potom se ispere 3–4 puta i cedi najmanje 30 minuta pre dodavanja začina.
+Tabuleu je salata iz Levanta koja potiče iz planina današnjeg Libana i Sirije, naročito iz doline Beka. Pravi se od puno sitno seckanog peršuna, nane, paradajza, mladog luka, malo bulgura, limunovog soka i maslinovog ulja.
 
-**Q: Koliko dugo fermentiše domaći kimchi?**
+**Q: Da li se bulgur za tabuleu kuva?**
 
-Prema navedenom receptu, fermentacija traje približno 1–2 dana na oko 68 °F ili 3–4 dana u frižideru. Samo proteklo vreme ne znači da je kimchi spreman za jelo.
+Sitni bulgur obično ne mora da se kuva ni potapa, jer omekša od sokova paradajza i limuna dok salata odstoji petnaestak minuta. Krupniji bulgur treba pripremiti prema uputstvu na pakovanju, pa ocediti i ohladiti.
 
-**Q: Kako proveriti da li je kimchi spreman za jelo?**
+**Q: Da li je tabuleu bez glutena?**
 
-Odgovarajućom pH-test trakom proverite da li je dostigao pH 4,6 ili manje. Kiseli miris i mehurići nisu dovoljna potvrda.
+Klasični tabuleu nije bezglutenski, jer je bulgur izlomljena parcijalno kuvana pšenica, a sitni kuskus se obično pravi od pšeničnog griza. Bezglutensku verziju dobijate ako bulgur zamenite kuvanom i ohlađenom kinoom.
 
-**Q: Može li kimchi da se napravi bez ribljeg sosa?**
+**Q: Zašto tabuleu postane vodnjikav i kako to da sprečim?**
 
-Da. Riblji sos je opcioni sastojak u ovom receptu i možete ga izostaviti.
+Najčešći uzroci su vlažno bilje i prerano dresiranje. Peršun dobro osušite pre sečenja, secite ga oštrim nožem, izvadite višak soka iz paradajza i dresing sipajte tek neposredno pred služenje.
+
+---
+
+## Pečeni kelj i repa sa crnim grahom i narom
+
+https://unazdravahrana.com/recepti/peceni-kelj-i-repa-sa-crnim-grahom-i-narom
+
+Kasna jesen je vreme kada se na tezgama pojave kelj, repa i nar, a kuhinja poželi nešto toplo i sito. Ovaj recept spaja pečenu repu i kelj sa kremastim crnim grahom i zrncima nara na kraju.
+
+**Q: Da li je ovo jelo pogodno za ljude koji izbegavaju gluten i laktozu?**
+
+Recept po sastojcima nema gluten ni laktozu. Ipak, kod izraženije intolerancije proverite deklaracije na pakovanju graha, tahinija i začina, jer proizvodi ponekad mogu sadržati tragove.
+
+**Q: Mogu li da pripremim jelo unapred?**
+
+Da, pečeno povrće i grah mogu se pripremiti dan ranije i čuvati odvojeno u frižideru. Pred serviranje ih kratko zagrejte, a nar, orahe i tahini preliv dodajte tek na kraju.
+
+**Q: Šta ako ne volim ukus tahinija?**
+
+Umesto tahini preliva možete koristiti malo maslinovog ulja i limunovog soka ili kašiku sojinog ili kokosovog jogurta, zavisno od vaših potreba i ukusa.
+
+**Q: Koliko ovo jelo doprinosi dnevnom unosu povrća?**
+
+Zavisno od količine, jedna porcija sadrži značajan deo povrća. SZO preporučuje najmanje 400 g voća i povrća dnevno, što je otprilike pet porcija od po 80 g, a ovo jelo vam može pomoći da tom cilju priđete lakše.
+
+---
+
+## Kelj i repa u kremastom tahini dresingu sa narom
+
+https://unazdravahrana.com/recepti/kelj-i-repa-u-kremastom-tahini-dresingu-sa-narom
+
+Kasna jesen je trenutak kada kelj i repa stignu na tezgu u punoj snazi, a nar donosi sjajnu crvenu boju i svežinu.
+
+**Q: Da li je ovo jelo pogodno za ljude koji izbegavaju gluten i laktozu?**
+
+Recept po sastavu ne sadrži gluten ni mlečne proizvode. Ipak, uvek proverite deklaracije na upakovanim namirnicama (tahini, med, začini), jer proizvođači mogu imati različite uslove proizvodnje. Ako imate dijagnostikovanu intoleranciju ili alergiju, pitajte nas u radnji ili svog lekara.
+
+**Q: Mogu li da pripremim jelo unapred?**
+
+Dresing možete spremiti dan-dva ranije i čuvati u frižideru. Povrće je najukusnije sveže i toplo, ali se može pripremiti unapred i poslužiti kao hladna salata. Zrna nara i seme dodajte tek pred služenje da ostanu hrskava i sveža.
+
+**Q: Šta ako ne volim gorčinu kelja?**
+
+Kelj je u kasnu jesen blaži i slađi, naročito posle prvih hladnih noći. Ako ste osetljivi na gorčinu, listove nasecite sitnije, dinstajte nekoliko minuta duže i dodajte malo više limuna i meda u dresing — gorčina će se lepo izbalansirati.
+
+**Q: Koliko je jelo zasitno, i čime ga najbolje dopuniti?**
+
+Kao lagano glavno jelo dobro funkcioniše samo, a za zasitniji obrok dodajte leblebije, sočivo ili poslužite uz kuvano zrno kao što su proso, heljda ili smeđi pirinač. Kao prilog lepo ide uz pečenu ribu, piletinu ili ćufte.
+
+---
+
+## Čorba od kelja, bele repe i kokosa uz čia i nar
+
+https://unazdravahrana.com/recepti/corba-od-kelja-bele-repe-i-kokosa-uz-cia-i-nar
+
+Kad zahladi, kuhinja traži nešto toplo, gusto i bez komplikacija. Ova čorba spaja kasnojesenje povrće sa tržnice (kelj, belu repu, nar) sa mekoćom kokosovog mleka i blagim začinima.
+
+**Q: Da li je ova čorba bez glutena i laktoze?**
+
+Recept po sastavu ne sadrži gluten ni mlečne proizvode. Ipak, pre kupovine proverite deklaracije na bujonu i začinima, jer pojedini gotovi proizvodi mogu sadržati tragove glutena ili mleka.
+
+**Q: Može li se čorba pripremiti unapred?**
+
+Da. Skuvajte je do koraka sa kokosovim mlekom, ohladite i čuvajte u frižideru do 3 dana. Pri podgrevanju dodajte kokosovo mleko i limun, a nar i čia stavite tek u tanjir.
+
+**Q: Šta ako mi je bela repa previše gorka ili oštra?**
+
+Birajte manje, čvrste korenove glatke kože, jer su obično blaži. Ako je ipak oštrija, prokuvajte je 2–3 minuta u slanoj vodi pre dodavanja u čorbu, ili povećajte udeo krompira.
+
+**Q: Da li se kelj može zameniti nekim drugim povrćem?**
+
+Može. Umesto kelja možete koristiti kupus ili blitvu, uz prilagođeno vreme kuvanja. Lisnati kelj omekša nešto brže od glavice, pa pazite da se ne raskuva.
+
+---
+
+## Crni grah: 6 jela, od variva do čokoladnog deserta
+
+https://unazdravahrana.com/blog/crni-grah-6-jela-od-variva-do-cokoladnog-deserta
+
+Članak donosi šest jela od crnog graha, od salate i tortilja do variva i čokoladnog deserta, uz osnove kuvanja, čuvanja i izbora. Poredi nutritivne vrednosti suvog, kuvanog i konzerviranog graha i objašnjava zašto grah treba potopiti i skuvati do potpune mekoće.
+
+**Q: Da li crni grah treba potapati pre kuvanja?**
+
+Preporučuje se da se suvi crni grah potopi preko noći u hladnoj vodi, a zatim skuva u svežoj vodi do potpune mekoće. Nikada ga ne jedite sirovog ili polusirovog. Konzervirani grah je već termički obrađen, dovoljno ga je isprati.
+
+**Q: Koliko proteina i vlakana ima kuvani crni grah?**
+
+Prema USDA podacima, 100 g kuvanog crnog graha (bez soli) ima oko 132 kcal, 8,9 g proteina i 8,7 g vlakana. Jedna šolja (oko 172 g) ima oko 15 g proteina i 15 g vlakana. Vrednosti su okvirne i zavise od izvora.
+
+**Q: Da li je bolji domaći ili konzervirani crni grah?**
+
+Domaći grah ima nešto više folata (oko 149 µg naspram 61 µg na 100 g) i omogućava kontrolu soli, dok je konzerva brža opcija za radni dan. Razlika u nutrijentima nije dramatična. Konzervirani grah isperite da biste smanjili so.
+
+**Q: Kako sačuvati skuvani crni grah?**
+
+Višak skuvanog graha ohladite i zamrznite u kesicama od po jedne porcije. Tako imate domaću konzervu bez aditiva, spremnu za salatu, tortilje ili varivo.
 
 ---
 
@@ -76,26 +172,6 @@ Ako izbegavate gluten, proverite deklaraciju kukuruznog griza i ostalih pakovani
 
 ---
 
-## Jesenji ovsotto sa keljom, repom i narom
-
-https://unazdravahrana.com/recepti/jesenji-ovsotto-sa-keljom-repom-i-narom
-
-Kremasti ovsotto sa keljom, belom repom i narom: topao jesenji ručak iz jednog tiganja, gotov za 40 minuta.
-
-**Q: Da li je ovo isto što i klasičan rižoto?**
-
-Nije: ovsotto se pravi od ovsenih pahuljica, a naziv opisuje njegovu kremastu teksturu i način posluživanja.
-
-**Q: Mogu li da pripremim ovsotto unapred?**
-
-Možete, ali će se hlađenjem zgusnuti. Pri zagrevanju dodajte malo vode, a nar i orahe stavite neposredno pre jela.
-
-**Q: Da li su sve ovsene pahuljice pogodne ako izbegavam gluten?**
-
-Ne oslanjajte se samo na naziv namirnice: proverite deklaraciju i pitajte u radnji za odgovarajuću opciju. Ako gluten izbegavate zbog zdravstvenog stanja, posavetujte se sa lekarom.
-
----
-
 ## Slani mafini sa keljom i repom, uz svež nar
 
 https://unazdravahrana.com/recepti/slani-mafini-sa-keljom-i-repom-uz-svez-nar
@@ -113,6 +189,26 @@ Mogu, ali za svežiji ukus i lepši izgled dodajte ih nakon pečenja.
 **Q: Da li mafini mogu da se jedu hladni?**
 
 Da. Pogodni su i kao užina koju ćete poneti od kuće; čuvajte ih u frižideru do polaska.
+
+---
+
+## Jesenji ovsotto sa keljom, repom i narom
+
+https://unazdravahrana.com/recepti/jesenji-ovsotto-sa-keljom-repom-i-narom
+
+Kremasti ovsotto sa keljom, belom repom i narom: topao jesenji ručak iz jednog tiganja, gotov za 40 minuta.
+
+**Q: Da li je ovo isto što i klasičan rižoto?**
+
+Nije: ovsotto se pravi od ovsenih pahuljica, a naziv opisuje njegovu kremastu teksturu i način posluživanja.
+
+**Q: Mogu li da pripremim ovsotto unapred?**
+
+Možete, ali će se hlađenjem zgusnuti. Pri zagrevanju dodajte malo vode, a nar i orahe stavite neposredno pre jela.
+
+**Q: Da li su sve ovsene pahuljice pogodne ako izbegavam gluten?**
+
+Ne oslanjajte se samo na naziv namirnice: proverite deklaraciju i pitajte u radnji za odgovarajuću opciju. Ako gluten izbegavate zbog zdravstvenog stanja, posavetujte se sa lekarom.
 
 ---
 
@@ -140,99 +236,27 @@ Proverite pravila posta za datum slave, naročito za ribu i ulje, pa sastavite j
 
 ---
 
-## 12 namirnica i pića koja lako dodaju kalorije
+## Kimchi kod kuće: recept za fermentisani kupus
 
-https://unazdravahrana.com/blog/12-namirnica-i-pica-koja-lako-dodaju-kalorije
+https://unazdravahrana.com/blog/kimchi-kod-kuce-recept-za-fermentisani-kupus
 
-Sokovi, zaslađena pića, pločice i druge svakodnevne namirnice mogu dodati više šećera i kalorija nego što očekujete, naročito kada ne primetite veličinu porcije. Članak pokazuje kako da uporedite deklaracije na 100 g ili 100 ml i izaberete promenu koju možete da zadržite.
+Domaći kimchi se pravi soljenjem, ispiranjem i začinjavanjem kineskog kupusa, a zatim fermentacijom u čistoj posudi. Vreme fermentacije je samo smernica: pre jela proverite da li je pH dostigao 4,6 ili manje.
 
-**Q: Koja pića lako dodaju kalorije uz obrok?**
+**Q: Kako se priprema kupus za kimchi?**
 
-Zaslađena gazirana pića, sokovi, nektari i kafe s dodacima mogu povećati unos šećera i kalorija. Proverite vrednosti na 100 ml i količinu koju ćete popiti.
+Kupus se kratko potopi u slanu vodu, zatim posoli i ostavi 3–6 sati. Potom se ispere 3–4 puta i cedi najmanje 30 minuta pre dodavanja začina.
 
-**Q: Da li voćni sok bez dodatog šećera sadrži šećer?**
+**Q: Koliko dugo fermentiše domaći kimchi?**
 
-Da. Sok bez dodatog šećera i dalje može sadržati slobodne šećere, zato proverite deklaraciju.
+Prema navedenom receptu, fermentacija traje približno 1–2 dana na oko 68 °F ili 3–4 dana u frižideru. Samo proteklo vreme ne znači da je kimchi spreman za jelo.
 
-**Q: Da li je proteinska pločica niskokalorična?**
+**Q: Kako proveriti da li je kimchi spreman za jelo?**
 
-Ne nužno. Pročitajte energetsku vrednost, količinu šećera i podatke za celu pločicu.
+Odgovarajućom pH-test trakom proverite da li je dostigao pH 4,6 ili manje. Kiseli miris i mehurići nisu dovoljna potvrda.
 
-**Q: Kako uporediti dve deklaracije hrane?**
+**Q: Može li kimchi da se napravi bez ribljeg sosa?**
 
-Najpre uporedite energiju i šećere na 100 g ili 100 ml, a zatim proverite sastojke i količinu koju ćete zaista pojesti ili popiti.
-
----
-
-## Jesenji galet s keljom, belom repom i narom
-
-https://unazdravahrana.com/recepti/jesenji-galet-s-keljom-belom-repom-i-narom
-
-Napravite jesenji galet s glavnim keljom, belom repom, orasima i svežim narom. Jednostavan recept za topao porodični obrok.
-
-**Q: Da li se koristi glavati ili kovrdžavi lisnati kelj?**
-
-Recept je osmišljen za glavati kelj, isečen na tanke trake.
-
-**Q: Zašto se nar ne peče zajedno s galetom?**
-
-Dodaje se na kraju kako bi zrna ostala sočna i dala kontrast toplom nadevu.
-
-**Q: Šta ako nadev pusti mnogo tečnosti?**
-
-Dinstajte ga još kratko, dok višak tečnosti ne ispari, pa ga malo prohladite pre stavljanja na testo.
-
-**Q: Mogu li da izostavim orahe?**
-
-Možete, naročito ako izbegavate orašaste plodove. Galet će biti manje hrskav, ali postupak pripreme ostaje isti.
-
----
-
-## Jesenji drobljenac od repe i kelja s narom
-
-https://unazdravahrana.com/recepti/jesenji-drobljenac-od-repe-i-kelja-s-narom
-
-Napravite slani jesenji drobljenac od repe i kelja s orasima i svežim narom. Jednostavan recept za toplo jelo za četvoro.
-
-**Q: Da li nar ide u rernu zajedno s drobljencem?**
-
-Ne. Pospite ga preko gotovog jela da zadrži svežinu i sočnost.
-
-**Q: Kako da znam da je repa gotova?**
-
-Ubodite jednu kockicu viljuškom. Treba lako da omekša; ako je još čvrsta, produžite pečenje za nekoliko minuta.
-
-**Q: Mogu li da pripremim povrće unapred?**
-
-Možete ga iseći ranije i čuvati poklopljeno u frižideru. Mrvice napravite neposredno pre pečenja da ostanu rastresite.
-
-**Q: Da li je recept bez glutena?**
-
-Nije, jer sadrži pšenično brašno. Ako izbegavate gluten, koristite brašno koje odgovara vašoj ishrani i proverite deklaraciju, naročito ako je izbegavanje glutena zdravstveno neophodno.
-
----
-
-## Masna jetra i normalna težina: šta prvo proveriti
-
-https://unazdravahrana.com/blog/masna-jetra-i-normalna-tezina-sta-prvo-proveriti
-
-Normalna telesna težina ne isključuje ozbiljnije promene na jetri, pa s lekarom treba razjasniti nalaz i potrebu za procenom fibroze. U ishrani je koristan održiv obrazac raznovrsnih obroka, a ne potraga za jednom namirnicom ili posebnom dijetom.
-
-**Q: Da li je masna jetra moguća ako imam normalnu težinu?**
-
-Da. Normalna težina ne isključuje masnu jetru niti ozbiljnije promene, pa nalaz treba razjasniti s lekarom.
-
-**Q: Šta prvo proveriti kada na nalazu piše „masna jetra”?**
-
-Pitajte lekara da li nalaz opisuje samo nakupljanje masti, šta se zna o uzroku i da li je potrebna procena fibroze.
-
-**Q: Da li masna jetra znači da imam fibrozu?**
-
-Ne nužno. Nakupljanje masti i fibroza, odnosno ožiljkavanje jetre, nisu isto; lekar tumači postojeće nalaze i odlučuje o daljim koracima.
-
-**Q: Kako da prilagodim ishranu ako imam masnu jetru?**
-
-Birajte češće raznovrsne obroke s povrćem, voćem, integralnim žitaricama i nezasićenim mastima, uz manje ultraprerađene hrane i zaslađenih pića. Individualne savete zatražite od lekara.
+Da. Riblji sos je opcioni sastojak u ovom receptu i možete ga izostaviti.
 
 ---
 
@@ -260,6 +284,54 @@ Sveža zrna daju prijatan, sočan kontrast toplom nadevu i kelju.
 
 ---
 
+## 12 namirnica i pića koja lako dodaju kalorije
+
+https://unazdravahrana.com/blog/12-namirnica-i-pica-koja-lako-dodaju-kalorije
+
+Sokovi, zaslađena pića, pločice i druge svakodnevne namirnice mogu dodati više šećera i kalorija nego što očekujete, naročito kada ne primetite veličinu porcije. Članak pokazuje kako da uporedite deklaracije na 100 g ili 100 ml i izaberete promenu koju možete da zadržite.
+
+**Q: Koja pića lako dodaju kalorije uz obrok?**
+
+Zaslađena gazirana pića, sokovi, nektari i kafe s dodacima mogu povećati unos šećera i kalorija. Proverite vrednosti na 100 ml i količinu koju ćete popiti.
+
+**Q: Da li voćni sok bez dodatog šećera sadrži šećer?**
+
+Da. Sok bez dodatog šećera i dalje može sadržati slobodne šećere, zato proverite deklaraciju.
+
+**Q: Da li je proteinska pločica niskokalorična?**
+
+Ne nužno. Pročitajte energetsku vrednost, količinu šećera i podatke za celu pločicu.
+
+**Q: Kako uporediti dve deklaracije hrane?**
+
+Najpre uporedite energiju i šećere na 100 g ili 100 ml, a zatim proverite sastojke i količinu koju ćete zaista pojesti ili popiti.
+
+---
+
+## Jesenji drobljenac od repe i kelja s narom
+
+https://unazdravahrana.com/recepti/jesenji-drobljenac-od-repe-i-kelja-s-narom
+
+Napravite slani jesenji drobljenac od repe i kelja s orasima i svežim narom. Jednostavan recept za toplo jelo za četvoro.
+
+**Q: Da li nar ide u rernu zajedno s drobljencem?**
+
+Ne. Pospite ga preko gotovog jela da zadrži svežinu i sočnost.
+
+**Q: Kako da znam da je repa gotova?**
+
+Ubodite jednu kockicu viljuškom. Treba lako da omekša; ako je još čvrsta, produžite pečenje za nekoliko minuta.
+
+**Q: Mogu li da pripremim povrće unapred?**
+
+Možete ga iseći ranije i čuvati poklopljeno u frižideru. Mrvice napravite neposredno pre pečenja da ostanu rastresite.
+
+**Q: Da li je recept bez glutena?**
+
+Nije, jer sadrži pšenično brašno. Ako izbegavate gluten, koristite brašno koje odgovara vašoj ishrani i proverite deklaraciju, naročito ako je izbegavanje glutena zdravstveno neophodno.
+
+---
+
 ## Tri vege ručka za sledeću nedelju: plan bez žurbe
 
 https://unazdravahrana.com/blog/tri-vege-rucka-za-sledecu-nedelju-plan-bez-zurbe
@@ -281,6 +353,54 @@ Brokoli dodajte kada krompir počne da omekšava, a već kuvani pasulj umešajte
 **Q: Koji su glavni sastojci tople salate iz plana?**
 
 Pečena cvekla i šargarepa, leblebije i kuvana žitarica.
+
+---
+
+## Masna jetra i normalna težina: šta prvo proveriti
+
+https://unazdravahrana.com/blog/masna-jetra-i-normalna-tezina-sta-prvo-proveriti
+
+Normalna telesna težina ne isključuje ozbiljnije promene na jetri, pa s lekarom treba razjasniti nalaz i potrebu za procenom fibroze. U ishrani je koristan održiv obrazac raznovrsnih obroka, a ne potraga za jednom namirnicom ili posebnom dijetom.
+
+**Q: Da li je masna jetra moguća ako imam normalnu težinu?**
+
+Da. Normalna težina ne isključuje masnu jetru niti ozbiljnije promene, pa nalaz treba razjasniti s lekarom.
+
+**Q: Šta prvo proveriti kada na nalazu piše „masna jetra”?**
+
+Pitajte lekara da li nalaz opisuje samo nakupljanje masti, šta se zna o uzroku i da li je potrebna procena fibroze.
+
+**Q: Da li masna jetra znači da imam fibrozu?**
+
+Ne nužno. Nakupljanje masti i fibroza, odnosno ožiljkavanje jetre, nisu isto; lekar tumači postojeće nalaze i odlučuje o daljim koracima.
+
+**Q: Kako da prilagodim ishranu ako imam masnu jetru?**
+
+Birajte češće raznovrsne obroke s povrćem, voćem, integralnim žitaricama i nezasićenim mastima, uz manje ultraprerađene hrane i zaslađenih pića. Individualne savete zatražite od lekara.
+
+---
+
+## Jesenji galet s keljom, belom repom i narom
+
+https://unazdravahrana.com/recepti/jesenji-galet-s-keljom-belom-repom-i-narom
+
+Napravite jesenji galet s glavnim keljom, belom repom, orasima i svežim narom. Jednostavan recept za topao porodični obrok.
+
+**Q: Da li se koristi glavati ili kovrdžavi lisnati kelj?**
+
+Recept je osmišljen za glavati kelj, isečen na tanke trake.
+
+**Q: Zašto se nar ne peče zajedno s galetom?**
+
+Dodaje se na kraju kako bi zrna ostala sočna i dala kontrast toplom nadevu.
+
+**Q: Šta ako nadev pusti mnogo tečnosti?**
+
+Dinstajte ga još kratko, dok višak tečnosti ne ispari, pa ga malo prohladite pre stavljanja na testo.
+
+**Q: Mogu li da izostavim orahe?**
+
+Možete, naročito ako izbegavate orašaste plodove. Galet će biti manje hrskav, ali postupak pripreme ostaje isti.
 
 ---
 
@@ -308,26 +428,6 @@ Ne prekidajte B12 na svoju ruku. Nalazi o prevenciji srčanih bolesti ne menjaju
 
 ---
 
-## Pečurke punjene keljom i repom, sa narom
-
-https://unazdravahrana.com/recepti/pecurke-punjene-keljom-i-repom-sa-narom
-
-Kad zahladni, prija nešto toplo iz rerne, a da ne traži mnogo vremena. Ove punjene pečurke spajaju blagu repu, kelj i orahe, dok sveža zrna nara na kraju dodaju sočan, kiselkast zalogaj.
-
-**Q: Mogu li da pripremim punjenje unapred?**
-
-Možete ga pripremiti ranije tokom dana i držati poklopljenog u frižideru. Napunite pečurke neposredno pre završnog pečenja.
-
-**Q: Šta ako ne volim sirovu repu?**
-
-U ovom receptu repa se prvo dinsta, a zatim peče s pečurkama, pa omekša i dobije blaži ukus.
-
-**Q: Da li nar ide u rernu?**
-
-Ne. Pospite ga preko gotovih pečuraka neposredno pred služenje.
-
----
-
 ## Borovnice: kako izabrati, sačuvati i iskoristiti plod
 
 https://unazdravahrana.com/blog/borovnice-kako-izabrati-sacuvati-i-iskoristiti-plod
@@ -352,6 +452,46 @@ Ne. „Domaće” govori o poreklu, ali ne potvrđuje organski uzgoj. Ako vam je
 
 ---
 
+## Pečurke punjene keljom i repom, sa narom
+
+https://unazdravahrana.com/recepti/pecurke-punjene-keljom-i-repom-sa-narom
+
+Kad zahladni, prija nešto toplo iz rerne, a da ne traži mnogo vremena. Ove punjene pečurke spajaju blagu repu, kelj i orahe, dok sveža zrna nara na kraju dodaju sočan, kiselkast zalogaj.
+
+**Q: Mogu li da pripremim punjenje unapred?**
+
+Možete ga pripremiti ranije tokom dana i držati poklopljenog u frižideru. Napunite pečurke neposredno pre završnog pečenja.
+
+**Q: Šta ako ne volim sirovu repu?**
+
+U ovom receptu repa se prvo dinsta, a zatim peče s pečurkama, pa omekša i dobije blaži ukus.
+
+**Q: Da li nar ide u rernu?**
+
+Ne. Pospite ga preko gotovih pečuraka neposredno pred služenje.
+
+---
+
+## Jesenje palačinke s keljom, belom repom i narom
+
+https://unazdravahrana.com/recepti/jesenje-palacinke-s-keljom-belom-repom-i-narom
+
+Kad zahladni, palačinke mogu da budu i slan, topao ručak. Ove se pune kratko dinstanim keljom i belom repom, dok sveža zrna nara na kraju daju prijatnu kiselkastu notu.
+
+**Q: Da li mogu da pripremim fil unapred?**
+
+Da. Čuvajte ga poklopljenog u frižideru, a pre punjenja palačinki dobro ga zagrejte. Nar dodajte tek na kraju.
+
+**Q: Kako da palačinke od integralnog brašna ne pucaju?**
+
+Pustite smesu da kratko odstoji, a palačinke okrećite tek kada im se ivice odvoje od tiganja. Ako je smesa pregusta, dodajte malo vode.
+
+**Q: Da li je recept bez mlečnih proizvoda?**
+
+Da, smesa se pravi s vodom. Ipak, recept sadrži pšenicu, jaja i orahe, pa proverite sastojke ako pripremate obrok za nekoga s alergijom ili intolerancijom.
+
+---
+
 ## Palačinke od 7 sastojaka: recept i integralna verzija
 
 https://unazdravahrana.com/blog/palacinke-od-7-sastojaka-recept-i-integralna-verzija
@@ -373,26 +513,6 @@ Proverite da li se testo lako razliva po tiganju. Ako je pregusto, postepeno dod
 **Q: Kako sprečiti da se palačinke cepaju pri okretanju?**
 
 Sačekajte da se površina stegne i da ivica počne da se odvaja, pa palačinku pažljivo okrenite tankom lopaticom.
-
----
-
-## Jesenje palačinke s keljom, belom repom i narom
-
-https://unazdravahrana.com/recepti/jesenje-palacinke-s-keljom-belom-repom-i-narom
-
-Kad zahladni, palačinke mogu da budu i slan, topao ručak. Ove se pune kratko dinstanim keljom i belom repom, dok sveža zrna nara na kraju daju prijatnu kiselkastu notu.
-
-**Q: Da li mogu da pripremim fil unapred?**
-
-Da. Čuvajte ga poklopljenog u frižideru, a pre punjenja palačinki dobro ga zagrejte. Nar dodajte tek na kraju.
-
-**Q: Kako da palačinke od integralnog brašna ne pucaju?**
-
-Pustite smesu da kratko odstoji, a palačinke okrećite tek kada im se ivice odvoje od tiganja. Ako je smesa pregusta, dodajte malo vode.
-
-**Q: Da li je recept bez mlečnih proizvoda?**
-
-Da, smesa se pravi s vodom. Ipak, recept sadrži pšenicu, jaja i orahe, pa proverite sastojke ako pripremate obrok za nekoga s alergijom ili intolerancijom.
 
 ---
 
@@ -516,95 +636,27 @@ Ako vam se koren brzo masti, zadržite ulje na krajevima. Ako vlasište svrbi, p
 
 ---
 
-## Zapečeni kelj i bela repa sa orasima i narom
+## Domaće tortilje s keljom, belom repom i narom
 
-https://unazdravahrana.com/recepti/zapeceni-kelj-i-bela-repa-sa-orasima-i-narom
+https://unazdravahrana.com/recepti/domace-tortilje-s-keljom-belom-repom-i-narom
 
-Kad zahladni, prija jelo koje izlazi toplo iz rerne, a ne traži mnogo posla. U ovom složencu bela repa omekša, glavati kelj ostane prijatno sočan, a nar se dodaje tek na kraju, za svež kontrast.
+Kad kasna jesen donese kelj i belu repu, od njih može da nastane ručak koji se jede rukama: tople domaće tortilje sa povrćem, orasima i svežim zrnima nara. Slatkast i kiselkast nar dodaje se tek na kraju, da ostane sočan.
 
-**Q: Da li mogu da koristim lisnati kelj?**
+**Q: Da li mora da se koristi baš bela repa?**
 
-Možete, ali recept je pisan za glavati kelj. Lisnati kelj ima drugačiju teksturu, pa ga pratite tokom kratkog kuvanja i prilagodite vreme po potrebi.
+Ovaj recept je osmišljen za belu repu. Ako birate drugu namirnicu, prilagodite vreme dinstanja njenoj čvrstini.
 
-**Q: Zašto se nar dodaje posle pečenja?**
+**Q: Mogu li tortilje da napravim unapred?**
 
-Tako zrna zadržavaju svežinu i daju prijatan kontrast toplom, kremastom povrću.
-
-**Q: Mogu li da izostavim orahe?**
-
-Da. Složenac će uspeti i bez njih, samo će imati manje hrskavu površinu.
-
----
-
-## Ražnjići od dunje i repe na toplom bulguru
-
-https://unazdravahrana.com/recepti/raznjici-od-dunje-i-repe-na-toplom-bulguru
-
-Dunja ne mora da završi samo u kompotu. Kada se ispeče uz belu repu, dobija se mirisna osnova za jesenji ručak, a zrna nara na kraju unose svežinu.
-
-**Q: Koji kelj se koristi u receptu?**
-
-Glavati kelj: listove tanko isecite i kratko zagrejte u tiganju da omekšaju.
-
-**Q: Može li recept bez ražnjića?**
-
-Može. Komade dunje i repe pecite raspoređene po plehu, pa ih poslužite preko bulgura.
-
-**Q: Da li je bulgur pogodan ako izbegavam gluten?**
-
-Nije, bulgur sadrži gluten. Za izbor odgovarajuće zamene pitajte u radnji; kod zdravstvenih pitanja posavetujte se s lekarom.
+Mogu. Držite ih pokrivene da se ne osuše, a pre posluživanja ih kratko zagrejte u tiganju.
 
 **Q: Kada se dodaje nar?**
 
-Tek pri služenju, kako bi zrna ostala sveža i sočna.
+Na samom kraju, preko toplog fila. Tako zrna zadržavaju svoju sočnost.
 
----
+**Q: Šta ako uzimam varfarin?**
 
-## Sirovo meso i bez povrća: rizici „mračne ishrane”
-
-https://unazdravahrana.com/blog/sirovo-meso-i-bez-povrca-rizici-mracne-ishrane
-
-„Mračna ishrana” nije jedinstvena dijeta, već trend koji promoviše nepoverenje prema stručnim savetima i potencijalno rizične izbore hrane. Članak objašnjava rizike sirovog mesa i nepasterizovanog mleka i podseća na važnost raznovrsne ishrane i provere izvora.
-
-**Q: Šta je „mračna ishrana”?**
-
-To nije dijeta s propisanim jelovnikom, već naziv za trend nepoverenja prema stručnim savetima o ishrani i okretanja nekonvencionalnim praksama.
-
-**Q: Zašto je jedenje sirovog mesa rizično?**
-
-Sirovo meso može preneti uzročnike bolesti koje se prenose hranom. Pravilna termička obrada i provera termometrom za hranu smanjuju rizik.
-
-**Q: Da li je nepasterizovano mleko hranljivije od pasterizovanog?**
-
-Prema CDC-u, pasterizovano mleko pruža iste nutritivne koristi, bez rizika povezanih s konzumiranjem sirovog mleka.
-
-**Q: Da li zbog „mračne ishrane” treba izbaciti povrće?**
-
-Ne postoji dobar razlog da se sve povrće proglasi štetnim. Raznovrsna ishrana je bolja polazna tačka od izbacivanja cele grupe namirnica bez jasnog razloga.
-
----
-
-## Hemikalije iz ambalaže: kako čuvati hranu kod kuće
-
-https://unazdravahrana.com/blog/hemikalije-iz-ambalaze-kako-cuvati-hranu-kod-kuce
-
-Istraživanje je izdvojilo hemikalije iz materijala za kontakt s hranom koje treba dalje ispitati, ali ne dokazuje da svaka ambalaža predstavlja rizik. Kod kuće birajte posudu prema nameni, proverite njeno stanje i ne podgrevajte hranu u njoj bez jasne oznake da je pogodna za to.
-
-**Q: Da li svaka ambalaža za hranu sadrži opasne hemikalije?**
-
-Ne. Pomenuto istraživanje je odredilo prioritete za dalja ispitivanja; nije pokazalo da svaka ambalaža sadrži izdvojene hemikalije ili da one prelaze u hranu.
-
-**Q: Da li je staklo uvek bolji izbor od plastike za čuvanje hrane?**
-
-Ne može se suditi samo po materijalu. Proverite da li je konkretna posuda namenjena za hranu i za način upotrebe koji planirate.
-
-**Q: Mogu li da podgrejem hranu u plastičnoj kutiji?**
-
-Samo ako proizvođač navodi da je konkretna kutija pogodna za mikrotalasnu rernu. Ako oznaka nedostaje, prebacite hranu u odgovarajuću posudu.
-
-**Q: Da li je hrana kupljena u rinfuzi bezbednija od upakovane?**
-
-Pomenuta studija nije upoređivala bezbednost rinfuzne i upakovane hrane. I rinfuzna hrana dolazi u kontakt s opremom i posudama.
+Kelj sadrži vitamin K. Ako uzimate varfarin, nemojte naglo menjati količinu kelja u ishrani; o tome se posavetujte sa svojim lekarom.
 
 ---
 
@@ -632,76 +684,24 @@ Ne treba ih zameniti istom količinom brašna i očekivati isti rezultat: brašn
 
 ---
 
-## Domaće tortilje s keljom, belom repom i narom
+## Zapečeni kelj i bela repa sa orasima i narom
 
-https://unazdravahrana.com/recepti/domace-tortilje-s-keljom-belom-repom-i-narom
+https://unazdravahrana.com/recepti/zapeceni-kelj-i-bela-repa-sa-orasima-i-narom
 
-Kad kasna jesen donese kelj i belu repu, od njih može da nastane ručak koji se jede rukama: tople domaće tortilje sa povrćem, orasima i svežim zrnima nara. Slatkast i kiselkast nar dodaje se tek na kraju, da ostane sočan.
+Kad zahladni, prija jelo koje izlazi toplo iz rerne, a ne traži mnogo posla. U ovom složencu bela repa omekša, glavati kelj ostane prijatno sočan, a nar se dodaje tek na kraju, za svež kontrast.
 
-**Q: Da li mora da se koristi baš bela repa?**
+**Q: Da li mogu da koristim lisnati kelj?**
 
-Ovaj recept je osmišljen za belu repu. Ako birate drugu namirnicu, prilagodite vreme dinstanja njenoj čvrstini.
+Možete, ali recept je pisan za glavati kelj. Lisnati kelj ima drugačiju teksturu, pa ga pratite tokom kratkog kuvanja i prilagodite vreme po potrebi.
 
-**Q: Mogu li tortilje da napravim unapred?**
+**Q: Zašto se nar dodaje posle pečenja?**
 
-Mogu. Držite ih pokrivene da se ne osuše, a pre posluživanja ih kratko zagrejte u tiganju.
+Tako zrna zadržavaju svežinu i daju prijatan kontrast toplom, kremastom povrću.
 
-**Q: Kada se dodaje nar?**
+**Q: Mogu li da izostavim orahe?**
 
-Na samom kraju, preko toplog fila. Tako zrna zadržavaju svoju sočnost.
-
-**Q: Šta ako uzimam varfarin?**
-
-Kelj sadrži vitamin K. Ako uzimate varfarin, nemojte naglo menjati količinu kelja u ishrani; o tome se posavetujte sa svojim lekarom.
+Da. Složenac će uspeti i bez njih, samo će imati manje hrskavu površinu.
 
 ---
 
-## Monaški voćni šećer: zdraviji od običnog šećera?
-
-https://unazdravahrana.com/blog/monaski-vocni-secer-zdraviji-od-obicnog-secera
-
-Ekstrakt monaškog voća daje slatkoću uz znatno manji energetski doprinos od šećera, ali to ne dokazuje dugoročnu zdravstvenu korist. Gotovi proizvodi se razlikuju po sastavu i načinu odmeravanja, pa pre kupovine treba pročitati deklaraciju.
-
-**Q: Šta je monaški voćni šećer?**
-
-To je naziv za zaslađivač dobijen od monaškog voća; slatkoća ekstrakta potiče prvenstveno od mogrozida.
-
-**Q: Da li je monaški voćni šećer zdraviji od običnog šećera?**
-
-Može pomoći da smanjite dodati šećer, ali nije dokazano da je dugoročno zdraviji za svakoga.
-
-**Q: Da li svaki monk fruit zaslađivač nema kalorija?**
-
-Ne. Gotovi proizvodi mogu sadržati i druge sastojke, zato proverite nutritivnu tabelu.
-
-**Q: Kako se odmerava zaslađivač od monaškog voća?**
-
-Pratite uputstvo na pakovanju: koncentrisan ekstrakt i mešavina za odmeravanje kašičicom ne koriste se nužno u istoj količini.
-
----
-
-## Limunada sa solju po vrućini: kada ima smisla?
-
-https://unazdravahrana.com/blog/limunada-sa-solju-po-vrucini-kada-ima-smisla
-
-Za uobičajen dan po vrućini, uz redovne obroke, voda je prvi izbor, a limun se može dodati zbog ukusa. Posle višesatnog obilnog znojenja možda treba razmotriti nadoknadu elektrolita, ali so ne treba nasumično dodavati, naročito uz zdravstvena ograničenja.
-
-**Q: Da li je limunada sa solju bolja od vode po vrućini?**
-
-Za većinu ljudi koji redovno jedu, nije. Voda je prvi izbor, a limun se može dodati zbog ukusa.
-
-**Q: Kada ima smisla razmotriti elektrolite?**
-
-Posle višesatnog obilnog znojenja može biti potrebno razmotriti nadoknadu elektrolita, uzimajući u obzir obroke, aktivnost i zdravstveno stanje.
-
-**Q: Da li treba dodati prstohvat soli u jutarnju limunadu?**
-
-Za običan početak dana so nije potrebna. Prstohvat nije precizna mera, pa se ne zna koliko natrijuma napitak sadrži.
-
-**Q: Da li je limunada sa solju zamena za rastvor za oralnu rehidrataciju?**
-
-Nije. Kod povraćanja, proliva ili sumnje na ozbiljno pregrevanje potražite odgovarajući medicinski savet ili pomoć.
-
----
-
-Last updated: 2026-11-25
+Last updated: 2026-11-26
